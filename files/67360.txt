@@ -1,0 +1,9 @@
+LegalName CRITES SEED INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 67360
+StateId 67360
+MCMXFF 
+DUNS 

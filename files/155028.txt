@@ -1,0 +1,9 @@
+LegalName TRINITY TRAILER MFG INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 155028
+StateId 155028
+MCMXFF 
+DUNS 

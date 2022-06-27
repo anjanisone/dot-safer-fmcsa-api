@@ -1,0 +1,9 @@
+LegalName POWELL ELECTRICAL MFG CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 73032
+StateId 73032
+MCMXFF 
+DUNS 

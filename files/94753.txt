@@ -1,0 +1,9 @@
+LegalName FURNITURE DISTRIBUTORS INC
+DBAName KIMBRELL'S INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 94753
+StateId 94753
+MCMXFF 
+DUNS 

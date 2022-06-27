@@ -1,0 +1,9 @@
+LegalName INDEX STORE FIXTURE CO
+DBAName INDEX RESTAURANT SUPPLY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 89344
+StateId 89344
+MCMXFF 
+DUNS 

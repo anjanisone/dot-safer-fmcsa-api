@@ -1,0 +1,9 @@
+LegalName C & P TRUCKING
+DBAName 
+PhysicalAddress 10919 RD F NW EPHRATA, WA   98823
+Phone (509) 787-2239
+MailingAddress 10919 RD F NW EPHRATA, WA   98823
+DOTNumber 141516
+StateId 141516
+MCMXFF 
+DUNS 

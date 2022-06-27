@@ -1,0 +1,9 @@
+LegalName INTERSTATE ROCK PRODUCTS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 21393
+StateId 21393
+MCMXFF 
+DUNS 

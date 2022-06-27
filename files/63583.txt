@@ -1,0 +1,9 @@
+LegalName NORTH ARKANSAS FARM SUPPLY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 63583
+StateId 63583
+MCMXFF 
+DUNS 

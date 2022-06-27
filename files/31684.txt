@@ -1,0 +1,9 @@
+LegalName MARGARET WATERBURY
+DBAName CHERRY HILL FARM
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 31684
+StateId 31684
+MCMXFF 
+DUNS 

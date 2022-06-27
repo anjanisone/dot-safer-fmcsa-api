@@ -1,0 +1,9 @@
+LegalName SAM WINER MOTORS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 1238
+StateId 1238
+MCMXFF 
+DUNS 

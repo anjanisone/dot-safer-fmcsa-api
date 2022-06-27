@@ -1,0 +1,9 @@
+LegalName FERRIS MUSIC SERVICE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 9179
+StateId 9179
+MCMXFF 
+DUNS 

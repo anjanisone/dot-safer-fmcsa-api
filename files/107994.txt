@@ -1,0 +1,9 @@
+LegalName RANDY P NELSON
+DBAName CROIXVIEW FARM
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 107994
+StateId 107994
+MCMXFF 
+DUNS 

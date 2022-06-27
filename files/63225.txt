@@ -1,0 +1,9 @@
+LegalName CAROLINA BRIDGE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 63225
+StateId 63225
+MCMXFF 
+DUNS 

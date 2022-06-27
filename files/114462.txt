@@ -1,0 +1,9 @@
+LegalName HURON DISTRIBUTORS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 114462
+StateId 114462
+MCMXFF 
+DUNS 

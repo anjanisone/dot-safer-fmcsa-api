@@ -1,0 +1,9 @@
+LegalName JIM'S SUPPLY COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 50065
+StateId 50065
+MCMXFF 
+DUNS 

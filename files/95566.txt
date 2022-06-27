@@ -1,0 +1,9 @@
+LegalName GRIFFIN FARM EQUIPMENT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 95566
+StateId 95566
+MCMXFF 
+DUNS 

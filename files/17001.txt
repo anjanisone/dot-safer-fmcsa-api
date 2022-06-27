@@ -1,0 +1,9 @@
+LegalName QUALITY BEEF CO INC
+DBAName QUALITY FOOD CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 17001
+StateId 17001
+MCMXFF 
+DUNS 

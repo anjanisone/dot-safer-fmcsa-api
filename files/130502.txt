@@ -1,0 +1,9 @@
+LegalName JIMMY WELLS USED CARS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 130502
+StateId 130502
+MCMXFF 
+DUNS 

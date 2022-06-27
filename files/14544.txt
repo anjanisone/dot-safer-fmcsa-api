@@ -1,0 +1,9 @@
+LegalName THE QUALITY CASTINGS CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 14544
+StateId 14544
+MCMXFF 
+DUNS 

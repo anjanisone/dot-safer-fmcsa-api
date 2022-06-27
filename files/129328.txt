@@ -1,0 +1,9 @@
+LegalName QUINTER MANUFACTURING AND CONSTRUCTION INC
+DBAName QMC INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 129328
+StateId 129328
+MCMXFF 
+DUNS 

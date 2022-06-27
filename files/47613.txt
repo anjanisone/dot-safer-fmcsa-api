@@ -1,0 +1,9 @@
+LegalName PINE HALL BRICK CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 47613
+StateId 47613
+MCMXFF 
+DUNS 

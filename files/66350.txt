@@ -1,0 +1,9 @@
+LegalName CREATIVE FOAM CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 66350
+StateId 66350
+MCMXFF 
+DUNS 

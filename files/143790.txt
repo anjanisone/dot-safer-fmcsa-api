@@ -1,0 +1,9 @@
+LegalName GEORGETOWN WOOD & PALLET INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 143790
+StateId 143790
+MCMXFF 
+DUNS 

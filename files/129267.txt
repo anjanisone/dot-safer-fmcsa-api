@@ -1,0 +1,9 @@
+LegalName OLLIFF-BOEVE FURNITURE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 129267
+StateId 129267
+MCMXFF 
+DUNS 

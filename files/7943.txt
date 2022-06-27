@@ -1,0 +1,9 @@
+LegalName ELCAR FENCE & SUPPLY CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7943
+StateId 7943
+MCMXFF 
+DUNS 

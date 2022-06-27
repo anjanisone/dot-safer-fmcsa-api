@@ -1,0 +1,9 @@
+LegalName EL ENCANTO INC
+DBAName BUENO FOODS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 150302
+StateId 150302
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName CLOUGHERTY PACKING COMPANY
+DBAName FARMER JOHN MEATS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 9693
+StateId 9693
+MCMXFF 
+DUNS 

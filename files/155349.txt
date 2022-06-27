@@ -1,0 +1,9 @@
+LegalName JEFFERSON POULTRY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 155349
+StateId 155349
+MCMXFF 
+DUNS 

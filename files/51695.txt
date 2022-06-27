@@ -1,0 +1,9 @@
+LegalName HIGHWAY EQUIPMENT COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 51695
+StateId 51695
+MCMXFF 
+DUNS 

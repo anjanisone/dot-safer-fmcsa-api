@@ -1,0 +1,9 @@
+LegalName RAFT RIVER RURAL ELECTRIC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 62708
+StateId 62708
+MCMXFF 
+DUNS 

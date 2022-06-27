@@ -1,0 +1,9 @@
+LegalName ERIE CONCRETE & STEEL SUPPLY CO
+DBAName ECONSTEEL
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 51141
+StateId 51141
+MCMXFF 
+DUNS 

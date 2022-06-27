@@ -1,0 +1,9 @@
+LegalName FOLTZ MANUFACTURING & SUPPLY CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 110785
+StateId 110785
+MCMXFF 
+DUNS 

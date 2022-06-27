@@ -1,0 +1,9 @@
+LegalName CLEMENTS FOODS COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 69021
+StateId 69021
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName DENTON AUTO SALVAGE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 128300
+StateId 128300
+MCMXFF 
+DUNS 

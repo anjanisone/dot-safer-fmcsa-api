@@ -1,0 +1,9 @@
+LegalName WESTFALL GMC TRUCK INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 89184
+StateId 89184
+MCMXFF 
+DUNS 

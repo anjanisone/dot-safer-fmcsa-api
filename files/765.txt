@@ -1,0 +1,9 @@
+LegalName METTLER IMPLEMENT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 765
+StateId 765
+MCMXFF 
+DUNS 

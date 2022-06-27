@@ -1,0 +1,9 @@
+LegalName JEFFERSON DISTRIBUTING COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 88773
+StateId 88773
+MCMXFF 
+DUNS 

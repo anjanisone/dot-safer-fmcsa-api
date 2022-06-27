@@ -1,0 +1,9 @@
+LegalName MILFORD BARREL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 17850
+StateId 17850
+MCMXFF 
+DUNS 

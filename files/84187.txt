@@ -1,0 +1,9 @@
+LegalName WASHINGTON ADVENTIST UNIVERSITY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 84187
+StateId 84187
+MCMXFF 
+DUNS 

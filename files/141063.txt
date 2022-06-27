@@ -1,0 +1,9 @@
+LegalName J L PETERS COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 141063
+StateId 141063
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName SOUTHERN STATES CO-OPERATIVE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 4969
+StateId 4969
+MCMXFF 
+DUNS 

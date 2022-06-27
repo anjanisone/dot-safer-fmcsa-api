@@ -1,0 +1,9 @@
+LegalName SOUTH CENTRAL COOP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 2310
+StateId 2310
+MCMXFF 
+DUNS 

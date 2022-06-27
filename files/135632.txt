@@ -1,0 +1,9 @@
+LegalName ROBERTS CHEMICAL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 135632
+StateId 135632
+MCMXFF 
+DUNS 

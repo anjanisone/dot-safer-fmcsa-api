@@ -1,0 +1,9 @@
+LegalName GREEN CONTRACTING COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 88538
+StateId 88538
+MCMXFF 
+DUNS 

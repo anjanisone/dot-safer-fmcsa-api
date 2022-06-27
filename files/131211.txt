@@ -1,0 +1,9 @@
+LegalName MANCHESTER PACKING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 131211
+StateId 131211
+MCMXFF 
+DUNS 

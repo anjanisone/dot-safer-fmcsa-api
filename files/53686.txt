@@ -1,0 +1,9 @@
+LegalName BAKER METAL & RECYCLING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 53686
+StateId 53686
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName FRIEDRICH ENTERPRISES INC
+DBAName DOUBLE SPRINGS GRASS FARM
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 151301
+StateId 151301
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName UNITED CONTAINER INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 8114
+StateId 8114
+MCMXFF 
+DUNS 

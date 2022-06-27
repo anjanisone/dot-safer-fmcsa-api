@@ -1,0 +1,9 @@
+LegalName JUAN E HERNANDEZ INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 22284
+StateId 22284
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName MILLER SEED & SUPPLY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 82522
+StateId 82522
+MCMXFF 
+DUNS 

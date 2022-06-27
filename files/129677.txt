@@ -1,0 +1,9 @@
+LegalName ANDERSON LOGGING CO INC
+DBAName IDAHO GRANITE WORKS INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 129677
+StateId 129677
+MCMXFF 
+DUNS 

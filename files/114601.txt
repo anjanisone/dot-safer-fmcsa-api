@@ -1,0 +1,9 @@
+LegalName METALDYNE LLC
+DBAName METALDYNE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 114601
+StateId 114601
+MCMXFF 
+DUNS 

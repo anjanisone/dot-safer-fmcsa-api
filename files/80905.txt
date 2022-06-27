@@ -1,0 +1,9 @@
+LegalName SCURLOCK INDUSTRIES OF JONESBORO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 80905
+StateId 80905
+MCMXFF 
+DUNS 

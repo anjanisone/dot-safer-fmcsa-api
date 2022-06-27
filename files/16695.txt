@@ -1,0 +1,9 @@
+LegalName LINDE CANADA INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 16695
+StateId 16695
+MCMXFF 
+DUNS 

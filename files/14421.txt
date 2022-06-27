@@ -1,0 +1,9 @@
+LegalName SUPERIOR FERTILIZER COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 14421
+StateId 14421
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName MB HOLDINGS LLC
+DBAName MANGUM BRICK COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 126705
+StateId 126705
+MCMXFF 
+DUNS 

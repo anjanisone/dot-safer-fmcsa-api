@@ -1,0 +1,9 @@
+LegalName YAKIMA IMPLEMENT & IRRIGATION INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 45043
+StateId 45043
+MCMXFF 
+DUNS 

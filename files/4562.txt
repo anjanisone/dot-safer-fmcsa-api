@@ -1,0 +1,9 @@
+LegalName MOUNTAIN STATES FENCE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 4562
+StateId 4562
+MCMXFF 
+DUNS 

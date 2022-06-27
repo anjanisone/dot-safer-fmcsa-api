@@ -1,0 +1,9 @@
+LegalName PHILA SKID CO
+DBAName PALLETS PLUS INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 6607
+StateId 6607
+MCMXFF 
+DUNS 

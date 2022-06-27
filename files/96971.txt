@@ -1,0 +1,9 @@
+LegalName WILLIAMS EQUIPMENT AND SUPPLY CO INC
+DBAName WILLIAMS EQUIPMENT & SUPPLY CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 96971
+StateId 96971
+MCMXFF 
+DUNS 

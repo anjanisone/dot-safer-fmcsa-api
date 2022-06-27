@@ -1,0 +1,9 @@
+LegalName LAKE CHAMPLAIN COAL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 19656
+StateId 19656
+MCMXFF 
+DUNS 

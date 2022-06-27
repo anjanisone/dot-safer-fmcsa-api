@@ -1,0 +1,9 @@
+LegalName TRI-STATE BREEDERS COOPERATIVE
+DBAName ACCELERATED GENETICS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 47056
+StateId 47056
+MCMXFF 
+DUNS 

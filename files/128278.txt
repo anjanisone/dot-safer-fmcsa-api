@@ -1,0 +1,9 @@
+LegalName SPECTRO ALLOYS CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 128278
+StateId 128278
+MCMXFF 
+DUNS 

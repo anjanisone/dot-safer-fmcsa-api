@@ -1,0 +1,9 @@
+LegalName BADGER LIQUOR CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 83569
+StateId 83569
+MCMXFF 
+DUNS 

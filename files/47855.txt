@@ -1,0 +1,9 @@
+LegalName R J REYNOLDS TOBACCO CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 47855
+StateId 47855
+MCMXFF 
+DUNS 

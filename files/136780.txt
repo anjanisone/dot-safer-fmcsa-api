@@ -1,0 +1,9 @@
+LegalName PHILLIPS FOOD SERVICE LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 136780
+StateId 136780
+MCMXFF 
+DUNS 

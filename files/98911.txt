@@ -1,0 +1,9 @@
+LegalName SUPERIOR COACH SALES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 98911
+StateId 98911
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName RICHARDS BRICK COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 111959
+StateId 111959
+MCMXFF 
+DUNS 

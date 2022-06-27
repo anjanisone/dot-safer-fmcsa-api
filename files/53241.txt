@@ -1,0 +1,9 @@
+LegalName NEBRASKA METHODIST HOSPITAL
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 53241
+StateId 53241
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName CAPITOL LAND & LIVESTOCK TRUCKS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 136632
+StateId 136632
+MCMXFF 
+DUNS 

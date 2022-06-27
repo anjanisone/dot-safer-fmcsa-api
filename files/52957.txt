@@ -1,0 +1,9 @@
+LegalName CURTIS MACHINE COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 52957
+StateId 52957
+MCMXFF 
+DUNS 

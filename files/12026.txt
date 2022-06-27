@@ -1,0 +1,9 @@
+LegalName FOSS MARITIME CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 12026
+StateId 12026
+MCMXFF 
+DUNS 

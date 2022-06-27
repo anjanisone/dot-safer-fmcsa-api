@@ -1,0 +1,9 @@
+LegalName AMERICAN ALLOY STEEL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 119421
+StateId 119421
+MCMXFF 
+DUNS 

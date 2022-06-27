@@ -1,0 +1,9 @@
+LegalName M C PACKAGING CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 156852
+StateId 156852
+MCMXFF 
+DUNS 

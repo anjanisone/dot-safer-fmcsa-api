@@ -1,0 +1,9 @@
+LegalName FRANK DUPUIS COMPANY
+DBAName DUPUIS OIL COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 25424
+StateId 25424
+MCMXFF 
+DUNS 

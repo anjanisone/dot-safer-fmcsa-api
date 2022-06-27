@@ -1,0 +1,9 @@
+LegalName LAWRENCEVILLE BUILDING SUPPLY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 119020
+StateId 119020
+MCMXFF 
+DUNS 

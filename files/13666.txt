@@ -1,0 +1,9 @@
+LegalName NARRAGANSETT IMPROVEMENT COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 13666
+StateId 13666
+MCMXFF 
+DUNS 

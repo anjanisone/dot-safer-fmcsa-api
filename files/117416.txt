@@ -1,0 +1,9 @@
+LegalName AGL WELDING SUPPLY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 117416
+StateId 117416
+MCMXFF 
+DUNS 

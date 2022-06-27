@@ -1,0 +1,9 @@
+LegalName BRENT MATERIAL COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 50670
+StateId 50670
+MCMXFF 
+DUNS 

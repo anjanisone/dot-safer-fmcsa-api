@@ -1,0 +1,9 @@
+LegalName THE PATTERSON OIL COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 42112
+StateId 42112
+MCMXFF 
+DUNS 

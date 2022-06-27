@@ -1,0 +1,9 @@
+LegalName YANKOCY WHOLESALE BUILDING MATERIALS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 49074
+StateId 49074
+MCMXFF 
+DUNS 

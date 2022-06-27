@@ -1,0 +1,9 @@
+LegalName WEAVER INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 11558
+StateId 11558
+MCMXFF 
+DUNS 

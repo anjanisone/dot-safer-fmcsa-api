@@ -1,0 +1,9 @@
+LegalName AMERICAN STRUCTURES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 53137
+StateId 53137
+MCMXFF 
+DUNS 

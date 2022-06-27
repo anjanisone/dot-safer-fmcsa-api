@@ -1,0 +1,9 @@
+LegalName DEAN LUMBER & SUPPLY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 84262
+StateId 84262
+MCMXFF 
+DUNS 

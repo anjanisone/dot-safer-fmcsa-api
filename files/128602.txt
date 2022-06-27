@@ -1,0 +1,9 @@
+LegalName BWAY CORPORATION
+DBAName MAUSER PACKAGING SOLUTIONS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 128602
+StateId 128602
+MCMXFF 
+DUNS 

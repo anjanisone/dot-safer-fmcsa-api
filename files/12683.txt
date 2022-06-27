@@ -1,0 +1,9 @@
+LegalName LOS ANGELES TIMES
+DBAName CALIFORNIA COMMUNITY NEWS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 12683
+StateId 12683
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName AMERICAN PAPER TOWEL COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 102341
+StateId 102341
+MCMXFF 
+DUNS 

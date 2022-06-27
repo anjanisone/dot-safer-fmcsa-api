@@ -1,0 +1,9 @@
+LegalName VIRGINIA ELECTRIC & POWER CO
+DBAName DOMINION ENERGY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 4929
+StateId 4929
+MCMXFF 
+DUNS 

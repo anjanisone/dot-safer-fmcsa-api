@@ -1,0 +1,9 @@
+LegalName CHICAGO BAKING COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 76720
+StateId 76720
+MCMXFF 
+DUNS 

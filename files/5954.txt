@@ -1,0 +1,9 @@
+LegalName ROSEDALE NURSERIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 5954
+StateId 5954
+MCMXFF 
+DUNS 

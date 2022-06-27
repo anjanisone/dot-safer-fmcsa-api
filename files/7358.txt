@@ -1,0 +1,9 @@
+LegalName YELLOWHOUSE MACHINERY CO
+DBAName YELLOWHOUSE JOHN DEERE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7358
+StateId 7358
+MCMXFF 
+DUNS 

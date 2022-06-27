@@ -1,0 +1,9 @@
+LegalName C H NICKERSON & CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 19313
+StateId 19313
+MCMXFF 
+DUNS 

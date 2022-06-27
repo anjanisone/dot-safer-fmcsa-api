@@ -1,0 +1,9 @@
+LegalName WISCO FROZEN FOODS INC
+DBAName WISCO FEEDS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 46854
+StateId 46854
+MCMXFF 
+DUNS 

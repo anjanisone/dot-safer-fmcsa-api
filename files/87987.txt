@@ -1,0 +1,9 @@
+LegalName HENRY A PETTER SUPPLY COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 87987
+StateId 87987
+MCMXFF 
+DUNS 

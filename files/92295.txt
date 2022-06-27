@@ -1,0 +1,9 @@
+LegalName BARNETT MILLWORKS CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 92295
+StateId 92295
+MCMXFF 
+DUNS 

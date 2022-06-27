@@ -1,0 +1,9 @@
+LegalName WATSON TRUCK & SUPPLY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 66744
+StateId 66744
+MCMXFF 
+DUNS 

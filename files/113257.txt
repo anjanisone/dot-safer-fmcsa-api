@@ -1,0 +1,9 @@
+LegalName GOODWELL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 113257
+StateId 113257
+MCMXFF 
+DUNS 

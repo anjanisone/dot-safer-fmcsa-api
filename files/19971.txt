@@ -1,0 +1,9 @@
+LegalName CARL KISABETH CO INC
+DBAName KISABETH FUNITURE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 19971
+StateId 19971
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName AMERICAN PROMOTIONAL EVENTS INC--EAST COAST
+DBAName TNT FIREWORKS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 121384
+StateId 121384
+MCMXFF 
+DUNS 

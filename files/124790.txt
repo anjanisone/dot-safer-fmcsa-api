@@ -1,0 +1,9 @@
+LegalName URBANK LIVE BAIT COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 124790
+StateId 124790
+MCMXFF 
+DUNS 

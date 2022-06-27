@@ -1,0 +1,9 @@
+LegalName MIAMI SOMERS CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 17207
+StateId 17207
+MCMXFF 
+DUNS 

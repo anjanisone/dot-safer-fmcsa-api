@@ -1,0 +1,9 @@
+LegalName WANTZ DISTRIBUTORS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 36834
+StateId 36834
+MCMXFF 
+DUNS 

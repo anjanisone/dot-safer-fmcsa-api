@@ -1,0 +1,9 @@
+LegalName HUBBELL POWER SYSTEMS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 81784
+StateId 81784
+MCMXFF 
+DUNS 

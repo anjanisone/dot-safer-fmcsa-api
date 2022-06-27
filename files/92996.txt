@@ -1,0 +1,9 @@
+LegalName KLB INDUSTRIES INC
+DBAName NATIONAL EXTRUSION & MFG CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 92996
+StateId 92996
+MCMXFF 
+DUNS 

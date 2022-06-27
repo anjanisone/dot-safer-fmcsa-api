@@ -1,0 +1,9 @@
+LegalName CLEARWATER POWER COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 38332
+StateId 38332
+MCMXFF 
+DUNS 

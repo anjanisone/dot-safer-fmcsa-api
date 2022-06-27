@@ -1,0 +1,9 @@
+LegalName UMBERGERS OF FONTANA INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 11520
+StateId 11520
+MCMXFF 
+DUNS 

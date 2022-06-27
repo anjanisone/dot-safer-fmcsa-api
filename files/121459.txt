@@ -1,0 +1,9 @@
+LegalName W J BULLOCK INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 121459
+StateId 121459
+MCMXFF 
+DUNS 

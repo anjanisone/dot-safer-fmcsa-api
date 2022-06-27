@@ -1,0 +1,9 @@
+LegalName DERRICK PRODUCE
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 109266
+StateId 109266
+MCMXFF 
+DUNS 

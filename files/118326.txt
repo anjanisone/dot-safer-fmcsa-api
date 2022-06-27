@@ -1,0 +1,9 @@
+LegalName PHT INC
+DBAName POLYNESIAN HOSPITALITY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 118326
+StateId 118326
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName SPX TRANSFORMER SOLUTIONS INC
+DBAName SPX
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 135750
+StateId 135750
+MCMXFF 
+DUNS 

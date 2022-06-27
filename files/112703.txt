@@ -1,0 +1,9 @@
+LegalName JM SMITH CORP
+DBAName SMITH DRUG COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 112703
+StateId 112703
+MCMXFF 
+DUNS 

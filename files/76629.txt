@@ -1,0 +1,9 @@
+LegalName NEWELL BRANDS
+DBAName RUBBERMAID
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 76629
+StateId 76629
+MCMXFF 
+DUNS 

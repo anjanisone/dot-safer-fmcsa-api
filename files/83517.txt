@@ -1,0 +1,9 @@
+LegalName BAUMHARDT SAND & GRAVEL INC
+DBAName 
+PhysicalAddress 406 E MAIN ST EDEN, WI   53019
+Phone (920) 477-2511
+MailingAddress P O  BOX 8 EDEN, WI   53019
+DOTNumber 83517
+StateId 83517
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName TECHNIC INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 61106
+StateId 61106
+MCMXFF 
+DUNS 

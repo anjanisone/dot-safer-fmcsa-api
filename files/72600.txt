@@ -1,0 +1,9 @@
+LegalName HOOVERS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 72600
+StateId 72600
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName VERIZON PENNSYLVANIA INC
+DBAName VERIZON
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 33234
+StateId 33234
+MCMXFF 
+DUNS 

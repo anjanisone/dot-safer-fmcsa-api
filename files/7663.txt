@@ -1,0 +1,9 @@
+LegalName SHORE DISTRIBUTORS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7663
+StateId 7663
+MCMXFF 
+DUNS 

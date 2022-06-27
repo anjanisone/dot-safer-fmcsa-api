@@ -1,0 +1,9 @@
+LegalName C S C INC
+DBAName MEDFORD FABRICATION
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 74563
+StateId 74563
+MCMXFF 
+DUNS 

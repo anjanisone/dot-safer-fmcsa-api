@@ -1,0 +1,9 @@
+LegalName MACQUEEN EQUIPMENT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 130260
+StateId 130260
+MCMXFF 
+DUNS 

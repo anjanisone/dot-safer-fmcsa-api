@@ -1,0 +1,9 @@
+LegalName WILLIAM F HEGERTY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 25153
+StateId 25153
+MCMXFF 
+DUNS 

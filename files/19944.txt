@@ -1,0 +1,9 @@
+LegalName TXI OPERATIONS L P
+DBAName MARTIN MARIETTA
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 19944
+StateId 19944
+MCMXFF 
+DUNS 

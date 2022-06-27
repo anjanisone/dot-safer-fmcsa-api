@@ -1,0 +1,9 @@
+LegalName CALLANAN INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 130071
+StateId 130071
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName UNIVERSAL DELIVERY SERVICE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 62984
+StateId 62984
+MCMXFF 
+DUNS 

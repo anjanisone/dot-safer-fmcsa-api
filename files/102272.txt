@@ -1,0 +1,9 @@
+LegalName ALPAK MANUFACTURING CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 102272
+StateId 102272
+MCMXFF 
+DUNS 

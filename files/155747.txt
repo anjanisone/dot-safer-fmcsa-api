@@ -1,0 +1,9 @@
+LegalName INDIANA MICHIGAN POWER COMPANY
+DBAName AMERICAN ELECTRIC POWER
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 155747
+StateId 155747
+MCMXFF 
+DUNS 

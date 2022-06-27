@@ -1,0 +1,9 @@
+LegalName SCHICHTELS NURSERY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 149455
+StateId 149455
+MCMXFF 
+DUNS 

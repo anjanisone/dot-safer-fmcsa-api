@@ -1,0 +1,9 @@
+LegalName NAUTIQUE BOAT COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 125193
+StateId 125193
+MCMXFF 
+DUNS 

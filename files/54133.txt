@@ -1,0 +1,9 @@
+LegalName WESTERN NEVADA SUPPLY CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 54133
+StateId 54133
+MCMXFF 
+DUNS 

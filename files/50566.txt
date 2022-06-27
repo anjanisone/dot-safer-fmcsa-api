@@ -1,0 +1,9 @@
+LegalName NYCO MINERALS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 50566
+StateId 50566
+MCMXFF 
+DUNS 

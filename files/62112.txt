@@ -1,0 +1,9 @@
+LegalName A FERRARO & CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 62112
+StateId 62112
+MCMXFF 
+DUNS 

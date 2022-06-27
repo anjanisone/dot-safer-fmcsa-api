@@ -1,0 +1,9 @@
+LegalName BEST METROPOLITON TOWEL AND LINEN SUPPLY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 142842
+StateId 142842
+MCMXFF 
+DUNS 

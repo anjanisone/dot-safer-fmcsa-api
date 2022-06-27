@@ -1,0 +1,9 @@
+LegalName MADISON CHEMICAL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 52331
+StateId 52331
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName MITCHELL CONTAINER SERVICES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 152740
+StateId 152740
+MCMXFF 
+DUNS 

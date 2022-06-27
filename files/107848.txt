@@ -1,0 +1,9 @@
+LegalName MINNESOTA MINING & MANUFACTURING CO
+DBAName 3M COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 107848
+StateId 107848
+MCMXFF 
+DUNS 

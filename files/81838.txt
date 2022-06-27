@@ -1,0 +1,9 @@
+LegalName CRYSTAL LAKE FISHERIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 81838
+StateId 81838
+MCMXFF 
+DUNS 

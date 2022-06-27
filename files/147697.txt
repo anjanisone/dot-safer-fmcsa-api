@@ -1,0 +1,9 @@
+LegalName PERK-UP INC
+DBAName KARI-OUT CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 147697
+StateId 147697
+MCMXFF 
+DUNS 

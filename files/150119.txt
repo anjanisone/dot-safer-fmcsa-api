@@ -1,0 +1,9 @@
+LegalName NORLIFT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 150119
+StateId 150119
+MCMXFF 
+DUNS 

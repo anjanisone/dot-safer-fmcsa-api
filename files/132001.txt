@@ -1,0 +1,9 @@
+LegalName HENDRIX GENETICS LIMITED
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 132001
+StateId 132001
+MCMXFF 
+DUNS 

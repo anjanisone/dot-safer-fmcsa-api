@@ -1,0 +1,9 @@
+LegalName BEAVER MACHINE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 135829
+StateId 135829
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName ASHEVILLE WASTE PAPER CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 97361
+StateId 97361
+MCMXFF 
+DUNS 

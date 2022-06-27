@@ -1,0 +1,9 @@
+LegalName MINTZ SCRAP IRON & METAL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 122244
+StateId 122244
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName SCRAP PROCESSING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 144893
+StateId 144893
+MCMXFF 
+DUNS 

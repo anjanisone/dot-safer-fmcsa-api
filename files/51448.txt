@@ -1,0 +1,9 @@
+LegalName HODGDON POWDER COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 51448
+StateId 51448
+MCMXFF 
+DUNS 

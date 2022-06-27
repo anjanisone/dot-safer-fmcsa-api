@@ -1,0 +1,9 @@
+LegalName MODERN GAS CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 65951
+StateId 65951
+MCMXFF 
+DUNS 

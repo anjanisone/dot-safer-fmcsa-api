@@ -1,0 +1,9 @@
+LegalName PREFERRED EQUIPMENT CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 73031
+StateId 73031
+MCMXFF 
+DUNS 

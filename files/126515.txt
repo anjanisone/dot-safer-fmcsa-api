@@ -1,0 +1,9 @@
+LegalName STATE LINE GRAIN COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 126515
+StateId 126515
+MCMXFF 
+DUNS 

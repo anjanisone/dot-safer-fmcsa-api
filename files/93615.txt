@@ -1,0 +1,9 @@
+LegalName MIDWEST PIPE COATING INC
+DBAName MIDWEST PIPE & REBAR COATING
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93615
+StateId 93615
+MCMXFF 
+DUNS 

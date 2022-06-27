@@ -1,0 +1,9 @@
+LegalName BORDEN & REMINGTON CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 102694
+StateId 102694
+MCMXFF 
+DUNS 

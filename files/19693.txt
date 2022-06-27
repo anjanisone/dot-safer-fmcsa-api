@@ -1,0 +1,9 @@
+LegalName KENCO CHEMICAL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 19693
+StateId 19693
+MCMXFF 
+DUNS 

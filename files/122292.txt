@@ -1,0 +1,9 @@
+LegalName SHORT ENTERPRISES LLC
+DBAName ARTHUR'S SALES & SERVICE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 122292
+StateId 122292
+MCMXFF 
+DUNS 

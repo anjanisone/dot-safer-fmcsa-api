@@ -1,0 +1,9 @@
+LegalName BRADFORD PIPE & SUPPLY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 84968
+StateId 84968
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName COLEMAN STORE EQUIPMENT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 145900
+StateId 145900
+MCMXFF 
+DUNS 

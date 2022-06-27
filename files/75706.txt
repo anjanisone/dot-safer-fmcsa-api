@@ -1,0 +1,9 @@
+LegalName BULL KENNETH
+DBAName 
+PhysicalAddress R1 880 CANADA RD BAILEY, MI   49303
+Phone 
+MailingAddress R1 880 CANADA RD BAILEY, MI   49303
+DOTNumber 75706
+StateId 75706
+MCMXFF 
+DUNS 

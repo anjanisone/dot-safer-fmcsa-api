@@ -1,0 +1,9 @@
+LegalName EAGLE FOUNDRY CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 141566
+StateId 141566
+MCMXFF 
+DUNS 

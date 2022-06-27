@@ -1,0 +1,9 @@
+LegalName MIDWEST EQUIPMENT AND SUPPLY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93619
+StateId 93619
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName ED HERRINGTON INC
+DBAName HERRINGTONS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 19630
+StateId 19630
+MCMXFF 
+DUNS 

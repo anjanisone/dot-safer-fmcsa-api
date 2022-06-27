@@ -1,0 +1,9 @@
+LegalName CARRARA MARBLE CO OF AMERICA INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 9643
+StateId 9643
+MCMXFF 
+DUNS 

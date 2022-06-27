@@ -1,0 +1,9 @@
+LegalName THE AMALGAMATED SUGAR COMPANY LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 123722
+StateId 123722
+MCMXFF 
+DUNS 

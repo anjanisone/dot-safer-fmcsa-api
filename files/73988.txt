@@ -1,0 +1,9 @@
+LegalName TURNER CONSTRUCTION COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 73988
+StateId 73988
+MCMXFF 
+DUNS 

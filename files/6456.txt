@@ -1,0 +1,9 @@
+LegalName NORTHERN ADHESIVES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 6456
+StateId 6456
+MCMXFF 
+DUNS 

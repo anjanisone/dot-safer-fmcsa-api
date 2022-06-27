@@ -1,0 +1,9 @@
+LegalName FALL RIVER RURAL ELECTRIC COOPERATIVE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 67484
+StateId 67484
+MCMXFF 
+DUNS 

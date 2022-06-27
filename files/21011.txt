@@ -1,0 +1,9 @@
+LegalName ETHAN ALLEN OPERATIONS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 21011
+StateId 21011
+MCMXFF 
+DUNS 

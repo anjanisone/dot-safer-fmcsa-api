@@ -1,0 +1,9 @@
+LegalName APPALACHIAN POWER COMPANY
+DBAName AMERICAN ELECTRIC POWER
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 111120
+StateId 111120
+MCMXFF 
+DUNS 

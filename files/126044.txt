@@ -1,0 +1,9 @@
+LegalName SEVEN-UP BOTTLING CO INC
+DBAName DR PEPPER DIST CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 126044
+StateId 126044
+MCMXFF 
+DUNS 

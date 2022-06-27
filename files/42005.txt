@@ -1,0 +1,9 @@
+LegalName JOHN R WHITE COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 42005
+StateId 42005
+MCMXFF 
+DUNS 

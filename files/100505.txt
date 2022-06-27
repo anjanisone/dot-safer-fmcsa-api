@@ -1,0 +1,9 @@
+LegalName EBSCO INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 100505
+StateId 100505
+MCMXFF 
+DUNS 

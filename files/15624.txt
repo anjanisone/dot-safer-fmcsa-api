@@ -1,0 +1,9 @@
+LegalName A J MISSERT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 15624
+StateId 15624
+MCMXFF 
+DUNS 

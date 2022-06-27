@@ -1,0 +1,9 @@
+LegalName T VERRASTRO BEER DIST INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 155841
+StateId 155841
+MCMXFF 
+DUNS 

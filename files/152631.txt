@@ -1,0 +1,9 @@
+LegalName MWI VETERINARY SUPPLY CO
+DBAName MICRO TECHNOLOGIES
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 152631
+StateId 152631
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName KEWAUNEE FABRICATIONS LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 100174
+StateId 100174
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName SETCON INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 132299
+StateId 132299
+MCMXFF 
+DUNS 

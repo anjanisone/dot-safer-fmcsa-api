@@ -1,0 +1,9 @@
+LegalName CHARLOTTE PIPE & FOUNDRY COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 16236
+StateId 16236
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName MUELLER BROTHERS TIMBER INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 66098
+StateId 66098
+MCMXFF 
+DUNS 

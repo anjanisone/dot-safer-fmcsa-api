@@ -1,0 +1,9 @@
+LegalName FRANK IAFEATO CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 9412
+StateId 9412
+MCMXFF 
+DUNS 

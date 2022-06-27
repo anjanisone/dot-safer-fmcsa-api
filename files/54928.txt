@@ -1,0 +1,9 @@
+LegalName FARMERS COOPERATIVE
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 54928
+StateId 54928
+MCMXFF 
+DUNS 

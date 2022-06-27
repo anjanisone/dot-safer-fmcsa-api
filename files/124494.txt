@@ -1,0 +1,9 @@
+LegalName TEREX TELELECT
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 124494
+StateId 124494
+MCMXFF 
+DUNS 

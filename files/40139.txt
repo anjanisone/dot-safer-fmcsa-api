@@ -1,0 +1,9 @@
+LegalName HERMAN STRAUSS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 40139
+StateId 40139
+MCMXFF 
+DUNS 

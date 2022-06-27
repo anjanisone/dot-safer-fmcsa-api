@@ -1,0 +1,9 @@
+LegalName H R PRESCOTT & SONS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 18185
+StateId 18185
+MCMXFF 
+DUNS 

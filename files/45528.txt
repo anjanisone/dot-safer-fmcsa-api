@@ -1,0 +1,9 @@
+LegalName SUPERIOR TIRE & RUBBER CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 45528
+StateId 45528
+MCMXFF 
+DUNS 

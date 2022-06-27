@@ -1,0 +1,9 @@
+LegalName DURANGO COCA-COLA BOTTLING CO
+DBAName DURANGO COCA-COLA
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 595
+StateId 595
+MCMXFF 
+DUNS 

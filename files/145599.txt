@@ -1,0 +1,9 @@
+LegalName HARRISON PACKING COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 145599
+StateId 145599
+MCMXFF 
+DUNS 

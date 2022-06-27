@@ -1,0 +1,9 @@
+LegalName H & J LAND CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 68655
+StateId 68655
+MCMXFF 
+DUNS 

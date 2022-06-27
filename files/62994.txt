@@ -1,0 +1,9 @@
+LegalName RANCH TECH LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 62994
+StateId 62994
+MCMXFF 
+DUNS 

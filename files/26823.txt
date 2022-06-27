@@ -1,0 +1,9 @@
+LegalName PENDLETON WOOLEN MILLS
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 26823
+StateId 26823
+MCMXFF 
+DUNS 

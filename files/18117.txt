@@ -1,0 +1,9 @@
+LegalName MERRIMACK VALLEY DISTRIBUTORS COMP INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 18117
+StateId 18117
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName GOLDEN VALLEY SEED
+DBAName CALIFORNIA VALLEY SEED INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 9435
+StateId 9435
+MCMXFF 
+DUNS 

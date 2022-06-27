@@ -1,0 +1,9 @@
+LegalName IDAHO HELICOPTERS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 152138
+StateId 152138
+MCMXFF 
+DUNS 

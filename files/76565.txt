@@ -1,0 +1,9 @@
+LegalName MIDDLE WEST DISTRIBUTORS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 76565
+StateId 76565
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName MILLER'S HONEY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 28378
+StateId 28378
+MCMXFF 
+DUNS 

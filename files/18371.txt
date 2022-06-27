@@ -1,0 +1,9 @@
+LegalName SPECTRUM COATINGS LABORATORIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 18371
+StateId 18371
+MCMXFF 
+DUNS 

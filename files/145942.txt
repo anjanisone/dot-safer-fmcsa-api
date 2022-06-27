@@ -1,0 +1,9 @@
+LegalName CLAIR D THOMPSON & SONS INC
+DBAName THOMPSON'S FOOD SERVICE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 145942
+StateId 145942
+MCMXFF 
+DUNS 

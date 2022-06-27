@@ -1,0 +1,9 @@
+LegalName THOMPSON FABRICATING
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 130489
+StateId 130489
+MCMXFF 
+DUNS 

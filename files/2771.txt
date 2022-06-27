@@ -1,0 +1,9 @@
+LegalName MCKINNEY BEDDING CO
+DBAName RESTONIC SPRINGFIELD
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 2771
+StateId 2771
+MCMXFF 
+DUNS 

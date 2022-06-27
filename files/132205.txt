@@ -1,0 +1,9 @@
+LegalName HERMAN BROWN BRICK CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 132205
+StateId 132205
+MCMXFF 
+DUNS 

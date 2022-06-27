@@ -1,0 +1,9 @@
+LegalName THE SLANETZ CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 17467
+StateId 17467
+MCMXFF 
+DUNS 

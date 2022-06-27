@@ -1,0 +1,9 @@
+LegalName JOHN E JENKINS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 97261
+StateId 97261
+MCMXFF 
+DUNS 

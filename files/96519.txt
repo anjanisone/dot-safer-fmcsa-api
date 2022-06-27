@@ -1,0 +1,9 @@
+LegalName ALTORFER INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 96519
+StateId 96519
+MCMXFF 
+DUNS 

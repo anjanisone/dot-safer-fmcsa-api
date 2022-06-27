@@ -1,0 +1,9 @@
+LegalName INTERSTATE WHOLESALERS & AUCTIONEERS
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 141350
+StateId 141350
+MCMXFF 
+DUNS 

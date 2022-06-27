@@ -1,0 +1,9 @@
+LegalName GOODFELLOW CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 67060
+StateId 67060
+MCMXFF 
+DUNS 

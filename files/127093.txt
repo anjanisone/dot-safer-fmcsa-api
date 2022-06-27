@@ -1,0 +1,9 @@
+LegalName BECK OIL CO OF ILLINOIS
+DBAName E P BECKER
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 127093
+StateId 127093
+MCMXFF 
+DUNS 

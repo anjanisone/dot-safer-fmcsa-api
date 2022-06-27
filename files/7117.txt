@@ -1,0 +1,9 @@
+LegalName HITCHINER MFG CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7117
+StateId 7117
+MCMXFF 
+DUNS 

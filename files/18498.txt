@@ -1,0 +1,9 @@
+LegalName UNITED TEXTILE MACHINERY CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 18498
+StateId 18498
+MCMXFF 
+DUNS 

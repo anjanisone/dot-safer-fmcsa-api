@@ -1,0 +1,9 @@
+LegalName NEC ELECTRIC INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 101132
+StateId 101132
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName JOHNNY RICH LUMBER PROD INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 150766
+StateId 150766
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName KELBE BROS EQUIPMENT CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 153852
+StateId 153852
+MCMXFF 
+DUNS 

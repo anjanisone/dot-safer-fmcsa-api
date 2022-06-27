@@ -1,0 +1,9 @@
+LegalName SILVER SPRING FOODS INC
+DBAName KELCHNER FOOD PRODUCTS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 153750
+StateId 153750
+MCMXFF 
+DUNS 

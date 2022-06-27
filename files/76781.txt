@@ -1,0 +1,9 @@
+LegalName INSTANT WHIP - CHICAGO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 76781
+StateId 76781
+MCMXFF 
+DUNS 

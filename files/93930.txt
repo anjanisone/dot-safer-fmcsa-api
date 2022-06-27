@@ -1,0 +1,9 @@
+LegalName PENN LINE SERVICE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93930
+StateId 93930
+MCMXFF 
+DUNS 

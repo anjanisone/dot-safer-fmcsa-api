@@ -1,0 +1,9 @@
+LegalName B LEVINE TEXTILES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 5262
+StateId 5262
+MCMXFF 
+DUNS 

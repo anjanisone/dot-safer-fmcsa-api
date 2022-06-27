@@ -1,0 +1,9 @@
+LegalName LEAR CORPORATION
+DBAName GUILDFORD MILLS INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 109347
+StateId 109347
+MCMXFF 
+DUNS 

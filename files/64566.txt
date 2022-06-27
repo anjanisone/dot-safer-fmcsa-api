@@ -1,0 +1,9 @@
+LegalName SPECIALTY FOUNDRY PRODUCTS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 64566
+StateId 64566
+MCMXFF 
+DUNS 

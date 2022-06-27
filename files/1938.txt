@@ -1,0 +1,9 @@
+LegalName ATLANTIC BOTTLING COMPANY
+DBAName ATLANTIC COCA-COLA BOTTLING COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 1938
+StateId 1938
+MCMXFF 
+DUNS 

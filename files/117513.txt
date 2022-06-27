@@ -1,0 +1,9 @@
+LegalName ALLSTATE CAN CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 117513
+StateId 117513
+MCMXFF 
+DUNS 

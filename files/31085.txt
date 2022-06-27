@@ -1,0 +1,9 @@
+LegalName NY DAILY NEWS
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 31085
+StateId 31085
+MCMXFF 
+DUNS 

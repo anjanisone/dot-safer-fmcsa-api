@@ -1,0 +1,9 @@
+LegalName ELECTRIC APPARATUS CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 71927
+StateId 71927
+MCMXFF 
+DUNS 

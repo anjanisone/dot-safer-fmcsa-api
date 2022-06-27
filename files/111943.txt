@@ -1,0 +1,9 @@
+LegalName PRAIRIE FARMS DAIRY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 111943
+StateId 111943
+MCMXFF 
+DUNS 

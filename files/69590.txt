@@ -1,0 +1,9 @@
+LegalName LOCARNI MARBLE CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 69590
+StateId 69590
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName COCA-COLA BEVERAGES NORTH EAST
+DBAName COCA COLA
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 30695
+StateId 30695
+MCMXFF 
+DUNS 

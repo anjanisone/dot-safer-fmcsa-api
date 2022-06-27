@@ -1,0 +1,9 @@
+LegalName INSTANTWHIP INDIANAPOLIS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93272
+StateId 93272
+MCMXFF 
+DUNS 

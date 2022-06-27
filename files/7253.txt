@@ -1,0 +1,9 @@
+LegalName GRANITE STATE FRUIT CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7253
+StateId 7253
+MCMXFF 
+DUNS 

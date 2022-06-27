@@ -1,0 +1,9 @@
+LegalName THE DELONG COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 99582
+StateId 99582
+MCMXFF 
+DUNS 

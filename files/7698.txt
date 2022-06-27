@@ -1,0 +1,9 @@
+LegalName STANDARD DISTRIBUTING CO
+DBAName STANDARD DISTRIBUTING
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7698
+StateId 7698
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName CHARLES ALLEN KUIPER
+DBAName KUIPER FAMILY FARM
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 100130
+StateId 100130
+MCMXFF 
+DUNS 

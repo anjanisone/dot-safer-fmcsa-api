@@ -1,0 +1,9 @@
+LegalName WASHINGTON CRAB PRODUCERS INC PACIFIC SEAFOOD WESTPORT LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 12048
+StateId 12048
+MCMXFF 
+DUNS 

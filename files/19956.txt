@@ -1,0 +1,9 @@
+LegalName SCOTTY'S INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 19956
+StateId 19956
+MCMXFF 
+DUNS 

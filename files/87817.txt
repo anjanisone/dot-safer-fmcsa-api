@@ -1,0 +1,9 @@
+LegalName CHALLENGER DEEPWELL SERVICING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 87817
+StateId 87817
+MCMXFF 
+DUNS 

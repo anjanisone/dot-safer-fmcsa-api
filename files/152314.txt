@@ -1,0 +1,9 @@
+LegalName PENNSYLVANIA MACHINE WORKS INC
+DBAName PENN MACHINE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 152314
+StateId 152314
+MCMXFF 
+DUNS 

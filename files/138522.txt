@@ -1,0 +1,9 @@
+LegalName C A CARTER INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 138522
+StateId 138522
+MCMXFF 
+DUNS 

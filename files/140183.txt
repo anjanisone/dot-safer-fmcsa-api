@@ -1,0 +1,9 @@
+LegalName REYNOLDS MANUFACTURING COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 140183
+StateId 140183
+MCMXFF 
+DUNS 

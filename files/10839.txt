@@ -1,0 +1,9 @@
+LegalName MCCLARIN PLASTICS LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 10839
+StateId 10839
+MCMXFF 
+DUNS 

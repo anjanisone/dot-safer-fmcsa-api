@@ -1,0 +1,9 @@
+LegalName FARMERS INCORPORATED
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 89442
+StateId 89442
+MCMXFF 
+DUNS 

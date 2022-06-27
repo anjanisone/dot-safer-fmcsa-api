@@ -1,0 +1,9 @@
+LegalName MILLVILLE FEED INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 118490
+StateId 118490
+MCMXFF 
+DUNS 

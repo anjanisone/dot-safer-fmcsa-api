@@ -1,0 +1,9 @@
+LegalName NYDAM OIL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 49202
+StateId 49202
+MCMXFF 
+DUNS 

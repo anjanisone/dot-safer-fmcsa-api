@@ -1,0 +1,9 @@
+LegalName VERSAR INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 36814
+StateId 36814
+MCMXFF 
+DUNS 

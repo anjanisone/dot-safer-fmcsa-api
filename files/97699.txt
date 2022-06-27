@@ -1,0 +1,9 @@
+LegalName GREENE POULTRY COMPANY INC
+DBAName GREENE POULTRY CO INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 97699
+StateId 97699
+MCMXFF 
+DUNS 

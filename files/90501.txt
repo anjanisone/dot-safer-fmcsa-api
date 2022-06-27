@@ -1,0 +1,9 @@
+LegalName ASHLAND MILLING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 90501
+StateId 90501
+MCMXFF 
+DUNS 

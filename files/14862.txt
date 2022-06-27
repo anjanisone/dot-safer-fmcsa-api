@@ -1,0 +1,9 @@
+LegalName WILLIAM GEORGE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 14862
+StateId 14862
+MCMXFF 
+DUNS 

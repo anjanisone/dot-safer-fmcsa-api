@@ -1,0 +1,9 @@
+LegalName GABILA FOOD PRODUCTS
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 102864
+StateId 102864
+MCMXFF 
+DUNS 

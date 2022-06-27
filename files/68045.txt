@@ -1,0 +1,9 @@
+LegalName NICK'S FARM STORE CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 68045
+StateId 68045
+MCMXFF 
+DUNS 

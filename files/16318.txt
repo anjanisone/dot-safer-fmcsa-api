@@ -1,0 +1,9 @@
+LegalName INTER CONTINENTAL CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 16318
+StateId 16318
+MCMXFF 
+DUNS 

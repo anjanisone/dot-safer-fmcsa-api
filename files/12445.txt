@@ -1,0 +1,9 @@
+LegalName YANKE MACHINE SHOP INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 12445
+StateId 12445
+MCMXFF 
+DUNS 

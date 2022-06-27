@@ -1,0 +1,9 @@
+LegalName FRIEND TIRE COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 70376
+StateId 70376
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName UNADILLA SILO CO INC
+DBAName UNALAM
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 19436
+StateId 19436
+MCMXFF 
+DUNS 

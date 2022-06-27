@@ -1,0 +1,9 @@
+LegalName GENERAL FEED & GRAIN INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 28664
+StateId 28664
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName KOPPS TURKEY SALES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 81580
+StateId 81580
+MCMXFF 
+DUNS 

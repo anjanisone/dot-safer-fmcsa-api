@@ -1,0 +1,9 @@
+LegalName WEBER STONE CO INC
+DBAName STONE CITY QUARRIES
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 1902
+StateId 1902
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName BAKALARS SAUSAGE COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 83654
+StateId 83654
+MCMXFF 
+DUNS 

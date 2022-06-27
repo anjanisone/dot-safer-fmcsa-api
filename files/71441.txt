@@ -1,0 +1,9 @@
+LegalName FEDERAL STEEL & ERECTION CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 71441
+StateId 71441
+MCMXFF 
+DUNS 

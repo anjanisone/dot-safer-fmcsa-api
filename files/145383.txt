@@ -1,0 +1,9 @@
+LegalName G A WINTZER & SON CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 145383
+StateId 145383
+MCMXFF 
+DUNS 

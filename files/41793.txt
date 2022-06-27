@@ -1,0 +1,9 @@
+LegalName RICHARD'S PAINT MANUFACTURING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 41793
+StateId 41793
+MCMXFF 
+DUNS 

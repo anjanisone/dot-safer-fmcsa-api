@@ -1,0 +1,9 @@
+LegalName WATERLAND TRUCKING SERVICE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 114846
+StateId 114846
+MCMXFF 
+DUNS 

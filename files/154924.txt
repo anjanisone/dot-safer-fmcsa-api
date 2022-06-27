@@ -1,0 +1,9 @@
+LegalName VAN INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 154924
+StateId 154924
+MCMXFF 
+DUNS 

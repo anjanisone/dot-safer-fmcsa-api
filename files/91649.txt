@@ -1,0 +1,9 @@
+LegalName TRIANGLE BRICK CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 91649
+StateId 91649
+MCMXFF 
+DUNS 

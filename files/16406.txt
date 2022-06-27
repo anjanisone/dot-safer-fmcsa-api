@@ -1,0 +1,9 @@
+LegalName HIGHLAND HOUSE OF HICKORY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 16406
+StateId 16406
+MCMXFF 
+DUNS 

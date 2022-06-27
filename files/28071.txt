@@ -1,0 +1,9 @@
+LegalName SNELSON COMPANIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 28071
+StateId 28071
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName TOWNS TRUCKING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 112105
+StateId 112105
+MCMXFF 
+DUNS 

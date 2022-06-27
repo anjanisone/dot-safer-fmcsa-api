@@ -1,0 +1,9 @@
+LegalName RESTAURANT & STORE EQUIPMENT CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 37144
+StateId 37144
+MCMXFF 
+DUNS 

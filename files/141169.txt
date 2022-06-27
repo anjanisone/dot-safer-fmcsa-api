@@ -1,0 +1,9 @@
+LegalName DAKOTA CONTRACTING CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 141169
+StateId 141169
+MCMXFF 
+DUNS 

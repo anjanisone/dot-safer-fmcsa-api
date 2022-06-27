@@ -1,0 +1,9 @@
+LegalName HONNEN EQUIPMENT CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 118589
+StateId 118589
+MCMXFF 
+DUNS 

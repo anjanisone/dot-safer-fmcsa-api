@@ -1,0 +1,9 @@
+LegalName EUGENE WELDING SUPPLY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 114397
+StateId 114397
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName THE O K CO-OPERATIVE GRAIN & MERCANTILE CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 152594
+StateId 152594
+MCMXFF 
+DUNS 

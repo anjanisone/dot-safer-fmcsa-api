@@ -1,0 +1,9 @@
+LegalName FARMERS ELEVATOR AND EXCHANGE CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 91060
+StateId 91060
+MCMXFF 
+DUNS 

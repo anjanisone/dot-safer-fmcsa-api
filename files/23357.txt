@@ -1,0 +1,9 @@
+LegalName PASCAP CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 23357
+StateId 23357
+MCMXFF 
+DUNS 

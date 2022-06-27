@@ -1,0 +1,9 @@
+LegalName F M HOWELL & COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 55508
+StateId 55508
+MCMXFF 
+DUNS 

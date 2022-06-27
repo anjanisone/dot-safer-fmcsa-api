@@ -1,0 +1,9 @@
+LegalName THE MOLDING COMPANY
+DBAName FORTE PRODUCTS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 90177
+StateId 90177
+MCMXFF 
+DUNS 

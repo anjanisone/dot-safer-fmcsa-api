@@ -1,0 +1,9 @@
+LegalName FLOWERS TRUCKING COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 89844
+StateId 89844
+MCMXFF 
+DUNS 

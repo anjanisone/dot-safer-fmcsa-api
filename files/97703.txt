@@ -1,0 +1,9 @@
+LegalName P R HARRELL & SONS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 97703
+StateId 97703
+MCMXFF 
+DUNS 

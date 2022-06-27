@@ -1,0 +1,9 @@
+LegalName R AND F FURNITURE CORP
+DBAName DBA COLONY HOUSE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 87222
+StateId 87222
+MCMXFF 
+DUNS 

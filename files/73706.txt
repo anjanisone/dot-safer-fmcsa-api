@@ -1,0 +1,9 @@
+LegalName G & J PLASTICS INC
+DBAName CROWN LINE PLASTICS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 73706
+StateId 73706
+MCMXFF 
+DUNS 

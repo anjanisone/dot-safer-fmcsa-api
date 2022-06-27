@@ -1,0 +1,9 @@
+LegalName STAG PARKWAY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 111172
+StateId 111172
+MCMXFF 
+DUNS 

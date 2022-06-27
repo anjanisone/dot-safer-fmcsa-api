@@ -1,0 +1,9 @@
+LegalName PEMBERTON FABRICATORS INC
+DBAName PEMFAB
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 31870
+StateId 31870
+MCMXFF 
+DUNS 

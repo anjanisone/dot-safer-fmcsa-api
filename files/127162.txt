@@ -1,0 +1,9 @@
+LegalName EDWARD A SCOTT
+DBAName 
+PhysicalAddress 9548 10TH AVE BLYTHE, CA   92225
+Phone (760) 922-7621
+MailingAddress BOX 355 BLYTHE, CA   92225
+DOTNumber 127162
+StateId 127162
+MCMXFF 
+DUNS 

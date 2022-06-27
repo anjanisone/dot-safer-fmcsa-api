@@ -1,0 +1,9 @@
+LegalName T L JAMES & CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 109944
+StateId 109944
+MCMXFF 
+DUNS 

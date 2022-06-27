@@ -1,0 +1,9 @@
+LegalName CRAIG PAVING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 84217
+StateId 84217
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName MOORE'S TIRE SALES
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 15238
+StateId 15238
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName SMITH STEEL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 11323
+StateId 11323
+MCMXFF 
+DUNS 

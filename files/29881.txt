@@ -1,0 +1,9 @@
+LegalName EDWARD C LEVY
+DBAName SCHMIDT CONSTRUCTION CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 29881
+StateId 29881
+MCMXFF 
+DUNS 

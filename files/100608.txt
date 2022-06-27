@@ -1,0 +1,9 @@
+LegalName SHAPIRO BROTHERS OF ILLINOIS INC
+DBAName MILANO METALS & RECYCLING
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 100608
+StateId 100608
+MCMXFF 
+DUNS 

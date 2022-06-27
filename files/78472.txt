@@ -1,0 +1,9 @@
+LegalName DTE INC OF QUINCY
+DBAName SELBY IMPLEMENT CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 78472
+StateId 78472
+MCMXFF 
+DUNS 

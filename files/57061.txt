@@ -1,0 +1,9 @@
+LegalName A J KENNEDY'S FRUIT & PRODUCE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 57061
+StateId 57061
+MCMXFF 
+DUNS 

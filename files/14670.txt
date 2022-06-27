@@ -1,0 +1,9 @@
+LegalName ROBERT A LYNN
+DBAName ROBERT LYNN GATES
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 14670
+StateId 14670
+MCMXFF 
+DUNS 

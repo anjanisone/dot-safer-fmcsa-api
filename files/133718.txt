@@ -1,0 +1,9 @@
+LegalName R J JACQUES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 133718
+StateId 133718
+MCMXFF 
+DUNS 

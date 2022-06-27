@@ -1,0 +1,9 @@
+LegalName WELSCO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 3236
+StateId 3236
+MCMXFF 
+DUNS 

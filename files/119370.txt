@@ -1,0 +1,9 @@
+LegalName BEAUMONT IRON & METAL CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 119370
+StateId 119370
+MCMXFF 
+DUNS 

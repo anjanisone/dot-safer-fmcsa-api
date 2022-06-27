@@ -1,0 +1,9 @@
+LegalName UNITED PLUMBING SUPPLY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 143837
+StateId 143837
+MCMXFF 
+DUNS 

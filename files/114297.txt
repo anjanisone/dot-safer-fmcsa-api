@@ -1,0 +1,9 @@
+LegalName NORTHSIDE LUMBER & FUEL CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 114297
+StateId 114297
+MCMXFF 
+DUNS 

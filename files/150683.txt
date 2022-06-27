@@ -1,0 +1,9 @@
+LegalName WASTE MANAGEMENT OF WISCONSIN INC
+DBAName WM
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 150683
+StateId 150683
+MCMXFF 
+DUNS 

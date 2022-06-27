@@ -1,0 +1,9 @@
+LegalName BASSETT FURNITURE INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 113229
+StateId 113229
+MCMXFF 
+DUNS 

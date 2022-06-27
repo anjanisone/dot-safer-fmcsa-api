@@ -1,0 +1,9 @@
+LegalName NELLIS BUILDING MATERIALS
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 53968
+StateId 53968
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName HAINES EQUIPMENT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 55462
+StateId 55462
+MCMXFF 
+DUNS 

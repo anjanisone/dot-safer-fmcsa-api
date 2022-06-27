@@ -1,0 +1,9 @@
+LegalName SEMLING & MENKE CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 46916
+StateId 46916
+MCMXFF 
+DUNS 

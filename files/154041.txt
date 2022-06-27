@@ -1,0 +1,9 @@
+LegalName J K PACKING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 154041
+StateId 154041
+MCMXFF 
+DUNS 

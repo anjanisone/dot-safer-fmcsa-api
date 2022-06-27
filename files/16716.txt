@@ -1,0 +1,9 @@
+LegalName WHITING DOOR MANUFACTURING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 16716
+StateId 16716
+MCMXFF 
+DUNS 

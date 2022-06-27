@@ -1,0 +1,9 @@
+LegalName MCCANN MOTORS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 94608
+StateId 94608
+MCMXFF 
+DUNS 

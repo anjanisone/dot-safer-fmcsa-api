@@ -1,0 +1,9 @@
+LegalName SANDY'S SCRAP METALS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 6131
+StateId 6131
+MCMXFF 
+DUNS 

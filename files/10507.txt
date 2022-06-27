@@ -1,0 +1,9 @@
+LegalName E FRANK HOPKINS CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 10507
+StateId 10507
+MCMXFF 
+DUNS 

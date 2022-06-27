@@ -1,0 +1,9 @@
+LegalName UNIVERSAL-GLENWOOD PRODUCTS
+DBAName NEXT STOP FOODS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 24782
+StateId 24782
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName MT STERLING IMPLEMENT CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 112025
+StateId 112025
+MCMXFF 
+DUNS 

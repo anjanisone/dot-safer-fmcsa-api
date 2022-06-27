@@ -1,0 +1,9 @@
+LegalName IDEAL SUPPLY COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 13801
+StateId 13801
+MCMXFF 
+DUNS 

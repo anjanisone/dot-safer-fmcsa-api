@@ -1,0 +1,9 @@
+LegalName MASCARI BROTHERS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 74099
+StateId 74099
+MCMXFF 
+DUNS 

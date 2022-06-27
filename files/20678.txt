@@ -1,0 +1,9 @@
+LegalName TRUSS ENGINEERING CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 20678
+StateId 20678
+MCMXFF 
+DUNS 

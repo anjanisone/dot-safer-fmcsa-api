@@ -1,0 +1,9 @@
+LegalName GRAIN STATES SOYA INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 755
+StateId 755
+MCMXFF 
+DUNS 

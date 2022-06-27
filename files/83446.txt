@@ -1,0 +1,9 @@
+LegalName B & B METALS PROCESSING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 83446
+StateId 83446
+MCMXFF 
+DUNS 

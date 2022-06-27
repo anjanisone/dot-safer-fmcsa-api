@@ -1,0 +1,9 @@
+LegalName CNH INDUSTRIAL AMERICA LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 82662
+StateId 82662
+MCMXFF 
+DUNS 

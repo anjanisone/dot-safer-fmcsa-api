@@ -1,0 +1,9 @@
+LegalName NAKASE BROTHERS WHOLESALE NURSERY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 127345
+StateId 127345
+MCMXFF 
+DUNS 

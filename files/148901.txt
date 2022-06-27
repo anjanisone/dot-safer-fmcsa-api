@@ -1,0 +1,9 @@
+LegalName COPE PLASTICS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 148901
+StateId 148901
+MCMXFF 
+DUNS 

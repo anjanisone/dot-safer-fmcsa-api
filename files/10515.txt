@@ -1,0 +1,9 @@
+LegalName HENKELS & MCCOY INC
+DBAName HENKELS & MCCOY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 10515
+StateId 10515
+MCMXFF 
+DUNS 

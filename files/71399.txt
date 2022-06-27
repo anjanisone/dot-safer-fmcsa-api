@@ -1,0 +1,9 @@
+LegalName DRAKE-SCRUGGS EQUIPMENT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 71399
+StateId 71399
+MCMXFF 
+DUNS 

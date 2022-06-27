@@ -1,0 +1,9 @@
+LegalName J L GILBERT CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 69281
+StateId 69281
+MCMXFF 
+DUNS 

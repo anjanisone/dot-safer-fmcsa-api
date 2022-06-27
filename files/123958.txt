@@ -1,0 +1,9 @@
+LegalName FORTNER L P GAS CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 123958
+StateId 123958
+MCMXFF 
+DUNS 

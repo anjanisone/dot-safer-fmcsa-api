@@ -1,0 +1,9 @@
+LegalName GEM STATE PAPER & SUPPLY CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 67508
+StateId 67508
+MCMXFF 
+DUNS 

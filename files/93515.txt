@@ -1,0 +1,9 @@
+LegalName PEOPLES COAL CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93515
+StateId 93515
+MCMXFF 
+DUNS 

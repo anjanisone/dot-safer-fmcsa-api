@@ -1,0 +1,9 @@
+LegalName NICE-PAK PRODUCTS INC
+DBAName NICEPAK
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 139329
+StateId 139329
+MCMXFF 
+DUNS 

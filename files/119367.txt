@@ -1,0 +1,9 @@
+LegalName BELL BOTTOM FOUNDATION CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 119367
+StateId 119367
+MCMXFF 
+DUNS 

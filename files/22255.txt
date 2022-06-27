@@ -1,0 +1,9 @@
+LegalName HARTTER FEED & SEED INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 22255
+StateId 22255
+MCMXFF 
+DUNS 

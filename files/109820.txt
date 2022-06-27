@@ -1,0 +1,9 @@
+LegalName HAGGAR CLOTHING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 109820
+StateId 109820
+MCMXFF 
+DUNS 

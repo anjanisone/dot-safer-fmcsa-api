@@ -1,0 +1,9 @@
+LegalName THE WHITACRE ENGINEERING CO
+DBAName WHITACRE REBAR
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 1174
+StateId 1174
+MCMXFF 
+DUNS 

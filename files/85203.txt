@@ -1,0 +1,9 @@
+LegalName CLINCH TITE CORP
+DBAName CTC PACKAGING
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 85203
+StateId 85203
+MCMXFF 
+DUNS 

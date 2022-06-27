@@ -1,0 +1,9 @@
+LegalName EXPLO POWDER INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 16850
+StateId 16850
+MCMXFF 
+DUNS 

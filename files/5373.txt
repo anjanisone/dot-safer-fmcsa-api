@@ -1,0 +1,9 @@
+LegalName HAJOCA CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 5373
+StateId 5373
+MCMXFF 
+DUNS 

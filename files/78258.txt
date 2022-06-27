@@ -1,0 +1,9 @@
+LegalName COLUMBIA MACHINE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 78258
+StateId 78258
+MCMXFF 
+DUNS 

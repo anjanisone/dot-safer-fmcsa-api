@@ -1,0 +1,9 @@
+LegalName STERLING LACQUER MFG CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 134878
+StateId 134878
+MCMXFF 
+DUNS 

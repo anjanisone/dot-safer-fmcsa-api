@@ -1,0 +1,9 @@
+LegalName JEROME H RHOADS INC
+DBAName RHOADS ENERGY CORPORATION
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 11673
+StateId 11673
+MCMXFF 
+DUNS 

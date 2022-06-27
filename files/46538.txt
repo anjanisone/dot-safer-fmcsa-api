@@ -1,0 +1,9 @@
+LegalName SPARTEK INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 46538
+StateId 46538
+MCMXFF 
+DUNS 

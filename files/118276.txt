@@ -1,0 +1,9 @@
+LegalName DANIEL W ALVIES
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 118276
+StateId 118276
+MCMXFF 
+DUNS 

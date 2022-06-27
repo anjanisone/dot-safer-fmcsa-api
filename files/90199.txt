@@ -1,0 +1,9 @@
+LegalName COLEMAN EQUIPMENT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 90199
+StateId 90199
+MCMXFF 
+DUNS 

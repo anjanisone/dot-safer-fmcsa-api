@@ -1,0 +1,9 @@
+LegalName EAGLE RICE & FEED MILLS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 70119
+StateId 70119
+MCMXFF 
+DUNS 

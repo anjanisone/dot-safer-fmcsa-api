@@ -1,0 +1,9 @@
+LegalName HASCALL & HALL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 57031
+StateId 57031
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName RYDER TRUCK RENTAL INC
+DBAName RYDER
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 16130
+StateId 16130
+MCMXFF 
+DUNS 

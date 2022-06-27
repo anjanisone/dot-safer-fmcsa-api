@@ -1,0 +1,9 @@
+LegalName FEDERAL SIGNAL CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 50512
+StateId 50512
+MCMXFF 
+DUNS 

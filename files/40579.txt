@@ -1,0 +1,9 @@
+LegalName MERIDIAN EQUIPMENT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 40579
+StateId 40579
+MCMXFF 
+DUNS 

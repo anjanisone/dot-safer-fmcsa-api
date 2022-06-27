@@ -1,0 +1,9 @@
+LegalName COUSINS METAL INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 106789
+StateId 106789
+MCMXFF 
+DUNS 

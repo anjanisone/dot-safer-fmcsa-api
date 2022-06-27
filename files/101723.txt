@@ -1,0 +1,9 @@
+LegalName VELAN INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 101723
+StateId 101723
+MCMXFF 
+DUNS 

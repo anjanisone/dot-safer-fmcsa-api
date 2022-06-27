@@ -1,0 +1,9 @@
+LegalName MEMPHIS EQUIPMENT CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 39251
+StateId 39251
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName AVNET INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 137773
+StateId 137773
+MCMXFF 
+DUNS 

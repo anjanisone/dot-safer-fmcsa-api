@@ -1,0 +1,9 @@
+LegalName CHAMPION FABRICATING & SUPPLY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 127626
+StateId 127626
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName HORNINGS FURNITURE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 92606
+StateId 92606
+MCMXFF 
+DUNS 

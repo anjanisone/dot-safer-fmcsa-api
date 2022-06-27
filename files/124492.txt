@@ -1,0 +1,9 @@
+LegalName TEMROC METAL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 124492
+StateId 124492
+MCMXFF 
+DUNS 

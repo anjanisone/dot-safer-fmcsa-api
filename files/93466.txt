@@ -1,0 +1,9 @@
+LegalName G & L CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93466
+StateId 93466
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName KING CONTAINER SERVICES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 81573
+StateId 81573
+MCMXFF 
+DUNS 

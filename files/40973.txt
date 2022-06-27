@@ -1,0 +1,9 @@
+LegalName SCHOLZEN PRODUCTS COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 40973
+StateId 40973
+MCMXFF 
+DUNS 

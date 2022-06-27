@@ -1,0 +1,9 @@
+LegalName JOHN GROSS & CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 144225
+StateId 144225
+MCMXFF 
+DUNS 

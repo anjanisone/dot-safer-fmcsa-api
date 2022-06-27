@@ -1,0 +1,9 @@
+LegalName NORTH CENTRAL LIVESTOCK FARMS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 48463
+StateId 48463
+MCMXFF 
+DUNS 

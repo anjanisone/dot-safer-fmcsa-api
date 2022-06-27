@@ -1,0 +1,9 @@
+LegalName RIPON PICKLE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 52428
+StateId 52428
+MCMXFF 
+DUNS 

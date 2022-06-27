@@ -1,0 +1,9 @@
+LegalName TENNANT SALES AND SERVICE COMPANY
+DBAName TENNANT
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 124490
+StateId 124490
+MCMXFF 
+DUNS 

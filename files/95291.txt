@@ -1,0 +1,9 @@
+LegalName ALUMI-COVER AWNING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 95291
+StateId 95291
+MCMXFF 
+DUNS 

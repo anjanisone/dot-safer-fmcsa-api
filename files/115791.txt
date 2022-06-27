@@ -1,0 +1,9 @@
+LegalName LYNN PRODUCE FARMS
+DBAName 
+PhysicalAddress 8025 25 1/2 MILE RD HOMER, MI   49245
+Phone 
+MailingAddress 8025 25 1/2 MILE RD HOMER, MI   49245
+DOTNumber 115791
+StateId 115791
+MCMXFF 
+DUNS 

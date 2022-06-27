@@ -1,0 +1,9 @@
+LegalName PAUL SWARTZ NURSERY & GARDEN SHOP INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 139508
+StateId 139508
+MCMXFF 
+DUNS 

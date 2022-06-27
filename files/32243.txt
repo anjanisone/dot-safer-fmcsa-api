@@ -1,0 +1,9 @@
+LegalName FAITHWAY FEED CO LLC
+DBAName FAITHWAY ALLIANCE LLC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 32243
+StateId 32243
+MCMXFF 
+DUNS 

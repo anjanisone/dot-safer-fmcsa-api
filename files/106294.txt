@@ -1,0 +1,9 @@
+LegalName MARGARET MILLERS SCRAP IRON & METAL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 106294
+StateId 106294
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName SOUTHCO INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 94719
+StateId 94719
+MCMXFF 
+DUNS 

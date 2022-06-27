@@ -1,0 +1,9 @@
+LegalName PLAINS BUILDERS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 12257
+StateId 12257
+MCMXFF 
+DUNS 

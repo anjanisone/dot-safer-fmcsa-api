@@ -1,0 +1,9 @@
+LegalName EASTERN STEEL CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 102472
+StateId 102472
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName THE BRIGGS COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 33762
+StateId 33762
+MCMXFF 
+DUNS 

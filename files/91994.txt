@@ -1,0 +1,9 @@
+LegalName SOUTHERN STATES SIMPSON COOP INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 91994
+StateId 91994
+MCMXFF 
+DUNS 

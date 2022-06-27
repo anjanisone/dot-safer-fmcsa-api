@@ -1,0 +1,9 @@
+LegalName BARKER MANUFACTURING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 75676
+StateId 75676
+MCMXFF 
+DUNS 

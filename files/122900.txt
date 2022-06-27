@@ -1,0 +1,9 @@
+LegalName FARMER'S CO-OP OIL COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 122900
+StateId 122900
+MCMXFF 
+DUNS 

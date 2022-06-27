@@ -1,0 +1,9 @@
+LegalName ATLANTA METAL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 138076
+StateId 138076
+MCMXFF 
+DUNS 

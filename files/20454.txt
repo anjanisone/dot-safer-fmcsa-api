@@ -1,0 +1,9 @@
+LegalName JAMESTOWN CONTAINER CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 20454
+StateId 20454
+MCMXFF 
+DUNS 

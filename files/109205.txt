@@ -1,0 +1,9 @@
+LegalName CATAWISSA LUMBER & SPECIALTY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 109205
+StateId 109205
+MCMXFF 
+DUNS 

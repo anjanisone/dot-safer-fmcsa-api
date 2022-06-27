@@ -1,0 +1,9 @@
+LegalName DJL HOMES INC
+DBAName NORTHERN HILLS HOMES
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 878
+StateId 878
+MCMXFF 
+DUNS 

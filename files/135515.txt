@@ -1,0 +1,9 @@
+LegalName PENN COLOR INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 135515
+StateId 135515
+MCMXFF 
+DUNS 

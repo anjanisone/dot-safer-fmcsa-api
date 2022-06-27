@@ -1,0 +1,9 @@
+LegalName F & A FOOD SALES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 82379
+StateId 82379
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName FRANKSTON PACKAGING COMPANY LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 109739
+StateId 109739
+MCMXFF 
+DUNS 

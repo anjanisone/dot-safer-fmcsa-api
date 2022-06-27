@@ -1,0 +1,9 @@
+LegalName TRI-STATE GREASE & TALLOW CO INC
+DBAName ORIGO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 124974
+StateId 124974
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName MOORE QUALITY FARMS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 66092
+StateId 66092
+MCMXFF 
+DUNS 

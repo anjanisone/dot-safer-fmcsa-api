@@ -1,0 +1,9 @@
+LegalName PENTA POST & TREATING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 62672
+StateId 62672
+MCMXFF 
+DUNS 

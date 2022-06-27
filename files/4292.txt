@@ -1,0 +1,9 @@
+LegalName MOUNTAIN STATE PETROLEUM INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 4292
+StateId 4292
+MCMXFF 
+DUNS 

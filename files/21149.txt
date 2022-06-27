@@ -1,0 +1,9 @@
+LegalName HAINES TRUCKING LLC
+DBAName 
+PhysicalAddress 305 MAIN ST FAITH, SD   57626
+Phone (605) 967-2301
+MailingAddress PO BOX 8 FAITH, SD   57626
+DOTNumber 21149
+StateId 21149
+MCMXFF 
+DUNS 

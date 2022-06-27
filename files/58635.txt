@@ -1,0 +1,9 @@
+LegalName SHAHEEN CARPET MILLS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 58635
+StateId 58635
+MCMXFF 
+DUNS 

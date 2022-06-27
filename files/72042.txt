@@ -1,0 +1,9 @@
+LegalName WIEDERHOLD SALES & SERVICE LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 72042
+StateId 72042
+MCMXFF 
+DUNS 

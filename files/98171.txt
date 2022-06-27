@@ -1,0 +1,9 @@
+LegalName VEL-DONNA INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 98171
+StateId 98171
+MCMXFF 
+DUNS 

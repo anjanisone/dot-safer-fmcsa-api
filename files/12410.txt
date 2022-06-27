@@ -1,0 +1,9 @@
+LegalName WESTERN STEEL MANUFACTURING COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 12410
+StateId 12410
+MCMXFF 
+DUNS 

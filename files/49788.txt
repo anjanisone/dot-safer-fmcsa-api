@@ -1,0 +1,9 @@
+LegalName QUEENSBORO FARM PRODUCTS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 49788
+StateId 49788
+MCMXFF 
+DUNS 

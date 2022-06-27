@@ -1,0 +1,9 @@
+LegalName EAST PENN MANUFACTURING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 38027
+StateId 38027
+MCMXFF 
+DUNS 

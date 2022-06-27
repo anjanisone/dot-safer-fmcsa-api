@@ -1,0 +1,9 @@
+LegalName THE DUC-PAC CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 68190
+StateId 68190
+MCMXFF 
+DUNS 

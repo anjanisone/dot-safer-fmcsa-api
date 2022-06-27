@@ -1,0 +1,9 @@
+LegalName WALCHLI FARMS LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 37273
+StateId 37273
+MCMXFF 
+DUNS 

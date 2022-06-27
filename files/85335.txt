@@ -1,0 +1,9 @@
+LegalName MINGO BOTTLING COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 85335
+StateId 85335
+MCMXFF 
+DUNS 

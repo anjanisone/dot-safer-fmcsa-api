@@ -1,0 +1,9 @@
+LegalName STRASSBURGER F INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 24292
+StateId 24292
+MCMXFF 
+DUNS 

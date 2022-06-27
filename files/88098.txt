@@ -1,0 +1,9 @@
+LegalName JACKSONVILLE BOX AND WOODWORK CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 88098
+StateId 88098
+MCMXFF 
+DUNS 

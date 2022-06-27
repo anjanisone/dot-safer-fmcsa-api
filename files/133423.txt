@@ -1,0 +1,9 @@
+LegalName WICK & ASSOCIATES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 133423
+StateId 133423
+MCMXFF 
+DUNS 

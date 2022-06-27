@@ -1,0 +1,9 @@
+LegalName THE BRUCE COMPANY OF WISCONSIN INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 83537
+StateId 83537
+MCMXFF 
+DUNS 

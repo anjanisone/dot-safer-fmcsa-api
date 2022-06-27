@@ -1,0 +1,9 @@
+LegalName EVERGY METRO INC
+DBAName EVERGY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 89376
+StateId 89376
+MCMXFF 
+DUNS 

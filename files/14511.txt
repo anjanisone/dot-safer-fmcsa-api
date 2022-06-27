@@ -1,0 +1,9 @@
+LegalName PHILLIPS ELECTRIC CO
+DBAName REDMOND WALTZ ELECTRIC CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 14511
+StateId 14511
+MCMXFF 
+DUNS 

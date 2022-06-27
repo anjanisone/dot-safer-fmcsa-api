@@ -1,0 +1,9 @@
+LegalName NEWPORT CREAMERY LLC
+DBAName NEWPORT CREAMERY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 13694
+StateId 13694
+MCMXFF 
+DUNS 

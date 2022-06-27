@@ -1,0 +1,9 @@
+LegalName AZUSA PACIFIC UNIVERSITY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 34506
+StateId 34506
+MCMXFF 
+DUNS 

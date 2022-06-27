@@ -1,0 +1,9 @@
+LegalName WILSON TRAILER SALES & SERVICE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 92186
+StateId 92186
+MCMXFF 
+DUNS 

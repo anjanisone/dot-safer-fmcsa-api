@@ -1,0 +1,9 @@
+LegalName COOPERS CREEK CHEMICAL CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 5440
+StateId 5440
+MCMXFF 
+DUNS 

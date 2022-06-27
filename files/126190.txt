@@ -1,0 +1,9 @@
+LegalName H K & S IRON CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 126190
+StateId 126190
+MCMXFF 
+DUNS 

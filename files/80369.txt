@@ -1,0 +1,9 @@
+LegalName PACIFIC PIPE COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 80369
+StateId 80369
+MCMXFF 
+DUNS 

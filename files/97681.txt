@@ -1,0 +1,9 @@
+LegalName ENGINEERING AND EQUIPMENT COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 97681
+StateId 97681
+MCMXFF 
+DUNS 

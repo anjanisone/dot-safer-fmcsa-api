@@ -1,0 +1,9 @@
+LegalName O'CONNELL OIL ASSOCIATES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 56015
+StateId 56015
+MCMXFF 
+DUNS 

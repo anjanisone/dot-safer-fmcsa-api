@@ -1,0 +1,9 @@
+LegalName DALE & MAXEY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 61365
+StateId 61365
+MCMXFF 
+DUNS 

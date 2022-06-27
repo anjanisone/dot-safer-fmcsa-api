@@ -1,0 +1,9 @@
+LegalName ACME METALS & RECYCLING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 35769
+StateId 35769
+MCMXFF 
+DUNS 

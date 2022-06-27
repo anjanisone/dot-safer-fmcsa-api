@@ -1,0 +1,9 @@
+LegalName DOREL HOME FURNISHINGS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 115699
+StateId 115699
+MCMXFF 
+DUNS 

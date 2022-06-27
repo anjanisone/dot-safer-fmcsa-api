@@ -1,0 +1,9 @@
+LegalName TAYLOR LUMBER & HARDWARE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 18398
+StateId 18398
+MCMXFF 
+DUNS 

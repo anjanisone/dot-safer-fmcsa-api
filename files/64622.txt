@@ -1,0 +1,9 @@
+LegalName NORTH ALABAMA FABRICATING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 64622
+StateId 64622
+MCMXFF 
+DUNS 

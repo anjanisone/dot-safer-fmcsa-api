@@ -1,0 +1,9 @@
+LegalName MILES FRY & SON INC
+DBAName FRYSVILLE FARMS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 5538
+StateId 5538
+MCMXFF 
+DUNS 

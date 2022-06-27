@@ -1,0 +1,9 @@
+LegalName THE R G SMITH CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 28543
+StateId 28543
+MCMXFF 
+DUNS 

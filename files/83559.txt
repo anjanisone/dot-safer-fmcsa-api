@@ -1,0 +1,9 @@
+LegalName BADGER PACKAGING CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 83559
+StateId 83559
+MCMXFF 
+DUNS 

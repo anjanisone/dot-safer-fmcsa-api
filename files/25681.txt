@@ -1,0 +1,9 @@
+LegalName WHITE AND SHAUGER INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 25681
+StateId 25681
+MCMXFF 
+DUNS 

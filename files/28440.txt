@@ -1,0 +1,9 @@
+LegalName EMMETT OR PAT JOYNER
+DBAName GILSONITE COMPANY CORPORATION
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 28440
+StateId 28440
+MCMXFF 
+DUNS 

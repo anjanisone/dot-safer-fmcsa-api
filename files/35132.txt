@@ -1,0 +1,9 @@
+LegalName LATROBE CONSTRUCTION CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 35132
+StateId 35132
+MCMXFF 
+DUNS 

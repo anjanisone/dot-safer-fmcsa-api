@@ -1,0 +1,9 @@
+LegalName STURM RUGER & CO INC
+DBAName PINE TREE CASTINGS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 58288
+StateId 58288
+MCMXFF 
+DUNS 

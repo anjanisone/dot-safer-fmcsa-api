@@ -1,0 +1,9 @@
+LegalName JUSTIN SEED COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 115545
+StateId 115545
+MCMXFF 
+DUNS 

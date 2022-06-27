@@ -1,0 +1,9 @@
+LegalName TARVER SALES OF ALABAMA INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 152253
+StateId 152253
+MCMXFF 
+DUNS 

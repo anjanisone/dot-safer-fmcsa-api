@@ -1,0 +1,9 @@
+LegalName BATH LUMBER CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 137730
+StateId 137730
+MCMXFF 
+DUNS 

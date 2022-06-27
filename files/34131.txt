@@ -1,0 +1,9 @@
+LegalName ALLEN CAMPER MFG CO INC
+DBAName IDLE TIME RV SALES & SERVICE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 34131
+StateId 34131
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName OWEN INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 29260
+StateId 29260
+MCMXFF 
+DUNS 

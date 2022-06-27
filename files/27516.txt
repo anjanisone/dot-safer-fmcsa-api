@@ -1,0 +1,9 @@
+LegalName BELL CONTAINER CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 27516
+StateId 27516
+MCMXFF 
+DUNS 

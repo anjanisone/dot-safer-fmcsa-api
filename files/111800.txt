@@ -1,0 +1,9 @@
+LegalName HUGG AND HALL EQUIPMENT COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 111800
+StateId 111800
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName SUPERIOR ROOFING CO INC
+DBAName SUPERIOR ROOFING
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 21408
+StateId 21408
+MCMXFF 
+DUNS 

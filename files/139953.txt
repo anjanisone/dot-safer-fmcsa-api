@@ -1,0 +1,9 @@
+LegalName GEORGIA WOOD PRESERVING COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 139953
+StateId 139953
+MCMXFF 
+DUNS 

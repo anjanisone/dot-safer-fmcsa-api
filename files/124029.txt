@@ -1,0 +1,9 @@
+LegalName ALLENDALE GRAVEL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 124029
+StateId 124029
+MCMXFF 
+DUNS 

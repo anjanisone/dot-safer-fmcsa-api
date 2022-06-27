@@ -1,0 +1,9 @@
+LegalName J E TANKARD III
+DBAName THE TANKARD NURSERIES INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7723
+StateId 7723
+MCMXFF 
+DUNS 

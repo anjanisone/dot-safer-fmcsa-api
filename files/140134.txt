@@ -1,0 +1,9 @@
+LegalName INDUSTRIAL SOAP COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 140134
+StateId 140134
+MCMXFF 
+DUNS 

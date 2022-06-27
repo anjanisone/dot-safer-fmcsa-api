@@ -1,0 +1,9 @@
+LegalName E & F DISTRIBUTING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 71409
+StateId 71409
+MCMXFF 
+DUNS 

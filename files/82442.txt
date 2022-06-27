@@ -1,0 +1,9 @@
+LegalName GLASS KING MFG CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 82442
+StateId 82442
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName DONALDSON COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 75582
+StateId 75582
+MCMXFF 
+DUNS 

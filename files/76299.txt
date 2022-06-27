@@ -1,0 +1,9 @@
+LegalName COLLEGIATE CAP & GOWN CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 76299
+StateId 76299
+MCMXFF 
+DUNS 

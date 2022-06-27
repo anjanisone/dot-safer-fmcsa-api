@@ -1,0 +1,9 @@
+LegalName POTTERY MFG 9 DIST INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 56180
+StateId 56180
+MCMXFF 
+DUNS 

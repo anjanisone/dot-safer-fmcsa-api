@@ -1,0 +1,9 @@
+LegalName MEYERS & TABAKIN INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 118849
+StateId 118849
+MCMXFF 
+DUNS 

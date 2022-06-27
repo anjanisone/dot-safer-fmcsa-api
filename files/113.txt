@@ -1,0 +1,9 @@
+LegalName BIOLAB INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 113
+StateId 113
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName JOHN & ARTHUR PENEGOR INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 114566
+StateId 114566
+MCMXFF 
+DUNS 

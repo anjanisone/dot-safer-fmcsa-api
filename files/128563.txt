@@ -1,0 +1,9 @@
+LegalName HOHMANN & BARNARD INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 128563
+StateId 128563
+MCMXFF 
+DUNS 

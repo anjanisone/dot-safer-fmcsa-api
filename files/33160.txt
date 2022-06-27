@@ -1,0 +1,9 @@
+LegalName WITHERUP FABRICATION & ERECTION INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 33160
+StateId 33160
+MCMXFF 
+DUNS 

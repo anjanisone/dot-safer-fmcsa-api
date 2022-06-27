@@ -1,0 +1,9 @@
+LegalName WALT DAN AND JAMES SWINGEN
+DBAName SWINGEN CONSTRUCTION COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 36114
+StateId 36114
+MCMXFF 
+DUNS 

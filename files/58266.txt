@@ -1,0 +1,9 @@
+LegalName THE STAR SUPPLY CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 58266
+StateId 58266
+MCMXFF 
+DUNS 

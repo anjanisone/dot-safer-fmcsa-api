@@ -1,0 +1,9 @@
+LegalName TUBULAR STEEL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 67772
+StateId 67772
+MCMXFF 
+DUNS 

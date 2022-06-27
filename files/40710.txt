@@ -1,0 +1,9 @@
+LegalName CUMBERLAND FOUNDRY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 40710
+StateId 40710
+MCMXFF 
+DUNS 

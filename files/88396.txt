@@ -1,0 +1,9 @@
+LegalName PPG INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 88396
+StateId 88396
+MCMXFF 
+DUNS 

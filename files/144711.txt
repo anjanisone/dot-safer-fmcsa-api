@@ -1,0 +1,9 @@
+LegalName D A STUART COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 144711
+StateId 144711
+MCMXFF 
+DUNS 

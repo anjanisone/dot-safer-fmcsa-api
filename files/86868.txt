@@ -1,0 +1,9 @@
+LegalName KILGORE FLARES COMPANY LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 86868
+StateId 86868
+MCMXFF 
+DUNS 

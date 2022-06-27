@@ -1,0 +1,9 @@
+LegalName SECOND STREET IRON METAL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 8814
+StateId 8814
+MCMXFF 
+DUNS 

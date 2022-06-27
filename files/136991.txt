@@ -1,0 +1,9 @@
+LegalName WILCO PEANUT CO LTD
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 136991
+StateId 136991
+MCMXFF 
+DUNS 

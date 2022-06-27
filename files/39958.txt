@@ -1,0 +1,9 @@
+LegalName SOUTHERN SCRAP CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 39958
+StateId 39958
+MCMXFF 
+DUNS 

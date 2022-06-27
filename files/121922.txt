@@ -1,0 +1,9 @@
+LegalName EASTERN MACHINERY MOVERS & ERECTORS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 121922
+StateId 121922
+MCMXFF 
+DUNS 

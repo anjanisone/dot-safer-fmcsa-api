@@ -1,0 +1,9 @@
+LegalName B-B PAINT CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 144342
+StateId 144342
+MCMXFF 
+DUNS 

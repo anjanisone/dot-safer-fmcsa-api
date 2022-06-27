@@ -1,0 +1,9 @@
+LegalName SHAWNEE MILLING COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 126471
+StateId 126471
+MCMXFF 
+DUNS 

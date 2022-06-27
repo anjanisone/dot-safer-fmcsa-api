@@ -1,0 +1,9 @@
+LegalName VERMILLION ELEVATOR INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 116382
+StateId 116382
+MCMXFF 
+DUNS 

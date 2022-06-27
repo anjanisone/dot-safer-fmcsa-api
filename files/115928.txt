@@ -1,0 +1,9 @@
+LegalName WICKSALL DISTRIBUTORS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 115928
+StateId 115928
+MCMXFF 
+DUNS 

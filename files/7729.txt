@@ -1,0 +1,9 @@
+LegalName TEAL CONSTRUCTION INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7729
+StateId 7729
+MCMXFF 
+DUNS 

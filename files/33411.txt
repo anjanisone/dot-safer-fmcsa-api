@@ -1,0 +1,9 @@
+LegalName DELAWARE QUARRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 33411
+StateId 33411
+MCMXFF 
+DUNS 

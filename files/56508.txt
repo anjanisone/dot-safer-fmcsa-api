@@ -1,0 +1,9 @@
+LegalName W A MURPHY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 56508
+StateId 56508
+MCMXFF 
+DUNS 

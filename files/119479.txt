@@ -1,0 +1,9 @@
+LegalName A & B WELDING SUPPLY CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 119479
+StateId 119479
+MCMXFF 
+DUNS 

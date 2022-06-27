@@ -1,0 +1,9 @@
+LegalName J D ABRAMS L P
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 74863
+StateId 74863
+MCMXFF 
+DUNS 

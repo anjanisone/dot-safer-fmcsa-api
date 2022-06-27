@@ -1,0 +1,9 @@
+LegalName LEAKE OIL COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 22402
+StateId 22402
+MCMXFF 
+DUNS 

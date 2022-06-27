@@ -1,0 +1,9 @@
+LegalName CAROLE INDUSTRIES INC
+DBAName CAROLE KITCHEN & BATH DESIGN
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 17924
+StateId 17924
+MCMXFF 
+DUNS 

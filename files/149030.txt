@@ -1,0 +1,9 @@
+LegalName JOHNSON DISTRIBUTING COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 149030
+StateId 149030
+MCMXFF 
+DUNS 

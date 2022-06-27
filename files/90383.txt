@@ -1,0 +1,9 @@
+LegalName MANNSVILLE SASH & DOOR CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 90383
+StateId 90383
+MCMXFF 
+DUNS 

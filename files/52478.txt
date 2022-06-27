@@ -1,0 +1,9 @@
+LegalName RUPE INDUSTRIES LLC
+DBAName JOHNSON INDUSTRIES
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 52478
+StateId 52478
+MCMXFF 
+DUNS 

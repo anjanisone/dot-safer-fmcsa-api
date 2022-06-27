@@ -1,0 +1,9 @@
+LegalName DIETZ AUTO AND TRUCK SALVAGE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 53516
+StateId 53516
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName ABC COMPOUNDING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 386
+StateId 386
+MCMXFF 
+DUNS 

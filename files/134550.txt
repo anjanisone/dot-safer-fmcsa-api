@@ -1,0 +1,9 @@
+LegalName FARMERS UNION COOPERATIVE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 134550
+StateId 134550
+MCMXFF 
+DUNS 

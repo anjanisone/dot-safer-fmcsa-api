@@ -1,0 +1,9 @@
+LegalName DAMAN INDUSTRIAL SERVICES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 51322
+StateId 51322
+MCMXFF 
+DUNS 

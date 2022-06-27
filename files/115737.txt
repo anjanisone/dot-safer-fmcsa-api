@@ -1,0 +1,9 @@
+LegalName LECO CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 115737
+StateId 115737
+MCMXFF 
+DUNS 

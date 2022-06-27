@@ -1,0 +1,9 @@
+LegalName BARRY COUNTY FARMERS COOPERATIVE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 70360
+StateId 70360
+MCMXFF 
+DUNS 

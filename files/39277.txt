@@ -1,0 +1,9 @@
+LegalName MID-SOUTH GLASS CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 39277
+StateId 39277
+MCMXFF 
+DUNS 

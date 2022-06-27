@@ -1,0 +1,9 @@
+LegalName MODERN WELDING CO OF CALIF INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 65413
+StateId 65413
+MCMXFF 
+DUNS 

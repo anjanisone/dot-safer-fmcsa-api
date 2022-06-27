@@ -1,0 +1,9 @@
+LegalName KENNEDY TANK & MANUFACTURING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93232
+StateId 93232
+MCMXFF 
+DUNS 

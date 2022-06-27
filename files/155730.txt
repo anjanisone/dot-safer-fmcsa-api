@@ -1,0 +1,9 @@
+LegalName FARMERS IMPLEMENT & IRRIGATION INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 155730
+StateId 155730
+MCMXFF 
+DUNS 

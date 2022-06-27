@@ -1,0 +1,9 @@
+LegalName TEAM INDUSTRIAL SERVICES INC
+DBAName TEAM OR DK AMANS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 106734
+StateId 106734
+MCMXFF 
+DUNS 

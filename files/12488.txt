@@ -1,0 +1,9 @@
+LegalName GLEN GERY CORPORATION
+DBAName GLEN-GERY MASONRY SUPPLY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 12488
+StateId 12488
+MCMXFF 
+DUNS 

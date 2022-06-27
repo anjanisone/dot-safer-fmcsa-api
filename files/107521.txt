@@ -1,0 +1,9 @@
+LegalName M G INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 107521
+StateId 107521
+MCMXFF 
+DUNS 

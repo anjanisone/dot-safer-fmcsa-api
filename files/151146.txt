@@ -1,0 +1,9 @@
+LegalName NAGEL MANUFACTURING & SUPPLY COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 151146
+StateId 151146
+MCMXFF 
+DUNS 

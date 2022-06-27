@@ -1,0 +1,9 @@
+LegalName EAST OHIO GAS COMPANY - DOMINION ENERGY OHIO
+DBAName DOMINION ENERGY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 72467
+StateId 72467
+MCMXFF 
+DUNS 

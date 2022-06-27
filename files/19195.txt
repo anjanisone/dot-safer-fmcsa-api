@@ -1,0 +1,9 @@
+LegalName EM CUMMINGS TRUCKING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 19195
+StateId 19195
+MCMXFF 
+DUNS 

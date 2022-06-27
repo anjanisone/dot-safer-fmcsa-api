@@ -1,0 +1,9 @@
+LegalName MODERN FIXTURE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 118817
+StateId 118817
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName WALLACE SUPPLY CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 145068
+StateId 145068
+MCMXFF 
+DUNS 

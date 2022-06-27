@@ -1,0 +1,9 @@
+LegalName MARYLAND CHEMICAL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 65205
+StateId 65205
+MCMXFF 
+DUNS 

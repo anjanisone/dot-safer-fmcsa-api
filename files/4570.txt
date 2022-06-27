@@ -1,0 +1,9 @@
+LegalName MARK STEEL CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 4570
+StateId 4570
+MCMXFF 
+DUNS 

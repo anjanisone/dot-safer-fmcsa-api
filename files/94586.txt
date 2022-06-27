@@ -1,0 +1,9 @@
+LegalName SCHENCK FOODS COMPANY INCORPERATED
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 94586
+StateId 94586
+MCMXFF 
+DUNS 

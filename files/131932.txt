@@ -1,0 +1,9 @@
+LegalName VIKING CHEMICAL COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 131932
+StateId 131932
+MCMXFF 
+DUNS 

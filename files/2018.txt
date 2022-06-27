@@ -1,0 +1,9 @@
+LegalName BELT SALVAGE COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 2018
+StateId 2018
+MCMXFF 
+DUNS 

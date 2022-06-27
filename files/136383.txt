@@ -1,0 +1,9 @@
+LegalName WRIGHT DISTRIBUTION COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 136383
+StateId 136383
+MCMXFF 
+DUNS 

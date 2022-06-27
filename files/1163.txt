@@ -1,0 +1,9 @@
+LegalName WALLOVER OIL COMPANY INCORPORATED
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 1163
+StateId 1163
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName SPOKANE WILBERT VAULT COMPANY
+DBAName WILBERT PRECAST INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 67526
+StateId 67526
+MCMXFF 
+DUNS 

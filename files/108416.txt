@@ -1,0 +1,9 @@
+LegalName HENDRIX-BARNHILL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 108416
+StateId 108416
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName SUMMERS MANUFACTURING COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 36105
+StateId 36105
+MCMXFF 
+DUNS 

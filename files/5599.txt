@@ -1,0 +1,9 @@
+LegalName BAG PROCESSORS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 5599
+StateId 5599
+MCMXFF 
+DUNS 

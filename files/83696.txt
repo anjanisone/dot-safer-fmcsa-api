@@ -1,0 +1,9 @@
+LegalName AUTOMATED PRODUCTS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 83696
+StateId 83696
+MCMXFF 
+DUNS 

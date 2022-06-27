@@ -1,0 +1,9 @@
+LegalName GOLD STAR FS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 152580
+StateId 152580
+MCMXFF 
+DUNS 

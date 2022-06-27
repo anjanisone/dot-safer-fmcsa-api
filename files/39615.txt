@@ -1,0 +1,9 @@
+LegalName EXXONMOBIL CORPORATION
+DBAName EXXONMOBIL CHEMICAL FILMS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 39615
+StateId 39615
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName SQUIBB TANK CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 100652
+StateId 100652
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName GETTEL & CO-SEBEWAING
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 133776
+StateId 133776
+MCMXFF 
+DUNS 

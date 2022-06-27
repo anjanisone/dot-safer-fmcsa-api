@@ -1,0 +1,9 @@
+LegalName SCOTT'S CORNER MARKET INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 19582
+StateId 19582
+MCMXFF 
+DUNS 

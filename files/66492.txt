@@ -1,0 +1,9 @@
+LegalName FOAM FABRICATORS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 66492
+StateId 66492
+MCMXFF 
+DUNS 

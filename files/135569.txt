@@ -1,0 +1,9 @@
+LegalName PARAMOUNT SUPPLY COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 135569
+StateId 135569
+MCMXFF 
+DUNS 

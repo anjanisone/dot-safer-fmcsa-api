@@ -1,0 +1,9 @@
+LegalName DALE PAGE
+DBAName DALE PAGE LIVESTOCK
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 148968
+StateId 148968
+MCMXFF 
+DUNS 

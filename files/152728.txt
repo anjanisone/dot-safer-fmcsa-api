@@ -1,0 +1,9 @@
+LegalName MARTINS POTATO CHIPS INC
+DBAName MARTINS SNACKS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 152728
+StateId 152728
+MCMXFF 
+DUNS 

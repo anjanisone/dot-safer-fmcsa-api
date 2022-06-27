@@ -1,0 +1,9 @@
+LegalName TRI-STATE DRILLING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 124973
+StateId 124973
+MCMXFF 
+DUNS 

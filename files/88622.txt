@@ -1,0 +1,9 @@
+LegalName PARROTT EQUIPMENT COMPANY
+DBAName AG PARROTT COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 88622
+StateId 88622
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName LEWIS DRUGS INC
+DBAName LEWIS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 12952
+StateId 12952
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName PROVIDENCE METALLIZING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 16996
+StateId 16996
+MCMXFF 
+DUNS 

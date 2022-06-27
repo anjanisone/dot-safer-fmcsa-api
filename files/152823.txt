@@ -1,0 +1,9 @@
+LegalName VULCAN INC
+DBAName 
+PhysicalAddress BOX 1850 FOLEY, AL   36536
+Phone (205) 943-1541
+MailingAddress BOX 1850 FOLEY, AL   36536
+DOTNumber 152823
+StateId 152823
+MCMXFF 
+DUNS 

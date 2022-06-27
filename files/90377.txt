@@ -1,0 +1,9 @@
+LegalName MAC MANUFACTURING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 90377
+StateId 90377
+MCMXFF 
+DUNS 

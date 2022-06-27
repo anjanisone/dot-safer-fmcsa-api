@@ -1,0 +1,9 @@
+LegalName MESMER FERTILIZER INC
+DBAName 
+PhysicalAddress 168 W 1ST BETHEL, MO   63434
+Phone (660) 284-6625
+MailingAddress 168 W 1ST BETHEL, MO   63434
+DOTNumber 66062
+StateId 66062
+MCMXFF 
+DUNS 

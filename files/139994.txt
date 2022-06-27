@@ -1,0 +1,9 @@
+LegalName LOEFFLER SHOES LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 139994
+StateId 139994
+MCMXFF 
+DUNS 

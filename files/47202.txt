@@ -1,0 +1,9 @@
+LegalName ATLAS ELECTRIC SUPPLIES
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 47202
+StateId 47202
+MCMXFF 
+DUNS 

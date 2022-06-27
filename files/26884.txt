@@ -1,0 +1,9 @@
+LegalName MAL-O-SEN-CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 26884
+StateId 26884
+MCMXFF 
+DUNS 

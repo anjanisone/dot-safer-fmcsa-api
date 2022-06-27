@@ -1,0 +1,9 @@
+LegalName OZARK STEEL FABRICATORS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 77643
+StateId 77643
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName GLOBE DIE CUTTING PRODUCTS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 31863
+StateId 31863
+MCMXFF 
+DUNS 

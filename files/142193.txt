@@ -1,0 +1,9 @@
+LegalName PHILLIPS BUILDING SUPPLY GULFPORT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 142193
+StateId 142193
+MCMXFF 
+DUNS 

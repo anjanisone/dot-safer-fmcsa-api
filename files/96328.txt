@@ -1,0 +1,9 @@
+LegalName BULL MOOSE TUBE COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 96328
+StateId 96328
+MCMXFF 
+DUNS 

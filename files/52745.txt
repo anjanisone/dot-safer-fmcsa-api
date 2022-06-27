@@ -1,0 +1,9 @@
+LegalName ALEXANDRIA COCA-COLA
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 52745
+StateId 52745
+MCMXFF 
+DUNS 

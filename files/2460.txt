@@ -1,0 +1,9 @@
+LegalName RHODES TRUCKING CORPORATION
+DBAName RHODES BRICK & BLOCK COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 2460
+StateId 2460
+MCMXFF 
+DUNS 

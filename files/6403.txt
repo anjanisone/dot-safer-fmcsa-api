@@ -1,0 +1,9 @@
+LegalName DOWAL PLUMBING SUPPLY COMPANY INC
+DBAName JD JOHNSON COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 6403
+StateId 6403
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName CHEMICALS INC USA
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 77038
+StateId 77038
+MCMXFF 
+DUNS 

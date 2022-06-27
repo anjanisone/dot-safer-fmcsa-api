@@ -1,0 +1,9 @@
+LegalName THE SALVATION ARMY AN ILLINOIS CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 50571
+StateId 50571
+MCMXFF 
+DUNS 

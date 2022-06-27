@@ -1,0 +1,9 @@
+LegalName O A NEWTON & SON CO
+DBAName O A NEWTON
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 64881
+StateId 64881
+MCMXFF 
+DUNS 

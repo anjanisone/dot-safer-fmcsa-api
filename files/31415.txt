@@ -1,0 +1,9 @@
+LegalName BANCROFT BARRELL CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 31415
+StateId 31415
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName MARGALA AND SONS
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 44193
+StateId 44193
+MCMXFF 
+DUNS 

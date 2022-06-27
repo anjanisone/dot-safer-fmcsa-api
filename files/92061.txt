@@ -1,0 +1,9 @@
+LegalName WASTE MANAGEMENT OF KENTUCKY LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 92061
+StateId 92061
+MCMXFF 
+DUNS 

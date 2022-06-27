@@ -1,0 +1,9 @@
+LegalName FLYNN BEVERAGE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 45423
+StateId 45423
+MCMXFF 
+DUNS 

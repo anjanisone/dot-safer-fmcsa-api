@@ -1,0 +1,9 @@
+LegalName DITTMAR LUMBER CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 136267
+StateId 136267
+MCMXFF 
+DUNS 

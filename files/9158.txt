@@ -1,0 +1,9 @@
+LegalName BATH IRON WORKS CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 9158
+StateId 9158
+MCMXFF 
+DUNS 

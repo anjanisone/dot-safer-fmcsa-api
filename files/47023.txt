@@ -1,0 +1,9 @@
+LegalName VITA PLUS CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 47023
+StateId 47023
+MCMXFF 
+DUNS 

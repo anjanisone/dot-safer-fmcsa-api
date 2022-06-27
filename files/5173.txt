@@ -1,0 +1,9 @@
+LegalName MCNEIL SALES & SERVICE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 5173
+StateId 5173
+MCMXFF 
+DUNS 

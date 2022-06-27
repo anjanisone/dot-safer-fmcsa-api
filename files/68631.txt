@@ -1,0 +1,9 @@
+LegalName HALBERT PIPE & STEEL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 68631
+StateId 68631
+MCMXFF 
+DUNS 

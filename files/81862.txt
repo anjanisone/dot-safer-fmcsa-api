@@ -1,0 +1,9 @@
+LegalName DTECINC
+DBAName DETROIT TOOL AND ENGINEERING
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 81862
+StateId 81862
+MCMXFF 
+DUNS 

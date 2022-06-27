@@ -1,0 +1,9 @@
+LegalName SENECA BEVERAGE CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 148229
+StateId 148229
+MCMXFF 
+DUNS 

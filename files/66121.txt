@@ -1,0 +1,9 @@
+LegalName OLD MONROE ELEVATOR & SUPPLY COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 66121
+StateId 66121
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName ALLEGHENY CONSTRUCTION CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 111108
+StateId 111108
+MCMXFF 
+DUNS 

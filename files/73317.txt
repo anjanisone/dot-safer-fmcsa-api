@@ -1,0 +1,9 @@
+LegalName CRAFTS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 73317
+StateId 73317
+MCMXFF 
+DUNS 

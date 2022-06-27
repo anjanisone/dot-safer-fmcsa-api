@@ -1,0 +1,9 @@
+LegalName CLARE ROSE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 5960
+StateId 5960
+MCMXFF 
+DUNS 

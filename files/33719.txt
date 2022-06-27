@@ -1,0 +1,9 @@
+LegalName DIAMOND CHEMICAL & SUPPLY CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 33719
+StateId 33719
+MCMXFF 
+DUNS 

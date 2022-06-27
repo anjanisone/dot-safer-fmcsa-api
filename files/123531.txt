@@ -1,0 +1,9 @@
+LegalName WITTICHEN SUPPLY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 123531
+StateId 123531
+MCMXFF 
+DUNS 

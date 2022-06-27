@@ -1,0 +1,9 @@
+LegalName RURAL ELECTRIC SUPPLY COOPERATIVE INC
+DBAName RESCO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 46831
+StateId 46831
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName DEE PAPER CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 5347
+StateId 5347
+MCMXFF 
+DUNS 

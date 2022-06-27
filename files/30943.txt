@@ -1,0 +1,9 @@
+LegalName ATLAS PAPER COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 30943
+StateId 30943
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName MATTATUCK INDUSTRIAL SCRAP METAL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 147665
+StateId 147665
+MCMXFF 
+DUNS 

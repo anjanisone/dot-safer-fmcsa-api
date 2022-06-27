@@ -1,0 +1,9 @@
+LegalName WESTERN NY OFFSET PRE
+DBAName COLOR GRAPHIC WEB OFFSET PRINTING
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 151417
+StateId 151417
+MCMXFF 
+DUNS 

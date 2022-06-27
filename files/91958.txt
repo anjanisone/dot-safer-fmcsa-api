@@ -1,0 +1,9 @@
+LegalName SCOTT TOBACCO COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 91958
+StateId 91958
+MCMXFF 
+DUNS 

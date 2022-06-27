@@ -1,0 +1,9 @@
+LegalName SOUTHWEST GAS CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 41370
+StateId 41370
+MCMXFF 
+DUNS 

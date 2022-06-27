@@ -1,0 +1,9 @@
+LegalName STAHL MANUFACTURING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 100857
+StateId 100857
+MCMXFF 
+DUNS 

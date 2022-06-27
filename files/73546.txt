@@ -1,0 +1,9 @@
+LegalName FOOD GIANT SUPERMARKETS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 73546
+StateId 73546
+MCMXFF 
+DUNS 

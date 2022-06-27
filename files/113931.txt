@@ -1,0 +1,9 @@
+LegalName ENBRIDGE ENERGY LIMITED PARTNERSHIP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 113931
+StateId 113931
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName POWELL DISTRIBUTING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 10000
+StateId 10000
+MCMXFF 
+DUNS 

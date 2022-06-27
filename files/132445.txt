@@ -1,0 +1,9 @@
+LegalName GOLD ENTERPRISES INC
+DBAName EL-RAY TRUCK STOP
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 132445
+StateId 132445
+MCMXFF 
+DUNS 

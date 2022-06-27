@@ -1,0 +1,9 @@
+LegalName DELAWARE VALLEY STEEL A DIV OF SR METALS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 5352
+StateId 5352
+MCMXFF 
+DUNS 

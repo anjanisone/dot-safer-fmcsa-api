@@ -1,0 +1,9 @@
+LegalName BADGER METER INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 156488
+StateId 156488
+MCMXFF 
+DUNS 

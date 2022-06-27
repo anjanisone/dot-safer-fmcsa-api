@@ -1,0 +1,9 @@
+LegalName CONNECTICUT EXPLOSIVES COMPANY INC
+DBAName CTEXCO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 143830
+StateId 143830
+MCMXFF 
+DUNS 

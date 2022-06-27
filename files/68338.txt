@@ -1,0 +1,9 @@
+LegalName VANCE CUPP & SONS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 68338
+StateId 68338
+MCMXFF 
+DUNS 

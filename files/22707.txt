@@ -1,0 +1,9 @@
+LegalName BACHMAN'S INC
+DBAName BACHMANS FLORAL GIFT AND GARDEN
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 22707
+StateId 22707
+MCMXFF 
+DUNS 

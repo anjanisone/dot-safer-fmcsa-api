@@ -1,0 +1,9 @@
+LegalName ROCKWELL AUTOMATION INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 83664
+StateId 83664
+MCMXFF 
+DUNS 

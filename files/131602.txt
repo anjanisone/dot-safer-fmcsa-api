@@ -1,0 +1,9 @@
+LegalName JAMES CANDY COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 131602
+StateId 131602
+MCMXFF 
+DUNS 

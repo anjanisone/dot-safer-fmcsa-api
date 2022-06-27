@@ -1,0 +1,9 @@
+LegalName BRADLEY IRON WORKS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 53738
+StateId 53738
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName MCFARLANDS MILL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 32643
+StateId 32643
+MCMXFF 
+DUNS 

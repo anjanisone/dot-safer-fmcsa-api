@@ -1,0 +1,9 @@
+LegalName RICHGAS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 55955
+StateId 55955
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName BLACK'S TIRE SERVICE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 83841
+StateId 83841
+MCMXFF 
+DUNS 

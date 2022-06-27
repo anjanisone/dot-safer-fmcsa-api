@@ -1,0 +1,9 @@
+LegalName MEADOR PRODUCTS INC
+DBAName TAYLOR FOUNDRY COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 22884
+StateId 22884
+MCMXFF 
+DUNS 

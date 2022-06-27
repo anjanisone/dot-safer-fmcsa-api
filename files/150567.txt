@@ -1,0 +1,9 @@
+LegalName J J FERGUSON TRANSPORTERS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 150567
+StateId 150567
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName MARINE TRAVELIFT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 100038
+StateId 100038
+MCMXFF 
+DUNS 

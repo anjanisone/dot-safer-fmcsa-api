@@ -1,0 +1,9 @@
+LegalName LAMANTIA PRODUCE LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 35177
+StateId 35177
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName SLINGER MANUFACTURING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 46461
+StateId 46461
+MCMXFF 
+DUNS 

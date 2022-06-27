@@ -1,0 +1,9 @@
+LegalName VALLEY TRACTOR & EQUIPMENT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 155022
+StateId 155022
+MCMXFF 
+DUNS 

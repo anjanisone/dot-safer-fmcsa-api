@@ -1,0 +1,9 @@
+LegalName FRANKLIN IRON & METAL CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 81325
+StateId 81325
+MCMXFF 
+DUNS 

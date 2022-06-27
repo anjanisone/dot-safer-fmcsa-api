@@ -1,0 +1,9 @@
+LegalName JAMES R WOOD & VIRGINIA J
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 129153
+StateId 129153
+MCMXFF 
+DUNS 

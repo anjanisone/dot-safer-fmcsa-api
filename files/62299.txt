@@ -1,0 +1,9 @@
+LegalName VANCE CORP
+DBAName VANCE DAIRY CONST
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 62299
+StateId 62299
+MCMXFF 
+DUNS 

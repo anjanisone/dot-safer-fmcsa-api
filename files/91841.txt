@@ -1,0 +1,9 @@
+LegalName GEORGE W REAGAN COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 91841
+StateId 91841
+MCMXFF 
+DUNS 

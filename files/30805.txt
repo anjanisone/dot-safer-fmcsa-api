@@ -1,0 +1,9 @@
+LegalName N KAMENSKE & CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 30805
+StateId 30805
+MCMXFF 
+DUNS 

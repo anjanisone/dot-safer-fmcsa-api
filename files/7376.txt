@@ -1,0 +1,9 @@
+LegalName NIX ELECTRIC CO
+DBAName TRANSFORMER REPAIR
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7376
+StateId 7376
+MCMXFF 
+DUNS 

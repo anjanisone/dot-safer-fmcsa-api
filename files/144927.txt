@@ -1,0 +1,9 @@
+LegalName THE BOLDT COMPANY
+DBAName OSCAR J BOLDT CONSTRUCTION COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 144927
+StateId 144927
+MCMXFF 
+DUNS 

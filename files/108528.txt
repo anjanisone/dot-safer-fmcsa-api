@@ -1,0 +1,9 @@
+LegalName LIBBY HILL SEAFOOD RESTAURANTS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 108528
+StateId 108528
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName JULIUS ROEHRS COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 9061
+StateId 9061
+MCMXFF 
+DUNS 

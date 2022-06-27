@@ -1,0 +1,9 @@
+LegalName FOWLER NURSERIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 117952
+StateId 117952
+MCMXFF 
+DUNS 

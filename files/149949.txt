@@ -1,0 +1,9 @@
+LegalName TOYS SCRAP & SALVAGE CORP
+DBAName NORTHERN METAL RECYCLING
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 149949
+StateId 149949
+MCMXFF 
+DUNS 

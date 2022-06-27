@@ -1,0 +1,9 @@
+LegalName ASSOCIATED GLASS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 22691
+StateId 22691
+MCMXFF 
+DUNS 

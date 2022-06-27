@@ -1,0 +1,9 @@
+LegalName ADAM ROSS CUT STONE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 31653
+StateId 31653
+MCMXFF 
+DUNS 

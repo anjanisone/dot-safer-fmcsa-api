@@ -1,0 +1,9 @@
+LegalName PARAMOUNT INDUSTRIAL COMPANIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 110330
+StateId 110330
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName GALLUP LUMBER & SUPPLY CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 73046
+StateId 73046
+MCMXFF 
+DUNS 

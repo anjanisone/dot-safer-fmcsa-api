@@ -1,0 +1,9 @@
+LegalName OVERHEAD DOOR CO OFHASTING
+DBAName MID NEBRASKA INDUSTRIES
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 68070
+StateId 68070
+MCMXFF 
+DUNS 

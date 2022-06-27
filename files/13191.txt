@@ -1,0 +1,9 @@
+LegalName TWIN CITY METALS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 13191
+StateId 13191
+MCMXFF 
+DUNS 

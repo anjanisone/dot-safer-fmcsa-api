@@ -1,0 +1,9 @@
+LegalName EVERETT TANNER
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 19507
+StateId 19507
+MCMXFF 
+DUNS 

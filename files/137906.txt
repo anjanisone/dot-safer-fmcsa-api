@@ -1,0 +1,9 @@
+LegalName DIAMOND VOGEL PAINT CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 137906
+StateId 137906
+MCMXFF 
+DUNS 

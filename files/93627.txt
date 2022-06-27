@@ -1,0 +1,9 @@
+LegalName MIDDLEBURY PRODUCE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93627
+StateId 93627
+MCMXFF 
+DUNS 

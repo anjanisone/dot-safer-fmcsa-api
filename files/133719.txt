@@ -1,0 +1,9 @@
+LegalName JANTZ AUTO SALES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 133719
+StateId 133719
+MCMXFF 
+DUNS 

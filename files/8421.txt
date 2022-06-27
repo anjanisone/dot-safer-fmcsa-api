@@ -1,0 +1,9 @@
+LegalName INSULATION & REFRACTORIES SERVICES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 8421
+StateId 8421
+MCMXFF 
+DUNS 

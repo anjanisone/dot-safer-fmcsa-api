@@ -1,0 +1,9 @@
+LegalName MIDLAND MANUFACTURING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 87412
+StateId 87412
+MCMXFF 
+DUNS 

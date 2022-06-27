@@ -1,0 +1,9 @@
+LegalName COASTAL AGROBUSINESS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 154383
+StateId 154383
+MCMXFF 
+DUNS 

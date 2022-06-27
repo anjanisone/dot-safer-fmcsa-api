@@ -1,0 +1,9 @@
+LegalName HENNINGSEN CONST INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 72074
+StateId 72074
+MCMXFF 
+DUNS 

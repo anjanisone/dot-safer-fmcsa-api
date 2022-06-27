@@ -1,0 +1,9 @@
+LegalName SOUTHEASTERN METALS MFG CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 125719
+StateId 125719
+MCMXFF 
+DUNS 

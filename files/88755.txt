@@ -1,0 +1,9 @@
+LegalName WHEELING LINEN SERVICE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 88755
+StateId 88755
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName ABELE TRACTOR & EQUIPMENT CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 54681
+StateId 54681
+MCMXFF 
+DUNS 

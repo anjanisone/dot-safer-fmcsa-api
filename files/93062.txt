@@ -1,0 +1,9 @@
+LegalName M & H FABRICATING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93062
+StateId 93062
+MCMXFF MC-138851
+DUNS MC-138851

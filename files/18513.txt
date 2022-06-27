@@ -1,0 +1,9 @@
+LegalName VIRGINIA & SPANISH PEANUT CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 18513
+StateId 18513
+MCMXFF 
+DUNS 

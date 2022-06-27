@@ -1,0 +1,9 @@
+LegalName TARHEEL WOOD TREATING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 91669
+StateId 91669
+MCMXFF 
+DUNS 

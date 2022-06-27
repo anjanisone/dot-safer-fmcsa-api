@@ -1,0 +1,9 @@
+LegalName VERMEER OF INDIANA INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 147530
+StateId 147530
+MCMXFF 
+DUNS 

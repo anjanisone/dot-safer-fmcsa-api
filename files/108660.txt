@@ -1,0 +1,9 @@
+LegalName HUGH BRAXTON POWELL JR
+DBAName POWELL LIVESTOCK
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 108660
+StateId 108660
+MCMXFF 
+DUNS 

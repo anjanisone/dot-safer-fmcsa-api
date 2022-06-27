@@ -1,0 +1,9 @@
+LegalName HAUTLY CHEESE COMPANY OF KANSAS CITY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 128588
+StateId 128588
+MCMXFF 
+DUNS 

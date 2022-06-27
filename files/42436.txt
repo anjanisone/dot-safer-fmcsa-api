@@ -1,0 +1,9 @@
+LegalName KARAS & KARAS GLASS CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 42436
+StateId 42436
+MCMXFF 
+DUNS 

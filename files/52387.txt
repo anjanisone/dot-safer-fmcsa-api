@@ -1,0 +1,9 @@
+LegalName LASALLE BRISTOL LP
+DBAName CORPORATE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 52387
+StateId 52387
+MCMXFF 
+DUNS 

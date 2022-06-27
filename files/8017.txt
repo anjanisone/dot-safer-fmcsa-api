@@ -1,0 +1,9 @@
+LegalName ALLIANCE TRACTOR & IMPLEMENT CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 8017
+StateId 8017
+MCMXFF 
+DUNS 

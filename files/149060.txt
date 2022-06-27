@@ -1,0 +1,9 @@
+LegalName WACO SCAFFOLDING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 149060
+StateId 149060
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName ABBOTT LABORATORIES
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 76206
+StateId 76206
+MCMXFF 
+DUNS 

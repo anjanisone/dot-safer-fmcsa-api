@@ -1,0 +1,9 @@
+LegalName WILLIAM D HUCKSTEP
+DBAName HUCKSTEP HOUSE MOVERS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 62362
+StateId 62362
+MCMXFF 
+DUNS 

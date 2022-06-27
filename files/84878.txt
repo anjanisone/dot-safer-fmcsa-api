@@ -1,0 +1,9 @@
+LegalName PECHTER INC
+DBAName ALTOONA PIPE & STEEL SUPPLY CO & CUMBERLAND PIPE & STEEL SUPPLY CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 84878
+StateId 84878
+MCMXFF 
+DUNS 

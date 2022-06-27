@@ -1,0 +1,9 @@
+LegalName CURTIS STEEL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 60870
+StateId 60870
+MCMXFF 
+DUNS 

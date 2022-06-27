@@ -1,0 +1,9 @@
+LegalName APOLLO TEXTILES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 152929
+StateId 152929
+MCMXFF 
+DUNS 

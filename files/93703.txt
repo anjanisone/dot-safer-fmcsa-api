@@ -1,0 +1,9 @@
+LegalName VERTELLUS AGRICULTURE AND NUTRITION SPECIALTIES LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93703
+StateId 93703
+MCMXFF 
+DUNS 

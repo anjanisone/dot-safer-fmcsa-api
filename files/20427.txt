@@ -1,0 +1,9 @@
+LegalName METALLIC LADDER MFG CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 20427
+StateId 20427
+MCMXFF 
+DUNS 

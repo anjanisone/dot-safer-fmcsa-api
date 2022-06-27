@@ -1,0 +1,9 @@
+LegalName CELLOFOAM NORTH AMERICA INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 58690
+StateId 58690
+MCMXFF 
+DUNS 

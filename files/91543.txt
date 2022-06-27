@@ -1,0 +1,9 @@
+LegalName SOUTHERN METAL RECYCLING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 91543
+StateId 91543
+MCMXFF 
+DUNS 

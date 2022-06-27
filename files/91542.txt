@@ -1,0 +1,9 @@
+LegalName SOUTHCO INCORPORATED OF NORTH CAROLINA
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 91542
+StateId 91542
+MCMXFF 
+DUNS 

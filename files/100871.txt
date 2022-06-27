@@ -1,0 +1,9 @@
+LegalName BIG POINT STEEL LTD
+DBAName SUPERIOR PRODUCTS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 100871
+StateId 100871
+MCMXFF 
+DUNS 

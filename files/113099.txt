@@ -1,0 +1,9 @@
+LegalName CHUDY PAPER CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 113099
+StateId 113099
+MCMXFF 
+DUNS 

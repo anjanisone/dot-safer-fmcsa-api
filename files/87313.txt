@@ -1,0 +1,9 @@
+LegalName BARBER FURNITURE COMPANY INC
+DBAName BARBER HOME FURNISHINGS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 87313
+StateId 87313
+MCMXFF 
+DUNS 

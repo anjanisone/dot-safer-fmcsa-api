@@ -1,0 +1,9 @@
+LegalName EL PASO NATURAL GAS COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 74895
+StateId 74895
+MCMXFF 
+DUNS 

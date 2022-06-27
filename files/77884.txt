@@ -1,0 +1,9 @@
+LegalName SIMON SIGN ERECTION COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 77884
+StateId 77884
+MCMXFF 
+DUNS 

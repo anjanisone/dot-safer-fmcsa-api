@@ -1,0 +1,9 @@
+LegalName SOUTHERN STATES OAKLAND COOPERATIVE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 118815
+StateId 118815
+MCMXFF 
+DUNS 

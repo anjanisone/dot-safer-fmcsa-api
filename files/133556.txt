@@ -1,0 +1,9 @@
+LegalName GERALD A BARRETT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 133556
+StateId 133556
+MCMXFF 
+DUNS 

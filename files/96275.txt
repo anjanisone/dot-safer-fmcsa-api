@@ -1,0 +1,9 @@
+LegalName AYERS OIL CO
+DBAName 
+PhysicalAddress 610 N 4TH ST CANTON, MO   63435
+Phone (573) 288-4464
+MailingAddress 610 N 4TH ST CANTON, MO   63435
+DOTNumber 96275
+StateId 96275
+MCMXFF 
+DUNS 

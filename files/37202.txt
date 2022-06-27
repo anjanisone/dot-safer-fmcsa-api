@@ -1,0 +1,9 @@
+LegalName YOUNG ELECTRIC SIGN COMPANY
+DBAName YESCO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 37202
+StateId 37202
+MCMXFF 
+DUNS 

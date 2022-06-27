@@ -1,0 +1,9 @@
+LegalName COBURN SUPPLY COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 115058
+StateId 115058
+MCMXFF 
+DUNS 

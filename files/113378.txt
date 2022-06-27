@@ -1,0 +1,9 @@
+LegalName HOLCIM-SOR INC
+DBAName TARRANT CONCRETE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 113378
+StateId 113378
+MCMXFF 
+DUNS 

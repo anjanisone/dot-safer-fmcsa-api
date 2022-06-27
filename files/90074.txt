@@ -1,0 +1,9 @@
+LegalName BARTLETT COOPERATIVE ASSOCIATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 90074
+StateId 90074
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName WARREN FABRICATING CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 155822
+StateId 155822
+MCMXFF 
+DUNS 

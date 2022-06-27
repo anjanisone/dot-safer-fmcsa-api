@@ -1,0 +1,9 @@
+LegalName COLLINS TRUMAN
+DBAName 
+PhysicalAddress RT 2  BOX 282 RAGLEY, LA   70657
+Phone 
+MailingAddress RT 2  BOX 282 RAGLEY, LA   70657
+DOTNumber 36631
+StateId 36631
+MCMXFF 
+DUNS 

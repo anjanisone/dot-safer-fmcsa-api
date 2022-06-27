@@ -1,0 +1,9 @@
+LegalName SIERRITA MINING & RANCHING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 54275
+StateId 54275
+MCMXFF 
+DUNS 

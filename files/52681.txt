@@ -1,0 +1,9 @@
+LegalName SHICK SOLUTIONS INC
+DBAName SHICK ESTEVE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 52681
+StateId 52681
+MCMXFF 
+DUNS 

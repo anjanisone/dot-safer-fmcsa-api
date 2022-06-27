@@ -1,0 +1,9 @@
+LegalName SNAPPY POPCORN CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 69896
+StateId 69896
+MCMXFF 
+DUNS 

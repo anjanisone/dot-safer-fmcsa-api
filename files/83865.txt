@@ -1,0 +1,9 @@
+LegalName BOONE'S ANTIQUES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 83865
+StateId 83865
+MCMXFF 
+DUNS 

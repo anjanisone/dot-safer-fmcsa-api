@@ -1,0 +1,9 @@
+LegalName BENNER & SPENCER CO INC
+DBAName RUDL FENCING & DECKING
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 17137
+StateId 17137
+MCMXFF 
+DUNS 

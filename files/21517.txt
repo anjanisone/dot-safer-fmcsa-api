@@ -1,0 +1,9 @@
+LegalName W T WAGGONER ESTATE
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 21517
+StateId 21517
+MCMXFF 
+DUNS 

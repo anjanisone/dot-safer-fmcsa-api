@@ -1,0 +1,9 @@
+LegalName AMERICAN WHOLESALE GROCERY INC
+DBAName AMERICAN FOODS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 92275
+StateId 92275
+MCMXFF 
+DUNS 

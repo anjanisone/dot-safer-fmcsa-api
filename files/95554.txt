@@ -1,0 +1,9 @@
+LegalName GREEN ACRES MOBILE HOMES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 95554
+StateId 95554
+MCMXFF 
+DUNS 

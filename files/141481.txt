@@ -1,0 +1,9 @@
+LegalName ST JOSEPH TRACTOR INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 141481
+StateId 141481
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName PALLETS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 101804
+StateId 101804
+MCMXFF 
+DUNS 

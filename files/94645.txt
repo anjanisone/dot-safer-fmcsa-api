@@ -1,0 +1,9 @@
+LegalName DUNCAN OIL COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 94645
+StateId 94645
+MCMXFF 
+DUNS 

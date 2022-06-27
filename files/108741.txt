@@ -1,0 +1,9 @@
+LegalName HARRISON POULTRY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 108741
+StateId 108741
+MCMXFF 
+DUNS 

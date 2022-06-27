@@ -1,0 +1,9 @@
+LegalName CONSTELLATION BRANDS INC
+DBAName CANANDAIGUA WINE COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 54472
+StateId 54472
+MCMXFF 
+DUNS 

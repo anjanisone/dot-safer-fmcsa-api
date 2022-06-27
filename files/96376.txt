@@ -1,0 +1,9 @@
+LegalName DANUSER MACHINE COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 96376
+StateId 96376
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName VENTURA GRAIN CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 15150
+StateId 15150
+MCMXFF 
+DUNS 

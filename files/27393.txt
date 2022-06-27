@@ -1,0 +1,9 @@
+LegalName MODERN FURNITURE & APPLIANCE
+DBAName WOODYS FURNITURE & APPLIANCE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 27393
+StateId 27393
+MCMXFF 
+DUNS 

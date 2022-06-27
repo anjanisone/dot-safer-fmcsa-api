@@ -1,0 +1,9 @@
+LegalName COMMERCE INDUSTRIAL CHEMICALS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 82702
+StateId 82702
+MCMXFF 
+DUNS 

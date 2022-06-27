@@ -1,0 +1,9 @@
+LegalName ENDEAVOR FARMS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 16443
+StateId 16443
+MCMXFF 
+DUNS 

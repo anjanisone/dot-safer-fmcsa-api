@@ -1,0 +1,9 @@
+LegalName BEACHLEY FURNITURE COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 120851
+StateId 120851
+MCMXFF 
+DUNS 

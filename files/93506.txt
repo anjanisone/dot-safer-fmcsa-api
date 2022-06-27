@@ -1,0 +1,9 @@
+LegalName OVERPECK GAS CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93506
+StateId 93506
+MCMXFF 
+DUNS 

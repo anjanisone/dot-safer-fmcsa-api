@@ -1,0 +1,9 @@
+LegalName BEAR CREEK RANCH
+DBAName GRESSEL OIL FIELD SERVICE LLC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 129702
+StateId 129702
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName BENJAMIN M GANTT
+DBAName 
+PhysicalAddress ROUTE 2  BOX 94 VALE, NC   28168
+Phone (704) 276-1215
+MailingAddress ROUTE 2  BOX 94 VALE, NC   28168
+DOTNumber 147435
+StateId 147435
+MCMXFF 
+DUNS 

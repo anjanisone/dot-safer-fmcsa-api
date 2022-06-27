@@ -1,0 +1,9 @@
+LegalName FORD MOTOR COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 114804
+StateId 114804
+MCMXFF 
+DUNS 

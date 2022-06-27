@@ -1,0 +1,9 @@
+LegalName UNITED ELECTRIC SUPPLY COMPANY INC
+DBAName UNITED ELECTRIC SUPPLY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7755
+StateId 7755
+MCMXFF 
+DUNS 

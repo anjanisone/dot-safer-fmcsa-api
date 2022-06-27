@@ -1,0 +1,9 @@
+LegalName R S OSGOOD AND SONS
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 50790
+StateId 50790
+MCMXFF 
+DUNS 

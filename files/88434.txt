@@ -1,0 +1,9 @@
+LegalName MAX ENVIRONMENTAL TECHNOLOGIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 88434
+StateId 88434
+MCMXFF 
+DUNS 

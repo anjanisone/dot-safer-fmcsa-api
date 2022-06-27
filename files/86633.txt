@@ -1,0 +1,9 @@
+LegalName COFFEE ASSOCIATES
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 86633
+StateId 86633
+MCMXFF 
+DUNS 

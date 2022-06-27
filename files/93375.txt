@@ -1,0 +1,9 @@
+LegalName THE KAY COMPANY INC
+DBAName KAYCO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93375
+StateId 93375
+MCMXFF 
+DUNS 

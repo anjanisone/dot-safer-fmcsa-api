@@ -1,0 +1,9 @@
+LegalName LAMB & WEBSTER INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 20508
+StateId 20508
+MCMXFF 
+DUNS 

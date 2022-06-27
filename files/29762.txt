@@ -1,0 +1,9 @@
+LegalName STURGEON ELECTRIC COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 29762
+StateId 29762
+MCMXFF 
+DUNS 

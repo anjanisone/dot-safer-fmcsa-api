@@ -1,0 +1,9 @@
+LegalName AMWOOD HOMES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 130651
+StateId 130651
+MCMXFF 
+DUNS 

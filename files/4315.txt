@@ -1,0 +1,9 @@
+LegalName VECELLIO & GROGAN INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 4315
+StateId 4315
+MCMXFF 
+DUNS 

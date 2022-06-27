@@ -1,0 +1,9 @@
+LegalName BEAUFORT FEED & EXPRESS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 96292
+StateId 96292
+MCMXFF 
+DUNS 

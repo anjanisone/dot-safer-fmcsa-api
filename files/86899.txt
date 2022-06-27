@@ -1,0 +1,9 @@
+LegalName BELL LIQUEFIED GAS CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 86899
+StateId 86899
+MCMXFF 
+DUNS 

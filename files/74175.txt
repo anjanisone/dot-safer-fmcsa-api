@@ -1,0 +1,9 @@
+LegalName IRVING RUBBER & METAL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 74175
+StateId 74175
+MCMXFF 
+DUNS 

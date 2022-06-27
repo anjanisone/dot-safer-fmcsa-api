@@ -1,0 +1,9 @@
+LegalName WICHITA WELDING SUPPLY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 60362
+StateId 60362
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName BACKERS POTATO CHIP COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 128192
+StateId 128192
+MCMXFF 
+DUNS 

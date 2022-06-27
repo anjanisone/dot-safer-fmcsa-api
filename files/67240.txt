@@ -1,0 +1,9 @@
+LegalName NUTRIEN AG SOLUTIONS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 67240
+StateId 67240
+MCMXFF 
+DUNS 

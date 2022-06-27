@@ -1,0 +1,9 @@
+LegalName ATLAS PALLET CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 141477
+StateId 141477
+MCMXFF 
+DUNS 

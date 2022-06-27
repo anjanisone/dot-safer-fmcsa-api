@@ -1,0 +1,9 @@
+LegalName KITCHENS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 61185
+StateId 61185
+MCMXFF 
+DUNS 

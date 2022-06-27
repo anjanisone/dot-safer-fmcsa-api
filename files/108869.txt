@@ -1,0 +1,9 @@
+LegalName LAMB LUMBER HOLDING COMPANY
+DBAName LAMB BROTHERS LUMBER COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 108869
+StateId 108869
+MCMXFF 
+DUNS 

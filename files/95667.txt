@@ -1,0 +1,9 @@
+LegalName CARTER DISTRIBUTING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 95667
+StateId 95667
+MCMXFF 
+DUNS 

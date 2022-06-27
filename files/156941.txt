@@ -1,0 +1,9 @@
+LegalName B & W TRUCKING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 156941
+StateId 156941
+MCMXFF 
+DUNS 

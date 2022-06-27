@@ -1,0 +1,9 @@
+LegalName TRENTON GROUP INC
+DBAName HANOVER CONCRETE CO - SHREWSBURY CONCRETE CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 138288
+StateId 138288
+MCMXFF 
+DUNS 

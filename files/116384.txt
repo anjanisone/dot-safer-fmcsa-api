@@ -1,0 +1,9 @@
+LegalName RIHM MOTOR COMPANY INC
+DBAName RIHM KENWORTH
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 116384
+StateId 116384
+MCMXFF 
+DUNS 

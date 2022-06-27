@@ -1,0 +1,9 @@
+LegalName M C NOTTINGHAM CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 56291
+StateId 56291
+MCMXFF 
+DUNS 

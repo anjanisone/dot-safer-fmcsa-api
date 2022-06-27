@@ -1,0 +1,9 @@
+LegalName WARNACO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 148994
+StateId 148994
+MCMXFF 
+DUNS 

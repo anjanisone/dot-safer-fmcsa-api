@@ -1,0 +1,9 @@
+LegalName ELECTRO BATTERY MANUFACTURING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 91049
+StateId 91049
+MCMXFF 
+DUNS 

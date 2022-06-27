@@ -1,0 +1,9 @@
+LegalName BRIGGS EQUIPMENT LTD
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 14009
+StateId 14009
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName BALTO INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 2227
+StateId 2227
+MCMXFF 
+DUNS 

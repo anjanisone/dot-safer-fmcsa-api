@@ -1,0 +1,9 @@
+LegalName JOSEPH MIORELLI CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 38737
+StateId 38737
+MCMXFF 
+DUNS 

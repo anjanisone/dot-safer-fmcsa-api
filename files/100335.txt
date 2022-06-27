@@ -1,0 +1,9 @@
+LegalName BENEDICT TRADING COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 100335
+StateId 100335
+MCMXFF 
+DUNS 

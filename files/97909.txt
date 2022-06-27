@@ -1,0 +1,9 @@
+LegalName J S WALTON & CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 97909
+StateId 97909
+MCMXFF 
+DUNS 

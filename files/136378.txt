@@ -1,0 +1,9 @@
+LegalName ALAMO TRANSFORMER SUPPLY CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 136378
+StateId 136378
+MCMXFF 
+DUNS 

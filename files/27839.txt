@@ -1,0 +1,9 @@
+LegalName IFFLAND LUMBER CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 27839
+StateId 27839
+MCMXFF 
+DUNS 

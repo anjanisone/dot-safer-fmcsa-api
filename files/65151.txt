@@ -1,0 +1,9 @@
+LegalName INDUSTRIAL SALES CO INC
+DBAName INDUSCO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 65151
+StateId 65151
+MCMXFF 
+DUNS 

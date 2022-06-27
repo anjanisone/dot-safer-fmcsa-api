@@ -1,0 +1,9 @@
+LegalName JACOB LEINENKUGEL BREWING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 137847
+StateId 137847
+MCMXFF 
+DUNS 

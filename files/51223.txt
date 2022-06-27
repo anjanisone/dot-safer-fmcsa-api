@@ -1,0 +1,9 @@
+LegalName LARUSSE DISTRIBUTING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 51223
+StateId 51223
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName WISCO INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 46855
+StateId 46855
+MCMXFF 
+DUNS 

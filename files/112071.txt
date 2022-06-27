@@ -1,0 +1,9 @@
+LegalName LOUIS PADNOS IRON & METAL CO
+DBAName LP TRANSPORT LTD
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 112071
+StateId 112071
+MCMXFF 
+DUNS 

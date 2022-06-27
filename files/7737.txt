@@ -1,0 +1,9 @@
+LegalName JOHN F TILGHMAN & SONS INC
+DBAName TILGHMAN OIL COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7737
+StateId 7737
+MCMXFF 
+DUNS 

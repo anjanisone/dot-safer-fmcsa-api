@@ -1,0 +1,9 @@
+LegalName HENRY CAMOSSE & SON INC
+DBAName CAMOSSE MASONRY SUPPLY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 8742
+StateId 8742
+MCMXFF 
+DUNS 

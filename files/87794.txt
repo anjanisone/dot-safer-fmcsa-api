@@ -1,0 +1,9 @@
+LegalName ZIMMERMAN STEEL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 87794
+StateId 87794
+MCMXFF 
+DUNS 

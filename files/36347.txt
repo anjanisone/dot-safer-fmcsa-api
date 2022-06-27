@@ -1,0 +1,9 @@
+LegalName BUILDERS EQUIPMENT AND TOOL COMPANY
+DBAName BETCO SCAFFOLDS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 36347
+StateId 36347
+MCMXFF 
+DUNS 

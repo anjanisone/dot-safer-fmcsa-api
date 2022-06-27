@@ -1,0 +1,9 @@
+LegalName SALISBURY BRICK CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7637
+StateId 7637
+MCMXFF 
+DUNS 

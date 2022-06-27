@@ -1,0 +1,9 @@
+LegalName W M BARR AND CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 138114
+StateId 138114
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName A H ANGERSTEIN INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 33667
+StateId 33667
+MCMXFF 
+DUNS 

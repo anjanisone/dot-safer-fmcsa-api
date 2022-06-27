@@ -1,0 +1,9 @@
+LegalName ALBERT LEA ELECTRO PLATING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 128263
+StateId 128263
+MCMXFF 
+DUNS 

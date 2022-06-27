@@ -1,0 +1,9 @@
+LegalName LOGAN COUNTY BLDG STONE CO
+DBAName SCHWARTZ STONE CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 81004
+StateId 81004
+MCMXFF 
+DUNS 

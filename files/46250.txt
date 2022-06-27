@@ -1,0 +1,9 @@
+LegalName FRANK WUDCOSKI
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 46250
+StateId 46250
+MCMXFF 
+DUNS 

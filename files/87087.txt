@@ -1,0 +1,9 @@
+LegalName AMOS CONSTRUCTION LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 87087
+StateId 87087
+MCMXFF 
+DUNS 

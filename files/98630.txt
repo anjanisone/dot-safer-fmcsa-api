@@ -1,0 +1,9 @@
+LegalName EATON MONUMENT CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 98630
+StateId 98630
+MCMXFF 
+DUNS 

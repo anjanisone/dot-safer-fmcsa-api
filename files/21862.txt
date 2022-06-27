@@ -1,0 +1,9 @@
+LegalName VALLEY FRESH FOODS INC
+DBAName BRIARWOOD FARMS & RAINBOW FARMS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 21862
+StateId 21862
+MCMXFF 
+DUNS 

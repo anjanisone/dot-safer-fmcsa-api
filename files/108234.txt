@@ -1,0 +1,9 @@
+LegalName DILLON SUPPLY CO INC
+DBAName D&C LOGISTICS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 108234
+StateId 108234
+MCMXFF 
+DUNS 

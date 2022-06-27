@@ -1,0 +1,9 @@
+LegalName SUBURBAN CASCADE LINEN SUPPLY CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 25574
+StateId 25574
+MCMXFF 
+DUNS 

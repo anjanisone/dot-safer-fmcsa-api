@@ -1,0 +1,9 @@
+LegalName A & J MATTRESS CO INC
+DBAName THOMASVILLE BEDDING CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 97769
+StateId 97769
+MCMXFF 
+DUNS 

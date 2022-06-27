@@ -1,0 +1,9 @@
+LegalName WM TINDER INC
+DBAName TINDER WHOLESALE LLC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 45698
+StateId 45698
+MCMXFF 
+DUNS 

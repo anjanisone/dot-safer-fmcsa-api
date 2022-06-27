@@ -1,0 +1,9 @@
+LegalName DAKOTA SUPPLY GROUP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 12999
+StateId 12999
+MCMXFF 
+DUNS 

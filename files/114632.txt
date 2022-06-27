@@ -1,0 +1,9 @@
+LegalName TRUCK AND TRAILER EQUIPMENT COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 114632
+StateId 114632
+MCMXFF 
+DUNS 

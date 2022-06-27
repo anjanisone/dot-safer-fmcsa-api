@@ -1,0 +1,9 @@
+LegalName SOUTHERN STATES OWENTON COOPERATIVE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 91444
+StateId 91444
+MCMXFF 
+DUNS 

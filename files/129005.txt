@@ -1,0 +1,9 @@
+LegalName TRI COUNTY EQUIPMENT SALES & SERVICE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 129005
+StateId 129005
+MCMXFF 
+DUNS 

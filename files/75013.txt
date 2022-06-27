@@ -1,0 +1,9 @@
+LegalName W SILVER RECYCLING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 75013
+StateId 75013
+MCMXFF 
+DUNS 

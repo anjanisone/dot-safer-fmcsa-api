@@ -1,0 +1,9 @@
+LegalName QUIRK INC
+DBAName 
+PhysicalAddress 34 BANK ST NETCONG, NJ   07857
+Phone (973) 347-4200
+MailingAddress P O BOX 505 NETCONG, NJ   07857
+DOTNumber 49793
+StateId 49793
+MCMXFF 
+DUNS 

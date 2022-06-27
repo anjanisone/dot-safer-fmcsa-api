@@ -1,0 +1,9 @@
+LegalName MACYS CORPORATE SERVICES LLC
+DBAName MACYS LOGISTICS AND OPERATIONS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 38589
+StateId 38589
+MCMXFF 
+DUNS 

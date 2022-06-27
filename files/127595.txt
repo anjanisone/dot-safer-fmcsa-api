@@ -1,0 +1,9 @@
+LegalName PENNEX ALUMINUM CO LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 127595
+StateId 127595
+MCMXFF 
+DUNS 

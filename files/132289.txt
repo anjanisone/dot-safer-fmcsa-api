@@ -1,0 +1,9 @@
+LegalName UNITED AUTO SUPPLY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 132289
+StateId 132289
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName ENERGY CONTROL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 142891
+StateId 142891
+MCMXFF 
+DUNS 

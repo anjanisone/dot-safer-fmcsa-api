@@ -1,0 +1,9 @@
+LegalName JAMES V HARRALSON
+DBAName HARRALSON SEED CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 145327
+StateId 145327
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName HELMKAMP CONSTRUCTION COMPANY
+DBAName HELMKAMP CONSTRUCTION
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 71597
+StateId 71597
+MCMXFF 
+DUNS 

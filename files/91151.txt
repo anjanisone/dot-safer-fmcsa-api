@@ -1,0 +1,9 @@
+LegalName DAVID ALLEN COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 91151
+StateId 91151
+MCMXFF 
+DUNS 

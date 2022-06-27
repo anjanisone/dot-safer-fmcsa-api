@@ -1,0 +1,9 @@
+LegalName DODSON WHOLESALE LUMBER CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 102789
+StateId 102789
+MCMXFF 
+DUNS 

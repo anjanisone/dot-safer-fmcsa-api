@@ -1,0 +1,9 @@
+LegalName SCOTCH LUMBER COMPANY
+DBAName SCOTCH LUMBER COMPANY INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 97842
+StateId 97842
+MCMXFF 
+DUNS 

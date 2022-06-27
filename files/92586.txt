@@ -1,0 +1,9 @@
+LegalName PBF MANUFACTURING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 92586
+StateId 92586
+MCMXFF 
+DUNS 

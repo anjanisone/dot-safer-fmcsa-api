@@ -1,0 +1,9 @@
+LegalName MANISTIQUE PAPERS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 114506
+StateId 114506
+MCMXFF 
+DUNS 

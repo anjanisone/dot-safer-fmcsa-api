@@ -1,0 +1,9 @@
+LegalName SENEX EXPLOSIVES INC
+DBAName SENEX
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 132039
+StateId 132039
+MCMXFF 
+DUNS 

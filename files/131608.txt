@@ -1,0 +1,9 @@
+LegalName AWISCO NY CORP
+DBAName AWISCO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 131608
+StateId 131608
+MCMXFF 
+DUNS 

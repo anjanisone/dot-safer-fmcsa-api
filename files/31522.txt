@@ -1,0 +1,9 @@
+LegalName POTAMKIN CADILLAC BUICK CHEVROLET GEO LTD
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 31522
+StateId 31522
+MCMXFF 
+DUNS 

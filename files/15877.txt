@@ -1,0 +1,9 @@
+LegalName BEN HILL GRIFFIN INC
+DBAName GRIFFIN FERTILIZER COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 15877
+StateId 15877
+MCMXFF 
+DUNS 

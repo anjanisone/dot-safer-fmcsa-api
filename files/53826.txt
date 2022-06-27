@@ -1,0 +1,9 @@
+LegalName DEIKE IMPLEMENT COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 53826
+StateId 53826
+MCMXFF 
+DUNS 

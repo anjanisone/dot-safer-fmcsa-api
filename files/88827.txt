@@ -1,0 +1,9 @@
+LegalName MCDOWELL TIRE CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 88827
+StateId 88827
+MCMXFF 
+DUNS 

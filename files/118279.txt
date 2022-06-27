@@ -1,0 +1,9 @@
+LegalName ALPHA DYNO NOBEL INC
+DBAName ALPHA EXPLOSIVES
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 118279
+StateId 118279
+MCMXFF 
+DUNS 

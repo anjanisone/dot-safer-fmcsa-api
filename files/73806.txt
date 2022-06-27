@@ -1,0 +1,9 @@
+LegalName G & G MANUFACTURING COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 73806
+StateId 73806
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName GEORGE H SWATEK INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 25649
+StateId 25649
+MCMXFF 
+DUNS 

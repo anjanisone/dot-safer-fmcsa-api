@@ -1,0 +1,9 @@
+LegalName CONSOLIATED ELECTRICAL DISTRIBUTORS
+DBAName STUSSER ELECTRIC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 154994
+StateId 154994
+MCMXFF 
+DUNS 

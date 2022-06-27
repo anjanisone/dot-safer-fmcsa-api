@@ -1,0 +1,9 @@
+LegalName VENANGO MACHINE COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 133788
+StateId 133788
+MCMXFF 
+DUNS 

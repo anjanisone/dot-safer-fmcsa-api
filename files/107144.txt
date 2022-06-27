@@ -1,0 +1,9 @@
+LegalName IOWA BEER AND BEVERAGE COMPANY
+DBAName FLECK SALES
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 107144
+StateId 107144
+MCMXFF 
+DUNS 

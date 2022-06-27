@@ -1,0 +1,9 @@
+LegalName PURITAN FURNITURE MART INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 17500
+StateId 17500
+MCMXFF 
+DUNS 

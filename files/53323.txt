@@ -1,0 +1,9 @@
+LegalName RIEKES EQUIPMENT COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 53323
+StateId 53323
+MCMXFF 
+DUNS 

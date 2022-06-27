@@ -1,0 +1,9 @@
+LegalName GENERAL WELDING SUPPLY CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 49704
+StateId 49704
+MCMXFF 
+DUNS 

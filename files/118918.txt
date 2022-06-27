@@ -1,0 +1,9 @@
+LegalName WILLIAM R HILL & COMPANY INC
+DBAName WM R HILL & COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 118918
+StateId 118918
+MCMXFF 
+DUNS 

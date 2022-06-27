@@ -1,0 +1,9 @@
+LegalName SOUTHLAND MANUFACTURING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 91998
+StateId 91998
+MCMXFF 
+DUNS 

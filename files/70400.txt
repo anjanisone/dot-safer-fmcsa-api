@@ -1,0 +1,9 @@
+LegalName GOODWILL OF WESTERN MISSOURI AND EASTERN KANSAS
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 70400
+StateId 70400
+MCMXFF 
+DUNS 

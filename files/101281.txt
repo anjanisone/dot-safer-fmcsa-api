@@ -1,0 +1,9 @@
+LegalName HERTZ ASSOCIATES INC
+DBAName ALLENTOWN TOY MFG CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 101281
+StateId 101281
+MCMXFF 
+DUNS 

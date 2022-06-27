@@ -1,0 +1,9 @@
+LegalName GOODWILL IND SACRAMENTO VALLEY NORTHERN NEVADA
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 117915
+StateId 117915
+MCMXFF 
+DUNS 

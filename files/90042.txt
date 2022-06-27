@@ -1,0 +1,9 @@
+LegalName AMINO BROTHERS CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 90042
+StateId 90042
+MCMXFF 
+DUNS 

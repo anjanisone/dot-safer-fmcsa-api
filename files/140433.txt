@@ -1,0 +1,9 @@
+LegalName MODERN HOMES & EQUIPMENT CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 140433
+StateId 140433
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName THE HALLEN CONSTRUCTION CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 125707
+StateId 125707
+MCMXFF 
+DUNS 

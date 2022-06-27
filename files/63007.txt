@@ -1,0 +1,9 @@
+LegalName BAVARIAN TRUCKING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 63007
+StateId 63007
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName ALCO NVC INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 114942
+StateId 114942
+MCMXFF 
+DUNS 

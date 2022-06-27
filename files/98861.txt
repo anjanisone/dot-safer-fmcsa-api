@@ -1,0 +1,9 @@
+LegalName BEST BEERS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 98861
+StateId 98861
+MCMXFF 
+DUNS 

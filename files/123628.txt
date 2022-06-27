@@ -1,0 +1,9 @@
+LegalName CLARK SEAFOOD CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 123628
+StateId 123628
+MCMXFF 
+DUNS 

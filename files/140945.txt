@@ -1,0 +1,9 @@
+LegalName TRAILER SERVICE & RENTAL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 140945
+StateId 140945
+MCMXFF 
+DUNS 

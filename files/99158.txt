@@ -1,0 +1,9 @@
+LegalName UNITED BEVERAGE COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 99158
+StateId 99158
+MCMXFF 
+DUNS 

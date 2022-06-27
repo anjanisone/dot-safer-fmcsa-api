@@ -1,0 +1,9 @@
+LegalName SPEIDELL MONUMENTS
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 53385
+StateId 53385
+MCMXFF 
+DUNS 

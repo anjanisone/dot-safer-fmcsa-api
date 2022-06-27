@@ -1,0 +1,9 @@
+LegalName COLUMBIA GLASS & WINDOW
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 135595
+StateId 135595
+MCMXFF 
+DUNS 

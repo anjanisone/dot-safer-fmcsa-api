@@ -1,0 +1,9 @@
+LegalName HOPWOOD GLOBE COMPANY LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 49521
+StateId 49521
+MCMXFF 
+DUNS 

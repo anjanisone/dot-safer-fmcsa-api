@@ -1,0 +1,9 @@
+LegalName BARNHILL CONTRACTING COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 83908
+StateId 83908
+MCMXFF 
+DUNS 

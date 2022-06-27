@@ -1,0 +1,9 @@
+LegalName NORTH CENTRAL STEEL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 72896
+StateId 72896
+MCMXFF 
+DUNS 

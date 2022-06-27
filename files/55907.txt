@@ -1,0 +1,9 @@
+LegalName WATCHTOWER BIBLE AND TRACT SOCIETY OF N Y INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 55907
+StateId 55907
+MCMXFF 
+DUNS 

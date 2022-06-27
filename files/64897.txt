@@ -1,0 +1,9 @@
+LegalName WALTER H LAYFIELD
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 64897
+StateId 64897
+MCMXFF 
+DUNS 

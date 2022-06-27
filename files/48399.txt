@@ -1,0 +1,9 @@
+LegalName TRUDELL TRAILERS OF GREEN BAY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 48399
+StateId 48399
+MCMXFF 
+DUNS 

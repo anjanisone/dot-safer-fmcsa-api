@@ -1,0 +1,9 @@
+LegalName STAR LUMBER & SUPPLY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 58991
+StateId 58991
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName ENGLE MARINE SALES
+DBAName ENGLE'S HOLIDAY HARBOR
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 84529
+StateId 84529
+MCMXFF 
+DUNS 

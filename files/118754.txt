@@ -1,0 +1,9 @@
+LegalName GLOTFELTY LUMBER CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 118754
+StateId 118754
+MCMXFF 
+DUNS 

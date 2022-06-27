@@ -1,0 +1,9 @@
+LegalName SIMAKAS COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 88252
+StateId 88252
+MCMXFF 
+DUNS 

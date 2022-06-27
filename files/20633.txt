@@ -1,0 +1,9 @@
+LegalName NSTAR ELECTRIC COMPANY
+DBAName EVERSOURCE ENERGY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 20633
+StateId 20633
+MCMXFF 
+DUNS 

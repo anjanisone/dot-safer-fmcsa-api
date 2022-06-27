@@ -1,0 +1,9 @@
+LegalName THOMAS LUMBER COMPANY
+DBAName THOMAS SUPPLY COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 152847
+StateId 152847
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName H & W LOGISTICS LLC
+DBAName T & A SUPPLY CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 151766
+StateId 151766
+MCMXFF 
+DUNS 

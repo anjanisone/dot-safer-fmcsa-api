@@ -1,0 +1,9 @@
+LegalName TATKO BROS SLATE COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 101686
+StateId 101686
+MCMXFF 
+DUNS 

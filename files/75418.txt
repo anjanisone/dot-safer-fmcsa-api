@@ -1,0 +1,9 @@
+LegalName A P I SUPPLY INC
+DBAName API SUPPLY LIFTS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 75418
+StateId 75418
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName THOMAS BUILT BUSES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 148212
+StateId 148212
+MCMXFF 
+DUNS 

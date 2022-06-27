@@ -1,0 +1,9 @@
+LegalName OTTER TAIL POWER CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 107962
+StateId 107962
+MCMXFF 
+DUNS 

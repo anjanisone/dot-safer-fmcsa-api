@@ -1,0 +1,9 @@
+LegalName MENASHA PACKAGING COMPANY LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 100022
+StateId 100022
+MCMXFF 
+DUNS 

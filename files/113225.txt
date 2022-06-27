@@ -1,0 +1,9 @@
+LegalName BARNETTE CONTRACTORS L L C
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 113225
+StateId 113225
+MCMXFF 
+DUNS 

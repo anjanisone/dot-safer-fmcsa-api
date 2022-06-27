@@ -1,0 +1,9 @@
+LegalName IEH AUTO PARTS LLC
+DBAName AUTO PLUS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 20430
+StateId 20430
+MCMXFF 
+DUNS 

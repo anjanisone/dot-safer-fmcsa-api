@@ -1,0 +1,9 @@
+LegalName ICP GROUP
+DBAName ICP CONSTRUCTION INCORPORATED
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 9366
+StateId 9366
+MCMXFF 
+DUNS 

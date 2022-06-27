@@ -1,0 +1,9 @@
+LegalName COLONIAL RUBBER WORKS INC
+DBAName POLY ONE E ASTOMERS & PAC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 97053
+StateId 97053
+MCMXFF 
+DUNS 

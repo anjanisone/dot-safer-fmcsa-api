@@ -1,0 +1,9 @@
+LegalName GASSAFY GREENHOUSE INC
+DBAName GASSAFY WHOLESALE FLORIST
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93456
+StateId 93456
+MCMXFF 
+DUNS 

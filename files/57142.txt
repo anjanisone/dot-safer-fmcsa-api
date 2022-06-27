@@ -1,0 +1,9 @@
+LegalName LAWRENCE DUMAIS & SON INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 57142
+StateId 57142
+MCMXFF 
+DUNS 

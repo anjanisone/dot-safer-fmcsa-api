@@ -1,0 +1,9 @@
+LegalName VAUGHAN-BASSETT FURNITURE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 4725
+StateId 4725
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName COACH & EQUIPMENT MANUFACTURING CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 54511
+StateId 54511
+MCMXFF 
+DUNS 

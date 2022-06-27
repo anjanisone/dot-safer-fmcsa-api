@@ -1,0 +1,9 @@
+LegalName LONG ISLAND TINSMITH SUPPLY CORP
+DBAName LITSCO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 106306
+StateId 106306
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName BARNES PRCA RODEO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 96438
+StateId 96438
+MCMXFF 
+DUNS 

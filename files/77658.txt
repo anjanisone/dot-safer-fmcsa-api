@@ -1,0 +1,9 @@
+LegalName PLAZA TIRE SERVICE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 77658
+StateId 77658
+MCMXFF 
+DUNS 

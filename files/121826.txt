@@ -1,0 +1,9 @@
+LegalName RUGEL CHURCH FURNISHINGS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 121826
+StateId 121826
+MCMXFF 
+DUNS 

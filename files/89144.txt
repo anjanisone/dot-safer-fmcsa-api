@@ -1,0 +1,9 @@
+LegalName UNITED COOPERATIVES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 89144
+StateId 89144
+MCMXFF 
+DUNS 

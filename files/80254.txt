@@ -1,0 +1,9 @@
+LegalName KAISER ALUMINUM WASHINGTON LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 80254
+StateId 80254
+MCMXFF 
+DUNS 

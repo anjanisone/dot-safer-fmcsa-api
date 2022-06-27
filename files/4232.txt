@@ -1,0 +1,9 @@
+LegalName TRI-STATE ROOFING & SHEET METAL COMPANY OF WEST VIRGINIA
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 4232
+StateId 4232
+MCMXFF 
+DUNS 

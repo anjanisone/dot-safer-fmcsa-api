@@ -1,0 +1,9 @@
+LegalName ARANOSIAN OIL COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 86218
+StateId 86218
+MCMXFF 
+DUNS 

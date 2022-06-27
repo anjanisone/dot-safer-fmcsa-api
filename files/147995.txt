@@ -1,0 +1,9 @@
+LegalName REGAL PLASTICS SUPPLY CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 147995
+StateId 147995
+MCMXFF 
+DUNS 

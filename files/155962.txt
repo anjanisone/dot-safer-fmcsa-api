@@ -1,0 +1,9 @@
+LegalName INTERSTATE PAPER SUPPLY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 155962
+StateId 155962
+MCMXFF 
+DUNS 

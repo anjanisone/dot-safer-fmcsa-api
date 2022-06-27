@@ -1,0 +1,9 @@
+LegalName TRI PARISH COOPERATIVE
+DBAName TRI-PARISH CO-OP
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 28991
+StateId 28991
+MCMXFF 
+DUNS 

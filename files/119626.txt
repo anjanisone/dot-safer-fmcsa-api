@@ -1,0 +1,9 @@
+LegalName BLACK HILLS JANITORIAL SUPPLY CO
+DBAName BLACK HILLS CHEMICAL CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 119626
+StateId 119626
+MCMXFF 
+DUNS 

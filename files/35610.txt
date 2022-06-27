@@ -1,0 +1,9 @@
+LegalName JOHN W MCDOUGALL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 35610
+StateId 35610
+MCMXFF 
+DUNS 

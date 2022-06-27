@@ -1,0 +1,9 @@
+LegalName J P LOUBET CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 141340
+StateId 141340
+MCMXFF 
+DUNS 

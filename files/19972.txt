@@ -1,0 +1,9 @@
+LegalName SEA RAY BOATS INC
+DBAName 
+PhysicalAddress 1 N  FIELD CT LAKE FOREST, IL   60045
+Phone (708) 735-4763
+MailingAddress 1 N  FIELD CT LAKE FOREST, IL   60045
+DOTNumber 19972
+StateId 19972
+MCMXFF 
+DUNS 

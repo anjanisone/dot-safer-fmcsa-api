@@ -1,0 +1,9 @@
+LegalName UNITED STATES STEEL CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 64928
+StateId 64928
+MCMXFF 
+DUNS 

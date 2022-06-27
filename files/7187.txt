@@ -1,0 +1,9 @@
+LegalName THE HARRIS CONSTRUCTION CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7187
+StateId 7187
+MCMXFF 
+DUNS 

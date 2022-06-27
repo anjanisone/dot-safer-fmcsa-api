@@ -1,0 +1,9 @@
+LegalName HERRMAN BUILDING MATERIALS INC
+DBAName HERRMAN LUMBER CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 81999
+StateId 81999
+MCMXFF 
+DUNS 

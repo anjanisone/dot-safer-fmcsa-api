@@ -1,0 +1,9 @@
+LegalName NELSON MANUFACTURING COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 98338
+StateId 98338
+MCMXFF 
+DUNS 

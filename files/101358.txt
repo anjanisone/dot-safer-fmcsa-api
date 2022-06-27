@@ -1,0 +1,9 @@
+LegalName BERRY ENTERPRISES INC
+DBAName BERRY IRON & METAL CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 101358
+StateId 101358
+MCMXFF 
+DUNS 

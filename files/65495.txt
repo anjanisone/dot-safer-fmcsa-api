@@ -1,0 +1,9 @@
+LegalName CAPITAL BEVERAGES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 65495
+StateId 65495
+MCMXFF 
+DUNS 

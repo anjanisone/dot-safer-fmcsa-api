@@ -1,0 +1,9 @@
+LegalName TEZAK HEAVY EQUIPMENT CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 155819
+StateId 155819
+MCMXFF 
+DUNS 

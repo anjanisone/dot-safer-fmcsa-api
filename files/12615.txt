@@ -1,0 +1,9 @@
+LegalName MISSION LINEN SUPPLY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 12615
+StateId 12615
+MCMXFF 
+DUNS 

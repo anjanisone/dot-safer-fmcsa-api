@@ -1,0 +1,9 @@
+LegalName NEWPORT FEATHER CO SAM STAHL
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 31101
+StateId 31101
+MCMXFF 
+DUNS 

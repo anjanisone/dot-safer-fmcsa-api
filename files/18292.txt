@@ -1,0 +1,9 @@
+LegalName DEMOULAS SUPERMARKETS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 18292
+StateId 18292
+MCMXFF 
+DUNS 

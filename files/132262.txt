@@ -1,0 +1,9 @@
+LegalName SENSENIGS FURNITURE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 132262
+StateId 132262
+MCMXFF 
+DUNS 

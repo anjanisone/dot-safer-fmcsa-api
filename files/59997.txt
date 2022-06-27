@@ -1,0 +1,9 @@
+LegalName MILLER EQUIPMENT COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 59997
+StateId 59997
+MCMXFF 
+DUNS 

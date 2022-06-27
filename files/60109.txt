@@ -1,0 +1,9 @@
+LegalName DARR EQUIPMENT COMPANY LP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 60109
+StateId 60109
+MCMXFF 
+DUNS 

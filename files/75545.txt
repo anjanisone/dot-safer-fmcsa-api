@@ -1,0 +1,9 @@
+LegalName NORTHSTAR MATERIALS INC
+DBAName KNIFE RIVER MATERIALS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 75545
+StateId 75545
+MCMXFF 
+DUNS 

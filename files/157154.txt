@@ -1,0 +1,9 @@
+LegalName THREE OAKS CO-OPS INC
+DBAName 
+PhysicalAddress P O BOX 54 THREE OAKS, MI   49128
+Phone 
+MailingAddress P O BOX 54 THREE OAKS, MI   49128
+DOTNumber 157154
+StateId 157154
+MCMXFF 
+DUNS 

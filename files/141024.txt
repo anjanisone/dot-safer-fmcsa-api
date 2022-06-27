@@ -1,0 +1,9 @@
+LegalName LINN POST & PIPE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 141024
+StateId 141024
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName A AND A TRANSPORT COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 45155
+StateId 45155
+MCMXFF 
+DUNS 

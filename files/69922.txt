@@ -1,0 +1,9 @@
+LegalName SUDENGA INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 69922
+StateId 69922
+MCMXFF 
+DUNS 

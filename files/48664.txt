@@ -1,0 +1,9 @@
+LegalName MENARD INC
+DBAName MENARDS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 48664
+StateId 48664
+MCMXFF 
+DUNS 

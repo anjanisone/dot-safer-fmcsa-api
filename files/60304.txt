@@ -1,0 +1,9 @@
+LegalName UTILITY CONTRACTORS INC
+DBAName UCI
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 60304
+StateId 60304
+MCMXFF 
+DUNS 

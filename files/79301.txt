@@ -1,0 +1,9 @@
+LegalName WALLACE TRACTOR CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 79301
+StateId 79301
+MCMXFF 
+DUNS 

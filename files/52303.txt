@@ -1,0 +1,9 @@
+LegalName KORTE BROTHERS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 52303
+StateId 52303
+MCMXFF 
+DUNS 

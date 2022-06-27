@@ -1,0 +1,9 @@
+LegalName STATE ELECTRIC SUPPLY CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 36908
+StateId 36908
+MCMXFF 
+DUNS 

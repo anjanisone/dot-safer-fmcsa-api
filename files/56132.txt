@@ -1,0 +1,9 @@
+LegalName SIMS METAL WORKS INC
+DBAName SIMS MACHINERY CO INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 56132
+StateId 56132
+MCMXFF 
+DUNS 

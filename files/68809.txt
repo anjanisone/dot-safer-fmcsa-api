@@ -1,0 +1,9 @@
+LegalName INLAND SUPPLY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 68809
+StateId 68809
+MCMXFF 
+DUNS 

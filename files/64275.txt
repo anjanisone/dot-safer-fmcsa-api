@@ -1,0 +1,9 @@
+LegalName FIMCO INC
+DBAName AG SPRAY EQUIPMENT
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 64275
+StateId 64275
+MCMXFF 
+DUNS 

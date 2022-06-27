@@ -1,0 +1,9 @@
+LegalName RICHARD VAUGHN
+DBAName 
+PhysicalAddress RT 2 BOX 84 LONDON, KY   40741
+Phone 
+MailingAddress RT 2 BOX 84 LONDON, KY   40741
+DOTNumber 133303
+StateId 133303
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName ADVANCED DRAINAGE SYSTEMS INC
+DBAName ALLIED DRAINAGE TRANSPORT
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 19949
+StateId 19949
+MCMXFF 
+DUNS 

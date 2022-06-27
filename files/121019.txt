@@ -1,0 +1,9 @@
+LegalName FLIPPO LUMBER CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 121019
+StateId 121019
+MCMXFF 
+DUNS 

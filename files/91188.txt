@@ -1,0 +1,9 @@
+LegalName UNITED METHODIST MOUNTAIN MISSION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 91188
+StateId 91188
+MCMXFF 
+DUNS 

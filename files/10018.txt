@@ -1,0 +1,9 @@
+LegalName LAUREL VALLEY FARMS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 10018
+StateId 10018
+MCMXFF 
+DUNS 

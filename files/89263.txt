@@ -1,0 +1,9 @@
+LegalName GALLATIN TRUCK & TRACTOR INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 89263
+StateId 89263
+MCMXFF 
+DUNS 

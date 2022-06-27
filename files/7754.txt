@@ -1,0 +1,9 @@
+LegalName UNITED SHELLFISH INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7754
+StateId 7754
+MCMXFF 
+DUNS 

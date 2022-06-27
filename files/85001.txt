@@ -1,0 +1,9 @@
+LegalName DACAR CHEMICAL PRODUCTS COMPANY
+DBAName DACAR INDUSTRIES INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 85001
+StateId 85001
+MCMXFF 
+DUNS 

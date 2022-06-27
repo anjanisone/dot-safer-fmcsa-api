@@ -1,0 +1,9 @@
+LegalName BAKER MANUFACTURING COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 122513
+StateId 122513
+MCMXFF 
+DUNS 

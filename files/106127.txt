@@ -1,0 +1,9 @@
+LegalName J & F FARMS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 106127
+StateId 106127
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName C & J CLARK AMERICA INC
+DBAName THE CLARKS COMPANIES N A
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 5784
+StateId 5784
+MCMXFF 
+DUNS 

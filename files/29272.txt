@@ -1,0 +1,9 @@
+LegalName WESTERN ENGINEERING COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 29272
+StateId 29272
+MCMXFF 
+DUNS 

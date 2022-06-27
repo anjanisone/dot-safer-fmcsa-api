@@ -1,0 +1,9 @@
+LegalName BIG CO
+DBAName BIG HORN REDI MIX INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 100348
+StateId 100348
+MCMXFF 
+DUNS 

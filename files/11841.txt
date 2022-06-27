@@ -1,0 +1,9 @@
+LegalName JEFFREY & DONNA GATES
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 11841
+StateId 11841
+MCMXFF 
+DUNS 

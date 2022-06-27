@@ -1,0 +1,9 @@
+LegalName REISINGER POULTRY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 11662
+StateId 11662
+MCMXFF 
+DUNS 

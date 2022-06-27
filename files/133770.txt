@@ -1,0 +1,9 @@
+LegalName VANDERLOOP EQUIPMENT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 133770
+StateId 133770
+MCMXFF 
+DUNS 

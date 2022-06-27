@@ -1,0 +1,9 @@
+LegalName COOR FARM SUPPLY SERVICE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 83946
+StateId 83946
+MCMXFF 
+DUNS 

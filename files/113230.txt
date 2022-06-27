@@ -1,0 +1,9 @@
+LegalName V F IMAGEWEAR EAST INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 113230
+StateId 113230
+MCMXFF 
+DUNS 

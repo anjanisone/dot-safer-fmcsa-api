@@ -1,0 +1,9 @@
+LegalName CARMEN BARBATO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 101865
+StateId 101865
+MCMXFF 
+DUNS 

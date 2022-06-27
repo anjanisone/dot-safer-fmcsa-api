@@ -1,0 +1,9 @@
+LegalName WHITE CASTLE SYSTEM INC
+DBAName WHITE CASTLE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 14728
+StateId 14728
+MCMXFF 
+DUNS 

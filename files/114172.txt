@@ -1,0 +1,9 @@
+LegalName I D O FEED & SUPPLY CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 114172
+StateId 114172
+MCMXFF 
+DUNS 

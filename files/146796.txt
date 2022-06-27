@@ -1,0 +1,9 @@
+LegalName LUDLOW MEMORIAL COMPANY INC
+DBAName LMC CONTRACTING
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 146796
+StateId 146796
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName 9W HALO OPCO LP
+DBAName ANGELICA
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 133698
+StateId 133698
+MCMXFF 
+DUNS 

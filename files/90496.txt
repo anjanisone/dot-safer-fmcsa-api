@@ -1,0 +1,9 @@
+LegalName ELDEN GINN TRUCKING
+DBAName ELDEN GINN TOBACCO WHSE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 90496
+StateId 90496
+MCMXFF 
+DUNS 

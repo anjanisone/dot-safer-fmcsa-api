@@ -1,0 +1,9 @@
+LegalName GEORGE BRAUN OYSTER CO INC
+DBAName BRAUN SEAFOOD COMPANY INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 50680
+StateId 50680
+MCMXFF 
+DUNS 

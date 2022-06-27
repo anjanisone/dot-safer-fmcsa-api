@@ -1,0 +1,9 @@
+LegalName S B FOOT TANNING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 75393
+StateId 75393
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName GLOBE INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 114424
+StateId 114424
+MCMXFF 
+DUNS 

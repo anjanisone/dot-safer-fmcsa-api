@@ -1,0 +1,9 @@
+LegalName FESSENDEN COOP ASSOCIATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 119868
+StateId 119868
+MCMXFF 
+DUNS 

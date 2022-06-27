@@ -1,0 +1,9 @@
+LegalName HERZOG CONTRACTING CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 89315
+StateId 89315
+MCMXFF 
+DUNS 

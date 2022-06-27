@@ -1,0 +1,9 @@
+LegalName D R JOHNSON LUMBER CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 12138
+StateId 12138
+MCMXFF 
+DUNS 

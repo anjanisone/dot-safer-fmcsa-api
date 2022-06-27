@@ -1,0 +1,9 @@
+LegalName ROGERS FARM SUPPLY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 39512
+StateId 39512
+MCMXFF 
+DUNS 

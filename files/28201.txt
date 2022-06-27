@@ -1,0 +1,9 @@
+LegalName PUGET SOUND ENERGY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 28201
+StateId 28201
+MCMXFF 
+DUNS 

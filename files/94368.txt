@@ -1,0 +1,9 @@
+LegalName EASTERN CROWN INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 94368
+StateId 94368
+MCMXFF 
+DUNS 

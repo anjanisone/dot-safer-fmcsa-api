@@ -1,0 +1,9 @@
+LegalName MCFARLANE MFG CO INC
+DBAName MCFARLANES'
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 48546
+StateId 48546
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName KAMIYA ENTERPRISES
+DBAName KAHUA BEEF
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 139112
+StateId 139112
+MCMXFF 
+DUNS 

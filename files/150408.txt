@@ -1,0 +1,9 @@
+LegalName TAMPA FARM SERVICE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 150408
+StateId 150408
+MCMXFF 
+DUNS 

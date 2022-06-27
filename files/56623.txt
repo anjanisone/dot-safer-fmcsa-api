@@ -1,0 +1,9 @@
+LegalName MCWANE INCORPORATED
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 56623
+StateId 56623
+MCMXFF 
+DUNS 

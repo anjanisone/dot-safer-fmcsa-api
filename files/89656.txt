@@ -1,0 +1,9 @@
+LegalName KENNEDY ENGINE COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 89656
+StateId 89656
+MCMXFF 
+DUNS 

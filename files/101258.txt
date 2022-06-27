@@ -1,0 +1,9 @@
+LegalName ADMIXTURES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 101258
+StateId 101258
+MCMXFF 
+DUNS 

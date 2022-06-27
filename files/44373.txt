@@ -1,0 +1,9 @@
+LegalName TRAIL-EZE INC
+DBAName TRAIL-EZE TRAILERS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 44373
+StateId 44373
+MCMXFF 
+DUNS 

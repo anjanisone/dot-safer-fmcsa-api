@@ -1,0 +1,9 @@
+LegalName CASE PORK ROLL COMPANY INC
+DBAName CASE'S
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 23732
+StateId 23732
+MCMXFF 
+DUNS 

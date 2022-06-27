@@ -1,0 +1,9 @@
+LegalName TAYLOR & STUCKEY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 3550
+StateId 3550
+MCMXFF 
+DUNS 

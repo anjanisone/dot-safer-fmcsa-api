@@ -1,0 +1,9 @@
+LegalName DICK MOORE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 39317
+StateId 39317
+MCMXFF 
+DUNS 

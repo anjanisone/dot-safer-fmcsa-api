@@ -1,0 +1,9 @@
+LegalName JOHN SCOGGINS COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 126450
+StateId 126450
+MCMXFF 
+DUNS 

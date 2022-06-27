@@ -1,0 +1,9 @@
+LegalName TRINKOTE INDUSTRIAL FINISHES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 155497
+StateId 155497
+MCMXFF 
+DUNS 

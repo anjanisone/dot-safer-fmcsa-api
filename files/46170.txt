@@ -1,0 +1,9 @@
+LegalName SEAWAY MANUFACTURING CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 46170
+StateId 46170
+MCMXFF 
+DUNS 

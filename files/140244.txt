@@ -1,0 +1,9 @@
+LegalName PRONTOCK BEER DISTRIBUTOR INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 140244
+StateId 140244
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName WINNEBAGO INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 1929
+StateId 1929
+MCMXFF 
+DUNS 

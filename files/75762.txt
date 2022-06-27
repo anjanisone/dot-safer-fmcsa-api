@@ -1,0 +1,9 @@
+LegalName FRANKLIN IRON AND METAL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 75762
+StateId 75762
+MCMXFF 
+DUNS 

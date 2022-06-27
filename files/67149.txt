@@ -1,0 +1,9 @@
+LegalName ARCTIC ICE CREAM NOVELTIES
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 67149
+StateId 67149
+MCMXFF 
+DUNS 

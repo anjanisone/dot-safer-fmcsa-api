@@ -1,0 +1,9 @@
+LegalName L & M STEEL COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 136762
+StateId 136762
+MCMXFF 
+DUNS 

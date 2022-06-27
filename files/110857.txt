@@ -1,0 +1,9 @@
+LegalName PREISER SCIENTIFIC INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 110857
+StateId 110857
+MCMXFF 
+DUNS 

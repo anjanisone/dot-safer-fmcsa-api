@@ -1,0 +1,9 @@
+LegalName WALD & CO INC
+DBAName ALL AMERICAN DISPLAY FIREWORKS COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 87079
+StateId 87079
+MCMXFF 
+DUNS 

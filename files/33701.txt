@@ -1,0 +1,9 @@
+LegalName DUKES LUMBER COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 33701
+StateId 33701
+MCMXFF 
+DUNS 

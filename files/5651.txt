@@ -1,0 +1,9 @@
+LegalName GREAT AMERICAN BEER COMPANY
+DBAName BREWERY PRODUCTS COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 5651
+StateId 5651
+MCMXFF 
+DUNS 

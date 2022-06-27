@@ -1,0 +1,9 @@
+LegalName PATE'S SUPPLY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 108673
+StateId 108673
+MCMXFF 
+DUNS 

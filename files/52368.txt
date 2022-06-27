@@ -1,0 +1,9 @@
+LegalName LIN-GAS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 52368
+StateId 52368
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName ALBANY STEEL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 85925
+StateId 85925
+MCMXFF 
+DUNS 

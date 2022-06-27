@@ -1,0 +1,9 @@
+LegalName THE BOEING COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 38588
+StateId 38588
+MCMXFF 
+DUNS 

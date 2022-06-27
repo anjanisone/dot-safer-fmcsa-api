@@ -1,0 +1,9 @@
+LegalName AEROJET ROCKETDYNE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 34418
+StateId 34418
+MCMXFF 
+DUNS 

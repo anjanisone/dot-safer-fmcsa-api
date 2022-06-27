@@ -1,0 +1,9 @@
+LegalName FARMERS UNION OIL CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 119862
+StateId 119862
+MCMXFF 
+DUNS 

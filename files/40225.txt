@@ -1,0 +1,9 @@
+LegalName G & R MACHINERY & EQUIPMENT CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 40225
+StateId 40225
+MCMXFF 
+DUNS 

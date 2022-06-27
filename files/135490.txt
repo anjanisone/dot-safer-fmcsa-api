@@ -1,0 +1,9 @@
+LegalName PHILLIPS MEATS & SEAFOODS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 135490
+StateId 135490
+MCMXFF 
+DUNS 

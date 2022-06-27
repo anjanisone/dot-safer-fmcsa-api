@@ -1,0 +1,9 @@
+LegalName MCGARVEY EQUIPMENT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 38835
+StateId 38835
+MCMXFF 
+DUNS 

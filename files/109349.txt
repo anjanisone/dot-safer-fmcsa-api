@@ -1,0 +1,9 @@
+LegalName GOOD'S WHOLESALES & BAKERY SUPPLIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 109349
+StateId 109349
+MCMXFF 
+DUNS 

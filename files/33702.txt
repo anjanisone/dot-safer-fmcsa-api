@@ -1,0 +1,9 @@
+LegalName PIONEER HI-BRED INTERNATIONAL INC
+DBAName DUPONT PIONEER
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 33702
+StateId 33702
+MCMXFF 
+DUNS 

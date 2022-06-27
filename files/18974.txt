@@ -1,0 +1,9 @@
+LegalName CENTRAL TIRE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 18974
+StateId 18974
+MCMXFF 
+DUNS 

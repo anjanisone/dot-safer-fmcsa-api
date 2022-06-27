@@ -1,0 +1,9 @@
+LegalName CORTEZ MILLING COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 44869
+StateId 44869
+MCMXFF 
+DUNS 

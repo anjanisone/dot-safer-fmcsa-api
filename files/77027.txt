@@ -1,0 +1,9 @@
+LegalName CINNCINNATI BELL TELEPHONE COMPANY LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 77027
+StateId 77027
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName LICHTI BROS OIL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 67937
+StateId 67937
+MCMXFF 
+DUNS 

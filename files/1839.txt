@@ -1,0 +1,9 @@
+LegalName D C TAYLOR CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 1839
+StateId 1839
+MCMXFF 
+DUNS 

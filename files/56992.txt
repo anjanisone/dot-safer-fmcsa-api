@@ -1,0 +1,9 @@
+LegalName THE CONNECTICUT LIGHT & POWER CO
+DBAName EVERSOURCE ENERGY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 56992
+StateId 56992
+MCMXFF 
+DUNS 

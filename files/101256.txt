@@ -1,0 +1,9 @@
+LegalName ADELPHI KITCHENS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 101256
+StateId 101256
+MCMXFF 
+DUNS 

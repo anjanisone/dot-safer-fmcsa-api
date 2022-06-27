@@ -1,0 +1,9 @@
+LegalName BLACK HILLS POWER INC
+DBAName BLACK HILLS ENERGY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 119635
+StateId 119635
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName KING FUEL OIL INC
+DBAName 
+PhysicalAddress 209 EAST DALTON RD KING, NC   27021
+Phone (336) 983-5685
+MailingAddress P O  BOX 305 KING, NC   27021
+DOTNumber 16271
+StateId 16271
+MCMXFF 
+DUNS 

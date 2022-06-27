@@ -1,0 +1,9 @@
+LegalName EAST COAST LUMBER & BUILDING SUPPLY CO LLC
+DBAName EAST COAST LUMBER
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 142019
+StateId 142019
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName KELLEY METALS CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 25405
+StateId 25405
+MCMXFF 
+DUNS 

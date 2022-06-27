@@ -1,0 +1,9 @@
+LegalName RAY LOGGING COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7622
+StateId 7622
+MCMXFF 
+DUNS 

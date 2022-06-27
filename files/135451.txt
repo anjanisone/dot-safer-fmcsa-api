@@ -1,0 +1,9 @@
+LegalName TRUE CENTER GATE LEASING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 135451
+StateId 135451
+MCMXFF 
+DUNS 

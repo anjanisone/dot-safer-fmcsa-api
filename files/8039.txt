@@ -1,0 +1,9 @@
+LegalName TRI-STATE TRUCK CENTER INC
+DBAName TRI-STATE LEASING
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 8039
+StateId 8039
+MCMXFF 
+DUNS 

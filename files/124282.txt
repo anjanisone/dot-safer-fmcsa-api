@@ -1,0 +1,9 @@
+LegalName COOPER B-LINE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 124282
+StateId 124282
+MCMXFF 
+DUNS 

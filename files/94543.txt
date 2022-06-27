@@ -1,0 +1,9 @@
+LegalName CHARLES KIRCHNER & SON INC
+DBAName KIRCHNER BUILDING CENTER
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 94543
+StateId 94543
+MCMXFF 
+DUNS 

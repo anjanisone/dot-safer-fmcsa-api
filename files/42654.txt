@@ -1,0 +1,9 @@
+LegalName FRIEND BOX COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 42654
+StateId 42654
+MCMXFF 
+DUNS 

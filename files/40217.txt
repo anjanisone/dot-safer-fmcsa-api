@@ -1,0 +1,9 @@
+LegalName POTTER LUMBER CO LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 40217
+StateId 40217
+MCMXFF 
+DUNS 

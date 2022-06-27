@@ -1,0 +1,9 @@
+LegalName TEX-AIR GAS CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7448
+StateId 7448
+MCMXFF 
+DUNS 

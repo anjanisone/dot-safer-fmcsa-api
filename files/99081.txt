@@ -1,0 +1,9 @@
+LegalName WICKS PIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 99081
+StateId 99081
+MCMXFF 
+DUNS 

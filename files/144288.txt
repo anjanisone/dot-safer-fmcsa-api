@@ -1,0 +1,9 @@
+LegalName BILL GARRETT
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 144288
+StateId 144288
+MCMXFF 
+DUNS 

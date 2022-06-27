@@ -1,0 +1,9 @@
+LegalName SOUTHWIRE COMPANY LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 111168
+StateId 111168
+MCMXFF 
+DUNS 

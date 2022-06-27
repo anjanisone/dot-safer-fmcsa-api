@@ -1,0 +1,9 @@
+LegalName BOHL EQUIPMENT CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 71742
+StateId 71742
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName HERRING TRANSPORTS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 154621
+StateId 154621
+MCMXFF 
+DUNS 

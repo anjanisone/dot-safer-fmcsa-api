@@ -1,0 +1,9 @@
+LegalName THYSSENKRUPP ELEVATOR CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 49208
+StateId 49208
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName MACHINE & WELDING SUPPLY COMPANY
+DBAName ARC3 GASES
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 108607
+StateId 108607
+MCMXFF 
+DUNS 

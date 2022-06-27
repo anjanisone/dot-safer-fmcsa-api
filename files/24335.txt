@@ -1,0 +1,9 @@
+LegalName KARNAK CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 24335
+StateId 24335
+MCMXFF 
+DUNS 

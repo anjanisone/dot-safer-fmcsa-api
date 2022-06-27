@@ -1,0 +1,9 @@
+LegalName J L ANDERSON COMPANY INC
+DBAName PALMETTO BRICK COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 122213
+StateId 122213
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName WEST BEND ELEVATOR INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 48255
+StateId 48255
+MCMXFF 
+DUNS 

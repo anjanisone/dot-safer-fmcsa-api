@@ -1,0 +1,9 @@
+LegalName R M FELTS PACKING CO
+DBAName MEAT PACKING PLANT
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 120216
+StateId 120216
+MCMXFF 
+DUNS 

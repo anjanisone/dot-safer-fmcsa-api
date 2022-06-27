@@ -1,0 +1,9 @@
+LegalName IMPERIAL BEDDING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 122415
+StateId 122415
+MCMXFF 
+DUNS 

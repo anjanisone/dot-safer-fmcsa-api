@@ -1,0 +1,9 @@
+LegalName STATE MANUFACTURED HOMES
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 51053
+StateId 51053
+MCMXFF 
+DUNS 

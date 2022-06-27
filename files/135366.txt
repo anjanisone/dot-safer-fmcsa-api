@@ -1,0 +1,9 @@
+LegalName SCHOFFMAN INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 135366
+StateId 135366
+MCMXFF 
+DUNS 

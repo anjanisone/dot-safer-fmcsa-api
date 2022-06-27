@@ -1,0 +1,9 @@
+LegalName NATIONAL SPINNING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 24045
+StateId 24045
+MCMXFF 
+DUNS 

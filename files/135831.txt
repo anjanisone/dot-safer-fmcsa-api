@@ -1,0 +1,9 @@
+LegalName JX ENTERPRISES INC
+DBAName JX PETERBILT
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 135831
+StateId 135831
+MCMXFF 
+DUNS 

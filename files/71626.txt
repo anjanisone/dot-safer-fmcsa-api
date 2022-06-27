@@ -1,0 +1,9 @@
+LegalName EDNA MATTRESS FACTORY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 71626
+StateId 71626
+MCMXFF 
+DUNS 

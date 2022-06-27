@@ -1,0 +1,9 @@
+LegalName NORTHERN LIGHTS INC
+DBAName 
+PhysicalAddress 421 CHEVY ST SAGLE, ID   83860
+Phone (208) 263-5141
+MailingAddress PO BOX 269 SAGLE, ID   83860
+DOTNumber 38495
+StateId 38495
+MCMXFF 
+DUNS 

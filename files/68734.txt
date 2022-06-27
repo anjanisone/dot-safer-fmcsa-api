@@ -1,0 +1,9 @@
+LegalName URRUTIA LIVESTOCK TRANSPORTATION
+DBAName URRUTIA RANCH
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 68734
+StateId 68734
+MCMXFF 
+DUNS 

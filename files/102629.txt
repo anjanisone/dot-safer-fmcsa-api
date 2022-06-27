@@ -1,0 +1,9 @@
+LegalName AMERICAN WELDING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 102629
+StateId 102629
+MCMXFF 
+DUNS 

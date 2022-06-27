@@ -1,0 +1,9 @@
+LegalName INSTANT WHIP MINNEAPOLIS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 116729
+StateId 116729
+MCMXFF 
+DUNS 

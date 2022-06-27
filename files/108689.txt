@@ -1,0 +1,9 @@
+LegalName BEARD HARDWOODS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 108689
+StateId 108689
+MCMXFF 
+DUNS 

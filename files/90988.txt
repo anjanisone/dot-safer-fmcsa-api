@@ -1,0 +1,9 @@
+LegalName CENTRAL STEEL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 90988
+StateId 90988
+MCMXFF 
+DUNS 

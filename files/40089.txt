@@ -1,0 +1,9 @@
+LegalName MONONGAHELA POWER COMPANY
+DBAName MONPOWER A FIRSTENERGY COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 40089
+StateId 40089
+MCMXFF 
+DUNS 

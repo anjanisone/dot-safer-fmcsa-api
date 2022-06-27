@@ -1,0 +1,9 @@
+LegalName EBT ET ALS INC
+DBAName RHODE ISLAND FRUIT AND SYRUP
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 17023
+StateId 17023
+MCMXFF 
+DUNS 

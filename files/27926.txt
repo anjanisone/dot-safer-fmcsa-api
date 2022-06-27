@@ -1,0 +1,9 @@
+LegalName LEED HIMMEL INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 27926
+StateId 27926
+MCMXFF 
+DUNS 

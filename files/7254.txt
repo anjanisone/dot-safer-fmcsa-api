@@ -1,0 +1,9 @@
+LegalName ALLARD NAZARIAN GROUP INC
+DBAName GRANITE STATE MANUFACTURING
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7254
+StateId 7254
+MCMXFF 
+DUNS 

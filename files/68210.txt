@@ -1,0 +1,9 @@
+LegalName FOUNTAIN PLATING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 68210
+StateId 68210
+MCMXFF 
+DUNS 

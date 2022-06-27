@@ -1,0 +1,9 @@
+LegalName MACK TRUCKS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 10105
+StateId 10105
+MCMXFF 
+DUNS 

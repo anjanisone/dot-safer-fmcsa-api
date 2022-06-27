@@ -1,0 +1,9 @@
+LegalName STAINLESS TANK & EQUIPMENT CO LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 46884
+StateId 46884
+MCMXFF 
+DUNS 

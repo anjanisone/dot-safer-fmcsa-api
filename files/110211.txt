@@ -1,0 +1,9 @@
+LegalName RUSSELL LUCAS
+DBAName LAZY DOUBLE A RANCH
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 110211
+StateId 110211
+MCMXFF 
+DUNS 

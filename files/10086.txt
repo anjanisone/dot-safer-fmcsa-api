@@ -1,0 +1,9 @@
+LegalName MODERN HANDLING EQUIPMENT COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 10086
+StateId 10086
+MCMXFF 
+DUNS 

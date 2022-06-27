@@ -1,0 +1,9 @@
+LegalName CEI EQUIPMENT COMPANY
+DBAName CEI EQUIPMENT
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 153615
+StateId 153615
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName BROWNSTOWN ELECTRIC SUPPLY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 28731
+StateId 28731
+MCMXFF 
+DUNS 

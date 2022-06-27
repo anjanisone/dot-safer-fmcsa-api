@@ -1,0 +1,9 @@
+LegalName MAGOTTEAUX PULASKI INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 95139
+StateId 95139
+MCMXFF 
+DUNS 

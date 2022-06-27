@@ -1,0 +1,9 @@
+LegalName D & T LIVESTOCK & TRUCKING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 108215
+StateId 108215
+MCMXFF 
+DUNS 

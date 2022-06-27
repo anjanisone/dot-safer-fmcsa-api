@@ -1,0 +1,9 @@
+LegalName CONSOLIDATED PRECISION PRODUCTS MINNEAPOLIS
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 116554
+StateId 116554
+MCMXFF 
+DUNS 

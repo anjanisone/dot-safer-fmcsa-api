@@ -1,0 +1,9 @@
+LegalName G5 ENTERPRISES INC
+DBAName TRIPP INVESTMENTS & G5 F & E
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 81737
+StateId 81737
+MCMXFF 
+DUNS 

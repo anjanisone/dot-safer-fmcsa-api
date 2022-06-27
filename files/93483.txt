@@ -1,0 +1,9 @@
+LegalName FRANKLIN ELECTRIC COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93483
+StateId 93483
+MCMXFF 
+DUNS 

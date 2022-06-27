@@ -1,0 +1,9 @@
+LegalName HANOVER FOODS CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 5779
+StateId 5779
+MCMXFF 
+DUNS 

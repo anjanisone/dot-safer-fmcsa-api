@@ -1,0 +1,9 @@
+LegalName SCRANTON EQUITY EXCHANGE
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 36078
+StateId 36078
+MCMXFF 
+DUNS 

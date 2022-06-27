@@ -1,0 +1,9 @@
+LegalName PAPER CARGO CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 75833
+StateId 75833
+MCMXFF MC-133178
+DUNS MC-133178

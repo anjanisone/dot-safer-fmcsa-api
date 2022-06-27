@@ -1,0 +1,9 @@
+LegalName NORTHLAND BEVERAGES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 132285
+StateId 132285
+MCMXFF 
+DUNS 

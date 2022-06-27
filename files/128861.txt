@@ -1,0 +1,9 @@
+LegalName KENNY CONSTRUCTION COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 128861
+StateId 128861
+MCMXFF 
+DUNS 

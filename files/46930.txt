@@ -1,0 +1,9 @@
+LegalName SCHULTZ ENTERPRISES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 46930
+StateId 46930
+MCMXFF 
+DUNS 

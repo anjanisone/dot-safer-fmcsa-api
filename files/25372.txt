@@ -1,0 +1,9 @@
+LegalName JOHN R HESS & COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 25372
+StateId 25372
+MCMXFF 
+DUNS 

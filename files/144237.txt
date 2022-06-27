@@ -1,0 +1,9 @@
+LegalName MC CHEMICAL CO
+DBAName MC PRODUCTS CORP
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 144237
+StateId 144237
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName PARTON LUMBER COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 47421
+StateId 47421
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName SKYLINE TRANSPORTATION INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 62823
+StateId 62823
+MCMXFF 
+DUNS 

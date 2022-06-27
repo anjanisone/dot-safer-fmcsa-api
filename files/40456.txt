@@ -1,0 +1,9 @@
+LegalName INDIAN VALLEY INDUSTRIES INC
+DBAName INDIAN VALLEY INDUSTRIES
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 40456
+StateId 40456
+MCMXFF 
+DUNS 

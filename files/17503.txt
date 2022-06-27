@@ -1,0 +1,9 @@
+LegalName PUTMAN FARMERS CO-OP ASSOCIATION INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 17503
+StateId 17503
+MCMXFF 
+DUNS 

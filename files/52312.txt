@@ -1,0 +1,9 @@
+LegalName KNOX FERTILIZER CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 52312
+StateId 52312
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName TENT CHAIRS & PARTY WARES INC
+DBAName ADAMS RENTAL & SALES
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 85807
+StateId 85807
+MCMXFF 
+DUNS 

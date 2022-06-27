@@ -1,0 +1,9 @@
+LegalName THE GREAT BEND COOPERATIVE ASSOCIATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 151604
+StateId 151604
+MCMXFF 
+DUNS 

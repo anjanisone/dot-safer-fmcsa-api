@@ -1,0 +1,9 @@
+LegalName THEODORE H MCKINLEY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 141797
+StateId 141797
+MCMXFF 
+DUNS 

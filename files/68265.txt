@@ -1,0 +1,9 @@
+LegalName PITTSFIELD WELDING SUPPLY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 68265
+StateId 68265
+MCMXFF 
+DUNS 

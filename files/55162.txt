@@ -1,0 +1,9 @@
+LegalName NELSON AND SMALL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 55162
+StateId 55162
+MCMXFF 
+DUNS 

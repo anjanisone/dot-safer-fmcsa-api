@@ -1,0 +1,9 @@
+LegalName HARLEY-DAVIDSON MOTOR COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 99933
+StateId 99933
+MCMXFF 
+DUNS 

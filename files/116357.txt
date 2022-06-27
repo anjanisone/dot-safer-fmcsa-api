@@ -1,0 +1,9 @@
+LegalName RED WING BRANDS OF AMERICA INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 116357
+StateId 116357
+MCMXFF 
+DUNS 

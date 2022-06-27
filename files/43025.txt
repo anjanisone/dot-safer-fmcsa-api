@@ -1,0 +1,9 @@
+LegalName R & G MANUFACTURING CO INC
+DBAName AMESBURY CHAIR
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 43025
+StateId 43025
+MCMXFF 
+DUNS 

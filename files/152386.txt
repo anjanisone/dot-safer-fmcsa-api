@@ -1,0 +1,9 @@
+LegalName BLACKDUCK COOP AG SERVICES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 152386
+StateId 152386
+MCMXFF 
+DUNS 

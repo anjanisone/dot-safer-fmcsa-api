@@ -1,0 +1,9 @@
+LegalName D & W INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 44352
+StateId 44352
+MCMXFF 
+DUNS 

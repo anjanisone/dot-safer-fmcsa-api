@@ -1,0 +1,9 @@
+LegalName PRINCETON UPHOLSTERY CO INC
+DBAName BRIGHT CHAIR COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 31566
+StateId 31566
+MCMXFF 
+DUNS 

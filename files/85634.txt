@@ -1,0 +1,9 @@
+LegalName ROGER D MCCALLISTER
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 85634
+StateId 85634
+MCMXFF 
+DUNS 

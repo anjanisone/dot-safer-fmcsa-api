@@ -1,0 +1,9 @@
+LegalName BURK ROYALTY CO LTD
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 116988
+StateId 116988
+MCMXFF 
+DUNS 

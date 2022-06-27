@@ -1,0 +1,9 @@
+LegalName DORMAE PRODUCTS INC
+DBAName SERTA MATTRESS CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 136249
+StateId 136249
+MCMXFF 
+DUNS 

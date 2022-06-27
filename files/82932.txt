@@ -1,0 +1,9 @@
+LegalName MERAMEC SPECIALTY COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 82932
+StateId 82932
+MCMXFF 
+DUNS 

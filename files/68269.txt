@@ -1,0 +1,9 @@
+LegalName THE CHARLES C LEWIS COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 68269
+StateId 68269
+MCMXFF 
+DUNS 

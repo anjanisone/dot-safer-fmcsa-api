@@ -1,0 +1,9 @@
+LegalName JOHN STRICKLAND JR
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 48020
+StateId 48020
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName HERBIE FAMOUS FIREWORKS
+DBAName SOUTH CAROLINA DISTRIBUTORS INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 112743
+StateId 112743
+MCMXFF 
+DUNS 

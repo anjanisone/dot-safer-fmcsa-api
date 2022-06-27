@@ -1,0 +1,9 @@
+LegalName MRS G INC
+DBAName MRS G TV & APPLIANCES
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 25497
+StateId 25497
+MCMXFF 
+DUNS 

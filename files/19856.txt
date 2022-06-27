@@ -1,0 +1,9 @@
+LegalName SPRINGFIELD METAL PRODUCTS CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 19856
+StateId 19856
+MCMXFF 
+DUNS 

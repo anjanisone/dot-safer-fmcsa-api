@@ -1,0 +1,9 @@
+LegalName G & G ENTERPRISES INC
+DBAName SMITH BEVERAGES
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 52220
+StateId 52220
+MCMXFF 
+DUNS 

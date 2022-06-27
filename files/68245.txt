@@ -1,0 +1,9 @@
+LegalName A SIMOS & CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 68245
+StateId 68245
+MCMXFF 
+DUNS 

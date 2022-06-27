@@ -1,0 +1,9 @@
+LegalName ALAN PARTY & TENT RENTALS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 117580
+StateId 117580
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName FRITZ STRUCTURAL STEEL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 144443
+StateId 144443
+MCMXFF 
+DUNS 

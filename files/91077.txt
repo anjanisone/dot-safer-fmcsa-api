@@ -1,0 +1,9 @@
+LegalName LOVELACE FARMS INC
+DBAName FORREST KEELING NURSERY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 91077
+StateId 91077
+MCMXFF 
+DUNS 

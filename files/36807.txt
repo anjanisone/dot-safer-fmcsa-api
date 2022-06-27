@@ -1,0 +1,9 @@
+LegalName VALLEY PROTEINS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 36807
+StateId 36807
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName CHANEY FURNITURE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 126883
+StateId 126883
+MCMXFF 
+DUNS 

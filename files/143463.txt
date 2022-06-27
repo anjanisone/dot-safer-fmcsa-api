@@ -1,0 +1,9 @@
+LegalName HARRINGTON & COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 143463
+StateId 143463
+MCMXFF 
+DUNS 

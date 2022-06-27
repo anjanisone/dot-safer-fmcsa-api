@@ -1,0 +1,9 @@
+LegalName COLLINS EXCAVATING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 60585
+StateId 60585
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName BIO-LAB INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 34635
+StateId 34635
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName INTERMOUNTAIN FURNITURE MFG CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 10942
+StateId 10942
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName GERBER TECHNOLOGY LLC
+DBAName GERBER SCIENTIFIC INTERNATIONAL INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 61308
+StateId 61308
+MCMXFF 
+DUNS 

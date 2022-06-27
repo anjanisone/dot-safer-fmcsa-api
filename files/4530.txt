@@ -1,0 +1,9 @@
+LegalName NORTHWEST PIPELINE SERVICES LLC
+DBAName WILLIAMS INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 4530
+StateId 4530
+MCMXFF 
+DUNS 

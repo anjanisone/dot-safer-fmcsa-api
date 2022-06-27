@@ -1,0 +1,9 @@
+LegalName TROUW NUTRITION CANADA INC
+DBAName SHUR GAIN
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 13023
+StateId 13023
+MCMXFF 
+DUNS 

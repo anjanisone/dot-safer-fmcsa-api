@@ -1,0 +1,9 @@
+LegalName ARROW TRUCK SALES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 70168
+StateId 70168
+MCMXFF 
+DUNS 

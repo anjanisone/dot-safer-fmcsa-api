@@ -1,0 +1,9 @@
+LegalName DAKOTA BEST INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 149929
+StateId 149929
+MCMXFF 
+DUNS 

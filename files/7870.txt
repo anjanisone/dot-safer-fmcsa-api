@@ -1,0 +1,9 @@
+LegalName BASIN COOP INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7870
+StateId 7870
+MCMXFF 
+DUNS 

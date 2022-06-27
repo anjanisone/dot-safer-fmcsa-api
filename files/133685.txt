@@ -1,0 +1,9 @@
+LegalName STANLEY M RIEDEL
+DBAName RIEDEL TRUCK SALES
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 133685
+StateId 133685
+MCMXFF 
+DUNS 

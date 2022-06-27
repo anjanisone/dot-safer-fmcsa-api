@@ -1,0 +1,9 @@
+LegalName GREEN SEED COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 81947
+StateId 81947
+MCMXFF 
+DUNS 

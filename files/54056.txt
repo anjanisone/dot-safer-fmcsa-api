@@ -1,0 +1,9 @@
+LegalName TAHOE BASIN CONTAINER SERVICE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 54056
+StateId 54056
+MCMXFF 
+DUNS 

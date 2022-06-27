@@ -1,0 +1,9 @@
+LegalName THARP PALLET COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 3566
+StateId 3566
+MCMXFF 
+DUNS 

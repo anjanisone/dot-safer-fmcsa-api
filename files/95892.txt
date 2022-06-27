@@ -1,0 +1,9 @@
+LegalName ARTESIA ALFALFA GROWERS ASSN
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 95892
+StateId 95892
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName FIELDALE FARMS CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 146177
+StateId 146177
+MCMXFF 
+DUNS 

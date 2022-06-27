@@ -1,0 +1,9 @@
+LegalName HURRICANE EQUIPMENT CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 122412
+StateId 122412
+MCMXFF 
+DUNS 

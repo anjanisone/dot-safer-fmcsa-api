@@ -1,0 +1,9 @@
+LegalName BRIDGEHAVEN FORD TRUCKS INC
+DBAName GABRIELLI TRUCK SALES OF MILFORD
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 134446
+StateId 134446
+MCMXFF 
+DUNS 

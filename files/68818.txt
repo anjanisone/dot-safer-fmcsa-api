@@ -1,0 +1,9 @@
+LegalName JM FURNITURE
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 68818
+StateId 68818
+MCMXFF 
+DUNS 

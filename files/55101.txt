@@ -1,0 +1,9 @@
+LegalName NORTHEASTERN SUPPLY COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 55101
+StateId 55101
+MCMXFF 
+DUNS 

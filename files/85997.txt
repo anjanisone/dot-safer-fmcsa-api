@@ -1,0 +1,9 @@
+LegalName H H BENFIELD ELECTRIC SUPPLY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 85997
+StateId 85997
+MCMXFF 
+DUNS 

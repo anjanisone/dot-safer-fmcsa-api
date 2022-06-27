@@ -1,0 +1,9 @@
+LegalName CENTENNIAL HOMES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 44292
+StateId 44292
+MCMXFF 
+DUNS 

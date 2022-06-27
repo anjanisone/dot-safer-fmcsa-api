@@ -1,0 +1,9 @@
+LegalName PETER J CARPENTER
+DBAName MOSES LAKE AUTO WRECKING
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 150812
+StateId 150812
+MCMXFF 
+DUNS 

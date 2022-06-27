@@ -1,0 +1,9 @@
+LegalName MERLIN L GARVER INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 81635
+StateId 81635
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName SCOTT MACHINERY COMPANY
+DBAName INTERMOUNTAIN BOBCAT
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 141772
+StateId 141772
+MCMXFF 
+DUNS 

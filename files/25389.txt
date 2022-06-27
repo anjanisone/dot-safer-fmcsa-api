@@ -1,0 +1,9 @@
+LegalName INDUSTRIAL WELDERS SUPPLY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 25389
+StateId 25389
+MCMXFF 
+DUNS 

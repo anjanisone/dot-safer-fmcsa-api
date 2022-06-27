@@ -1,0 +1,9 @@
+LegalName STAR DISTRIBUTORS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 58350
+StateId 58350
+MCMXFF 
+DUNS 

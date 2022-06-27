@@ -1,0 +1,9 @@
+LegalName ARCHIE M KNERR
+DBAName 
+PhysicalAddress 307 3RD ST PLAINS, MT   59859
+Phone (406) 544-0882
+MailingAddress PO BOX 886 PLAINS, MT   59859
+DOTNumber 81162
+StateId 81162
+MCMXFF 
+DUNS 

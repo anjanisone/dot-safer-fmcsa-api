@@ -1,0 +1,9 @@
+LegalName GEORGE L WELLS INC
+DBAName GEORGE L WELLS MEAT COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 149044
+StateId 149044
+MCMXFF 
+DUNS 

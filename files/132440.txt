@@ -1,0 +1,9 @@
+LegalName CENTRAL MINNESOTA FABRICATING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 132440
+StateId 132440
+MCMXFF 
+DUNS 

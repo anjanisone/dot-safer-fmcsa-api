@@ -1,0 +1,9 @@
+LegalName AP CONSTRUCTION INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 86740
+StateId 86740
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName SMITH SETZER & SONS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 47915
+StateId 47915
+MCMXFF 
+DUNS 

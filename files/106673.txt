@@ -1,0 +1,9 @@
+LegalName CONSOLIDATED EDISON CO OF NEW YORK
+DBAName CON EDISON
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 106673
+StateId 106673
+MCMXFF 
+DUNS 

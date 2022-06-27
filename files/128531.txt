@@ -1,0 +1,9 @@
+LegalName UNITED CENTRAL INDUSTRIAL SUPPLY COMPANY LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 128531
+StateId 128531
+MCMXFF 
+DUNS 

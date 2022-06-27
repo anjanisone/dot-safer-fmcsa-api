@@ -1,0 +1,9 @@
+LegalName FRED USINGER INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 26850
+StateId 26850
+MCMXFF 
+DUNS 

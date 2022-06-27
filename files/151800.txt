@@ -1,0 +1,9 @@
+LegalName LAXTON ENTERPRISES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 151800
+StateId 151800
+MCMXFF 
+DUNS 

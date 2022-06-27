@@ -1,0 +1,9 @@
+LegalName QUALITY BEERS DISTRIBUTING COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 91878
+StateId 91878
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName BIO-SERV CORPORATION
+DBAName ROSE PEST SOLUTIONS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 22058
+StateId 22058
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName SCHUPBACH-STREITMATTER GAS COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 141837
+StateId 141837
+MCMXFF 
+DUNS 

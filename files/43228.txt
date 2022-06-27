@@ -1,0 +1,9 @@
+LegalName LAMONT MEDICAL EQUIPMENT CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 43228
+StateId 43228
+MCMXFF 
+DUNS 

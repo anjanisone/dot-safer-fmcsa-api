@@ -1,0 +1,9 @@
+LegalName W A KLINGER LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 65853
+StateId 65853
+MCMXFF 
+DUNS 

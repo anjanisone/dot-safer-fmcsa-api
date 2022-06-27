@@ -1,0 +1,9 @@
+LegalName MASSACHUSETTS ELECTRIC CO
+DBAName NATIONAL GRID
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 49410
+StateId 49410
+MCMXFF 
+DUNS 

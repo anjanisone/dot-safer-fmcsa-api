@@ -1,0 +1,9 @@
+LegalName NORTHERN NEW MEXICO GAS CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 27381
+StateId 27381
+MCMXFF 
+DUNS 

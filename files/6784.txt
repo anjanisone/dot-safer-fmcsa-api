@@ -1,0 +1,9 @@
+LegalName LAWSON BUILDING SUPPLY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 6784
+StateId 6784
+MCMXFF 
+DUNS 

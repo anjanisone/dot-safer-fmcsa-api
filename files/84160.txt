@@ -1,0 +1,9 @@
+LegalName METAL TRADES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 84160
+StateId 84160
+MCMXFF 
+DUNS 

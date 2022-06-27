@@ -1,0 +1,9 @@
+LegalName EVANS MATTRESS & FURNITURE COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 82534
+StateId 82534
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName CAPRON LIGHTING & SOUND CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 8763
+StateId 8763
+MCMXFF 
+DUNS 

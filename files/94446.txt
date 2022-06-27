@@ -1,0 +1,9 @@
+LegalName W D MATTHEWS MACHINERY CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 94446
+StateId 94446
+MCMXFF 
+DUNS 

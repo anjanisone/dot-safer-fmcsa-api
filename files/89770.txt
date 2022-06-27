@@ -1,0 +1,9 @@
+LegalName BELL STEEL COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 89770
+StateId 89770
+MCMXFF 
+DUNS 

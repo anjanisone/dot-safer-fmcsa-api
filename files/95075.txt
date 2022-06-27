@@ -1,0 +1,9 @@
+LegalName GATES LUMBER COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 95075
+StateId 95075
+MCMXFF 
+DUNS 

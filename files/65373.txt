@@ -1,0 +1,9 @@
+LegalName MARYLAND METALS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 65373
+StateId 65373
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName DOUGLAS COUNTY BOTTLING CO INC
+DBAName COCA-COLA BOTTLING CO OF ROSEBURG
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 74616
+StateId 74616
+MCMXFF 
+DUNS 

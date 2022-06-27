@@ -1,0 +1,9 @@
+LegalName PEDERSEN MACHINE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 965
+StateId 965
+MCMXFF 
+DUNS 

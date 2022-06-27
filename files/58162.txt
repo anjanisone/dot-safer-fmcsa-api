@@ -1,0 +1,9 @@
+LegalName GLANTZ HOLDINGS INC
+DBAName N GLANTZ AND SON LLC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 58162
+StateId 58162
+MCMXFF 
+DUNS 

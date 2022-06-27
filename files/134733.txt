@@ -1,0 +1,9 @@
+LegalName RICARDO AGUERO
+DBAName R AGUERO TRUCKING
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 134733
+StateId 134733
+MCMXFF MC-283744
+DUNS MC-283744

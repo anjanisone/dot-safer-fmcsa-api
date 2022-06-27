@@ -1,0 +1,9 @@
+LegalName ELY'S INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 54909
+StateId 54909
+MCMXFF 
+DUNS 

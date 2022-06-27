@@ -1,0 +1,9 @@
+LegalName R & M LUMBER INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 1241
+StateId 1241
+MCMXFF 
+DUNS 

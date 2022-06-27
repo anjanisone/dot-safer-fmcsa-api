@@ -1,0 +1,9 @@
+LegalName RUDDICKS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 65687
+StateId 65687
+MCMXFF 
+DUNS 

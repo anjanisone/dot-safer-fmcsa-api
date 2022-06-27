@@ -1,0 +1,9 @@
+LegalName M LIPSITZ & CO LTD
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 21677
+StateId 21677
+MCMXFF 
+DUNS 

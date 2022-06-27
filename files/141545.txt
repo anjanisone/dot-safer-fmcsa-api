@@ -1,0 +1,9 @@
+LegalName SUBARU OF NEW ENGLAND INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 141545
+StateId 141545
+MCMXFF 
+DUNS 

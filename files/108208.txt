@@ -1,0 +1,9 @@
+LegalName DAVIS FURNITURE INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 108208
+StateId 108208
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName DETROIT FLAME HARDENING COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 141181
+StateId 141181
+MCMXFF 
+DUNS 

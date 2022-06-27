@@ -1,0 +1,9 @@
+LegalName GETHMANN CONSTRUCTION COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 107172
+StateId 107172
+MCMXFF 
+DUNS 

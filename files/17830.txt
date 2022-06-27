@@ -1,0 +1,9 @@
+LegalName MARCUS PAPER CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 17830
+StateId 17830
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName TRUCK ENTERPRISES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 4703
+StateId 4703
+MCMXFF 
+DUNS 

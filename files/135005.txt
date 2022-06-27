@@ -1,0 +1,9 @@
+LegalName SKOGLUND OIL COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 135005
+StateId 135005
+MCMXFF 
+DUNS 

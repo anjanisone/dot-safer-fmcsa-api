@@ -1,0 +1,9 @@
+LegalName WILLIAM R DUNLAP INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 135239
+StateId 135239
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName SMITH DETROIT DIESEL ALLISON INC
+DBAName SMITH POWER PRODUCTS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 122936
+StateId 122936
+MCMXFF 
+DUNS 

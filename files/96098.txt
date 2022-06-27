@@ -1,0 +1,9 @@
+LegalName GUARANTEED FOODS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 96098
+StateId 96098
+MCMXFF 
+DUNS 

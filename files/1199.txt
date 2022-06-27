@@ -1,0 +1,9 @@
+LegalName THE TIMKEN COMPANY
+DBAName 004465100
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 1199
+StateId 1199
+MCMXFF 
+DUNS 

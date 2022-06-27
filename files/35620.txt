@@ -1,0 +1,9 @@
+LegalName MCMINNVILLE MANUFACTURING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 35620
+StateId 35620
+MCMXFF 
+DUNS 

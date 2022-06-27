@@ -1,0 +1,9 @@
+LegalName HORIZON AIR FREIGHT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 156402
+StateId 156402
+MCMXFF 
+DUNS 

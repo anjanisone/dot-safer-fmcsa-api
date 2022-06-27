@@ -1,0 +1,9 @@
+LegalName AUTOBODY JOBBERS WAREHOUSE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 117466
+StateId 117466
+MCMXFF 
+DUNS 

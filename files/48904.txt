@@ -1,0 +1,9 @@
+LegalName OUACHITA FERTILIZER COMPANY LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 48904
+StateId 48904
+MCMXFF 
+DUNS 

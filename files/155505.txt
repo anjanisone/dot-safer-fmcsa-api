@@ -1,0 +1,9 @@
+LegalName THE TIRE GUYS
+DBAName TIRE RAMA
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 155505
+StateId 155505
+MCMXFF 
+DUNS 

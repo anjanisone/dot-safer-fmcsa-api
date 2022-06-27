@@ -1,0 +1,9 @@
+LegalName CAPITAL SUPPLY CO OF FARMINGTON MO INC
+DBAName CAPITAL SUPPLY CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 73284
+StateId 73284
+MCMXFF 
+DUNS 

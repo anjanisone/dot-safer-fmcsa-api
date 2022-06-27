@@ -1,0 +1,9 @@
+LegalName UNITED UTILITY SUPPLY COOPERATIVE INC
+DBAName UUS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 150758
+StateId 150758
+MCMXFF 
+DUNS 

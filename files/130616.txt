@@ -1,0 +1,9 @@
+LegalName TRI STATE STONE AND BUILDING SUPPLY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 130616
+StateId 130616
+MCMXFF 
+DUNS 

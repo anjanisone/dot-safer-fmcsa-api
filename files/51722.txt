@@ -1,0 +1,9 @@
+LegalName JAMESTOWN PAINT COMPANY
+DBAName JAMESTOWN COATING TECHNOLOGIES
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 51722
+StateId 51722
+MCMXFF 
+DUNS 

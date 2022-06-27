@@ -1,0 +1,9 @@
+LegalName THE TANEY CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 65120
+StateId 65120
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName J WOLZEN TRUCKING INC
+DBAName J WOLZEN TRUCKING
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 12079
+StateId 12079
+MCMXFF 
+DUNS 

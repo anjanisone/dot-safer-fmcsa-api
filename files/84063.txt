@@ -1,0 +1,9 @@
+LegalName QUEEN CITY PLASTICS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 84063
+StateId 84063
+MCMXFF 
+DUNS 

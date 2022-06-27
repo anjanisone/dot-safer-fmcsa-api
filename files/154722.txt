@@ -1,0 +1,9 @@
+LegalName FLSMIDTH INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 154722
+StateId 154722
+MCMXFF 
+DUNS 

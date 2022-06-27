@@ -1,0 +1,9 @@
+LegalName A W FARRELL AND SON INC
+DBAName FARRELL ROOFING
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 113086
+StateId 113086
+MCMXFF 
+DUNS 

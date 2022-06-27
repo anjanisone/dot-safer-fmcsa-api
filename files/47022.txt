@@ -1,0 +1,9 @@
+LegalName VOGEL BROS BUILDING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 47022
+StateId 47022
+MCMXFF 
+DUNS 

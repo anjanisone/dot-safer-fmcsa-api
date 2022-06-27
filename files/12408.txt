@@ -1,0 +1,9 @@
+LegalName EVANS GRAIN & ELEVATOR CO
+DBAName WESTERN SEEDS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 12408
+StateId 12408
+MCMXFF 
+DUNS 

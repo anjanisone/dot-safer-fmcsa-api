@@ -1,0 +1,9 @@
+LegalName MILCO INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 38731
+StateId 38731
+MCMXFF 
+DUNS 

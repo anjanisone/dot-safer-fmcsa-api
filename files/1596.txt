@@ -1,0 +1,9 @@
+LegalName FOLTZ LITTER INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 1596
+StateId 1596
+MCMXFF 
+DUNS 

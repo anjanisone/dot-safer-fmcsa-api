@@ -1,0 +1,9 @@
+LegalName THOS SOMERVILLE CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 6789
+StateId 6789
+MCMXFF 
+DUNS 

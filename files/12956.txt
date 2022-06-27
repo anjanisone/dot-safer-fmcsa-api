@@ -1,0 +1,9 @@
+LegalName SCOTCHMAN INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 12956
+StateId 12956
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName TIRE ASSOCIATES LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 97794
+StateId 97794
+MCMXFF 
+DUNS 

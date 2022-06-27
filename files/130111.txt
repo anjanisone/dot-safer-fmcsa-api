@@ -1,0 +1,9 @@
+LegalName THE BRICK MART INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 130111
+StateId 130111
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName FREADMAN STEEL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 68214
+StateId 68214
+MCMXFF 
+DUNS 

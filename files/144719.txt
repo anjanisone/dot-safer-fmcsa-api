@@ -1,0 +1,9 @@
+LegalName SEABROOK SEAFOOD INC
+DBAName SEABROOK SEAFOOD
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 144719
+StateId 144719
+MCMXFF 
+DUNS 

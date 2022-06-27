@@ -1,0 +1,9 @@
+LegalName SOUTH TAHOE REFUSE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 131392
+StateId 131392
+MCMXFF 
+DUNS 

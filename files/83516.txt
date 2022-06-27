@@ -1,0 +1,9 @@
+LegalName BAY INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 83516
+StateId 83516
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName DAUER IMPLEMENT CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 22087
+StateId 22087
+MCMXFF 
+DUNS 

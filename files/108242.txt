@@ -1,0 +1,9 @@
+LegalName COTTON BELT INC
+DBAName EDGECOMBE SLEEPWORTHY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 108242
+StateId 108242
+MCMXFF 
+DUNS 

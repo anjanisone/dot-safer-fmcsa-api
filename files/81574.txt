@@ -1,0 +1,9 @@
+LegalName KIRK & BLUM MANUFACTURING
+DBAName SHEET METAL FABRICATION
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 81574
+StateId 81574
+MCMXFF 
+DUNS 

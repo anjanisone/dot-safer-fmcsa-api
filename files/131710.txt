@@ -1,0 +1,9 @@
+LegalName GALLOY & VANETTEN INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 131710
+StateId 131710
+MCMXFF 
+DUNS 

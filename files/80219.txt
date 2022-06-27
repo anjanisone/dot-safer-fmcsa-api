@@ -1,0 +1,9 @@
+LegalName HENRIS SUPPLY INC
+DBAName HENRIS ROOFING CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 80219
+StateId 80219
+MCMXFF 
+DUNS 

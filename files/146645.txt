@@ -1,0 +1,9 @@
+LegalName LEROY M SENSENIG INC
+DBAName SENSENIG'S FEED MILL
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 146645
+StateId 146645
+MCMXFF 
+DUNS 

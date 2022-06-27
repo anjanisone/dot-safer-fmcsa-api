@@ -1,0 +1,9 @@
+LegalName UNITED PIPE & NIPPLE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 24992
+StateId 24992
+MCMXFF 
+DUNS 

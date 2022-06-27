@@ -1,0 +1,9 @@
+LegalName HFSE INC
+DBAName HARBOUR FOOD SERVICE EQUIPMENT
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 49555
+StateId 49555
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName STERNES ROBERT
+DBAName STERNES FARMS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 41307
+StateId 41307
+MCMXFF 
+DUNS 

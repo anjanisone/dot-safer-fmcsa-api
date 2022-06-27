@@ -1,0 +1,9 @@
+LegalName BRONSON PLATING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 75700
+StateId 75700
+MCMXFF 
+DUNS 

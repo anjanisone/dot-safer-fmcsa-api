@@ -1,0 +1,9 @@
+LegalName HAWAIIAN SUN PRODUCTS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 130150
+StateId 130150
+MCMXFF 
+DUNS 

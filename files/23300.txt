@@ -1,0 +1,9 @@
+LegalName PAN CHEMICAL CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 23300
+StateId 23300
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName WEST END MILLING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 37921
+StateId 37921
+MCMXFF 
+DUNS 

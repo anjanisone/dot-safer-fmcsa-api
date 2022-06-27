@@ -1,0 +1,9 @@
+LegalName GRAYCOR INDUSTRIAL CONSTRUCTORS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 128850
+StateId 128850
+MCMXFF 
+DUNS 

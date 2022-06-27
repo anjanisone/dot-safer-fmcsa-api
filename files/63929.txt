@@ -1,0 +1,9 @@
+LegalName L & L CONCRETE PRODUCTS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 63929
+StateId 63929
+MCMXFF 
+DUNS 

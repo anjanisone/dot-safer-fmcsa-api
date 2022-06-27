@@ -1,0 +1,9 @@
+LegalName ICB ACQUISTIONS LLC
+DBAName PITTSBURGH BREWING COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 140867
+StateId 140867
+MCMXFF 
+DUNS 

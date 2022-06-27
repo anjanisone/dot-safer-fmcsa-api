@@ -1,0 +1,9 @@
+LegalName K & J FARABAUGH FARMS
+DBAName J & M FARABAUGH FARMS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 66509
+StateId 66509
+MCMXFF 
+DUNS 

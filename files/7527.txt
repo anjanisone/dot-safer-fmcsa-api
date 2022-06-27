@@ -1,0 +1,9 @@
+LegalName THE POTOMAC EDISON COMPANY
+DBAName POTOMAC EDISON A FIRSTENERGY COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7527
+StateId 7527
+MCMXFF 
+DUNS 

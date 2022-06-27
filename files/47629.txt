@@ -1,0 +1,9 @@
+LegalName PHILLIPS & JORDAN INCORPORATED
+DBAName PHILLIPS & JORDAN
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 47629
+StateId 47629
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName POTTERS INDUSTRIES LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 108454
+StateId 108454
+MCMXFF 
+DUNS 

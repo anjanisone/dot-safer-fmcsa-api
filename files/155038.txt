@@ -1,0 +1,9 @@
+LegalName PRIMESOURCE BUILDING PRODUCTS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 155038
+StateId 155038
+MCMXFF 
+DUNS 

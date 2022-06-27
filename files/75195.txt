@@ -1,0 +1,9 @@
+LegalName GOTVALD IMA
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 75195
+StateId 75195
+MCMXFF 
+DUNS 

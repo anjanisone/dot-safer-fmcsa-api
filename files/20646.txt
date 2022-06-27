@@ -1,0 +1,9 @@
+LegalName WILLIMANSETT WASTE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 20646
+StateId 20646
+MCMXFF 
+DUNS 

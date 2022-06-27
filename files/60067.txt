@@ -1,0 +1,9 @@
+LegalName SMURFIT KAPPA NORTH AMERICA LLC
+DBAName SMURFIT KAPPA
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 60067
+StateId 60067
+MCMXFF 
+DUNS 

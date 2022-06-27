@@ -1,0 +1,9 @@
+LegalName SMITH-EVANS LUMBER CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 58672
+StateId 58672
+MCMXFF 
+DUNS 

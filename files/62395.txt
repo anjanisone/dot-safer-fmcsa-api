@@ -1,0 +1,9 @@
+LegalName IDAHO POWER COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 62395
+StateId 62395
+MCMXFF 
+DUNS 

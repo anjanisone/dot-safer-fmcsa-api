@@ -1,0 +1,9 @@
+LegalName I C G ELECTRIC INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 84044
+StateId 84044
+MCMXFF 
+DUNS 

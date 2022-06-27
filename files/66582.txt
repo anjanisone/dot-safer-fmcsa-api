@@ -1,0 +1,9 @@
+LegalName INDUSTRIAL EXPORT CO
+DBAName INDEX
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 66582
+StateId 66582
+MCMXFF 
+DUNS 

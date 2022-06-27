@@ -1,0 +1,9 @@
+LegalName PORT ERIE PLASTICS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93950
+StateId 93950
+MCMXFF 
+DUNS 

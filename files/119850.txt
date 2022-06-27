@@ -1,0 +1,9 @@
+LegalName MID AMERICA STEEL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 119850
+StateId 119850
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName PARRISH CARPET SALES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 127579
+StateId 127579
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName MANITOBA CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 139131
+StateId 139131
+MCMXFF 
+DUNS 

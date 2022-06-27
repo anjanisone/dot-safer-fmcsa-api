@@ -1,0 +1,9 @@
+LegalName NEIL H DANIELS INC
+DBAName DANIELS CONSTRUCTION
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 24671
+StateId 24671
+MCMXFF 
+DUNS 

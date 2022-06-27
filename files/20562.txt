@@ -1,0 +1,9 @@
+LegalName UNICELL BODY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 20562
+StateId 20562
+MCMXFF 
+DUNS 

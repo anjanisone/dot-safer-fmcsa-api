@@ -1,0 +1,9 @@
+LegalName FARM CHEMICALS INC
+DBAName FCI
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 44558
+StateId 44558
+MCMXFF 
+DUNS 

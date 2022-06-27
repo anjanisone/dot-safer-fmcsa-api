@@ -1,0 +1,9 @@
+LegalName GREAT PLAINS MANUFACTURING INCORPORATED
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 155708
+StateId 155708
+MCMXFF 
+DUNS 

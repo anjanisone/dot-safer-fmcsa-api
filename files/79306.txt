@@ -1,0 +1,9 @@
+LegalName WAX CAPITAL CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 79306
+StateId 79306
+MCMXFF 
+DUNS 

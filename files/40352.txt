@@ -1,0 +1,9 @@
+LegalName LAMELL LUMBER CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 40352
+StateId 40352
+MCMXFF 
+DUNS 

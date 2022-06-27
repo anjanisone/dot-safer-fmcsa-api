@@ -1,0 +1,9 @@
+LegalName METROPOLITAN PIPE & SUPPLY COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 18022
+StateId 18022
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName INDUSTRIAL SUPPLY COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 155325
+StateId 155325
+MCMXFF 
+DUNS 

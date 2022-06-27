@@ -1,0 +1,9 @@
+LegalName PETER J LIES
+DBAName LIES GAME FARM
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 140792
+StateId 140792
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName R & T INC
+DBAName SADTK'S FURNITURE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 99305
+StateId 99305
+MCMXFF 
+DUNS 

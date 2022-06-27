@@ -1,0 +1,9 @@
+LegalName WILLIAM F SULLIVAN & CO INC
+DBAName WM F SULLIVAN CO INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 20656
+StateId 20656
+MCMXFF 
+DUNS 

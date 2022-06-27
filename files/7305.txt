@@ -1,0 +1,9 @@
+LegalName GATE CITY FENCE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7305
+StateId 7305
+MCMXFF 
+DUNS 

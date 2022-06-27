@@ -1,0 +1,9 @@
+LegalName SALINA SCALE SALES AND SERVICE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 73045
+StateId 73045
+MCMXFF 
+DUNS 

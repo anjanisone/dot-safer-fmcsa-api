@@ -1,0 +1,9 @@
+LegalName TRIPLE K MANUFACTURING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 53421
+StateId 53421
+MCMXFF 
+DUNS 

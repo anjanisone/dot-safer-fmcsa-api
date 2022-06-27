@@ -1,0 +1,9 @@
+LegalName DAVID SHULDINER INC
+DBAName SHULDINER
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 156310
+StateId 156310
+MCMXFF 
+DUNS 

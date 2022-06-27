@@ -1,0 +1,9 @@
+LegalName ERIE BEER COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 51134
+StateId 51134
+MCMXFF 
+DUNS 

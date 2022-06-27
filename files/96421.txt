@@ -1,0 +1,9 @@
+LegalName ARCO DEHYDRATING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 96421
+StateId 96421
+MCMXFF 
+DUNS 

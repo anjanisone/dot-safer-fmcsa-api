@@ -1,0 +1,9 @@
+LegalName N B GOODWYN & SONS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 51460
+StateId 51460
+MCMXFF 
+DUNS 

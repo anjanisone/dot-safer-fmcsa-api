@@ -1,0 +1,9 @@
+LegalName YAMPA VALLEY ELECTRIC ASSOCIATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 14297
+StateId 14297
+MCMXFF 
+DUNS 

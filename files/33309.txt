@@ -1,0 +1,9 @@
+LegalName 9332 - 0034 QUEBEC INC
+DBAName FAUBERT FEEDS 2015
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 33309
+StateId 33309
+MCMXFF 
+DUNS 

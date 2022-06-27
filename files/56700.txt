@@ -1,0 +1,9 @@
+LegalName W C NOTHNICK & SONS
+DBAName NOTHNICK FARMS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 56700
+StateId 56700
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName BAKER VEHICLE SYSTEMS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93843
+StateId 93843
+MCMXFF 
+DUNS 

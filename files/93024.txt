@@ -1,0 +1,9 @@
+LegalName MID-WEST FABRICATING COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93024
+StateId 93024
+MCMXFF 
+DUNS 

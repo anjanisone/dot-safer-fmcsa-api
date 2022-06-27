@@ -1,0 +1,9 @@
+LegalName WESTERN STEEL COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 136994
+StateId 136994
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName BUTTERFIELD FOODS COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 124598
+StateId 124598
+MCMXFF 
+DUNS 

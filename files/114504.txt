@@ -1,0 +1,9 @@
+LegalName MAGLINE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 114504
+StateId 114504
+MCMXFF 
+DUNS 

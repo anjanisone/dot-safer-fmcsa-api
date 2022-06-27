@@ -1,0 +1,9 @@
+LegalName CHAPPELL CENTRAL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 124429
+StateId 124429
+MCMXFF 
+DUNS 

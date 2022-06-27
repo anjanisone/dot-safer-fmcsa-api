@@ -1,0 +1,9 @@
+LegalName LYNCH OIL COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 153956
+StateId 153956
+MCMXFF 
+DUNS 

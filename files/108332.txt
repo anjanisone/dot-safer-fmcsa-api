@@ -1,0 +1,9 @@
+LegalName GREGORY POOLE EQUIPMENT COMPANY
+DBAName GPEC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 108332
+StateId 108332
+MCMXFF 
+DUNS 

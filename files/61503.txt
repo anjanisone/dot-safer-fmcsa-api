@@ -1,0 +1,9 @@
+LegalName FOWLER BROTHERS COMPANY
+DBAName THE FURNITURE SHOPPE THE PATIO SHOP
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 61503
+StateId 61503
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName TED MANNSTEDT & SON INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 48701
+StateId 48701
+MCMXFF 
+DUNS 

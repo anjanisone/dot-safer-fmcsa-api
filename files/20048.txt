@@ -1,0 +1,9 @@
+LegalName BLINCOE FARMS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 20048
+StateId 20048
+MCMXFF 
+DUNS 

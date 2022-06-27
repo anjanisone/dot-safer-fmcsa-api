@@ -1,0 +1,9 @@
+LegalName MUXIE DISTRIBUTING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93010
+StateId 93010
+MCMXFF 
+DUNS 

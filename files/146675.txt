@@ -1,0 +1,9 @@
+LegalName DENNIS DENTON DOROTHY DENTON & MICHAEL DENTON
+DBAName DENTON FARMS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 146675
+StateId 146675
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName CONSTRUCTION RENTAL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 82303
+StateId 82303
+MCMXFF 
+DUNS 

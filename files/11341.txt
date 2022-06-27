@@ -1,0 +1,9 @@
+LegalName SOUTHERN HARDWARE COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 11341
+StateId 11341
+MCMXFF 
+DUNS 

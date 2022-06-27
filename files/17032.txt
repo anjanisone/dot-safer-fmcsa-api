@@ -1,0 +1,9 @@
+LegalName R I WELDING & FABRICATING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 17032
+StateId 17032
+MCMXFF 
+DUNS 

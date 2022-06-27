@@ -1,0 +1,9 @@
+LegalName BIRMINGHAM ELECTRIC & BATTERY COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 121282
+StateId 121282
+MCMXFF 
+DUNS 

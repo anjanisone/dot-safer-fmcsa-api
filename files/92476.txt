@@ -1,0 +1,9 @@
+LegalName HARRIS TIRE CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 92476
+StateId 92476
+MCMXFF 
+DUNS 

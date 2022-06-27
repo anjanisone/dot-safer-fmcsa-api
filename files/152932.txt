@@ -1,0 +1,9 @@
+LegalName ASSOCIATED INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 152932
+StateId 152932
+MCMXFF 
+DUNS 

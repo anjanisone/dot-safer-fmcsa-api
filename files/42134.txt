@@ -1,0 +1,9 @@
+LegalName THE CHAPIN & BANGS COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 42134
+StateId 42134
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName PLAINS DAIRY LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 12250
+StateId 12250
+MCMXFF 
+DUNS 

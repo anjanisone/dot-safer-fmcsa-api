@@ -1,0 +1,9 @@
+LegalName J W BREWER TIRE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 2185
+StateId 2185
+MCMXFF 
+DUNS 

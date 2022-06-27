@@ -1,0 +1,9 @@
+LegalName TRI-COUNTY QUARRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 21844
+StateId 21844
+MCMXFF 
+DUNS 

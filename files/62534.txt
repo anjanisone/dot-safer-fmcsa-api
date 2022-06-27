@@ -1,0 +1,9 @@
+LegalName CONVEYOR BELT SERVICE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 62534
+StateId 62534
+MCMXFF 
+DUNS 

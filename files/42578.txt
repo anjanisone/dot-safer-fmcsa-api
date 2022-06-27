@@ -1,0 +1,9 @@
+LegalName GILES GARDEN CENTER INC
+DBAName HADLEY GARDEN CENTER
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 42578
+StateId 42578
+MCMXFF 
+DUNS 

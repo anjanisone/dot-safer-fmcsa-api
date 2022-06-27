@@ -1,0 +1,9 @@
+LegalName BALCONES MINERALS CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 119380
+StateId 119380
+MCMXFF 
+DUNS 

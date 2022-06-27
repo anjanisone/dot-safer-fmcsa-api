@@ -1,0 +1,9 @@
+LegalName OKLAHOMA GAS & ELECTRIC CO
+DBAName OG&E
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 125845
+StateId 125845
+MCMXFF 
+DUNS 

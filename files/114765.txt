@@ -1,0 +1,9 @@
+LegalName DETROIT PARTITION COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 114765
+StateId 114765
+MCMXFF 
+DUNS 

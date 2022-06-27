@@ -1,0 +1,9 @@
+LegalName MEMORIAL ART CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 72810
+StateId 72810
+MCMXFF 
+DUNS 

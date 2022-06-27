@@ -1,0 +1,9 @@
+LegalName MELGES BOAT WORKS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 87589
+StateId 87589
+MCMXFF 
+DUNS 

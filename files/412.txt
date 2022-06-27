@@ -1,0 +1,9 @@
+LegalName FARMER'S COOP ELEVATOR CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 412
+StateId 412
+MCMXFF 
+DUNS 

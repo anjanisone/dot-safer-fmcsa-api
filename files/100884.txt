@@ -1,0 +1,9 @@
+LegalName TIRE OUTLET CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 100884
+StateId 100884
+MCMXFF 
+DUNS 

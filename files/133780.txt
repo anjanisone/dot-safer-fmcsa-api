@@ -1,0 +1,9 @@
+LegalName VALLEY ISLE PRODUCE INC
+DBAName VIP FOODSERVICE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 133780
+StateId 133780
+MCMXFF 
+DUNS 

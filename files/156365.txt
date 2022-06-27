@@ -1,0 +1,9 @@
+LegalName CHRISTENSEN LUMBER COMPANY
+DBAName PREMIER BUILDING SUPPLY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 156365
+StateId 156365
+MCMXFF 
+DUNS 

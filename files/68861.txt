@@ -1,0 +1,9 @@
+LegalName HODGES TRANSPORTATION INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 68861
+StateId 68861
+MCMXFF 
+DUNS 

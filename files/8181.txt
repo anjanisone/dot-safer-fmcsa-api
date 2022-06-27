@@ -1,0 +1,9 @@
+LegalName J C JOURDAN LUMBER CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 8181
+StateId 8181
+MCMXFF 
+DUNS 

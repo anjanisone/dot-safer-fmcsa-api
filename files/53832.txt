@@ -1,0 +1,9 @@
+LegalName DIAMOND PRODUCTS
+DBAName DIAMOND VOGEL PAINT CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 53832
+StateId 53832
+MCMXFF 
+DUNS 

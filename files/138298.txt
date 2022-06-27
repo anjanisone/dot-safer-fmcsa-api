@@ -1,0 +1,9 @@
+LegalName MAS-FAB INC
+DBAName FORMIT STEEL CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 138298
+StateId 138298
+MCMXFF 
+DUNS 

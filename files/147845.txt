@@ -1,0 +1,9 @@
+LegalName Y FUKUNAGA PRODUCTS LIMITED
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 147845
+StateId 147845
+MCMXFF 
+DUNS 

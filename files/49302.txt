@@ -1,0 +1,9 @@
+LegalName NEW ENGLAND SEALCOATING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 49302
+StateId 49302
+MCMXFF 
+DUNS 

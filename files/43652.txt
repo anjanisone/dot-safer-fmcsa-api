@@ -1,0 +1,9 @@
+LegalName NORTHWEST NATURAL GAS COMPANY
+DBAName NW NATURAL
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 43652
+StateId 43652
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName MONROE HARDWARE CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 47668
+StateId 47668
+MCMXFF 
+DUNS 

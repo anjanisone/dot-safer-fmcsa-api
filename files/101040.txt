@@ -1,0 +1,9 @@
+LegalName CENTURY EQUIPMENT COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 101040
+StateId 101040
+MCMXFF 
+DUNS 

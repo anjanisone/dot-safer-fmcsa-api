@@ -1,0 +1,9 @@
+LegalName S G MORIN & SON
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 66915
+StateId 66915
+MCMXFF 
+DUNS 

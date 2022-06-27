@@ -1,0 +1,9 @@
+LegalName KRONICK INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 116716
+StateId 116716
+MCMXFF 
+DUNS 

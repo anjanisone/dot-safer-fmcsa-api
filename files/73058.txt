@@ -1,0 +1,9 @@
+LegalName PEARSONS INC
+DBAName PEARSONS LIVESTOCK EQUIPMENT
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 73058
+StateId 73058
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName FLINT GROUP PACKAGING INKS NORTH AMERICA LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 114803
+StateId 114803
+MCMXFF 
+DUNS 

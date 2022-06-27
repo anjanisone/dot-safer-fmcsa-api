@@ -1,0 +1,9 @@
+LegalName K & T STEEL CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 62528
+StateId 62528
+MCMXFF 
+DUNS 

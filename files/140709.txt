@@ -1,0 +1,9 @@
+LegalName SUPERIOR TRUCK & TRAILER CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 140709
+StateId 140709
+MCMXFF 
+DUNS 

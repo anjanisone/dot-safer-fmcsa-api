@@ -1,0 +1,9 @@
+LegalName STATON MATERIALS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 79459
+StateId 79459
+MCMXFF 
+DUNS 

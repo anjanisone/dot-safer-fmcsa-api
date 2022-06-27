@@ -1,0 +1,9 @@
+LegalName LESCO PAPER & BOX CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 5263
+StateId 5263
+MCMXFF 
+DUNS 

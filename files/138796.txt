@@ -1,0 +1,9 @@
+LegalName GENERAL LINEN SERVICE LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 138796
+StateId 138796
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName NORRIS E TAYLOR CONTRACTORS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7728
+StateId 7728
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName RICHARD & ROBERT DERRICK
+DBAName LOR-ROSA FARMS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 22450
+StateId 22450
+MCMXFF 
+DUNS 

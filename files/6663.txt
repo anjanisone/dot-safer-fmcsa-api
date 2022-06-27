@@ -1,0 +1,9 @@
+LegalName NEW DEAL LUMBER & MILLWORK CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 6663
+StateId 6663
+MCMXFF 
+DUNS 

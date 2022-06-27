@@ -1,0 +1,9 @@
+LegalName L E BELL CONSTRUCTION CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 135483
+StateId 135483
+MCMXFF 
+DUNS 

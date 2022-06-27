@@ -1,0 +1,9 @@
+LegalName BELARDINELLI TIRE CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 57926
+StateId 57926
+MCMXFF 
+DUNS 

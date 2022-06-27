@@ -1,0 +1,9 @@
+LegalName DONALD K HALL TRUCKING
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 153791
+StateId 153791
+MCMXFF 
+DUNS 

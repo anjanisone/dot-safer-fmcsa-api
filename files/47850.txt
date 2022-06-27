@@ -1,0 +1,9 @@
+LegalName REX OIL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 47850
+StateId 47850
+MCMXFF 
+DUNS 

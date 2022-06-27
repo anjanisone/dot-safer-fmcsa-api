@@ -1,0 +1,9 @@
+LegalName JOHN W CLARK OIL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 138485
+StateId 138485
+MCMXFF 
+DUNS 

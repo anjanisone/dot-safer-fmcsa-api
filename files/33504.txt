@@ -1,0 +1,9 @@
+LegalName GEORGE & LYNCH INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 33504
+StateId 33504
+MCMXFF 
+DUNS 

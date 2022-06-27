@@ -1,0 +1,9 @@
+LegalName INSTANTWHIP CONNECTICUT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 27847
+StateId 27847
+MCMXFF 
+DUNS 

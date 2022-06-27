@@ -1,0 +1,9 @@
+LegalName BARRON PALLET INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 90530
+StateId 90530
+MCMXFF 
+DUNS 

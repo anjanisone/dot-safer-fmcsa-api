@@ -1,0 +1,9 @@
+LegalName S A MACANGA INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 5052
+StateId 5052
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName PRUDENTIAL INSURANCE COMPANY OF AMERICA THE
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 31599
+StateId 31599
+MCMXFF 
+DUNS 

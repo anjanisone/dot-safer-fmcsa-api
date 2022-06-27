@@ -1,0 +1,9 @@
+LegalName GENERAL INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 108353
+StateId 108353
+MCMXFF 
+DUNS 

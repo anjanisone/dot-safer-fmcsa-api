@@ -1,0 +1,9 @@
+LegalName RILEY DEVELOPMENT CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 51931
+StateId 51931
+MCMXFF 
+DUNS 

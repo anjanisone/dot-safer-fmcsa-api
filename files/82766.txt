@@ -1,0 +1,9 @@
+LegalName JLD TRUCKING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 82766
+StateId 82766
+MCMXFF 
+DUNS 

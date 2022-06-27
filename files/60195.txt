@@ -1,0 +1,9 @@
+LegalName SOUTH HAVEN L P GAS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 60195
+StateId 60195
+MCMXFF 
+DUNS 

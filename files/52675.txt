@@ -1,0 +1,9 @@
+LegalName BEUTLER INC
+DBAName GEORGE J SHAW CONSTRUCTION CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 52675
+StateId 52675
+MCMXFF 
+DUNS 

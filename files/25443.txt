@@ -1,0 +1,9 @@
+LegalName FALL RIVER FLORIST SUPPLY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 25443
+StateId 25443
+MCMXFF 
+DUNS 

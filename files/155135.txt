@@ -1,0 +1,9 @@
+LegalName YORK CORRUGATING COMPANY
+DBAName YC PRECISION FABRICATION
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 155135
+StateId 155135
+MCMXFF 
+DUNS 

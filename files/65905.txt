@@ -1,0 +1,9 @@
+LegalName LUNDELL ENTERPRISES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 65905
+StateId 65905
+MCMXFF 
+DUNS 

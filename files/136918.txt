@@ -1,0 +1,9 @@
+LegalName TEXAS ELECTRIC COOPERATIVE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 136918
+StateId 136918
+MCMXFF 
+DUNS 

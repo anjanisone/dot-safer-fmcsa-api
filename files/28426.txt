@@ -1,0 +1,9 @@
+LegalName FUR BREEDERS AGRICULTURAL COOPERATIVE
+DBAName FBAC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 28426
+StateId 28426
+MCMXFF 
+DUNS 

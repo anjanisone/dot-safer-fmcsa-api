@@ -1,0 +1,9 @@
+LegalName WAYNE PALLETS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 141755
+StateId 141755
+MCMXFF 
+DUNS 

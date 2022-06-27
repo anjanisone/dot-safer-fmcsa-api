@@ -1,0 +1,9 @@
+LegalName KENT PRODUCE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 52497
+StateId 52497
+MCMXFF 
+DUNS 

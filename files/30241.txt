@@ -1,0 +1,9 @@
+LegalName DEGUSSA CONSTRUCTION CHEMICALS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 30241
+StateId 30241
+MCMXFF 
+DUNS 

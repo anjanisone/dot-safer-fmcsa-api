@@ -1,0 +1,9 @@
+LegalName BURLINGTON DRUG COMPANY INC
+DBAName SDC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 40359
+StateId 40359
+MCMXFF 
+DUNS 

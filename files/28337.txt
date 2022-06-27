@@ -1,0 +1,9 @@
+LegalName CUB RIVER IRRIGATION COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 28337
+StateId 28337
+MCMXFF 
+DUNS 

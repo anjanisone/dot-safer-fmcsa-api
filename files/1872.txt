@@ -1,0 +1,9 @@
+LegalName UNIVERSAL MANUFACTURING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 1872
+StateId 1872
+MCMXFF 
+DUNS 

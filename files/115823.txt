@@ -1,0 +1,9 @@
+LegalName L PERRIGO CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 115823
+StateId 115823
+MCMXFF 
+DUNS 

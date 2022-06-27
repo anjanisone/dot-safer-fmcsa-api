@@ -1,0 +1,9 @@
+LegalName LIPTON INC
+DBAName LIPTON ENERGY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 42517
+StateId 42517
+MCMXFF 
+DUNS 

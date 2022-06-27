@@ -1,0 +1,9 @@
+LegalName TRIANGLE HOME CENTER INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 66821
+StateId 66821
+MCMXFF 
+DUNS 

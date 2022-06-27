@@ -1,0 +1,9 @@
+LegalName TEKNOR APEX COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 18469
+StateId 18469
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName PERRETTA PACKING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 15007
+StateId 15007
+MCMXFF 
+DUNS 

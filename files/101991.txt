@@ -1,0 +1,9 @@
+LegalName CENTRAL CONN ACOUSTICS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 101991
+StateId 101991
+MCMXFF 
+DUNS 

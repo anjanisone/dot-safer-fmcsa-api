@@ -1,0 +1,9 @@
+LegalName PARRISH TIRE COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 47425
+StateId 47425
+MCMXFF 
+DUNS 

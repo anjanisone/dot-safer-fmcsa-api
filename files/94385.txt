@@ -1,0 +1,9 @@
+LegalName ENDICOTT TRUCKING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 94385
+StateId 94385
+MCMXFF 
+DUNS 

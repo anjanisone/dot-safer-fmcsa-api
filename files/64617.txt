@@ -1,0 +1,9 @@
+LegalName E A NELSON COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 64617
+StateId 64617
+MCMXFF 
+DUNS 

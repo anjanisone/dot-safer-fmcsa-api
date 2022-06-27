@@ -1,0 +1,9 @@
+LegalName MILLARD LUMBER INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 72239
+StateId 72239
+MCMXFF 
+DUNS 

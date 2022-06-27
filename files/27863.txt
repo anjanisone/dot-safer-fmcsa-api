@@ -1,0 +1,9 @@
+LegalName HARTFORD PROVISION COMPANY INC
+DBAName HPC FOODSERVICE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 27863
+StateId 27863
+MCMXFF 
+DUNS 

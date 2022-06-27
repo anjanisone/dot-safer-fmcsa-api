@@ -1,0 +1,9 @@
+LegalName ELLIS SALES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 115633
+StateId 115633
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName SIOUXLAND SCALE SERVICE
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 68896
+StateId 68896
+MCMXFF 
+DUNS 

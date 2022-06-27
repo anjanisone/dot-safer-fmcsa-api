@@ -1,0 +1,9 @@
+LegalName MIRACLE CANDLE COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 136838
+StateId 136838
+MCMXFF 
+DUNS 

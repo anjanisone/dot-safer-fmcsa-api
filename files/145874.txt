@@ -1,0 +1,9 @@
+LegalName HUGHES BEVERAGE COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 145874
+StateId 145874
+MCMXFF 
+DUNS 

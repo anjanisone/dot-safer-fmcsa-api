@@ -1,0 +1,9 @@
+LegalName HUNTINGTON WESTFORD INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 55514
+StateId 55514
+MCMXFF 
+DUNS 

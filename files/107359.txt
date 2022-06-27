@@ -1,0 +1,9 @@
+LegalName PENNZOIL QUAKER STATE COMPANY
+DBAName SOPUS PRODUCTS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 107359
+StateId 107359
+MCMXFF 
+DUNS 

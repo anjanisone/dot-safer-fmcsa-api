@@ -1,0 +1,9 @@
+LegalName MACK MOLDING COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 40310
+StateId 40310
+MCMXFF 
+DUNS 

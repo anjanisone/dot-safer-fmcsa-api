@@ -1,0 +1,9 @@
+LegalName BACON UNIVERSAL COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 150924
+StateId 150924
+MCMXFF 
+DUNS 

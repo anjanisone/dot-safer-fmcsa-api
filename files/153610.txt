@@ -1,0 +1,9 @@
+LegalName ROCHESTER MIDLAND CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 153610
+StateId 153610
+MCMXFF 
+DUNS 

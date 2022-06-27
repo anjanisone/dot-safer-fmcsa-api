@@ -1,0 +1,9 @@
+LegalName MEDI-RAY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 134880
+StateId 134880
+MCMXFF 
+DUNS 

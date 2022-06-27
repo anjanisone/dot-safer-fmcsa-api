@@ -1,0 +1,9 @@
+LegalName MIES WHOLESALE MEATS INC
+DBAName MIES FAMILY FOODS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 87542
+StateId 87542
+MCMXFF 
+DUNS 

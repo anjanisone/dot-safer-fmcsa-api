@@ -1,0 +1,9 @@
+LegalName CARROLL LUCAS
+DBAName HARRIS ENERGY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7189
+StateId 7189
+MCMXFF 
+DUNS 

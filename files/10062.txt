@@ -1,0 +1,9 @@
+LegalName TANNER INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 10062
+StateId 10062
+MCMXFF 
+DUNS 

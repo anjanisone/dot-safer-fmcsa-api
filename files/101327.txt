@@ -1,0 +1,9 @@
+LegalName ASPHALT INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 101327
+StateId 101327
+MCMXFF 
+DUNS 

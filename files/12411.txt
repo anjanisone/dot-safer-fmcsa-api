@@ -1,0 +1,9 @@
+LegalName J R SIMPLOT COMPANY
+DBAName WESTERN STOCKMENS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 12411
+StateId 12411
+MCMXFF 
+DUNS 

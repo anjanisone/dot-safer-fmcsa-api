@@ -1,0 +1,9 @@
+LegalName W W CLYDE & CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 45266
+StateId 45266
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName FECHTEL'S BEVERAGE & SALES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 81899
+StateId 81899
+MCMXFF 
+DUNS 

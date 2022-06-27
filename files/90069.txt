@@ -1,0 +1,9 @@
+LegalName L G BARCUS AND SONS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 90069
+StateId 90069
+MCMXFF 
+DUNS 

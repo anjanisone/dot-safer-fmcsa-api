@@ -1,0 +1,9 @@
+LegalName TOOL SPECIALTIES COMPANY INC
+DBAName TOOL SPECIALTIES COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 67767
+StateId 67767
+MCMXFF 
+DUNS 

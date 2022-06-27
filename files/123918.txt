@@ -1,0 +1,9 @@
+LegalName HOLDERFIELD BATTERY COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 123918
+StateId 123918
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName P & H MANUFACTURING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 112201
+StateId 112201
+MCMXFF 
+DUNS 

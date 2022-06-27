@@ -1,0 +1,9 @@
+LegalName STROBERG EQUIPMENT CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 60228
+StateId 60228
+MCMXFF 
+DUNS 

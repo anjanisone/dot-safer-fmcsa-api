@@ -1,0 +1,9 @@
+LegalName EDWIN H KLECKNER INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 11946
+StateId 11946
+MCMXFF 
+DUNS 

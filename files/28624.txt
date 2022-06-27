@@ -1,0 +1,9 @@
+LegalName TWIN CITY FOODS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 28624
+StateId 28624
+MCMXFF 
+DUNS 

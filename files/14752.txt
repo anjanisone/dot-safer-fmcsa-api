@@ -1,0 +1,9 @@
+LegalName VADAKIN INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 14752
+StateId 14752
+MCMXFF 
+DUNS 

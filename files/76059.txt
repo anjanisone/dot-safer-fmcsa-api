@@ -1,0 +1,9 @@
+LegalName BRUNSWICK CORPORATION
+DBAName MERCURY MARINE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 76059
+StateId 76059
+MCMXFF 
+DUNS 

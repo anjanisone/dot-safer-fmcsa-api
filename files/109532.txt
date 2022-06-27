@@ -1,0 +1,9 @@
+LegalName TRINITY INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 109532
+StateId 109532
+MCMXFF 
+DUNS 

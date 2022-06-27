@@ -1,0 +1,9 @@
+LegalName MARKET EQUIPMENT LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 130038
+StateId 130038
+MCMXFF 
+DUNS 

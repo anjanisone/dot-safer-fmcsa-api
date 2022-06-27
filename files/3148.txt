@@ -1,0 +1,9 @@
+LegalName PINE BLUFF CRATING AND PALLET INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 3148
+StateId 3148
+MCMXFF 
+DUNS 

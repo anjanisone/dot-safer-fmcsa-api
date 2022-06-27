@@ -1,0 +1,9 @@
+LegalName FRANKLIN BUILDING SUPPLY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 133073
+StateId 133073
+MCMXFF 
+DUNS 

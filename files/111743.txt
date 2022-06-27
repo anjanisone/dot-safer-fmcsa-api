@@ -1,0 +1,9 @@
+LegalName HERITAGE AGRICULTURE OF ARKANSAS AT CARLISLE
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 111743
+StateId 111743
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName MICHELS CORPORATION
+DBAName MICHELS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 99905
+StateId 99905
+MCMXFF 
+DUNS 

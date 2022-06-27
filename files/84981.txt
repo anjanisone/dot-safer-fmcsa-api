@@ -1,0 +1,9 @@
+LegalName CONSOLIDATED GLASS CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 84981
+StateId 84981
+MCMXFF 
+DUNS 

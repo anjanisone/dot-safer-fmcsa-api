@@ -1,0 +1,9 @@
+LegalName WEYERHAEUSER NR COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 40777
+StateId 40777
+MCMXFF 
+DUNS 

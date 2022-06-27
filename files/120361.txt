@@ -1,0 +1,9 @@
+LegalName LARSON DISTRIBUTING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 120361
+StateId 120361
+MCMXFF 
+DUNS 

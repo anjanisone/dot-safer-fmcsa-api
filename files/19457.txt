@@ -1,0 +1,9 @@
+LegalName VASCO BRANDS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 19457
+StateId 19457
+MCMXFF 
+DUNS 

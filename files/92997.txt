@@ -1,0 +1,9 @@
+LegalName NATIONAL COLLOID COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 92997
+StateId 92997
+MCMXFF 
+DUNS 

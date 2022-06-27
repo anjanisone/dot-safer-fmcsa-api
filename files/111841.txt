@@ -1,0 +1,9 @@
+LegalName MECHANICS PLANING MILL INC
+DBAName MPM INDUSTRIES INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 111841
+StateId 111841
+MCMXFF 
+DUNS 

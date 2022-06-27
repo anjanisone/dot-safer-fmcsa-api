@@ -1,0 +1,9 @@
+LegalName COMMUNITY TIRE CO INC
+DBAName COMMUNITY TIRE RETREADING
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 69314
+StateId 69314
+MCMXFF 
+DUNS 

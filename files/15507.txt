@@ -1,0 +1,9 @@
+LegalName LOVE J E COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 15507
+StateId 15507
+MCMXFF 
+DUNS 

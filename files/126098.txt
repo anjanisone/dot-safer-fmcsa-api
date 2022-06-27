@@ -1,0 +1,9 @@
+LegalName ELK SUPPLY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 126098
+StateId 126098
+MCMXFF 
+DUNS 

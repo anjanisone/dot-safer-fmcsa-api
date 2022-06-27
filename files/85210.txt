@@ -1,0 +1,9 @@
+LegalName COLUMBIA GAS OF MARYLAND INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 85210
+StateId 85210
+MCMXFF 
+DUNS 

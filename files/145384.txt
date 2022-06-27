@@ -1,0 +1,9 @@
+LegalName ALLIED MOULDED PRODUCTS INC
+DBAName 005049317
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 145384
+StateId 145384
+MCMXFF 
+DUNS 

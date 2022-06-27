@@ -1,0 +1,9 @@
+LegalName MAGUIRE IRON INC
+DBAName MAGUIRE TANK INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 13009
+StateId 13009
+MCMXFF 
+DUNS 

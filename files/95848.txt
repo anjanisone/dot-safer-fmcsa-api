@@ -1,0 +1,9 @@
+LegalName GLENCO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 95848
+StateId 95848
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName KNIGHT'S APPLEDEN FRUIT LTD
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 20438
+StateId 20438
+MCMXFF 
+DUNS 

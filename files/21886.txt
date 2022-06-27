@@ -1,0 +1,9 @@
+LegalName WELLS PROPANE INC
+DBAName 
+PhysicalAddress 338 EASY ST WELLS, NV   89835
+Phone (775) 752-3421
+MailingAddress P O BOX 485 WELLS, NV   89835
+DOTNumber 21886
+StateId 21886
+MCMXFF 
+DUNS 

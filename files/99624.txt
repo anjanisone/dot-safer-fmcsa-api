@@ -1,0 +1,9 @@
+LegalName DAIRYLAND POWER COOPERATIVE
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 99624
+StateId 99624
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName J & R REUTER TRUCKING LLC
+DBAName 
+PhysicalAddress 7698 CO RD U POTOSI, WI   53820
+Phone (156) 359-3365
+MailingAddress 7698 CO RD U POTOSI, WI   53820
+DOTNumber 48135
+StateId 48135
+MCMXFF 
+DUNS 

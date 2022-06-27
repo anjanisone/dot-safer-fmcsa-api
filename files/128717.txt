@@ -1,0 +1,9 @@
+LegalName BI COUNTY FARM BUREAU COOPERATIVE ASSN INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 128717
+StateId 128717
+MCMXFF 
+DUNS 

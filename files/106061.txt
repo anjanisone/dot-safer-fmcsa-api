@@ -1,0 +1,9 @@
+LegalName PINNACLEVIEW EQUIPMENT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 106061
+StateId 106061
+MCMXFF 
+DUNS 

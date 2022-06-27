@@ -1,0 +1,9 @@
+LegalName MCGREGOR INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 38693
+StateId 38693
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName HOLT PAPER & CHEMICAL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 149443
+StateId 149443
+MCMXFF 
+DUNS 

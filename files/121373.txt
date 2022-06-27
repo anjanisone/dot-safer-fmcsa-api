@@ -1,0 +1,9 @@
+LegalName ALTEC INDUSTRIES INC
+DBAName ALTEC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 121373
+StateId 121373
+MCMXFF 
+DUNS 

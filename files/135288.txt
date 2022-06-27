@@ -1,0 +1,9 @@
+LegalName HELGET INC
+DBAName HELGET GAS PRODUCTS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 135288
+StateId 135288
+MCMXFF 
+DUNS 

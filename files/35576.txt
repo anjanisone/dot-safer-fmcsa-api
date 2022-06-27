@@ -1,0 +1,9 @@
+LegalName LIPMAN BROTHERS LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 35576
+StateId 35576
+MCMXFF 
+DUNS 

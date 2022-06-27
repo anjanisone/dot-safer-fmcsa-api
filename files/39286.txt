@@ -1,0 +1,9 @@
+LegalName MILAN BOX CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 39286
+StateId 39286
+MCMXFF 
+DUNS 

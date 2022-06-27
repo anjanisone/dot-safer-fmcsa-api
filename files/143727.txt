@@ -1,0 +1,9 @@
+LegalName COUNTER-FORM LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 143727
+StateId 143727
+MCMXFF 
+DUNS 

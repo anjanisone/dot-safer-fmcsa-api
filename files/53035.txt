@@ -1,0 +1,9 @@
+LegalName EXCEL INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 53035
+StateId 53035
+MCMXFF 
+DUNS 

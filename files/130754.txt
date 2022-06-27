@@ -1,0 +1,9 @@
+LegalName INTERNATIONAL PACKAGING CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 130754
+StateId 130754
+MCMXFF 
+DUNS 

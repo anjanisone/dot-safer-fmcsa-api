@@ -1,0 +1,9 @@
+LegalName KADDIS MANUFACTURING CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 8178
+StateId 8178
+MCMXFF 
+DUNS 

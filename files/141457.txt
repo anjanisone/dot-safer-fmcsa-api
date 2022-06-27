@@ -1,0 +1,9 @@
+LegalName WEBCO INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 141457
+StateId 141457
+MCMXFF 
+DUNS 

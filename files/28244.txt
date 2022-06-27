@@ -1,0 +1,9 @@
+LegalName GEBO DISTRIBUTING CO INC
+DBAName GEBO S
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 28244
+StateId 28244
+MCMXFF 
+DUNS 

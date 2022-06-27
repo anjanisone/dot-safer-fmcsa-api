@@ -1,0 +1,9 @@
+LegalName ALBERT L HERMAN
+DBAName A L HERMAN LUMBER CO INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 118671
+StateId 118671
+MCMXFF 
+DUNS 

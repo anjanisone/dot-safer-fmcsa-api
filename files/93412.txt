@@ -1,0 +1,9 @@
+LegalName LANXESS CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93412
+StateId 93412
+MCMXFF 
+DUNS 

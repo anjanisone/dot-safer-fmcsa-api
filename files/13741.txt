@@ -1,0 +1,9 @@
+LegalName EDWARD PARKINSON MFG CO INC SOLD TO
+DBAName PARKINSON TECHNOLOGIES INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 13741
+StateId 13741
+MCMXFF 
+DUNS 

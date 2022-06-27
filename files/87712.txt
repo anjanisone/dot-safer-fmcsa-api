@@ -1,0 +1,9 @@
+LegalName VFS ACQUISITION CORP
+DBAName VALLEY FEED & SUPPLY COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 87712
+StateId 87712
+MCMXFF 
+DUNS 

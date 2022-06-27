@@ -1,0 +1,9 @@
+LegalName INTERSTATE HIGHWAY SIGN CORPORATION
+DBAName INTERSTATE SIGNWAYS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 80833
+StateId 80833
+MCMXFF 
+DUNS 

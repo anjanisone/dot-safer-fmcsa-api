@@ -1,0 +1,9 @@
+LegalName GARDEN STATE ASPHALT MATERIALS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 102902
+StateId 102902
+MCMXFF 
+DUNS 

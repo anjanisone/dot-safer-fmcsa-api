@@ -1,0 +1,9 @@
+LegalName SCHAFER DISTRIBUTING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 112724
+StateId 112724
+MCMXFF 
+DUNS 

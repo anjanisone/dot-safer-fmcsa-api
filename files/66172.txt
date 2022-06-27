@@ -1,0 +1,9 @@
+LegalName SKORPIK INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 66172
+StateId 66172
+MCMXFF 
+DUNS 

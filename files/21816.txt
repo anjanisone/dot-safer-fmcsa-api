@@ -1,0 +1,9 @@
+LegalName TAUL EQUIPMENT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 21816
+StateId 21816
+MCMXFF 
+DUNS 

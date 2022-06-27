@@ -1,0 +1,9 @@
+LegalName TRUMBULL INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 1222
+StateId 1222
+MCMXFF 
+DUNS 

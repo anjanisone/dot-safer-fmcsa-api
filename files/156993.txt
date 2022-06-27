@@ -1,0 +1,9 @@
+LegalName DUANE G NEWMAN
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 156993
+StateId 156993
+MCMXFF 
+DUNS 

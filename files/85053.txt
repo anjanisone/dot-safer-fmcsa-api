@@ -1,0 +1,9 @@
+LegalName EPIC METALS CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 85053
+StateId 85053
+MCMXFF 
+DUNS 

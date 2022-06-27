@@ -1,0 +1,9 @@
+LegalName WEST VIRGINIA STEEL CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 4288
+StateId 4288
+MCMXFF 
+DUNS 

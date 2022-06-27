@@ -1,0 +1,9 @@
+LegalName KEN-WELD COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 42457
+StateId 42457
+MCMXFF 
+DUNS 

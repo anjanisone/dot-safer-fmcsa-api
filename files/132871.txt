@@ -1,0 +1,9 @@
+LegalName SPECIAL METALS CORPORATION
+DBAName HUNTINGTON ALLOYS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 132871
+StateId 132871
+MCMXFF 
+DUNS 

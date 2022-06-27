@@ -1,0 +1,9 @@
+LegalName CONTINENTAL GLOBAL MATERIAL HANDLING LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 100444
+StateId 100444
+MCMXFF 
+DUNS 

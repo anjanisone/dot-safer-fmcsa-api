@@ -1,0 +1,9 @@
+LegalName RITE-WAY EQUIPMENT CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 91895
+StateId 91895
+MCMXFF 
+DUNS 

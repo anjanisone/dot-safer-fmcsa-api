@@ -1,0 +1,9 @@
+LegalName SPEC INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 23661
+StateId 23661
+MCMXFF 
+DUNS 

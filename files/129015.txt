@@ -1,0 +1,9 @@
+LegalName MEUTH CONSTRUCTION & SUPPLY INC
+DBAName MEUTH CONCRETE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 129015
+StateId 129015
+MCMXFF 
+DUNS 

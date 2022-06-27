@@ -1,0 +1,9 @@
+LegalName IOWA MOLD TOOLING CO INC
+DBAName I M T
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 107276
+StateId 107276
+MCMXFF 
+DUNS 

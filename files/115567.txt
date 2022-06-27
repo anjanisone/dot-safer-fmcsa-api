@@ -1,0 +1,9 @@
+LegalName MCRAN INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 115567
+StateId 115567
+MCMXFF 
+DUNS 

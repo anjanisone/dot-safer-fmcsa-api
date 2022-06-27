@@ -1,0 +1,9 @@
+LegalName HUTTON CONTRACTING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 141040
+StateId 141040
+MCMXFF 
+DUNS 

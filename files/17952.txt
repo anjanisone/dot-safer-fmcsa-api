@@ -1,0 +1,9 @@
+LegalName CONSOLIDATED BEVERAGES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 17952
+StateId 17952
+MCMXFF 
+DUNS 

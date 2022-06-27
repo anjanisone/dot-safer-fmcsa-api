@@ -1,0 +1,9 @@
+LegalName NORTHSTAR STEEL AND ALUMINUM INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7068
+StateId 7068
+MCMXFF 
+DUNS 

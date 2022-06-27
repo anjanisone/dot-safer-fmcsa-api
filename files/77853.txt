@@ -1,0 +1,9 @@
+LegalName KENT TRUCK-TRAILER SERVICE LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 77853
+StateId 77853
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName WALLA WALLA UNIVERSITY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 66970
+StateId 66970
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName FLASH ENTERPRISES INC
+DBAName FLASH FIREWORKS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 72744
+StateId 72744
+MCMXFF 
+DUNS 

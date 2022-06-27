@@ -1,0 +1,9 @@
+LegalName FRANK GURNEY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 28719
+StateId 28719
+MCMXFF 
+DUNS 

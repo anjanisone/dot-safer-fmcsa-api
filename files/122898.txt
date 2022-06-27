@@ -1,0 +1,9 @@
+LegalName NOLAN L SIMPSON
+DBAName FARMERS FEED STORE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 122898
+StateId 122898
+MCMXFF 
+DUNS 

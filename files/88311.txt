@@ -1,0 +1,9 @@
+LegalName TRUMBULL CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 88311
+StateId 88311
+MCMXFF 
+DUNS 

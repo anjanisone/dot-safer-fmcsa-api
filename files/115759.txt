@@ -1,0 +1,9 @@
+LegalName MODERN PLASTICS CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 115759
+StateId 115759
+MCMXFF 
+DUNS 

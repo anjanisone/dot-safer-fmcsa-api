@@ -1,0 +1,9 @@
+LegalName LANFORD BROTHERS COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 6779
+StateId 6779
+MCMXFF 
+DUNS 

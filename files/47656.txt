@@ -1,0 +1,9 @@
+LegalName MOSS SUPPLY COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 47656
+StateId 47656
+MCMXFF 
+DUNS 

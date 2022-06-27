@@ -1,0 +1,9 @@
+LegalName MEL'S WATER SERVICE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 101078
+StateId 101078
+MCMXFF 
+DUNS 

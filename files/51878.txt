@@ -1,0 +1,9 @@
+LegalName SAL CHEMICAL COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 51878
+StateId 51878
+MCMXFF 
+DUNS 

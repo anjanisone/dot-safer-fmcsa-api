@@ -1,0 +1,9 @@
+LegalName TWIN DISC INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 48384
+StateId 48384
+MCMXFF 
+DUNS 

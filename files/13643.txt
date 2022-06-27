@@ -1,0 +1,9 @@
+LegalName MID CITY SCRAP IRON & SALVAGE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 13643
+StateId 13643
+MCMXFF 
+DUNS 

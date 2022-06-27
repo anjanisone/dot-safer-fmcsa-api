@@ -1,0 +1,9 @@
+LegalName CRANE & CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 68169
+StateId 68169
+MCMXFF 
+DUNS 

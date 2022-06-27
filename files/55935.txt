@@ -1,0 +1,9 @@
+LegalName KURT WEISS GREENHOUSES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 55935
+StateId 55935
+MCMXFF 
+DUNS 

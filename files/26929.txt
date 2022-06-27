@@ -1,0 +1,9 @@
+LegalName JM MANUFACTURING CO INC
+DBAName JM EAGLE INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 26929
+StateId 26929
+MCMXFF 
+DUNS 

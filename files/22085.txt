@@ -1,0 +1,9 @@
+LegalName THE MOORE COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 22085
+StateId 22085
+MCMXFF 
+DUNS 

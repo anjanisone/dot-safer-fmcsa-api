@@ -1,0 +1,9 @@
+LegalName RICHARD HICKS JR & SR
+DBAName P A HICKS & SONS INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7105
+StateId 7105
+MCMXFF 
+DUNS 

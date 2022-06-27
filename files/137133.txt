@@ -1,0 +1,9 @@
+LegalName SOUTHWEST LIVESTOCK AND TRUCKING COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 137133
+StateId 137133
+MCMXFF 
+DUNS 

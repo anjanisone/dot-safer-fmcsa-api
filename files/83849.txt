@@ -1,0 +1,9 @@
+LegalName BEULAVILLE GARMET CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 83849
+StateId 83849
+MCMXFF 
+DUNS 

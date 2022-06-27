@@ -1,0 +1,9 @@
+LegalName WESTERN INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 48251
+StateId 48251
+MCMXFF 
+DUNS 

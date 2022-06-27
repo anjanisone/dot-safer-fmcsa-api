@@ -1,0 +1,9 @@
+LegalName DELONG'S INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 81854
+StateId 81854
+MCMXFF 
+DUNS 

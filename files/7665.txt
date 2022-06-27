@@ -1,0 +1,9 @@
+LegalName SHORE PAPER BOX CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7665
+StateId 7665
+MCMXFF 
+DUNS 

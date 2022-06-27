@@ -1,0 +1,9 @@
+LegalName RIVER'S EDGE COOPERATIVE
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 44497
+StateId 44497
+MCMXFF 
+DUNS 

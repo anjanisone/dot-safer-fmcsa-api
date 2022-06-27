@@ -1,0 +1,9 @@
+LegalName WESTERN FORMS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 89188
+StateId 89188
+MCMXFF 
+DUNS 

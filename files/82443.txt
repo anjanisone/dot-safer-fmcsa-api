@@ -1,0 +1,9 @@
+LegalName GODDARD EQUIPMENT LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 82443
+StateId 82443
+MCMXFF 
+DUNS 

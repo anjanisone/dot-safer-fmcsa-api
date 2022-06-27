@@ -1,0 +1,9 @@
+LegalName ATLANTIC VEAL AND LAMB
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 23969
+StateId 23969
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName SOMERSET WELDING & STEEL INC
+DBAName J&J TRUCK BODIES & TRAILERS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 43707
+StateId 43707
+MCMXFF 
+DUNS 

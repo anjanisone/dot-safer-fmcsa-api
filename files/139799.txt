@@ -1,0 +1,9 @@
+LegalName WESTFIELD ELECTROPLATING COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 139799
+StateId 139799
+MCMXFF 
+DUNS 

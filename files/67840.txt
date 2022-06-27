@@ -1,0 +1,9 @@
+LegalName AG VALLEY COOPERATIVE NON STOCK
+DBAName AG VALLEY COOP
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 67840
+StateId 67840
+MCMXFF 
+DUNS 

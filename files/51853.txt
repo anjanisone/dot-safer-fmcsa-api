@@ -1,0 +1,9 @@
+LegalName SMOOT CONSTRUCTION COMPANY OF OHIO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 51853
+StateId 51853
+MCMXFF 
+DUNS 

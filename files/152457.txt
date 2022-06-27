@@ -1,0 +1,9 @@
+LegalName HOMESTEAD EGG CO INC
+DBAName HOMESTEAD INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 152457
+StateId 152457
+MCMXFF 
+DUNS 

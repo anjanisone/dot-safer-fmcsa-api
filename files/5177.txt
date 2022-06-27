@@ -1,0 +1,9 @@
+LegalName LUKENS STEEL COMPANY
+DBAName BETHLEHEM LUKENS PLATE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 5177
+StateId 5177
+MCMXFF 
+DUNS 

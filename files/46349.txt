@@ -1,0 +1,9 @@
+LegalName SUPERIOR DIE SET CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 46349
+StateId 46349
+MCMXFF 
+DUNS 

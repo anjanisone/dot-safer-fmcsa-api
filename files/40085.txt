@@ -1,0 +1,9 @@
+LegalName W HARLEY MILLER CONTRACTORS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 40085
+StateId 40085
+MCMXFF 
+DUNS 

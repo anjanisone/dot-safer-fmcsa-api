@@ -1,0 +1,9 @@
+LegalName WALLACE PUMP AND SUPPLY CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 151364
+StateId 151364
+MCMXFF 
+DUNS 

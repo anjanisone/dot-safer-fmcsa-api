@@ -1,0 +1,9 @@
+LegalName KILPATRICK AUTO SUPPLY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 61174
+StateId 61174
+MCMXFF 
+DUNS 

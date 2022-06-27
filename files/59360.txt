@@ -1,0 +1,9 @@
+LegalName CLALLAM COOPERATIVE ASSOCIATION INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 59360
+StateId 59360
+MCMXFF 
+DUNS 

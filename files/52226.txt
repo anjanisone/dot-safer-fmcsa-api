@@ -1,0 +1,9 @@
+LegalName BRECK SKAGGS AND SHANDA SKAGGS
+DBAName FEDERAL AUTO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 52226
+StateId 52226
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName OAKS POULTRY COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 148698
+StateId 148698
+MCMXFF 
+DUNS 

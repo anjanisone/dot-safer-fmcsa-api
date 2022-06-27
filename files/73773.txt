@@ -1,0 +1,9 @@
+LegalName FALLS CITY MERCANTILE CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 73773
+StateId 73773
+MCMXFF 
+DUNS 

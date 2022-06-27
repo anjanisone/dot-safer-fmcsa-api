@@ -1,0 +1,9 @@
+LegalName POMPS TIRE SERVICE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 114016
+StateId 114016
+MCMXFF 
+DUNS 

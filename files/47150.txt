@@ -1,0 +1,9 @@
+LegalName WILLAMETTE VALLEY COMPANY LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 47150
+StateId 47150
+MCMXFF 
+DUNS 

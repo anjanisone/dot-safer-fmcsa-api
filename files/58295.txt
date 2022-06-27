@@ -1,0 +1,9 @@
+LegalName THE SUPERIOR PLATING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 58295
+StateId 58295
+MCMXFF 
+DUNS 

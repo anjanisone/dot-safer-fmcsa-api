@@ -1,0 +1,9 @@
+LegalName GOLDIN METALS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 142181
+StateId 142181
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName KOVALCHICK CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 35162
+StateId 35162
+MCMXFF 
+DUNS 

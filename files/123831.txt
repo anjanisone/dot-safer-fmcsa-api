@@ -1,0 +1,9 @@
+LegalName GIBBS DIE CASTING CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 123831
+StateId 123831
+MCMXFF 
+DUNS 

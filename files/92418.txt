@@ -1,0 +1,9 @@
+LegalName ELLIS METALS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 92418
+StateId 92418
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName VERIZON NEW YORK INC
+DBAName VERIZON
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 31080
+StateId 31080
+MCMXFF 
+DUNS 

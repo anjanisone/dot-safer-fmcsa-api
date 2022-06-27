@@ -1,0 +1,9 @@
+LegalName SHIPTONS BIG R INC
+DBAName SHIPTONS BIG R
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 135011
+StateId 135011
+MCMXFF 
+DUNS 

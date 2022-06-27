@@ -1,0 +1,9 @@
+LegalName COCHISE SUPPLIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 62931
+StateId 62931
+MCMXFF 
+DUNS 

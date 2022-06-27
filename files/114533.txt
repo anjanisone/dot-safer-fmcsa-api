@@ -1,0 +1,9 @@
+LegalName MOBILE HOME RANCH
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 114533
+StateId 114533
+MCMXFF 
+DUNS 

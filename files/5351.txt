@@ -1,0 +1,9 @@
+LegalName DELAWARE SHIP SUPPLY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 5351
+StateId 5351
+MCMXFF 
+DUNS 

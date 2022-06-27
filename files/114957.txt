@@ -1,0 +1,9 @@
+LegalName PACKAGING SPECIALITIES
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 114957
+StateId 114957
+MCMXFF 
+DUNS 

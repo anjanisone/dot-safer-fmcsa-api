@@ -1,0 +1,9 @@
+LegalName GORDY CONSTRUCTION COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 148299
+StateId 148299
+MCMXFF 
+DUNS 

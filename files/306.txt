@@ -1,0 +1,9 @@
+LegalName JAMES AUSTIN COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 306
+StateId 306
+MCMXFF 
+DUNS 

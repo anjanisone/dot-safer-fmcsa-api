@@ -1,0 +1,9 @@
+LegalName EAST KENTUCKY POWER COOPERATIVE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 112943
+StateId 112943
+MCMXFF 
+DUNS 

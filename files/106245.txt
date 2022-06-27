@@ -1,0 +1,9 @@
+LegalName MAXAM NORTH EAST LLC
+DBAName MNE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 106245
+StateId 106245
+MCMXFF 
+DUNS 

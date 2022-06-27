@@ -1,0 +1,9 @@
+LegalName AURORA PACKING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 76272
+StateId 76272
+MCMXFF 
+DUNS 

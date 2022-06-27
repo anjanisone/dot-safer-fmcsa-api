@@ -1,0 +1,9 @@
+LegalName MB AEROSPACE EAST GRANBY LIMITED PARTNERSHIP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 61236
+StateId 61236
+MCMXFF 
+DUNS 

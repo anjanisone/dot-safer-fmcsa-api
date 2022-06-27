@@ -1,0 +1,9 @@
+LegalName NARRAGANSETT ELECTRIC COMPANY
+DBAName RHODE ISLAND ENERGY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 13664
+StateId 13664
+MCMXFF 
+DUNS 

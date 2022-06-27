@@ -1,0 +1,9 @@
+LegalName FARMERS SEAFOOD CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 109713
+StateId 109713
+MCMXFF 
+DUNS 

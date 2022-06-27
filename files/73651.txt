@@ -1,0 +1,9 @@
+LegalName CAPITAL CONTRACTORS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 73651
+StateId 73651
+MCMXFF 
+DUNS 

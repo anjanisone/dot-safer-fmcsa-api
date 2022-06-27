@@ -1,0 +1,9 @@
+LegalName FRED SCARLETT JR
+DBAName 
+PhysicalAddress 501 BROAD ADAIR, IA   50002
+Phone (641) 742-3752
+MailingAddress PO BOX 373 ADAIR, IA   50002
+DOTNumber 53344
+StateId 53344
+MCMXFF 
+DUNS 

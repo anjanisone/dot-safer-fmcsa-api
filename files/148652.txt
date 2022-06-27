@@ -1,0 +1,9 @@
+LegalName HOLDERNESS BUILDING MATERIALS INC
+DBAName HOLDERNESS SUPPLIES
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 148652
+StateId 148652
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName BELASCO PETROLEUM COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 57834
+StateId 57834
+MCMXFF 
+DUNS 

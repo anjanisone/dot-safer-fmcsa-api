@@ -1,0 +1,9 @@
+LegalName DONALD R LEIDIG
+DBAName LEIDIG'S FARM
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 35142
+StateId 35142
+MCMXFF 
+DUNS 

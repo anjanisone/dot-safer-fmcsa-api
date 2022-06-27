@@ -1,0 +1,9 @@
+LegalName HOWARD L EVANS
+DBAName EVANS LOG & LUMBER CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 61465
+StateId 61465
+MCMXFF 
+DUNS 

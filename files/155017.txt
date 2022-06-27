@@ -1,0 +1,9 @@
+LegalName NORTH CENTRAL CONSTRUCTION INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 155017
+StateId 155017
+MCMXFF 
+DUNS 

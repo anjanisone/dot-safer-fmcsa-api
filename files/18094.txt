@@ -1,0 +1,9 @@
+LegalName MEDWAY BLOCK CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 18094
+StateId 18094
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName KOKOMO GRAIN CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 70700
+StateId 70700
+MCMXFF 
+DUNS 

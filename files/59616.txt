@@ -1,0 +1,9 @@
+LegalName STAR RENTALS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 59616
+StateId 59616
+MCMXFF 
+DUNS 

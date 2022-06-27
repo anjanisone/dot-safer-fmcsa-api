@@ -1,0 +1,9 @@
+LegalName GENALCO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 49338
+StateId 49338
+MCMXFF 
+DUNS 

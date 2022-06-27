@@ -1,0 +1,9 @@
+LegalName UNITED PET FOODS MANUFACTURING LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 132322
+StateId 132322
+MCMXFF 
+DUNS 

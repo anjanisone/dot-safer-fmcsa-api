@@ -1,0 +1,9 @@
+LegalName GATES COUNTY FARM SERVICE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 108358
+StateId 108358
+MCMXFF 
+DUNS 

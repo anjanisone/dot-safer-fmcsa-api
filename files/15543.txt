@@ -1,0 +1,9 @@
+LegalName LEWISTON PRE-MIX CONCRETE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 15543
+StateId 15543
+MCMXFF 
+DUNS 

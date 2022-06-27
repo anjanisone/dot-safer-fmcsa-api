@@ -1,0 +1,9 @@
+LegalName STOVER MILLING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 3865
+StateId 3865
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName WORKMAN OIL CO INC
+DBAName MADDOX OIL CO INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 94617
+StateId 94617
+MCMXFF 
+DUNS 

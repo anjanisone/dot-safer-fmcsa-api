@@ -1,0 +1,9 @@
+LegalName GUTCHESS LUMBER COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 55460
+StateId 55460
+MCMXFF 
+DUNS 

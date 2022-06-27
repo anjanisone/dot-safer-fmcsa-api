@@ -1,0 +1,9 @@
+LegalName CHAMPLAIN BEEF CO INC
+DBAName SLAUGHTER HOUSE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 20934
+StateId 20934
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName PURCELL TIRE & RUBBER COMPANY
+DBAName PURCELL TIRE AND SERVICE CENTER
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 67645
+StateId 67645
+MCMXFF 
+DUNS 

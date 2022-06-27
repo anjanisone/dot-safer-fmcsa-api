@@ -1,0 +1,9 @@
+LegalName THE ANDERSONS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 71697
+StateId 71697
+MCMXFF 
+DUNS 

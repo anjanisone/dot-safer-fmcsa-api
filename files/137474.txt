@@ -1,0 +1,9 @@
+LegalName RAYTHEON TECHNOLOGIES CORPORATION
+DBAName PRATT & WHITNEY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 137474
+StateId 137474
+MCMXFF 
+DUNS 

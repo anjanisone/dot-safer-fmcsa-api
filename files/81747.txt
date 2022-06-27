@@ -1,0 +1,9 @@
+LegalName BOYD ALUMINUM MFG CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 81747
+StateId 81747
+MCMXFF 
+DUNS 

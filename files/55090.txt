@@ -1,0 +1,9 @@
+LegalName MAINE POTATO GROWERS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 55090
+StateId 55090
+MCMXFF 
+DUNS 

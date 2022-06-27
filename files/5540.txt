@@ -1,0 +1,9 @@
+LegalName J L G INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 5540
+StateId 5540
+MCMXFF 
+DUNS 

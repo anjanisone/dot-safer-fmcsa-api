@@ -1,0 +1,9 @@
+LegalName ECIN INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 18554
+StateId 18554
+MCMXFF 
+DUNS 

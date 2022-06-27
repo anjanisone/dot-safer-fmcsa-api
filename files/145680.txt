@@ -1,0 +1,9 @@
+LegalName WHEELAND INC
+DBAName HOME SERVICE BEVERAGE FIRST ICE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 145680
+StateId 145680
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName BRASS CRAFT MANUFACTURING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 47567
+StateId 47567
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName NEUSCH FARMS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 152362
+StateId 152362
+MCMXFF 
+DUNS 

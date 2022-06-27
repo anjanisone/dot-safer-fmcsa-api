@@ -1,0 +1,9 @@
+LegalName TAYLOR BATTERY COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 92031
+StateId 92031
+MCMXFF 
+DUNS 

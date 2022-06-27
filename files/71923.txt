@@ -1,0 +1,9 @@
+LegalName DURAND EQUIPMENT & MANUFACTURING
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 71923
+StateId 71923
+MCMXFF 
+DUNS 

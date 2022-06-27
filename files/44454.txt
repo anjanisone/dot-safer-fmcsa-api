@@ -1,0 +1,9 @@
+LegalName EGGER STEEL COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 44454
+StateId 44454
+MCMXFF 
+DUNS 

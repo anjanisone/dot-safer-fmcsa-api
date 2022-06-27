@@ -1,0 +1,9 @@
+LegalName PETERSON OIL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 68098
+StateId 68098
+MCMXFF 
+DUNS 

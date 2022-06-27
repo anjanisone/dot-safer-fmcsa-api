@@ -1,0 +1,9 @@
+LegalName BAUER BUILT INC
+DBAName BAUER BUILT TIRE & SERVICE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 83629
+StateId 83629
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName MANNING EQUIPMENT LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 90382
+StateId 90382
+MCMXFF 
+DUNS 

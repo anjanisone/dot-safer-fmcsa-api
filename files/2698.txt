@@ -1,0 +1,9 @@
+LegalName BLIZZARD OF VIRGINIA INC
+DBAName BLIZZARD INDUSTRIAL SUPPLY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 2698
+StateId 2698
+MCMXFF 
+DUNS 

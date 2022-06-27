@@ -1,0 +1,9 @@
+LegalName ROBERT D MAAG
+DBAName MAAG FEEDLOT AND MAAG ANGUS RANCH
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 152141
+StateId 152141
+MCMXFF 
+DUNS 

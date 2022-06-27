@@ -1,0 +1,9 @@
+LegalName G L BEAUMONT LUMBER
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 155700
+StateId 155700
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName RICHARD KERNS TRUCK PARTS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 108847
+StateId 108847
+MCMXFF 
+DUNS 

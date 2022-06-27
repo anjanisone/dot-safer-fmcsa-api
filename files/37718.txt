@@ -1,0 +1,9 @@
+LegalName ROCKINGHAM COOPERATIVE FARM BUREAU INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 37718
+StateId 37718
+MCMXFF 
+DUNS 

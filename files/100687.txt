@@ -1,0 +1,9 @@
+LegalName TRI STATE BUTANE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 100687
+StateId 100687
+MCMXFF 
+DUNS 

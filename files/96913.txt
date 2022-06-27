@@ -1,0 +1,9 @@
+LegalName VALLEY PRODUCTS CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 96913
+StateId 96913
+MCMXFF 
+DUNS 

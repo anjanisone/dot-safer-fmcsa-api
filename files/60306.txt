@@ -1,0 +1,9 @@
+LegalName VALLEY FEED & SEED INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 60306
+StateId 60306
+MCMXFF 
+DUNS 

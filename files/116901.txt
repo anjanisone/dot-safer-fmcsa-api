@@ -1,0 +1,9 @@
+LegalName ARTCO-BELL CORPORATION
+DBAName ARTCOBELL
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 116901
+StateId 116901
+MCMXFF 
+DUNS 

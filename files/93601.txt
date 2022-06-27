@@ -1,0 +1,9 @@
+LegalName FRANK MILLER LUMBER COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93601
+StateId 93601
+MCMXFF 
+DUNS 

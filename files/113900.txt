@@ -1,0 +1,9 @@
+LegalName REGAL WARE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 113900
+StateId 113900
+MCMXFF 
+DUNS 

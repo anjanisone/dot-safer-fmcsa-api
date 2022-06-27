@@ -1,0 +1,9 @@
+LegalName SYNDICATE SALES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93816
+StateId 93816
+MCMXFF 
+DUNS 

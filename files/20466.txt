@@ -1,0 +1,9 @@
+LegalName MCLEAN THOMAS INC
+DBAName MCLEAN-THOMAS INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 20466
+StateId 20466
+MCMXFF 
+DUNS 

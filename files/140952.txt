@@ -1,0 +1,9 @@
+LegalName BLACK EQUIPMENT CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 140952
+StateId 140952
+MCMXFF 
+DUNS 

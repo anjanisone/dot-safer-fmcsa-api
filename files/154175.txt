@@ -1,0 +1,9 @@
+LegalName MARSHALL INDUSTRIAL TECHNOLOGIES
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 154175
+StateId 154175
+MCMXFF 
+DUNS 

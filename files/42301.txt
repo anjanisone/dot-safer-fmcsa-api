@@ -1,0 +1,9 @@
+LegalName T W SMITH CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 42301
+StateId 42301
+MCMXFF 
+DUNS 

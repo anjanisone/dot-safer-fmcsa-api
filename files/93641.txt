@@ -1,0 +1,9 @@
+LegalName MERVIS INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93641
+StateId 93641
+MCMXFF 
+DUNS 

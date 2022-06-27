@@ -1,0 +1,9 @@
+LegalName PETER A MACHERAS OIL CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 14959
+StateId 14959
+MCMXFF 
+DUNS 

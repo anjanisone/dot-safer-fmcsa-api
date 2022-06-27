@@ -1,0 +1,9 @@
+LegalName THE LURIE COMPANIES INC
+DBAName LURIE GLASS LURIE PANELS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 4631
+StateId 4631
+MCMXFF 
+DUNS 

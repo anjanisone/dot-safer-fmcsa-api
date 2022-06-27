@@ -1,0 +1,9 @@
+LegalName SOUTHERN NATURAL GAS CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 56104
+StateId 56104
+MCMXFF 
+DUNS 

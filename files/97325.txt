@@ -1,0 +1,9 @@
+LegalName BAY STATE MILLING COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 97325
+StateId 97325
+MCMXFF 
+DUNS 

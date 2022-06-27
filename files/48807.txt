@@ -1,0 +1,9 @@
+LegalName NEWELLTON ELEVATOR CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 48807
+StateId 48807
+MCMXFF 
+DUNS 

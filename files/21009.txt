@@ -1,0 +1,9 @@
+LegalName ERICKSON METALS CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 21009
+StateId 21009
+MCMXFF 
+DUNS 

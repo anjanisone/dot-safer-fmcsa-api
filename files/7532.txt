@@ -1,0 +1,9 @@
+LegalName PARAMOUNT FEED & SUPPLY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7532
+StateId 7532
+MCMXFF 
+DUNS 

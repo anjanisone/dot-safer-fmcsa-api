@@ -1,0 +1,9 @@
+LegalName NEW BALANCE ATHLETICS
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 150744
+StateId 150744
+MCMXFF 
+DUNS 

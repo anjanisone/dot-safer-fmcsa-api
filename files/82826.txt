@@ -1,0 +1,9 @@
+LegalName ALLEN ENGINEERING CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 82826
+StateId 82826
+MCMXFF 
+DUNS 

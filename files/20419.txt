@@ -1,0 +1,9 @@
+LegalName ANDERSON EQUIPMENT COMPANY NY INC
+DBAName ANDERSON EQUIPMENT COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 20419
+StateId 20419
+MCMXFF 
+DUNS 

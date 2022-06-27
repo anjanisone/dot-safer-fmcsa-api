@@ -1,0 +1,9 @@
+LegalName IMPERIAL FABRICATING CO OF TN INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 61582
+StateId 61582
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName BROOKS FURNITURE MFG INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 468
+StateId 468
+MCMXFF 
+DUNS 

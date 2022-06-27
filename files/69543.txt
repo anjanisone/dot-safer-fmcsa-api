@@ -1,0 +1,9 @@
+LegalName JOPLIN SUPPLY CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 69543
+StateId 69543
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName BAERS FURNITURE COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 21970
+StateId 21970
+MCMXFF 
+DUNS 

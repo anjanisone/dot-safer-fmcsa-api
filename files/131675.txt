@@ -1,0 +1,9 @@
+LegalName TUFTING MACHINE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 131675
+StateId 131675
+MCMXFF 
+DUNS 

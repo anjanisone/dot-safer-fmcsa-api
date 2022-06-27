@@ -1,0 +1,9 @@
+LegalName R L LIPTON DISTRIBUTING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 52035
+StateId 52035
+MCMXFF 
+DUNS 

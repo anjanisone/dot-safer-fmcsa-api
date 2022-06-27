@@ -1,0 +1,9 @@
+LegalName MANSFIELD PAPER CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 56072
+StateId 56072
+MCMXFF 
+DUNS 

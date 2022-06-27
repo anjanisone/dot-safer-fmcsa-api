@@ -1,0 +1,9 @@
+LegalName FARR CANDY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 110130
+StateId 110130
+MCMXFF 
+DUNS 

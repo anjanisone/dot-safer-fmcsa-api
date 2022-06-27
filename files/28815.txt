@@ -1,0 +1,9 @@
+LegalName BRADISH GLASS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 28815
+StateId 28815
+MCMXFF 
+DUNS 

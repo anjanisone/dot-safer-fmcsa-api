@@ -1,0 +1,9 @@
+LegalName CLINTON CLOUGH CONSTRUCTION INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 57613
+StateId 57613
+MCMXFF 
+DUNS 

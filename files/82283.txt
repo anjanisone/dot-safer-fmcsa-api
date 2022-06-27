@@ -1,0 +1,9 @@
+LegalName COLBY SALVAGE METAL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 82283
+StateId 82283
+MCMXFF 
+DUNS 

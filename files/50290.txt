@@ -1,0 +1,9 @@
+LegalName GENERAL WAX CANDLE COMPANY INC
+DBAName GENERAL WAX AND CANDLE COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 50290
+StateId 50290
+MCMXFF 
+DUNS 

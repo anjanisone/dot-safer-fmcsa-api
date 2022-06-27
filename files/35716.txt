@@ -1,0 +1,9 @@
+LegalName CONNECTICUT STONE SUPPLIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 35716
+StateId 35716
+MCMXFF 
+DUNS 

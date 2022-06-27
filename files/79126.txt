@@ -1,0 +1,9 @@
+LegalName SANDIFER AUTO CRUSHERS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 79126
+StateId 79126
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName BOB VANDIVER CATTLE CO
+DBAName BOB VANDIVER FARMS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 138536
+StateId 138536
+MCMXFF 
+DUNS 

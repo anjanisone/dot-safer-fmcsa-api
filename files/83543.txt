@@ -1,0 +1,9 @@
+LegalName RUSSEL METALS WILLIAMS BAHCALL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 83543
+StateId 83543
+MCMXFF 
+DUNS 

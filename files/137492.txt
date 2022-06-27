@@ -1,0 +1,9 @@
+LegalName BRITHINEE ELECTRIC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 137492
+StateId 137492
+MCMXFF 
+DUNS 

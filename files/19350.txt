@@ -1,0 +1,9 @@
+LegalName R A TILLINGHAST LUMBER INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 19350
+StateId 19350
+MCMXFF 
+DUNS 

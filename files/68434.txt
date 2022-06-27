@@ -1,0 +1,9 @@
+LegalName EVANS FEED STORE AND MORE LLC
+DBAName EVANS FEED STORE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 68434
+StateId 68434
+MCMXFF 
+DUNS 

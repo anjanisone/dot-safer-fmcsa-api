@@ -1,0 +1,9 @@
+LegalName FREEMAN BEVERAGE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 120231
+StateId 120231
+MCMXFF 
+DUNS 

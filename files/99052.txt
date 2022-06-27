@@ -1,0 +1,9 @@
+LegalName CHARLES L YEAGER
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 99052
+StateId 99052
+MCMXFF 
+DUNS 

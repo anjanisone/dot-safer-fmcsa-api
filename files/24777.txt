@@ -1,0 +1,9 @@
+LegalName UNITED PICKLE PRODUCTS CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 24777
+StateId 24777
+MCMXFF 
+DUNS 

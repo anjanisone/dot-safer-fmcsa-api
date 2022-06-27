@@ -1,0 +1,9 @@
+LegalName PARAMOUNT PICTURES CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 57187
+StateId 57187
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName FRED SHEARER & SONS INC
+DBAName FRED SHEARER & SONS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 59718
+StateId 59718
+MCMXFF 
+DUNS 

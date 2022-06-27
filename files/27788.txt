@@ -1,0 +1,9 @@
+LegalName YOAKUM GRAIN INC
+DBAName 
+PhysicalAddress 915 W GONZALES YOAKUM, TX   77995
+Phone (361) 293-3521
+MailingAddress P O BOX 48 YOAKUM, TX   77995
+DOTNumber 27788
+StateId 27788
+MCMXFF 
+DUNS 

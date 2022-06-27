@@ -1,0 +1,9 @@
+LegalName WILLIAMSBURG POTTERY FACTORY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 4802
+StateId 4802
+MCMXFF 
+DUNS 

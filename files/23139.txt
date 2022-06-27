@@ -1,0 +1,9 @@
+LegalName MUENSTER MILLING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 23139
+StateId 23139
+MCMXFF 
+DUNS 

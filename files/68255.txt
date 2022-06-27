@@ -1,0 +1,9 @@
+LegalName JOSEPH F IMPOCO JR
+DBAName PRIME CHICK EGG FARM
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 68255
+StateId 68255
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName DALE H EMERICH
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 20988
+StateId 20988
+MCMXFF 
+DUNS 

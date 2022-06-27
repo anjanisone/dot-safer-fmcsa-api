@@ -1,0 +1,9 @@
+LegalName STAMFORD WRECKING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 58341
+StateId 58341
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName RENE J FOURNIER FARM EQUIPMENT INC
+DBAName AGRICULTURAL SERVICE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 106221
+StateId 106221
+MCMXFF 
+DUNS 

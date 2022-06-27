@@ -1,0 +1,9 @@
+LegalName PORTERS TIRE CENTER INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 129548
+StateId 129548
+MCMXFF 
+DUNS 

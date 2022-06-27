@@ -1,0 +1,9 @@
+LegalName I C ISAACS & CO INC
+DBAName 
+PhysicalAddress BANK & GRUNDY BALTIMORE, MD   21224
+Phone (410) 342-8200
+MailingAddress BANK & GRUNDY BALTIMORE, MD   21224
+DOTNumber 65162
+StateId 65162
+MCMXFF 
+DUNS 

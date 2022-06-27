@@ -1,0 +1,9 @@
+LegalName C T BRIGHAM COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 20776
+StateId 20776
+MCMXFF 
+DUNS 

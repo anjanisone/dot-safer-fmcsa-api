@@ -1,0 +1,9 @@
+LegalName MITCHELL GROCERY CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 64609
+StateId 64609
+MCMXFF 
+DUNS 

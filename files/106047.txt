@@ -1,0 +1,9 @@
+LegalName PEOPLE'S LINEN SERVICE LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 106047
+StateId 106047
+MCMXFF 
+DUNS 

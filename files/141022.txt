@@ -1,0 +1,9 @@
+LegalName DOUGHERTY IMPLEMENT COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 141022
+StateId 141022
+MCMXFF 
+DUNS 

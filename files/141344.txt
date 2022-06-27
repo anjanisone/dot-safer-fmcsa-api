@@ -1,0 +1,9 @@
+LegalName COGGINS & SONS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 141344
+StateId 141344
+MCMXFF 
+DUNS 

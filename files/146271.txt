@@ -1,0 +1,9 @@
+LegalName VERNON GITTLESON
+DBAName GITTLESON FARMS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 146271
+StateId 146271
+MCMXFF 
+DUNS 

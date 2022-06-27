@@ -1,0 +1,9 @@
+LegalName CONSOLIDATED STEEL & ALUNINUM FENCE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 106684
+StateId 106684
+MCMXFF 
+DUNS 

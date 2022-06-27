@@ -1,0 +1,9 @@
+LegalName THE GREAT LAKES CONSTRUCTION CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 32446
+StateId 32446
+MCMXFF 
+DUNS 

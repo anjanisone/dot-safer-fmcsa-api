@@ -1,0 +1,9 @@
+LegalName MUNSTER STEEL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93565
+StateId 93565
+MCMXFF 
+DUNS 

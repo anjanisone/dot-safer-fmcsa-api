@@ -1,0 +1,9 @@
+LegalName MAID RITE SPECIALTY FOODS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 38698
+StateId 38698
+MCMXFF 
+DUNS 

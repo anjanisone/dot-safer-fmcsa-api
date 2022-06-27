@@ -1,0 +1,9 @@
+LegalName WINZELER STAMPING COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 98542
+StateId 98542
+MCMXFF 
+DUNS 

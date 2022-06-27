@@ -1,0 +1,9 @@
+LegalName GRAND CANYON EXPEDITIONS CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 28452
+StateId 28452
+MCMXFF 
+DUNS 

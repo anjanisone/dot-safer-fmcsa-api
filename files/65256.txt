@@ -1,0 +1,9 @@
+LegalName HARTING & SONS BUILDING SUPPLIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 65256
+StateId 65256
+MCMXFF 
+DUNS 

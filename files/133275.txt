@@ -1,0 +1,9 @@
+LegalName CERTCO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 133275
+StateId 133275
+MCMXFF 
+DUNS 

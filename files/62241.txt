@@ -1,0 +1,9 @@
+LegalName REED ELECTRIC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 62241
+StateId 62241
+MCMXFF 
+DUNS 

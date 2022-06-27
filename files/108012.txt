@@ -1,0 +1,9 @@
+LegalName NIEMAN ROOFING COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 108012
+StateId 108012
+MCMXFF 
+DUNS 

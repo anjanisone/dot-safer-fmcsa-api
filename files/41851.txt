@@ -1,0 +1,9 @@
+LegalName PATTEN SEED COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 41851
+StateId 41851
+MCMXFF 
+DUNS 

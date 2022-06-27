@@ -1,0 +1,9 @@
+LegalName JOY GLOBAL UNDERGROUND MINING LLC
+DBAName KOMATSU
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 51734
+StateId 51734
+MCMXFF 
+DUNS 

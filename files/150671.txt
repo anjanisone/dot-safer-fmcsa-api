@@ -1,0 +1,9 @@
+LegalName THE JOR-MAC COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 150671
+StateId 150671
+MCMXFF 
+DUNS 

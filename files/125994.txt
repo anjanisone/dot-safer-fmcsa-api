@@ -1,0 +1,9 @@
+LegalName DAVID WAKER SIMPSON
+DBAName MORTON MILLING CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 125994
+StateId 125994
+MCMXFF 
+DUNS 

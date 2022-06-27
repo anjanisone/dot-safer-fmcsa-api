@@ -1,0 +1,9 @@
+LegalName CLAIRE LATHROP BANDMILL INC
+DBAName LATHROP FOREST PRODUCTS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 40398
+StateId 40398
+MCMXFF 
+DUNS 

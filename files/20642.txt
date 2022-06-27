@@ -1,0 +1,9 @@
+LegalName WHITING OIL CORP
+DBAName WHITING ENERGY FUELS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 20642
+StateId 20642
+MCMXFF 
+DUNS 

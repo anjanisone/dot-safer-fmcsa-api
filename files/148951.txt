@@ -1,0 +1,9 @@
+LegalName LESCO DESIGN AND MFG CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 148951
+StateId 148951
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName BEAVER STREET FISHERIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 135703
+StateId 135703
+MCMXFF 
+DUNS 

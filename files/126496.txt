@@ -1,0 +1,9 @@
+LegalName SOUTHWEST ELECTRIC COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 126496
+StateId 126496
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName MIDWEST MATERIALS COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 69643
+StateId 69643
+MCMXFF 
+DUNS 

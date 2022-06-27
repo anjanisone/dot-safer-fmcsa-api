@@ -1,0 +1,9 @@
+LegalName RADIO PARTS CO
+DBAName COMMAND ELECTRONICS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 88373
+StateId 88373
+MCMXFF 
+DUNS 

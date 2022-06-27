@@ -1,0 +1,9 @@
+LegalName LUSCO BRICK & STONE CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 53199
+StateId 53199
+MCMXFF 
+DUNS 

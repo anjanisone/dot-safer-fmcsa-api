@@ -1,0 +1,9 @@
+LegalName TARLTON CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 77924
+StateId 77924
+MCMXFF 
+DUNS 

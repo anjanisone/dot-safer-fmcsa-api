@@ -1,0 +1,9 @@
+LegalName R F FAGER COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 144734
+StateId 144734
+MCMXFF 
+DUNS 

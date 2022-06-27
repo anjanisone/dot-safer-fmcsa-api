@@ -1,0 +1,9 @@
+LegalName OLTON GRAIN COOP INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 135542
+StateId 135542
+MCMXFF 
+DUNS 

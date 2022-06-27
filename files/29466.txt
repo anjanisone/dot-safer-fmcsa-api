@@ -1,0 +1,9 @@
+LegalName CHARLES C PARKS CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 29466
+StateId 29466
+MCMXFF 
+DUNS 

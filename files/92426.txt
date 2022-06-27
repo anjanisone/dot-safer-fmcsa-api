@@ -1,0 +1,9 @@
+LegalName EUFAULA PULPWOOD CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 92426
+StateId 92426
+MCMXFF 
+DUNS 

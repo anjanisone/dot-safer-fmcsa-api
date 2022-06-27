@@ -1,0 +1,9 @@
+LegalName R LAZY K TRUCKING INC
+DBAName 
+PhysicalAddress 500 A ST GLENVIL, NE   68941
+Phone (402) 771-2394
+MailingAddress 500 A ST GLENVIL, NE   68941
+DOTNumber 67926
+StateId 67926
+MCMXFF 
+DUNS 

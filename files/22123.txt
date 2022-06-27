@@ -1,0 +1,9 @@
+LegalName DEPERE FOUNDRY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 22123
+StateId 22123
+MCMXFF 
+DUNS 

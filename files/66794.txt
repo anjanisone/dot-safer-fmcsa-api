@@ -1,0 +1,9 @@
+LegalName FRANKEN OIL & DISTRIBUTING COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 66794
+StateId 66794
+MCMXFF 
+DUNS 

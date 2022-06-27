@@ -1,0 +1,9 @@
+LegalName OTIS EASTERN SERVICE LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 20612
+StateId 20612
+MCMXFF 
+DUNS 

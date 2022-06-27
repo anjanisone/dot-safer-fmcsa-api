@@ -1,0 +1,9 @@
+LegalName MAGALHAES INC
+DBAName STATE FRUIT FOOD SERVICE-AMARALS MARKET
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 18446
+StateId 18446
+MCMXFF 
+DUNS 

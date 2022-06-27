@@ -1,0 +1,9 @@
+LegalName WILSON EQUIPMENT CO LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 152834
+StateId 152834
+MCMXFF 
+DUNS 

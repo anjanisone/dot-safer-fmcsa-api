@@ -1,0 +1,9 @@
+LegalName AMERICAN PAPER & TWINE CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 95140
+StateId 95140
+MCMXFF 
+DUNS 

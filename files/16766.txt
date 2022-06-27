@@ -1,0 +1,9 @@
+LegalName WELCH FOODS INC A COOPERATIVE
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 16766
+StateId 16766
+MCMXFF 
+DUNS 

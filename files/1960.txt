@@ -1,0 +1,9 @@
+LegalName ALL MAKES OFFICE EQUIPMENT CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 1960
+StateId 1960
+MCMXFF 
+DUNS 

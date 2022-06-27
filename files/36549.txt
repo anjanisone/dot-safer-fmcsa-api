@@ -1,0 +1,9 @@
+LegalName RICE TUBULARS INC
+DBAName COASTAL PIPE COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 36549
+StateId 36549
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName MODERN WELDING CO OF TEXAS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 107518
+StateId 107518
+MCMXFF 
+DUNS 

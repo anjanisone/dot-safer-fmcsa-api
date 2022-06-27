@@ -1,0 +1,9 @@
+LegalName AMPACO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 102319
+StateId 102319
+MCMXFF 
+DUNS 

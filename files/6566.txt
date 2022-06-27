@@ -1,0 +1,9 @@
+LegalName GAMBARDELLAS WHOLESALE FISH DEALER INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 6566
+StateId 6566
+MCMXFF 
+DUNS 

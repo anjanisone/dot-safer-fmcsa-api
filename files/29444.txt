@@ -1,0 +1,9 @@
+LegalName EMG INC
+DBAName HARBOR MASTER BOATS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 29444
+StateId 29444
+MCMXFF 
+DUNS 

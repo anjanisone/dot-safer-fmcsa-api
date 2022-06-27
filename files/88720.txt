@@ -1,0 +1,9 @@
+LegalName MITCHELL'S FARM INC
+DBAName MITCHELL'S FARM
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 88720
+StateId 88720
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName J&J PALLET CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 98801
+StateId 98801
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName LEGENBAUER GAS & OIL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 19660
+StateId 19660
+MCMXFF 
+DUNS 

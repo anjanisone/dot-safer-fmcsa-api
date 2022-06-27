@@ -1,0 +1,9 @@
+LegalName JENNINGS IMPLEMENT CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 94146
+StateId 94146
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName ALLENTOWN BEVERAGE COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 101276
+StateId 101276
+MCMXFF 
+DUNS 

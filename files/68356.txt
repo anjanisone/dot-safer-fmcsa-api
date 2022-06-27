@@ -1,0 +1,9 @@
+LegalName DILLARD DEPARTMENT STORES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 68356
+StateId 68356
+MCMXFF 
+DUNS 

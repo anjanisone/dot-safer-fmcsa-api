@@ -1,0 +1,9 @@
+LegalName THE POOLE & KENT CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 88590
+StateId 88590
+MCMXFF 
+DUNS 

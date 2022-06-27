@@ -1,0 +1,9 @@
+LegalName FURNITURELAND SOUTH INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 148262
+StateId 148262
+MCMXFF 
+DUNS 

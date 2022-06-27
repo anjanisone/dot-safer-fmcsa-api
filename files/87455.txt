@@ -1,0 +1,9 @@
+LegalName LEAVENWORTH EXCAVATING & EQUIPMENT CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 87455
+StateId 87455
+MCMXFF 
+DUNS 

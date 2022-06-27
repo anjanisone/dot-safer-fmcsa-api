@@ -1,0 +1,9 @@
+LegalName BUILDING PRODUCTS COMPANY A DIVISION OF MCP INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 118372
+StateId 118372
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName B & C STEEL CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 87302
+StateId 87302
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName JULIAN D LIPHAM
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 37413
+StateId 37413
+MCMXFF 
+DUNS 

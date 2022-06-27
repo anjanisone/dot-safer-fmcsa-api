@@ -1,0 +1,9 @@
+LegalName ICE CREAM SPECIALTIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 51440
+StateId 51440
+MCMXFF 
+DUNS 

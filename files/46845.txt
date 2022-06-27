@@ -1,0 +1,9 @@
+LegalName WISCONSIN HOMES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 46845
+StateId 46845
+MCMXFF 
+DUNS 

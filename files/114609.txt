@@ -1,0 +1,9 @@
+LegalName STAR OF THE WEST MILLING COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 114609
+StateId 114609
+MCMXFF 
+DUNS 

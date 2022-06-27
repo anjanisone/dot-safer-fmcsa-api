@@ -1,0 +1,9 @@
+LegalName SCHAEPERKOETTER STORE INC
+DBAName MT STERLING OIL CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 67691
+StateId 67691
+MCMXFF 
+DUNS 

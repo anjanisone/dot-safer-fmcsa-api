@@ -1,0 +1,9 @@
+LegalName BODEN STORE FIXTURES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 61677
+StateId 61677
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName CITY SIGN SERVICE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 38007
+StateId 38007
+MCMXFF 
+DUNS 

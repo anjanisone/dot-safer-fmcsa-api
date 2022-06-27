@@ -1,0 +1,9 @@
+LegalName GLENN DICK EQUIPMENT CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 110161
+StateId 110161
+MCMXFF 
+DUNS 

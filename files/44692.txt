@@ -1,0 +1,9 @@
+LegalName KERR FEED AND GRAIN COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 44692
+StateId 44692
+MCMXFF 
+DUNS 

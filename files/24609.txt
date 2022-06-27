@@ -1,0 +1,9 @@
+LegalName ROBERTO LOAM & EQUIPMENT CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 24609
+StateId 24609
+MCMXFF 
+DUNS 

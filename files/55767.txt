@@ -1,0 +1,9 @@
+LegalName RINGLAND-JOHNSON INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 55767
+StateId 55767
+MCMXFF 
+DUNS 

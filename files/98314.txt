@@ -1,0 +1,9 @@
+LegalName M E MILLER TIRE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 98314
+StateId 98314
+MCMXFF 
+DUNS 

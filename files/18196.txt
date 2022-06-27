@@ -1,0 +1,9 @@
+LegalName PRINTERS OIL SUPPLY CO INC
+DBAName POSCO INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 18196
+StateId 18196
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName SUMMIT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 66253
+StateId 66253
+MCMXFF 
+DUNS 

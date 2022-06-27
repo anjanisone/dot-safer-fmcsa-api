@@ -1,0 +1,9 @@
+LegalName SPRING CITY ELECTRICAL MANUFACTURING COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 10431
+StateId 10431
+MCMXFF 
+DUNS 

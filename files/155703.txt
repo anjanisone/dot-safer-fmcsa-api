@@ -1,0 +1,9 @@
+LegalName HOLT RECYCLERS INC
+DBAName HOLT RECYCLING INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 155703
+StateId 155703
+MCMXFF 
+DUNS 

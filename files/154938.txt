@@ -1,0 +1,9 @@
+LegalName KORTE & LUITJOHAN CONTRACTORS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 154938
+StateId 154938
+MCMXFF 
+DUNS 

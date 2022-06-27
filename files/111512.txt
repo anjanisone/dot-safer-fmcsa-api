@@ -1,0 +1,9 @@
+LegalName BETHEL MILLS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 111512
+StateId 111512
+MCMXFF 
+DUNS 

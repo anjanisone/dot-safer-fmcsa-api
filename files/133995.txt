@@ -1,0 +1,9 @@
+LegalName SYDENSTRICKER NOBBE PARTNERS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 133995
+StateId 133995
+MCMXFF 
+DUNS 

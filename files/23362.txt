@@ -1,0 +1,9 @@
+LegalName PASSAIC METAL & BUILDING SUPPLIES CO
+DBAName RIDGE TRUCKING CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 23362
+StateId 23362
+MCMXFF 
+DUNS 

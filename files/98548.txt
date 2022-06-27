@@ -1,0 +1,9 @@
+LegalName WORLD TIRE CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 98548
+StateId 98548
+MCMXFF 
+DUNS 

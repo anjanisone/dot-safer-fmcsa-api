@@ -1,0 +1,9 @@
+LegalName WEATHER SHIELD MFG INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 46991
+StateId 46991
+MCMXFF 
+DUNS 

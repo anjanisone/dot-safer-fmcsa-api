@@ -1,0 +1,9 @@
+LegalName O C S TECHNOLOGIES INC
+DBAName OHIO COUNTING SCALE INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 142422
+StateId 142422
+MCMXFF 
+DUNS 

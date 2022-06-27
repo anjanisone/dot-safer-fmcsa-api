@@ -1,0 +1,9 @@
+LegalName OLUMS OF BINGHAMTON INCORPORATED
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 15282
+StateId 15282
+MCMXFF 
+DUNS 

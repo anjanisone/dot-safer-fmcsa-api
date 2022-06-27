@@ -1,0 +1,9 @@
+LegalName JWBSK INC
+DBAName WEAVER ELECTRIC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 120424
+StateId 120424
+MCMXFF 
+DUNS 

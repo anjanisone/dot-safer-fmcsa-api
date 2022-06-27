@@ -1,0 +1,9 @@
+LegalName FULL CIRCLE ENTERPRISE INC
+DBAName DITCH WITCH OF ARIZONA
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 44045
+StateId 44045
+MCMXFF 
+DUNS 

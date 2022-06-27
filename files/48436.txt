@@ -1,0 +1,9 @@
+LegalName NORTHLAND EQUIPMENT CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 48436
+StateId 48436
+MCMXFF 
+DUNS 

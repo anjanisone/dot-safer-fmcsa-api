@@ -1,0 +1,9 @@
+LegalName LEXINGTON CUT STONE MARBLE & TILE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 109030
+StateId 109030
+MCMXFF 
+DUNS 

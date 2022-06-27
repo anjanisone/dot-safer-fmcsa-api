@@ -1,0 +1,9 @@
+LegalName MORRIS IRON & STEEL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 10070
+StateId 10070
+MCMXFF 
+DUNS 

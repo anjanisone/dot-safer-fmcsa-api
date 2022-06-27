@@ -1,0 +1,9 @@
+LegalName MAXWELL HUTTERIAN BRETHREN INC
+DBAName MAXWELL COLONY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 13032
+StateId 13032
+MCMXFF 
+DUNS 

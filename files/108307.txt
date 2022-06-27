@@ -1,0 +1,9 @@
+LegalName FORD'S PRODUCE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 108307
+StateId 108307
+MCMXFF 
+DUNS 

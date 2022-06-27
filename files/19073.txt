@@ -1,0 +1,9 @@
+LegalName SCITUATE CONCRETE PIPE CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 19073
+StateId 19073
+MCMXFF 
+DUNS 

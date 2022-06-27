@@ -1,0 +1,9 @@
+LegalName TRIMARK UNITED EAST INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 18494
+StateId 18494
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName LINDEMANN FERTILIZER SERVICE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 136066
+StateId 136066
+MCMXFF 
+DUNS 

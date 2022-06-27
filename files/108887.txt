@@ -1,0 +1,9 @@
+LegalName LEN-DAL CARPET & RUGS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 108887
+StateId 108887
+MCMXFF 
+DUNS 

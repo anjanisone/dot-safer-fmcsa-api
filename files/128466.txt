@@ -1,0 +1,9 @@
+LegalName RIVER STATES TRUCK AND TRAILER INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 128466
+StateId 128466
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName ENID IRON & METAL COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 126108
+StateId 126108
+MCMXFF 
+DUNS 

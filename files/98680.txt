@@ -1,0 +1,9 @@
+LegalName DAILY FEED AND GRAIN INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 98680
+StateId 98680
+MCMXFF 
+DUNS 

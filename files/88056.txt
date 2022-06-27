@@ -1,0 +1,9 @@
+LegalName LANAHAN LUMBER COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 88056
+StateId 88056
+MCMXFF 
+DUNS 

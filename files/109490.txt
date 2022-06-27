@@ -1,0 +1,9 @@
+LegalName TEXAS SCRAP AND SALVAGE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 109490
+StateId 109490
+MCMXFF 
+DUNS 

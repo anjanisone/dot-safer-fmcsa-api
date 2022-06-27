@@ -1,0 +1,9 @@
+LegalName COLONIAL BRICK COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 114732
+StateId 114732
+MCMXFF 
+DUNS 

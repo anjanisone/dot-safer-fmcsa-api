@@ -1,0 +1,9 @@
+LegalName SMITH FLOOR COVERING DISTRIBUTORS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 36869
+StateId 36869
+MCMXFF 
+DUNS 

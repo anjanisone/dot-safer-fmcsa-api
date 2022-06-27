@@ -1,0 +1,9 @@
+LegalName HAWKINS INC
+DBAName HAWKINS WATER TREATMENT GROUP
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 75303
+StateId 75303
+MCMXFF 
+DUNS 

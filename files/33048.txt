@@ -1,0 +1,9 @@
+LegalName MCELROY METAL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 33048
+StateId 33048
+MCMXFF 
+DUNS 

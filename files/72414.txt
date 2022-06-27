@@ -1,0 +1,9 @@
+LegalName G&R IMPLEMENT LLC
+DBAName 
+PhysicalAddress 417 DOUGLAS DURHAM, KS   67438
+Phone (620) 732-3245
+MailingAddress PO BOX 90 DURHAM, KS   67438
+DOTNumber 72414
+StateId 72414
+MCMXFF 
+DUNS 

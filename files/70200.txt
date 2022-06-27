@@ -1,0 +1,9 @@
+LegalName BLEVINS ASPHALT CONST CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 70200
+StateId 70200
+MCMXFF 
+DUNS 

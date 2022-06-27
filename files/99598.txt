@@ -1,0 +1,9 @@
+LegalName ALLEN A KOBS
+DBAName DEER PARK GARAGE & SALVAGE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 99598
+StateId 99598
+MCMXFF 
+DUNS 

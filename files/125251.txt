@@ -1,0 +1,9 @@
+LegalName MACON MACHINE INC
+DBAName MIDSTATE STEEL INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 125251
+StateId 125251
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName CAPITOL CONCRETE PRODUCTS CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 82242
+StateId 82242
+MCMXFF 
+DUNS 

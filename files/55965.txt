@@ -1,0 +1,9 @@
+LegalName QUAKER SALES CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 55965
+StateId 55965
+MCMXFF 
+DUNS 

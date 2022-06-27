@@ -1,0 +1,9 @@
+LegalName P A LAFFERTY & SONS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 10138
+StateId 10138
+MCMXFF 
+DUNS 

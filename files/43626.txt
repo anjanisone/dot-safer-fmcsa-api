@@ -1,0 +1,9 @@
+LegalName SKANSKA KOCH INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 43626
+StateId 43626
+MCMXFF 
+DUNS 

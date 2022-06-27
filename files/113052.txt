@@ -1,0 +1,9 @@
+LegalName FRANK HINTON & SON INC
+DBAName HINTON MILLS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 113052
+StateId 113052
+MCMXFF 
+DUNS 

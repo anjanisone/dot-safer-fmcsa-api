@@ -1,0 +1,9 @@
+LegalName WASHOUGAL LUMBER CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 37800
+StateId 37800
+MCMXFF 
+DUNS 

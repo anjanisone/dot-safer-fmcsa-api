@@ -1,0 +1,9 @@
+LegalName J & R INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 99295
+StateId 99295
+MCMXFF 
+DUNS 

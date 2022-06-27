@@ -1,0 +1,9 @@
+LegalName BROOKFIELD RESOURCE MANAGEMENT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 50704
+StateId 50704
+MCMXFF 
+DUNS 

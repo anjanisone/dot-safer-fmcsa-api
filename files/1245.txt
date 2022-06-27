@@ -1,0 +1,9 @@
+LegalName WITMER'S INC
+DBAName WITMER'S CONSTRUCTION
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 1245
+StateId 1245
+MCMXFF 
+DUNS 

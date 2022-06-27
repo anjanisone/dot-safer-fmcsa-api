@@ -1,0 +1,9 @@
+LegalName JAMES K LAIRD JR
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 84753
+StateId 84753
+MCMXFF 
+DUNS 

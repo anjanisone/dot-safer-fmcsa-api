@@ -1,0 +1,9 @@
+LegalName BRODIE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 31273
+StateId 31273
+MCMXFF 
+DUNS 

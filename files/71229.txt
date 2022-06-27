@@ -1,0 +1,9 @@
+LegalName WEST SALEM KNOX COUNTY HATCHERY
+DBAName GEORGE'S FARM SUPPLY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 71229
+StateId 71229
+MCMXFF 
+DUNS 

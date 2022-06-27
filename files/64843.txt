@@ -1,0 +1,9 @@
+LegalName MEARS OIL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 64843
+StateId 64843
+MCMXFF 
+DUNS 

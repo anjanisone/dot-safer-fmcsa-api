@@ -1,0 +1,9 @@
+LegalName CO-OP GAS & SUPPLY CO INC
+DBAName CO-OP ENERGY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 38370
+StateId 38370
+MCMXFF 
+DUNS 

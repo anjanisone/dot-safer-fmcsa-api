@@ -1,0 +1,9 @@
+LegalName LAFAYETTE STEEL COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 114882
+StateId 114882
+MCMXFF 
+DUNS 

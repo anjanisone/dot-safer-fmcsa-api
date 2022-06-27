@@ -1,0 +1,9 @@
+LegalName GARY E FRITZ
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 143515
+StateId 143515
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName J & M TRUCKING INC
+DBAName 
+PhysicalAddress 800 AVENUE O ELY, NV   89301-2921
+Phone (775) 289-4355
+MailingAddress P O BOX 150351 EAST ELY, NV   89315-0351
+DOTNumber 53973
+StateId 53973
+MCMXFF 
+DUNS 

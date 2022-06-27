@@ -1,0 +1,9 @@
+LegalName WARWICK ICE CREAM CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 18523
+StateId 18523
+MCMXFF 
+DUNS 

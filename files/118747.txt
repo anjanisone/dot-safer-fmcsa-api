@@ -1,0 +1,9 @@
+LegalName W H FRATZ INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 118747
+StateId 118747
+MCMXFF 
+DUNS 

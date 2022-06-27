@@ -1,0 +1,9 @@
+LegalName STAAB BATTERY MANUFACTURING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 78491
+StateId 78491
+MCMXFF 
+DUNS 

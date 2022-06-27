@@ -1,0 +1,9 @@
+LegalName OCEAN SPRINGS SEAFOOD MARKET INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 78991
+StateId 78991
+MCMXFF 
+DUNS 

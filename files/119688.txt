@@ -1,0 +1,9 @@
+LegalName BRINK CONSTRUCTORS INC
+DBAName BRINK ELECTRIC CONSTRUCTION CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 119688
+StateId 119688
+MCMXFF 
+DUNS 

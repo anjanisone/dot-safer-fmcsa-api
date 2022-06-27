@@ -1,0 +1,9 @@
+LegalName FAIRFIELD ENGINEERING CO THE
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 95209
+StateId 95209
+MCMXFF 
+DUNS 

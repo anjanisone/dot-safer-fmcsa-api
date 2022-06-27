@@ -1,0 +1,9 @@
+LegalName TRI-STATE ARMATURE & ELECTRICAL WORKS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 8043
+StateId 8043
+MCMXFF 
+DUNS 

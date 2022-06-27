@@ -1,0 +1,9 @@
+LegalName KAMAN AEROSPACE CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 102030
+StateId 102030
+MCMXFF 
+DUNS 

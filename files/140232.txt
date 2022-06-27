@@ -1,0 +1,9 @@
+LegalName E-TOWN TRUSS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 140232
+StateId 140232
+MCMXFF 
+DUNS 

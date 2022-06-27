@@ -1,0 +1,9 @@
+LegalName S S LOGAN PACKING COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 85247
+StateId 85247
+MCMXFF 
+DUNS 

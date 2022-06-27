@@ -1,0 +1,9 @@
+LegalName PROGASCO INC
+DBAName PROGASCO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 128130
+StateId 128130
+MCMXFF 
+DUNS 

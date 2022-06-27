@@ -1,0 +1,9 @@
+LegalName OSWALD H C SUPPLY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 6450
+StateId 6450
+MCMXFF 
+DUNS 

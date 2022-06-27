@@ -1,0 +1,9 @@
+LegalName MANITOU EQUIPMENT AMERICA LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 143572
+StateId 143572
+MCMXFF 
+DUNS 

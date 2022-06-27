@@ -1,0 +1,9 @@
+LegalName JAC PRODUCTS INC
+DBAName FRANKLIN ALUMINUM CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 121989
+StateId 121989
+MCMXFF 
+DUNS 

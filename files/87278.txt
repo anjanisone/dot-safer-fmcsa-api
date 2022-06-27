@@ -1,0 +1,9 @@
+LegalName ACE IRRIGATION & MFG COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 87278
+StateId 87278
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName JACKSONVILLE STEEL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 137514
+StateId 137514
+MCMXFF 
+DUNS 

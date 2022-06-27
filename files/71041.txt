@@ -1,0 +1,9 @@
+LegalName BOWMAN MILLING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 71041
+StateId 71041
+MCMXFF 
+DUNS 

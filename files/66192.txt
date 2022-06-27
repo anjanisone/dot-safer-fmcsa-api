@@ -1,0 +1,9 @@
+LegalName SOUKUP CONSTRUCTION INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 66192
+StateId 66192
+MCMXFF 
+DUNS 

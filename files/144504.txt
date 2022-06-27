@@ -1,0 +1,9 @@
+LegalName NAUSET MARINE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 144504
+StateId 144504
+MCMXFF 
+DUNS 

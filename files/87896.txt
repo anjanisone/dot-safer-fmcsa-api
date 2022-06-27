@@ -1,0 +1,9 @@
+LegalName MAGO CONSTRUCTION CO LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 87896
+StateId 87896
+MCMXFF 
+DUNS 

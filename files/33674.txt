@@ -1,0 +1,9 @@
+LegalName ADAMS OIL COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 33674
+StateId 33674
+MCMXFF 
+DUNS 

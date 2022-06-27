@@ -1,0 +1,9 @@
+LegalName BB CATTLE CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 129093
+StateId 129093
+MCMXFF 
+DUNS 

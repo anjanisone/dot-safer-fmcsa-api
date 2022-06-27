@@ -1,0 +1,9 @@
+LegalName C & C SCRAP IRON & METAL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 94791
+StateId 94791
+MCMXFF 
+DUNS 

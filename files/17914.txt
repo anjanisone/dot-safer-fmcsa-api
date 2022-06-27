@@ -1,0 +1,9 @@
+LegalName COLBERT ELECTRICAL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 17914
+StateId 17914
+MCMXFF 
+DUNS 

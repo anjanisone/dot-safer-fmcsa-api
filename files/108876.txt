@@ -1,0 +1,9 @@
+LegalName LATEX CONSTRUCTION COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 108876
+StateId 108876
+MCMXFF 
+DUNS 

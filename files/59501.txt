@@ -1,0 +1,9 @@
+LegalName TRUSS T STRUCTURES
+DBAName PACIFIC BUILDING SYSTEMS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 59501
+StateId 59501
+MCMXFF 
+DUNS 

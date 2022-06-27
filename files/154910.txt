@@ -1,0 +1,9 @@
+LegalName TANNER CHEMICAL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 154910
+StateId 154910
+MCMXFF 
+DUNS 

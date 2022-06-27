@@ -1,0 +1,9 @@
+LegalName METALS USA INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 92508
+StateId 92508
+MCMXFF 
+DUNS 

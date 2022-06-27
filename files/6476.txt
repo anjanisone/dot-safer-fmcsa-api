@@ -1,0 +1,9 @@
+LegalName YAUN COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 6476
+StateId 6476
+MCMXFF 
+DUNS 

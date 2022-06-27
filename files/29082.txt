@@ -1,0 +1,9 @@
+LegalName SOUTHERN RECYCLING LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 29082
+StateId 29082
+MCMXFF 
+DUNS 

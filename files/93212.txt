@@ -1,0 +1,9 @@
+LegalName SUSAN M RATAICZAK
+DBAName GATTO FOOD SERVICE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93212
+StateId 93212
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName CHARLES P BLOUIN INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 31309
+StateId 31309
+MCMXFF 
+DUNS 

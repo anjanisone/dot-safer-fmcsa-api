@@ -1,0 +1,9 @@
+LegalName M J DALY LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 23844
+StateId 23844
+MCMXFF 
+DUNS 

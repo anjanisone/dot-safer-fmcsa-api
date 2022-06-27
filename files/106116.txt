@@ -1,0 +1,9 @@
+LegalName MANCHESTER METALS
+DBAName MANCHESTER RECYCLING CORP
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 106116
+StateId 106116
+MCMXFF 
+DUNS 

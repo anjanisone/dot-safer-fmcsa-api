@@ -1,0 +1,9 @@
+LegalName SCOTT CAMPBELL INC
+DBAName T BRUCE CAMPBELL CONSTRUCTION
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 85182
+StateId 85182
+MCMXFF 
+DUNS 

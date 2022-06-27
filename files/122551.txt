@@ -1,0 +1,9 @@
+LegalName C L M EQUIPMENT CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 122551
+StateId 122551
+MCMXFF 
+DUNS 

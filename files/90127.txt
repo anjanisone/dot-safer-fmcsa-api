@@ -1,0 +1,9 @@
+LegalName AG PARTNERS COOPERATIVE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 90127
+StateId 90127
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName RESEARCH PRODUCTS INC OF ALABAMA
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 97829
+StateId 97829
+MCMXFF 
+DUNS 

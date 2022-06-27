@@ -1,0 +1,9 @@
+LegalName SONOCO PLASTICS
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 20802
+StateId 20802
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName GRANNAS BROS STONE & ASPHALT CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 33813
+StateId 33813
+MCMXFF 
+DUNS 

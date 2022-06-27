@@ -1,0 +1,9 @@
+LegalName CAESARS ENTERTAINMENT OPERATING COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7937
+StateId 7937
+MCMXFF 
+DUNS 

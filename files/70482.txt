@@ -1,0 +1,9 @@
+LegalName ALMET INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 70482
+StateId 70482
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName KNOUSE FOODS COOPERATIVE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 11947
+StateId 11947
+MCMXFF 
+DUNS 

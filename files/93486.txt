@@ -1,0 +1,9 @@
+LegalName FRANGER GAS COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93486
+StateId 93486
+MCMXFF 
+DUNS 

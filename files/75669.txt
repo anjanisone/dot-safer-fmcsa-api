@@ -1,0 +1,9 @@
+LegalName ATLAS SALES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 75669
+StateId 75669
+MCMXFF 
+DUNS 

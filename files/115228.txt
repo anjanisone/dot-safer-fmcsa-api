@@ -1,0 +1,9 @@
+LegalName GOOSENECK TRAILER MANUFACTURING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 115228
+StateId 115228
+MCMXFF 
+DUNS 

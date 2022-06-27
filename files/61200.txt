@@ -1,0 +1,9 @@
+LegalName KUHN KRAUSE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 61200
+StateId 61200
+MCMXFF 
+DUNS 

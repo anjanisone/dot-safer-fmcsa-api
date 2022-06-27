@@ -1,0 +1,9 @@
+LegalName PERKINS LUMBER CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 116148
+StateId 116148
+MCMXFF 
+DUNS 

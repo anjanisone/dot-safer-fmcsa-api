@@ -1,0 +1,9 @@
+LegalName CARL BEDNARSKI
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 109144
+StateId 109144
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName W R MEADOWS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 76738
+StateId 76738
+MCMXFF 
+DUNS 

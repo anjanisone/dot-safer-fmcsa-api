@@ -1,0 +1,9 @@
+LegalName ALLIED ROOFING & SHEET METAL CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 94491
+StateId 94491
+MCMXFF 
+DUNS 

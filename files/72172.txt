@@ -1,0 +1,9 @@
+LegalName LINCOLN LUMBER COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 72172
+StateId 72172
+MCMXFF 
+DUNS 

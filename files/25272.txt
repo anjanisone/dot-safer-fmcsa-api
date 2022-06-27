@@ -1,0 +1,9 @@
+LegalName HUHTAMAKI INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 25272
+StateId 25272
+MCMXFF 
+DUNS 

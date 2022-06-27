@@ -1,0 +1,9 @@
+LegalName SUPERIOR CLAY CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 14803
+StateId 14803
+MCMXFF 
+DUNS 

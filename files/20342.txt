@@ -1,0 +1,9 @@
+LegalName EARLE M JORGENSEN CO
+DBAName EMJ - ENCORE METALS - STEEL BAR
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 20342
+StateId 20342
+MCMXFF 
+DUNS 

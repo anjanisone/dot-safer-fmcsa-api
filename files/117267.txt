@@ -1,0 +1,9 @@
+LegalName MAJESTIC DISTRIBUTORS INC
+DBAName MAJESTIC KITCHENS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 117267
+StateId 117267
+MCMXFF 
+DUNS 

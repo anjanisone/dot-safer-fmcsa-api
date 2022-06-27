@@ -1,0 +1,9 @@
+LegalName J C PENNEY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 31454
+StateId 31454
+MCMXFF 
+DUNS 

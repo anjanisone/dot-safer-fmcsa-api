@@ -1,0 +1,9 @@
+LegalName AMERICAN FLORIST SUPPLY INC
+DBAName BAYSTATE FARM DIRECT
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 63847
+StateId 63847
+MCMXFF 
+DUNS 

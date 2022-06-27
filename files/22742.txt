@@ -1,0 +1,9 @@
+LegalName ALLIANCE STEEL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 22742
+StateId 22742
+MCMXFF 
+DUNS 

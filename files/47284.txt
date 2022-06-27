@@ -1,0 +1,9 @@
+LegalName BETTER PLASTICS INCORPORATED
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 47284
+StateId 47284
+MCMXFF 
+DUNS 

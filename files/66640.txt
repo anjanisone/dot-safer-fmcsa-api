@@ -1,0 +1,9 @@
+LegalName HESS PUMICE PRODUCTS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 66640
+StateId 66640
+MCMXFF 
+DUNS 

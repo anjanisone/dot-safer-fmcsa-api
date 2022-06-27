@@ -1,0 +1,9 @@
+LegalName NORTHERN LABS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 114283
+StateId 114283
+MCMXFF 
+DUNS 

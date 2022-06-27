@@ -1,0 +1,9 @@
+LegalName KIRBY W COLE
+DBAName KIRBY COLE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 32045
+StateId 32045
+MCMXFF 
+DUNS 

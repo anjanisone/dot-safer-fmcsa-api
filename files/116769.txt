@@ -1,0 +1,9 @@
+LegalName JENNIE-O-TURKEY STORE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 116769
+StateId 116769
+MCMXFF 
+DUNS 

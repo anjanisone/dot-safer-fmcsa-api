@@ -1,0 +1,9 @@
+LegalName HAMILTON BUILDING SUPPLY COMPANY
+DBAName COLEMAN'S HAMILTON SUPPLY INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 17101
+StateId 17101
+MCMXFF 
+DUNS 

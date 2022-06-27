@@ -1,0 +1,9 @@
+LegalName DER-TEX CORPORATION
+DBAName LYN-FLEX INDUSTRIES
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 18854
+StateId 18854
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName L & L FOODS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 113947
+StateId 113947
+MCMXFF 
+DUNS 

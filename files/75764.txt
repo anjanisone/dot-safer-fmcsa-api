@@ -1,0 +1,9 @@
+LegalName FRUIT BELT ELECTRIC COOPERATIVE
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 75764
+StateId 75764
+MCMXFF 
+DUNS 

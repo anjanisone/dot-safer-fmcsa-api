@@ -1,0 +1,9 @@
+LegalName STURGIS MATERIALS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 99389
+StateId 99389
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName ADVANCED EQUIPMENT COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 120754
+StateId 120754
+MCMXFF 
+DUNS 

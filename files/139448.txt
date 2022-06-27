@@ -1,0 +1,9 @@
+LegalName DEES PAPER CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 139448
+StateId 139448
+MCMXFF 
+DUNS 

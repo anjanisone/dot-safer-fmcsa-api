@@ -1,0 +1,9 @@
+LegalName M J ELECTRIC LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 114501
+StateId 114501
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName GRAND RAPIDS HIDE
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 112045
+StateId 112045
+MCMXFF 
+DUNS 

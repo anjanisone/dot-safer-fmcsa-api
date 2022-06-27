@@ -1,0 +1,9 @@
+LegalName TOM RANDALL DISTRIBUTING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 37130
+StateId 37130
+MCMXFF 
+DUNS 

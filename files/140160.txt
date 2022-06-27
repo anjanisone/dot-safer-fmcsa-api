@@ -1,0 +1,9 @@
+LegalName J H FEDDERS
+DBAName FEDDERS FEED & SEED
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 140160
+StateId 140160
+MCMXFF 
+DUNS 

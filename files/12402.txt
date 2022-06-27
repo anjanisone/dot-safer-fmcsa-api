@@ -1,0 +1,9 @@
+LegalName WESTERN CONSTRUCTION INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 12402
+StateId 12402
+MCMXFF 
+DUNS 

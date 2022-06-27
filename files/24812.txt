@@ -1,0 +1,9 @@
+LegalName UNION CARBIDE CORPORATION
+DBAName UCC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 24812
+StateId 24812
+MCMXFF 
+DUNS 

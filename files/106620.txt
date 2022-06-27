@@ -1,0 +1,9 @@
+LegalName COLUMBIA PAINT LAB INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 106620
+StateId 106620
+MCMXFF 
+DUNS 

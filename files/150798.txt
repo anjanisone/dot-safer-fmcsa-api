@@ -1,0 +1,9 @@
+LegalName DAUGHTRIDGE GAS CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 150798
+StateId 150798
+MCMXFF 
+DUNS 

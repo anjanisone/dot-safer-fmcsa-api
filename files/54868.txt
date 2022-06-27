@@ -1,0 +1,9 @@
+LegalName DELUX MANUFACTURING CO
+DBAName DELUX MFG CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 54868
+StateId 54868
+MCMXFF 
+DUNS 

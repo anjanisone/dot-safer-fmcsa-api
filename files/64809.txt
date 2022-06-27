@@ -1,0 +1,9 @@
+LegalName HARRISON OYSTER CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 64809
+StateId 64809
+MCMXFF 
+DUNS 

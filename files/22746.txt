@@ -1,0 +1,9 @@
+LegalName ALL SOUTH SUBCONTRACTORS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 22746
+StateId 22746
+MCMXFF 
+DUNS 

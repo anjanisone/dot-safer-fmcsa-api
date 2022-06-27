@@ -1,0 +1,9 @@
+LegalName FARRELL DISTRIBUTING CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 106211
+StateId 106211
+MCMXFF 
+DUNS 

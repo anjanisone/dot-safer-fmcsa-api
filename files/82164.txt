@@ -1,0 +1,9 @@
+LegalName TAYLOR IMPLEMENT CO LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 82164
+StateId 82164
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName ROSSO JULIUS WHOLESALE NURSERY CO INC
+DBAName ROSSO GARDENS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 28029
+StateId 28029
+MCMXFF 
+DUNS 

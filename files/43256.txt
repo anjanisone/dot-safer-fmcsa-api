@@ -1,0 +1,9 @@
+LegalName LOCKWOODS ELECTRIC MOTOR SERVICE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 43256
+StateId 43256
+MCMXFF 
+DUNS 

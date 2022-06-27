@@ -1,0 +1,9 @@
+LegalName OZ ARC GAS EQUIPMENT & SUPPLY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 77640
+StateId 77640
+MCMXFF 
+DUNS 

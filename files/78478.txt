@@ -1,0 +1,9 @@
+LegalName LIBERTY FEED MILLS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 78478
+StateId 78478
+MCMXFF 
+DUNS 

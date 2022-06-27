@@ -1,0 +1,9 @@
+LegalName LA PREFERIDA INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 127543
+StateId 127543
+MCMXFF 
+DUNS 

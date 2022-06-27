@@ -1,0 +1,9 @@
+LegalName AUTOMATIC FEED CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 71716
+StateId 71716
+MCMXFF 
+DUNS 

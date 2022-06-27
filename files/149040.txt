@@ -1,0 +1,9 @@
+LegalName KINSLOW STANDARD SERVICE
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 149040
+StateId 149040
+MCMXFF 
+DUNS 

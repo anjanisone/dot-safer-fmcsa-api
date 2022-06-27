@@ -1,0 +1,9 @@
+LegalName JOHN B HULL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 42531
+StateId 42531
+MCMXFF 
+DUNS 

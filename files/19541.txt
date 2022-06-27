@@ -1,0 +1,9 @@
+LegalName SPECIAL METALS CORPORATION
+DBAName SPECIAL METALS A PCC COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 19541
+StateId 19541
+MCMXFF 
+DUNS 

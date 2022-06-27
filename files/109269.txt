@@ -1,0 +1,9 @@
+LegalName DIAMOND K INCORPORATED
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 109269
+StateId 109269
+MCMXFF 
+DUNS 

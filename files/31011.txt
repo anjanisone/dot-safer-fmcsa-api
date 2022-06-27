@@ -1,0 +1,9 @@
+LegalName NEW JERSEY GALVANIZING & TINNING WORKS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 31011
+StateId 31011
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName KENT NOVELTY COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 115711
+StateId 115711
+MCMXFF 
+DUNS 

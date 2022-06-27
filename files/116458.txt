@@ -1,0 +1,9 @@
+LegalName SCHOTT DISTRIBUTING COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 116458
+StateId 116458
+MCMXFF 
+DUNS 

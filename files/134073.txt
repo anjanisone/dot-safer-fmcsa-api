@@ -1,0 +1,9 @@
+LegalName COOSA STEEL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 134073
+StateId 134073
+MCMXFF 
+DUNS 

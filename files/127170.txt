@@ -1,0 +1,9 @@
+LegalName SUPERPAC INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 127170
+StateId 127170
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName OREGON TRACTOR & EQUIPMENT CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 10377
+StateId 10377
+MCMXFF 
+DUNS 

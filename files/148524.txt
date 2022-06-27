@@ -1,0 +1,9 @@
+LegalName ZADCO COMPANY
+DBAName ZIPPO MANUFACTURING COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 148524
+StateId 148524
+MCMXFF 
+DUNS 

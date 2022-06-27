@@ -1,0 +1,9 @@
+LegalName MASSEY PARTNERS LLC
+DBAName RIVERBEND RANCH
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 116860
+StateId 116860
+MCMXFF 
+DUNS 

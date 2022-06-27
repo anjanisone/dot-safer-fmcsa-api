@@ -1,0 +1,9 @@
+LegalName L S LEE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 151049
+StateId 151049
+MCMXFF 
+DUNS 

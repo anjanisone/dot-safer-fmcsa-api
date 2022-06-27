@@ -1,0 +1,9 @@
+LegalName TW METALS LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 33152
+StateId 33152
+MCMXFF 
+DUNS 

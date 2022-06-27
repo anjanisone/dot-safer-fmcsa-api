@@ -1,0 +1,9 @@
+LegalName MARR COMPANIES
+DBAName MARR SCAFFOLDING COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 139802
+StateId 139802
+MCMXFF 
+DUNS 

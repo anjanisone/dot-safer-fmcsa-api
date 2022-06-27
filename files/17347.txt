@@ -1,0 +1,9 @@
+LegalName GLISSADE NEW YORK LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 17347
+StateId 17347
+MCMXFF 
+DUNS 

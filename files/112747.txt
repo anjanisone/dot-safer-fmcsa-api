@@ -1,0 +1,9 @@
+LegalName SUPERIOR MACHINE COMPANY OF SC INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 112747
+StateId 112747
+MCMXFF 
+DUNS 

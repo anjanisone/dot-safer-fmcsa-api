@@ -1,0 +1,9 @@
+LegalName EMERY ENTERPRISES INC
+DBAName EMERY HARDWARE AND RENTAL
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 140944
+StateId 140944
+MCMXFF 
+DUNS 

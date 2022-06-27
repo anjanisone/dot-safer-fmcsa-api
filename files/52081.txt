@@ -1,0 +1,9 @@
+LegalName WYOMING MACHINERY COMPANY
+DBAName DBA DSS DBA WYOMING RENTS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 52081
+StateId 52081
+MCMXFF 
+DUNS 

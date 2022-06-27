@@ -1,0 +1,9 @@
+LegalName HIGHWAY CULVERT CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 25213
+StateId 25213
+MCMXFF 
+DUNS 

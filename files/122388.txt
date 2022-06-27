@@ -1,0 +1,9 @@
+LegalName C J HUGHES CONSTRUCTION COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 122388
+StateId 122388
+MCMXFF 
+DUNS 

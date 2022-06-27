@@ -1,0 +1,9 @@
+LegalName JOHN KOSZELA & SON INC
+DBAName KOSZELA LUMBER
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 25413
+StateId 25413
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName MULLINAX INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 101135
+StateId 101135
+MCMXFF 
+DUNS 

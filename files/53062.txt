@@ -1,0 +1,9 @@
+LegalName FOLEY EQUIPMENT COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 53062
+StateId 53062
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName M F BARCELLOS INC
+DBAName AFFORDABLE PROPANE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 29952
+StateId 29952
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName PORTSMOUTH BUILDING SUPPLY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 51951
+StateId 51951
+MCMXFF 
+DUNS 

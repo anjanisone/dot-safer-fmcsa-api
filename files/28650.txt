@@ -1,0 +1,9 @@
+LegalName INLAND WELDING SUPPLY INC
+DBAName A-L COMPRESSED GASES OF SPOKANE INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 28650
+StateId 28650
+MCMXFF 
+DUNS 

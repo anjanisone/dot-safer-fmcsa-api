@@ -1,0 +1,9 @@
+LegalName ULTRA PLATING CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 145725
+StateId 145725
+MCMXFF 
+DUNS 

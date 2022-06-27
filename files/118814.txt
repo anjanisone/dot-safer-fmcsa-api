@@ -1,0 +1,9 @@
+LegalName SOUTHERN STATES CUMBERLAND COOPERATIVE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 118814
+StateId 118814
+MCMXFF 
+DUNS 

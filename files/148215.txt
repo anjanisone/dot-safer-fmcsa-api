@@ -1,0 +1,9 @@
+LegalName HALIFAX BUILDERS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 148215
+StateId 148215
+MCMXFF 
+DUNS 

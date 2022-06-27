@@ -1,0 +1,9 @@
+LegalName SCHLESSMAN SEED CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 98422
+StateId 98422
+MCMXFF 
+DUNS 

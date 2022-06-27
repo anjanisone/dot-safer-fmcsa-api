@@ -1,0 +1,9 @@
+LegalName SUZANNA'S KITCHEN INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 111206
+StateId 111206
+MCMXFF 
+DUNS 

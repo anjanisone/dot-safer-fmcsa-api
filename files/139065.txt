@@ -1,0 +1,9 @@
+LegalName HATCHIK SUPPLY COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 139065
+StateId 139065
+MCMXFF 
+DUNS 

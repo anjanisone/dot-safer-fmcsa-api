@@ -1,0 +1,9 @@
+LegalName W S BADCOCK CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 47315
+StateId 47315
+MCMXFF 
+DUNS 

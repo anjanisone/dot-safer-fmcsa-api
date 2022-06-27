@@ -1,0 +1,9 @@
+LegalName HARRY G BARR CO
+DBAName WEATHERBARR
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 82976
+StateId 82976
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName DNOW LP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 27630
+StateId 27630
+MCMXFF 
+DUNS 

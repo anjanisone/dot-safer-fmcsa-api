@@ -1,0 +1,9 @@
+LegalName PFIZER INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 17389
+StateId 17389
+MCMXFF 
+DUNS 

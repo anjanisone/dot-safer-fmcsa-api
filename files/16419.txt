@@ -1,0 +1,9 @@
+LegalName HIBCO PLASTICS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 16419
+StateId 16419
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName DENNIS OIL CO
+DBAName D O C LUBRICATION SPECIALIST
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 81857
+StateId 81857
+MCMXFF 
+DUNS 

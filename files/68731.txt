@@ -1,0 +1,9 @@
+LegalName UTILITY TRAILER SALES OF CENTRAL CALIFORNIA INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 68731
+StateId 68731
+MCMXFF 
+DUNS 

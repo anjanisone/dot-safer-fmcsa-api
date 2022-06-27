@@ -1,0 +1,9 @@
+LegalName KENT NUTRITION GROUP INC
+DBAName BLUE SEAL FEEDS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 18120
+StateId 18120
+MCMXFF 
+DUNS 

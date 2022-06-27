@@ -1,0 +1,9 @@
+LegalName FREDERICK BLOCK CO INC
+DBAName FREDERICK BLOCK BRICK & STONE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 110795
+StateId 110795
+MCMXFF 
+DUNS 

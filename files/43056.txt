@@ -1,0 +1,9 @@
+LegalName RAYTHEON COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 43056
+StateId 43056
+MCMXFF 
+DUNS 

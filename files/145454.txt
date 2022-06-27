@@ -1,0 +1,9 @@
+LegalName DAKOTA EQUIPMENT CORP
+DBAName DITCH WITCH OF NORTH DAKOTA
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 145454
+StateId 145454
+MCMXFF 
+DUNS 

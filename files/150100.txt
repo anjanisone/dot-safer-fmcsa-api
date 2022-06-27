@@ -1,0 +1,9 @@
+LegalName ARMSTRONG LUMBER CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 150100
+StateId 150100
+MCMXFF 
+DUNS 

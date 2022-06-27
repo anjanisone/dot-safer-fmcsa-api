@@ -1,0 +1,9 @@
+LegalName BROWN CHEMICAL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 50716
+StateId 50716
+MCMXFF 
+DUNS 

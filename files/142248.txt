@@ -1,0 +1,9 @@
+LegalName FITCH FUEL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 142248
+StateId 142248
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName BREWERS DISTRIBUTING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 71076
+StateId 71076
+MCMXFF 
+DUNS 

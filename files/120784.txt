@@ -1,0 +1,9 @@
+LegalName A W INDUSTRIES INC
+DBAName SERTA MATTRESS A DIVISION OF AW INDUSTRIES INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 120784
+StateId 120784
+MCMXFF 
+DUNS 

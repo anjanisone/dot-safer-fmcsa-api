@@ -1,0 +1,9 @@
+LegalName COLUMBIA METAL PRODUCTS CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 90201
+StateId 90201
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName LAFFERTY & CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 10737
+StateId 10737
+MCMXFF 
+DUNS 

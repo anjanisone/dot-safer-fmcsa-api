@@ -1,0 +1,9 @@
+LegalName BISHOP INTERNATIONAL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 59903
+StateId 59903
+MCMXFF 
+DUNS 

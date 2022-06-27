@@ -1,0 +1,9 @@
+LegalName WOODFIELD FISH & OYSTER COMPANY INC
+DBAName WOODFIELD ICE HOUSE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 65067
+StateId 65067
+MCMXFF 
+DUNS 

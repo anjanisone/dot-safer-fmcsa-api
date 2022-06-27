@@ -1,0 +1,9 @@
+LegalName BELLETETE'S INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 57707
+StateId 57707
+MCMXFF 
+DUNS 

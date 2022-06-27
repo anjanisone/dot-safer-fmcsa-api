@@ -1,0 +1,9 @@
+LegalName SOUTHERN TANK & MANUFACTURING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 91996
+StateId 91996
+MCMXFF 
+DUNS 

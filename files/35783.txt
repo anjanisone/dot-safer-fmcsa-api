@@ -1,0 +1,9 @@
+LegalName BAY OIL & CHEMICAL CORP
+DBAName BAY OIL COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 35783
+StateId 35783
+MCMXFF 
+DUNS 

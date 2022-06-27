@@ -1,0 +1,9 @@
+LegalName PACIFIC PACKAGING PRODUCTS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 49207
+StateId 49207
+MCMXFF 
+DUNS 

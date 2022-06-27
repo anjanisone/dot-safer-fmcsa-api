@@ -1,0 +1,9 @@
+LegalName SCHNITZER STEEL INDUSTRIES INC
+DBAName SCHNITZER STEEL PRODUCTS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 59696
+StateId 59696
+MCMXFF 
+DUNS 

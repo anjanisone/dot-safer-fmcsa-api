@@ -1,0 +1,9 @@
+LegalName BRANDT TRUCKING
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 124639
+StateId 124639
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName MIELKE ELECTRIC WORKS
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 107823
+StateId 107823
+MCMXFF 
+DUNS 

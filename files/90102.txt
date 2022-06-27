@@ -1,0 +1,9 @@
+LegalName BLISH-MIZE COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 90102
+StateId 90102
+MCMXFF 
+DUNS 

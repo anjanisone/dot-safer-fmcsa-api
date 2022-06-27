@@ -1,0 +1,9 @@
+LegalName BRADFORD CITY BEERS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 155772
+StateId 155772
+MCMXFF 
+DUNS 

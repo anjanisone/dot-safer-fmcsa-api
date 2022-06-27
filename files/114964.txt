@@ -1,0 +1,9 @@
+LegalName PAR-KUT INTERNATIONAL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 114964
+StateId 114964
+MCMXFF 
+DUNS 

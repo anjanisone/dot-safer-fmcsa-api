@@ -1,0 +1,9 @@
+LegalName THE CONKLIN LIMESTONE COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 107100
+StateId 107100
+MCMXFF 
+DUNS 

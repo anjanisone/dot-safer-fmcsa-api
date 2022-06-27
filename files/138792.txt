@@ -1,0 +1,9 @@
+LegalName GLENN MITCHELL
+DBAName MITCHS MOBILE HOMES
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 138792
+StateId 138792
+MCMXFF 
+DUNS 

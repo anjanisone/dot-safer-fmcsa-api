@@ -1,0 +1,9 @@
+LegalName HILLEMEIER BROS INC
+DBAName 
+PhysicalAddress 110 N FIRST ST OLIVIA, MN   56277
+Phone 
+MailingAddress BOX 144 OLIVIA, MN   56277
+DOTNumber 116556
+StateId 116556
+MCMXFF 
+DUNS 

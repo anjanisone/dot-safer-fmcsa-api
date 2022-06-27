@@ -1,0 +1,9 @@
+LegalName MT HAMILL ELEVATOR & LUMBER INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 55671
+StateId 55671
+MCMXFF 
+DUNS 

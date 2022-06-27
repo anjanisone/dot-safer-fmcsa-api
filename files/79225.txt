@@ -1,0 +1,9 @@
+LegalName INDIANA STEEL FABRICATING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 79225
+StateId 79225
+MCMXFF 
+DUNS 

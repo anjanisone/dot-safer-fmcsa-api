@@ -1,0 +1,9 @@
+LegalName MILES BEVERAGE INC
+DBAName PEPSI OF STAR VALLEY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 110245
+StateId 110245
+MCMXFF 
+DUNS 

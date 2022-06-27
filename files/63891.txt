@@ -1,0 +1,9 @@
+LegalName INDUSOL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 63891
+StateId 63891
+MCMXFF 
+DUNS 

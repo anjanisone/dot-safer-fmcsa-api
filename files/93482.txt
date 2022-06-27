@@ -1,0 +1,9 @@
+LegalName FRANKFORT BOTTLE GAS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93482
+StateId 93482
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName CENTRAL BAG COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 87185
+StateId 87185
+MCMXFF 
+DUNS 

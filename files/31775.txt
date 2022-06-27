@@ -1,0 +1,9 @@
+LegalName CHURCH BRICK COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 31775
+StateId 31775
+MCMXFF 
+DUNS 

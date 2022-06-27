@@ -1,0 +1,9 @@
+LegalName HUBER SUPPLY COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 107264
+StateId 107264
+MCMXFF 
+DUNS 

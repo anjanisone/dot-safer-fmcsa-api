@@ -1,0 +1,9 @@
+LegalName SOLMAN DISTRIBUTORS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 55117
+StateId 55117
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName HOLT & BUGBEE COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 49513
+StateId 49513
+MCMXFF 
+DUNS 

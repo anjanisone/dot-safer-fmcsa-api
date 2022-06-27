@@ -1,0 +1,9 @@
+LegalName BRADFORD SUPPLY COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 124117
+StateId 124117
+MCMXFF 
+DUNS 

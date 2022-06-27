@@ -1,0 +1,9 @@
+LegalName VALLEY EQUIPMENT CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 77329
+StateId 77329
+MCMXFF 
+DUNS 

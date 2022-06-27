@@ -1,0 +1,9 @@
+LegalName GW BERKHEIMER CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 98866
+StateId 98866
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName MARSHALL C ANDERSON
+DBAName ANDERSON TRUCKING
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 151525
+StateId 151525
+MCMXFF 
+DUNS 

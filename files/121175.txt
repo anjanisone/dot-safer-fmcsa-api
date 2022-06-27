@@ -1,0 +1,9 @@
+LegalName ELLINGTON ENERGY SERVICES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 121175
+StateId 121175
+MCMXFF 
+DUNS 

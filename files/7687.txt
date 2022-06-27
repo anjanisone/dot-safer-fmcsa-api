@@ -1,0 +1,9 @@
+LegalName SOUTHERN STATES SMYRNA CLAYTON COOP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7687
+StateId 7687
+MCMXFF 
+DUNS 

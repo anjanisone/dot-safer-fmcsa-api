@@ -1,0 +1,9 @@
+LegalName MCCLUNG LOGAN EQUIPMENT COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 65181
+StateId 65181
+MCMXFF 
+DUNS 

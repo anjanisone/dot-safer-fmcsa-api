@@ -1,0 +1,9 @@
+LegalName WUHL SHAFMAN LIEBERMAN CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 26085
+StateId 26085
+MCMXFF 
+DUNS 

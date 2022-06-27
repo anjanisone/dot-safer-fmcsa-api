@@ -1,0 +1,9 @@
+LegalName WILLOW FOODS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 46476
+StateId 46476
+MCMXFF 
+DUNS 

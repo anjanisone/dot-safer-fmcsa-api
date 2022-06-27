@@ -1,0 +1,9 @@
+LegalName CAMPBELL SUPPLY COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 44274
+StateId 44274
+MCMXFF 
+DUNS 

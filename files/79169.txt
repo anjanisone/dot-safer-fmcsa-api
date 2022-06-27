@@ -1,0 +1,9 @@
+LegalName SOLAR HARDWARE CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 79169
+StateId 79169
+MCMXFF 
+DUNS 

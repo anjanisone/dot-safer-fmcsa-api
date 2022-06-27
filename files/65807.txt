@@ -1,0 +1,9 @@
+LegalName JACOBSEN HYBRID CORN CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 65807
+StateId 65807
+MCMXFF 
+DUNS 

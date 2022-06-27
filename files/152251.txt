@@ -1,0 +1,9 @@
+LegalName TANKERSLEY CONCRETE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 152251
+StateId 152251
+MCMXFF 
+DUNS 

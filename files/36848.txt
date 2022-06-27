@@ -1,0 +1,9 @@
+LegalName JOE W MORGAN INC
+DBAName HENRY FLIGELTAUB COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 36848
+StateId 36848
+MCMXFF 
+DUNS 

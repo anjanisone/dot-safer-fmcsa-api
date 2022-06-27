@@ -1,0 +1,9 @@
+LegalName VERMEER SALES AND SERVICE OF COLORADO INC
+DBAName VERMEER COLORADO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 133483
+StateId 133483
+MCMXFF 
+DUNS 

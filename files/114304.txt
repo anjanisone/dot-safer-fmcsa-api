@@ -1,0 +1,9 @@
+LegalName WILLIAM NOLAN LIVESTOCK INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 114304
+StateId 114304
+MCMXFF 
+DUNS 

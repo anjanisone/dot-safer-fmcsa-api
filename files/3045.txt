@@ -1,0 +1,9 @@
+LegalName MID AM HOLDINGS LLC
+DBAName MID AM BUILDING SUPPLY INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 3045
+StateId 3045
+MCMXFF 
+DUNS 

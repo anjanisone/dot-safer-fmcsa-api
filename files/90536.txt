@@ -1,0 +1,9 @@
+LegalName BAUMANN PAPER CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 90536
+StateId 90536
+MCMXFF 
+DUNS 

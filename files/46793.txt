@@ -1,0 +1,9 @@
+LegalName YELLOW RIVER SUPPLY CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 46793
+StateId 46793
+MCMXFF 
+DUNS 

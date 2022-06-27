@@ -1,0 +1,9 @@
+LegalName ROSSVILLE TRUCK AND TRACTOR CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 131438
+StateId 131438
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName HIGH FALLS BREWING CO LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 55564
+StateId 55564
+MCMXFF 
+DUNS 

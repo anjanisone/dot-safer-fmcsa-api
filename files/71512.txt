@@ -1,0 +1,9 @@
+LegalName DADANT & SONS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 71512
+StateId 71512
+MCMXFF 
+DUNS 

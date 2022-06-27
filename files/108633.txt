@@ -1,0 +1,9 @@
+LegalName M G NEWELL CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 108633
+StateId 108633
+MCMXFF 
+DUNS 

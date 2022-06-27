@@ -1,0 +1,9 @@
+LegalName TENNESSEE WINE AND SPIRITS CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 26984
+StateId 26984
+MCMXFF 
+DUNS 

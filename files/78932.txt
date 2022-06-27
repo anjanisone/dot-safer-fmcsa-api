@@ -1,0 +1,9 @@
+LegalName MITCHELL METAL PRODUCTS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 78932
+StateId 78932
+MCMXFF 
+DUNS 

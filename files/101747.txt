@@ -1,0 +1,9 @@
+LegalName BLUE FLAME GAS CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 101747
+StateId 101747
+MCMXFF 
+DUNS 

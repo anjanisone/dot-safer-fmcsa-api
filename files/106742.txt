@@ -1,0 +1,9 @@
+LegalName JAMES CORRADO INC
+DBAName CORRADOS FAMILY AFFAIR
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 106742
+StateId 106742
+MCMXFF 
+DUNS 

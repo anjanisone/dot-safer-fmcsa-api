@@ -1,0 +1,9 @@
+LegalName LANCASTER FARMS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 119017
+StateId 119017
+MCMXFF 
+DUNS 

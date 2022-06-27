@@ -1,0 +1,9 @@
+LegalName JIM KRUEGER FARMS LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 116718
+StateId 116718
+MCMXFF 
+DUNS 

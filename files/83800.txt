@@ -1,0 +1,9 @@
+LegalName AHLGRIMM EXPLOSIVES COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 83800
+StateId 83800
+MCMXFF 
+DUNS 

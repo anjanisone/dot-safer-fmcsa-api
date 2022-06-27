@@ -1,0 +1,9 @@
+LegalName NORTHLAND PRODUCTS CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 1652
+StateId 1652
+MCMXFF 
+DUNS 

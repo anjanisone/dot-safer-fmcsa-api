@@ -1,0 +1,9 @@
+LegalName M-C INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 72784
+StateId 72784
+MCMXFF 
+DUNS 

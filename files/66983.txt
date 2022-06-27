@@ -1,0 +1,9 @@
+LegalName AVISTA CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 66983
+StateId 66983
+MCMXFF 
+DUNS 

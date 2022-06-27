@@ -1,0 +1,9 @@
+LegalName FIGI'S COMPANIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 100242
+StateId 100242
+MCMXFF 
+DUNS 

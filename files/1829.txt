@@ -1,0 +1,9 @@
+LegalName SUKUP MANUFACTURING COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 1829
+StateId 1829
+MCMXFF 
+DUNS 

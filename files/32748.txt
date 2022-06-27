@@ -1,0 +1,9 @@
+LegalName N B HANDY CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 32748
+StateId 32748
+MCMXFF 
+DUNS 

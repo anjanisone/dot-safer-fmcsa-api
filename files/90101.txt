@@ -1,0 +1,9 @@
+LegalName THE BLAIR MILLING & ELEVATOR COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 90101
+StateId 90101
+MCMXFF 
+DUNS 

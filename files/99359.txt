@@ -1,0 +1,9 @@
+LegalName JOE SMITH COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 99359
+StateId 99359
+MCMXFF 
+DUNS 

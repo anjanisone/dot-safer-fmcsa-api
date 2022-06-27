@@ -1,0 +1,9 @@
+LegalName INDUSTRIAL CHEMICALS CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 2268
+StateId 2268
+MCMXFF 
+DUNS 

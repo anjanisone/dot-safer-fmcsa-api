@@ -1,0 +1,9 @@
+LegalName MILLER EQUIPMENT INC
+DBAName MILLER EQUIPMENT
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 27806
+StateId 27806
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName PRIDE SOLVENTS & CHEMICAL CO INC
+DBAName PRIDE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 31559
+StateId 31559
+MCMXFF 
+DUNS 

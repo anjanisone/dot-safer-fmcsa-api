@@ -1,0 +1,9 @@
+LegalName WELDERS SUPPLY COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 46977
+StateId 46977
+MCMXFF 
+DUNS 

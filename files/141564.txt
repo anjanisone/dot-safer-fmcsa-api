@@ -1,0 +1,9 @@
+LegalName A & L BUILDING MATERIALS & HARDWARE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 141564
+StateId 141564
+MCMXFF 
+DUNS 

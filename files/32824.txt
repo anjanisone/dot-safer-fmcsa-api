@@ -1,0 +1,9 @@
+LegalName HYK CONSTRUCTION CO INC
+DBAName RAHNS CONSTRUCTION MATERIAL CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 32824
+StateId 32824
+MCMXFF 
+DUNS 

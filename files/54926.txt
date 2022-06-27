@@ -1,0 +1,9 @@
+LegalName PAUL FARIAS
+DBAName 
+PhysicalAddress 1404  W 4TH AVE GIBBON, NE   68840
+Phone (308) 468-5348
+MailingAddress P O BOX 673 GIBBON, NE   68840-0673
+DOTNumber 54926
+StateId 54926
+MCMXFF 
+DUNS 

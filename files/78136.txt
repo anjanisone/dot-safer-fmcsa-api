@@ -1,0 +1,9 @@
+LegalName EBERHARD CREAMERY INC
+DBAName EBERHARDS DAIRY PRODUCTS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 78136
+StateId 78136
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName ASHEVILLE BIT & STEEL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 155428
+StateId 155428
+MCMXFF 
+DUNS 

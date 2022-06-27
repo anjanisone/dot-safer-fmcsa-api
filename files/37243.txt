@@ -1,0 +1,9 @@
+LegalName SPADA PROPERTIES INC
+DBAName UNITED SALAD CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 37243
+StateId 37243
+MCMXFF 
+DUNS 

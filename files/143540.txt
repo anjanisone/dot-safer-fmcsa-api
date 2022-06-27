@@ -1,0 +1,9 @@
+LegalName DANIELS TIRE SERVICE
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 143540
+StateId 143540
+MCMXFF 
+DUNS 

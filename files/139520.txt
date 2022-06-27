@@ -1,0 +1,9 @@
+LegalName NABER LAND AND CATTLE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 139520
+StateId 139520
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName BROX INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 31281
+StateId 31281
+MCMXFF 
+DUNS 

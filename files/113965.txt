@@ -1,0 +1,9 @@
+LegalName QUINN DISTRIBUTORS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 113965
+StateId 113965
+MCMXFF 
+DUNS 

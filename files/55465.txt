@@ -1,0 +1,9 @@
+LegalName HALLAGAN MANUFACTURING COMPANY INC
+DBAName HALLAGAN FURNITURE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 55465
+StateId 55465
+MCMXFF 
+DUNS 

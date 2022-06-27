@@ -1,0 +1,9 @@
+LegalName UNITED WRECKERS & EXCAVATORS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 46122
+StateId 46122
+MCMXFF 
+DUNS 

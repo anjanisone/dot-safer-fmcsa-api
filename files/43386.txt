@@ -1,0 +1,9 @@
+LegalName BOB VIERSMA & SONS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 43386
+StateId 43386
+MCMXFF 
+DUNS 

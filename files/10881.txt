@@ -1,0 +1,9 @@
+LegalName MOTOR TRUCK EQUIPMENT CO
+DBAName KENWORTH OF PENNSYLVANIA
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 10881
+StateId 10881
+MCMXFF 
+DUNS 

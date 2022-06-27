@@ -1,0 +1,9 @@
+LegalName HENRY H OTTENS MANUFACTURING
+DBAName OTTENS FLAVORS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 153901
+StateId 153901
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName RESOLUTE NAVCOR LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 150708
+StateId 150708
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName VIRCO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 57448
+StateId 57448
+MCMXFF 
+DUNS 

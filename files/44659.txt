@@ -1,0 +1,9 @@
+LegalName OLYMPIC STEEL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 44659
+StateId 44659
+MCMXFF 
+DUNS 

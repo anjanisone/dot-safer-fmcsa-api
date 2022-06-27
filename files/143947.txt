@@ -1,0 +1,9 @@
+LegalName GNC MANUFACTURING LLC
+DBAName GREAT NORTHERN CABINETRY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 143947
+StateId 143947
+MCMXFF 
+DUNS 

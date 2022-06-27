@@ -1,0 +1,9 @@
+LegalName HIPSHMAN AND SONS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 13949
+StateId 13949
+MCMXFF 
+DUNS 

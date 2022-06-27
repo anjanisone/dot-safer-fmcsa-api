@@ -1,0 +1,9 @@
+LegalName BELLEVILLE RECYCLING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 22021
+StateId 22021
+MCMXFF 
+DUNS 

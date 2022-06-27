@@ -1,0 +1,9 @@
+LegalName BASHAS' LEASECO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 53918
+StateId 53918
+MCMXFF 
+DUNS 

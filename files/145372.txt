@@ -1,0 +1,9 @@
+LegalName THOMPSON TRUCKING
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 145372
+StateId 145372
+MCMXFF 
+DUNS 

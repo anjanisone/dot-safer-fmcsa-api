@@ -1,0 +1,9 @@
+LegalName M & R GRANITE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 84066
+StateId 84066
+MCMXFF 
+DUNS 

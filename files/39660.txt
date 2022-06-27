@@ -1,0 +1,9 @@
+LegalName MENNELLA'S POULTRY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 39660
+StateId 39660
+MCMXFF 
+DUNS 

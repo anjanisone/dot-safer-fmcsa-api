@@ -1,0 +1,9 @@
+LegalName LIGHT METALS COLORING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 22431
+StateId 22431
+MCMXFF 
+DUNS 

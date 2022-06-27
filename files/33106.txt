@@ -1,0 +1,9 @@
+LegalName PEL-STATE BULK PLANT LLC
+DBAName PEL-STATE SERVICES
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 33106
+StateId 33106
+MCMXFF 
+DUNS 

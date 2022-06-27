@@ -1,0 +1,9 @@
+LegalName CULPEPPER LUMBER COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 61004
+StateId 61004
+MCMXFF 
+DUNS 

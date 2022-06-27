@@ -1,0 +1,9 @@
+LegalName LA MOINE WILLIAM ANDERSON
+DBAName ANDERSON EQUIPMENT
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 130863
+StateId 130863
+MCMXFF 
+DUNS 

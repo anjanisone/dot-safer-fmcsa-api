@@ -1,0 +1,9 @@
+LegalName THE MARSHALL COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 94039
+StateId 94039
+MCMXFF 
+DUNS 

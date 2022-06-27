@@ -1,0 +1,9 @@
+LegalName JULIANO'S AUTO PARTS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 40485
+StateId 40485
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName MARSHFIELD BOOK & STATIONERY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 48692
+StateId 48692
+MCMXFF 
+DUNS 

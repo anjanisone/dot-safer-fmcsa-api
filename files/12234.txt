@@ -1,0 +1,9 @@
+LegalName PERRYTON EQUITY EXCHANGE
+DBAName EQUITY EXCHANGE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 12234
+StateId 12234
+MCMXFF 
+DUNS 

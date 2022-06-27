@@ -1,0 +1,9 @@
+LegalName TENN-KY AUTOMATIC SPRINKLER CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 26959
+StateId 26959
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName VANKAMPEN & SONS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 21447
+StateId 21447
+MCMXFF 
+DUNS 

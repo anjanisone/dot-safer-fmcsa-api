@@ -1,0 +1,9 @@
+LegalName SOUTHERN TIER HIDE & TALLOW INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 19496
+StateId 19496
+MCMXFF 
+DUNS 

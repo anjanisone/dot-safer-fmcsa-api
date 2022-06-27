@@ -1,0 +1,9 @@
+LegalName MOUNTAIN STATES MACHINERY & SUPPLY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 123084
+StateId 123084
+MCMXFF 
+DUNS 

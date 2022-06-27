@@ -1,0 +1,9 @@
+LegalName A & B SUPPLY CO INC
+DBAName JOHNSTONE SUPPLY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 145502
+StateId 145502
+MCMXFF 
+DUNS 

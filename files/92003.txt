@@ -1,0 +1,9 @@
+LegalName SPENCER FARM SERVICE
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 92003
+StateId 92003
+MCMXFF 
+DUNS 

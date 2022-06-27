@@ -1,0 +1,9 @@
+LegalName SOUTHSIDE LUMBER COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 52705
+StateId 52705
+MCMXFF 
+DUNS 

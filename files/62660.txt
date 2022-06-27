@@ -1,0 +1,9 @@
+LegalName MAX S PALMER INC
+DBAName 
+PhysicalAddress 1496 N 7TH E SUGAR CITY, ID   83448
+Phone (208) 356-3985
+MailingAddress 1496 N 7TH E SUGAR CITY, ID   83448
+DOTNumber 62660
+StateId 62660
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName THE NORTH CAROLINA GRANITE CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 47536
+StateId 47536
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName SEATTLE POTTERY SUPPLY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 155553
+StateId 155553
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName AMERICAN INDUSTRIAL CONTRACTING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 285
+StateId 285
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName ALEXANDER S MILLER INC
+DBAName MILLER OIL CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 145644
+StateId 145644
+MCMXFF 
+DUNS 

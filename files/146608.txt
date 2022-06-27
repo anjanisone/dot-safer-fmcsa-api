@@ -1,0 +1,9 @@
+LegalName JACK MORRIS OIL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 146608
+StateId 146608
+MCMXFF 
+DUNS 

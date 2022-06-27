@@ -1,0 +1,9 @@
+LegalName ALLIED GAS & CHEMICAL COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 2503
+StateId 2503
+MCMXFF 
+DUNS 

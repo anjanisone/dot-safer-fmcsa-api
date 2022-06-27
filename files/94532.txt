@@ -1,0 +1,9 @@
+LegalName CORNING INCORPORATED
+DBAName CORNING INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 94532
+StateId 94532
+MCMXFF 
+DUNS 

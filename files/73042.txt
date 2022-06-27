@@ -1,0 +1,9 @@
+LegalName SALINA PLANING MILL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 73042
+StateId 73042
+MCMXFF 
+DUNS 

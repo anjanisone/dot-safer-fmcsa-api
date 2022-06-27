@@ -1,0 +1,9 @@
+LegalName KOHLFELD DISTRIBUTING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 77522
+StateId 77522
+MCMXFF 
+DUNS 

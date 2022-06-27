@@ -1,0 +1,9 @@
+LegalName TONY'S FEED & SEED INC
+DBAName 
+PhysicalAddress 119 S MAIN MUENSTER, TX   76252
+Phone (940) 759-2241
+MailingAddress PO BOX 693 MUENSTER, TX   76252
+DOTNumber 22820
+StateId 22820
+MCMXFF 
+DUNS 

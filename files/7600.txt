@@ -1,0 +1,9 @@
+LegalName PAPEN FARMS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7600
+StateId 7600
+MCMXFF 
+DUNS 

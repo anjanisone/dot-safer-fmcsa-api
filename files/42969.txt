@@ -1,0 +1,9 @@
+LegalName LYNN LADDER & SCAFFOLDING CO INC
+DBAName BOSTON LADDER & SCAFFOLDING CO INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 42969
+StateId 42969
+MCMXFF 
+DUNS 

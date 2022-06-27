@@ -1,0 +1,9 @@
+LegalName WERNKE WELDING &STEEL ERECTOR INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 134297
+StateId 134297
+MCMXFF 
+DUNS 

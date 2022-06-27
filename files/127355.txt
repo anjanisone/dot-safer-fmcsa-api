@@ -1,0 +1,9 @@
+LegalName THE G W VAN KEPPEL COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 127355
+StateId 127355
+MCMXFF 
+DUNS 

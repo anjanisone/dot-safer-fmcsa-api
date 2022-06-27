@@ -1,0 +1,9 @@
+LegalName A L GRIFFIN INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 57028
+StateId 57028
+MCMXFF 
+DUNS 

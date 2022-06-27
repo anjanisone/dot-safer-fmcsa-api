@@ -1,0 +1,9 @@
+LegalName WEST TEXAS WATER WELL SERVICE
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 66732
+StateId 66732
+MCMXFF 
+DUNS 

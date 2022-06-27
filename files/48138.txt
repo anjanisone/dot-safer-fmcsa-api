@@ -1,0 +1,9 @@
+LegalName RENK SEED COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 48138
+StateId 48138
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName PORTION MEAT ASSOCIATES
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 16986
+StateId 16986
+MCMXFF 
+DUNS 

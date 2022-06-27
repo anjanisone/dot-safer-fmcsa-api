@@ -1,0 +1,9 @@
+LegalName SMITH OIL COMPANY
+DBAName CLOVIS OIL CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 102752
+StateId 102752
+MCMXFF 
+DUNS 

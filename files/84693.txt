@@ -1,0 +1,9 @@
+LegalName ALMAG PLATING CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 84693
+StateId 84693
+MCMXFF 
+DUNS 

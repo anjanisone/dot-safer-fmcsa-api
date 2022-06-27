@@ -1,0 +1,9 @@
+LegalName H E HUNEWILL CONSTRUCTION CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 9245
+StateId 9245
+MCMXFF 
+DUNS 

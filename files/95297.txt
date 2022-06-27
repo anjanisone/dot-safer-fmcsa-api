@@ -1,0 +1,9 @@
+LegalName AMERICAN FENCE CORP
+DBAName AMERICAN FENCE COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 95297
+StateId 95297
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName NORTHERN BOTTLING COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 35327
+StateId 35327
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName COLLINS DISTRIBUTING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 144682
+StateId 144682
+MCMXFF 
+DUNS 

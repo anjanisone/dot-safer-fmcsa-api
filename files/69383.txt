@@ -1,0 +1,9 @@
+LegalName TECT AEROSPACE WELLINGTON INC
+DBAName TECT AEROSPACE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 69383
+StateId 69383
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName VIRGINIA BEEF CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 36818
+StateId 36818
+MCMXFF 
+DUNS 

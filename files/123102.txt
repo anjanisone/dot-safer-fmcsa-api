@@ -1,0 +1,9 @@
+LegalName J E GREEN COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 123102
+StateId 123102
+MCMXFF 
+DUNS 

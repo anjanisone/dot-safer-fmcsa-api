@@ -1,0 +1,9 @@
+LegalName SEIBEL MODERN MFG & WELDING CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 58120
+StateId 58120
+MCMXFF 
+DUNS 

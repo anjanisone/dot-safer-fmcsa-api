@@ -1,0 +1,9 @@
+LegalName UP PROPANE LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 114441
+StateId 114441
+MCMXFF 
+DUNS 

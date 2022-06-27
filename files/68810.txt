@@ -1,0 +1,9 @@
+LegalName INTERSTATE BATTERIES OF LAS VEGAS
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 68810
+StateId 68810
+MCMXFF 
+DUNS 

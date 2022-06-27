@@ -1,0 +1,9 @@
+LegalName COWETA GREENHOUSES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 149243
+StateId 149243
+MCMXFF 
+DUNS 

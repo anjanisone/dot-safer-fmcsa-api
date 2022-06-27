@@ -1,0 +1,9 @@
+LegalName GALLOWAY TRUCKING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7301
+StateId 7301
+MCMXFF 
+DUNS 

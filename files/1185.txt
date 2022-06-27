@@ -1,0 +1,9 @@
+LegalName BAYLOFF STAMPED PRODUCTS
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 1185
+StateId 1185
+MCMXFF 
+DUNS 

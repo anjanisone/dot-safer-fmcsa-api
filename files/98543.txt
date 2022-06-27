@@ -1,0 +1,9 @@
+LegalName R V WHITMER THERMOGAS CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 98543
+StateId 98543
+MCMXFF 
+DUNS 

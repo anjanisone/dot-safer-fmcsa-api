@@ -1,0 +1,9 @@
+LegalName DODGE GRAIN CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 55644
+StateId 55644
+MCMXFF 
+DUNS 

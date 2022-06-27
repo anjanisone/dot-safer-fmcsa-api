@@ -1,0 +1,9 @@
+LegalName RUNDE FEED & FARM SUPPLY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 140077
+StateId 140077
+MCMXFF 
+DUNS 

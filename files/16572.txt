@@ -1,0 +1,9 @@
+LegalName STAR GAS PROPANE LP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 16572
+StateId 16572
+MCMXFF 
+DUNS 

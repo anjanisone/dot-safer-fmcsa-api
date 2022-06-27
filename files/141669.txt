@@ -1,0 +1,9 @@
+LegalName M WALLACE & SON INC
+DBAName SCRAP METAL
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 141669
+StateId 141669
+MCMXFF 
+DUNS 

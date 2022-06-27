@@ -1,0 +1,9 @@
+LegalName DAN FERGUSON
+DBAName NORTHWEST SANDBLAST & PAINT LLC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 38506
+StateId 38506
+MCMXFF 
+DUNS 

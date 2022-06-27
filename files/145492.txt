@@ -1,0 +1,9 @@
+LegalName FIREMATIC & SAFETY EQUIPMENT CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 145492
+StateId 145492
+MCMXFF 
+DUNS 

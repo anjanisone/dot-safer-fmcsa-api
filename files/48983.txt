@@ -1,0 +1,9 @@
+LegalName KGP TELECOMMUNICATIONS INC
+DBAName KGP LOGISTICS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 48983
+StateId 48983
+MCMXFF 
+DUNS 

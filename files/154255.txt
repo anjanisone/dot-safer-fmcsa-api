@@ -1,0 +1,9 @@
+LegalName CARRIS REELS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 154255
+StateId 154255
+MCMXFF 
+DUNS 

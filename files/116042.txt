@@ -1,0 +1,9 @@
+LegalName BAIR DISTRIBUTING
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 116042
+StateId 116042
+MCMXFF 
+DUNS 

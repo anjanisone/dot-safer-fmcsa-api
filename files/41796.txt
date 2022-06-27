@@ -1,0 +1,9 @@
+LegalName RICE IRON & METAL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 41796
+StateId 41796
+MCMXFF 
+DUNS 

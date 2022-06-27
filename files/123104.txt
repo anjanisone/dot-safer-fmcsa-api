@@ -1,0 +1,9 @@
+LegalName GREEN FARMERS COOP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 123104
+StateId 123104
+MCMXFF 
+DUNS 

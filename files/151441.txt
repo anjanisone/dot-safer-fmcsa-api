@@ -1,0 +1,9 @@
+LegalName BINGHAM EQUIPMENT COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 151441
+StateId 151441
+MCMXFF 
+DUNS 

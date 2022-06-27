@@ -1,0 +1,9 @@
+LegalName KALINICH FENCE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 52486
+StateId 52486
+MCMXFF 
+DUNS 

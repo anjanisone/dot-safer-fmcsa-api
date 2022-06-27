@@ -1,0 +1,9 @@
+LegalName NELSON LEASING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 107993
+StateId 107993
+MCMXFF 
+DUNS 

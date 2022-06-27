@@ -1,0 +1,9 @@
+LegalName TEXAS PIPE AND SUPPLY COMPANY LTD
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 27746
+StateId 27746
+MCMXFF 
+DUNS 

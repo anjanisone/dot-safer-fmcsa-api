@@ -1,0 +1,9 @@
+LegalName DEIG BROS LUMBER AND CONSTRUCTION CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 98668
+StateId 98668
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName DALE T HENDERSON
+DBAName HENDERSON FARMS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 55077
+StateId 55077
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName INTERWEST METALS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 59421
+StateId 59421
+MCMXFF 
+DUNS 

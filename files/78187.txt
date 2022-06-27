@@ -1,0 +1,9 @@
+LegalName DANS TRACTOR INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 78187
+StateId 78187
+MCMXFF 
+DUNS 

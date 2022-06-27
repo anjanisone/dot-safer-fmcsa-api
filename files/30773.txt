@@ -1,0 +1,9 @@
+LegalName LAVALLEY BUILDING SUPPLY LLC
+DBAName PREFERRED BUILDING SYSTEMS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 30773
+StateId 30773
+MCMXFF 
+DUNS 

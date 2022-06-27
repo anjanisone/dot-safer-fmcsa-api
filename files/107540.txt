@@ -1,0 +1,9 @@
+LegalName BAKER HUGHES OILFIELD OPERATIONS LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 107540
+StateId 107540
+MCMXFF 
+DUNS 

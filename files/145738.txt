@@ -1,0 +1,9 @@
+LegalName BORDER FARMS LTD
+DBAName 
+PhysicalAddress 2069 ROAD 12W GRETNA, MB   R0G 0V0
+Phone (204) 327-5573
+MailingAddress P O  BOX 322 GRETNA, MB   R0G 0V0
+DOTNumber 145738
+StateId 145738
+MCMXFF 
+DUNS 

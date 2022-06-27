@@ -1,0 +1,9 @@
+LegalName GENERAL ELECTRIC COMPANY
+DBAName GE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 6569
+StateId 6569
+MCMXFF 
+DUNS 

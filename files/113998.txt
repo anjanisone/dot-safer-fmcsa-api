@@ -1,0 +1,9 @@
+LegalName KUHN NORTH AMERICA INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 113998
+StateId 113998
+MCMXFF 
+DUNS 

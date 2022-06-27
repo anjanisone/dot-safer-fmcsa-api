@@ -1,0 +1,9 @@
+LegalName PHARMACIA & UPJOHN COMPANY LLC
+DBAName PHARMACIA & UPJOHN
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 148793
+StateId 148793
+MCMXFF 
+DUNS 

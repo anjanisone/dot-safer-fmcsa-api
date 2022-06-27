@@ -1,0 +1,9 @@
+LegalName ARTESIAN WATER CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 33695
+StateId 33695
+MCMXFF 
+DUNS 

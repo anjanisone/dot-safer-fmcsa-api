@@ -1,0 +1,9 @@
+LegalName BLOOMSBURG MILLS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 109161
+StateId 109161
+MCMXFF 
+DUNS 

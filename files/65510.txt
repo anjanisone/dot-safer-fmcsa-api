@@ -1,0 +1,9 @@
+LegalName WESTROCK LONGVIEW LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 65510
+StateId 65510
+MCMXFF 
+DUNS 

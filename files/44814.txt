@@ -1,0 +1,9 @@
+LegalName SINTON DAIRY FOODS COMPANY LLC
+DBAName SINTON'S
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 44814
+StateId 44814
+MCMXFF 
+DUNS 

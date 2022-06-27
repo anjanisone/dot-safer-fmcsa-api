@@ -1,0 +1,9 @@
+LegalName TEBBEN ENTERPRISES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 132846
+StateId 132846
+MCMXFF 
+DUNS 

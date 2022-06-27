@@ -1,0 +1,9 @@
+LegalName GRETZ BEER COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 5110
+StateId 5110
+MCMXFF 
+DUNS 

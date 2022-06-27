@@ -1,0 +1,9 @@
+LegalName MODERN INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 38771
+StateId 38771
+MCMXFF 
+DUNS 

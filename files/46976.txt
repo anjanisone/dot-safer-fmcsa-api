@@ -1,0 +1,9 @@
+LegalName WELKE AUTO SALES INC
+DBAName AUTO AND TRUCK SALES AND SERVICE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 46976
+StateId 46976
+MCMXFF 
+DUNS 

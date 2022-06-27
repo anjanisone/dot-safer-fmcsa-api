@@ -1,0 +1,9 @@
+LegalName HINMAN MILLS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 55499
+StateId 55499
+MCMXFF 
+DUNS 

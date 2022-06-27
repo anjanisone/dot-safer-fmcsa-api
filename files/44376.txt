@@ -1,0 +1,9 @@
+LegalName DAKOTAS PROPANE GAS COOP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 44376
+StateId 44376
+MCMXFF 
+DUNS 

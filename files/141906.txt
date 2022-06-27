@@ -1,0 +1,9 @@
+LegalName WRR NORTHWEST ENTERPRISES CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 141906
+StateId 141906
+MCMXFF 
+DUNS 

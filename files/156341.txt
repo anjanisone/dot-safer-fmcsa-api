@@ -1,0 +1,9 @@
+LegalName CAMPBELLSVILLE INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 156341
+StateId 156341
+MCMXFF 
+DUNS 

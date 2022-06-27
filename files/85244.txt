@@ -1,0 +1,9 @@
+LegalName LOGAN CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 85244
+StateId 85244
+MCMXFF 
+DUNS 

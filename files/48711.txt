@@ -1,0 +1,9 @@
+LegalName MADISON TRUCK EQUIPMENT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 48711
+StateId 48711
+MCMXFF 
+DUNS 

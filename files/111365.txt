@@ -1,0 +1,9 @@
+LegalName CHAUTAUQUA BRICK CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 111365
+StateId 111365
+MCMXFF 
+DUNS 

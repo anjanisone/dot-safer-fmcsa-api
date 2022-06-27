@@ -1,0 +1,9 @@
+LegalName CHAPPELL TRACTOR SALES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 57669
+StateId 57669
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName LAKEWOOD GLASS CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 43224
+StateId 43224
+MCMXFF 
+DUNS 

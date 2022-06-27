@@ -1,0 +1,9 @@
+LegalName VERMEER SALES & SERVICE INC
+DBAName VERMEER IOWA & N MISSOURI
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 55717
+StateId 55717
+MCMXFF 
+DUNS 

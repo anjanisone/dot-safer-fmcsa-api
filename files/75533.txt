@@ -1,0 +1,9 @@
+LegalName MACY'S INC
+DBAName MACY'S
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 75533
+StateId 75533
+MCMXFF 
+DUNS 

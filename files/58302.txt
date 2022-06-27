@@ -1,0 +1,9 @@
+LegalName SCOTT SWIMMING POOLS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 58302
+StateId 58302
+MCMXFF 
+DUNS 

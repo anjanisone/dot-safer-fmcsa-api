@@ -1,0 +1,9 @@
+LegalName GALLI BEER DISTRIBUTING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 33787
+StateId 33787
+MCMXFF 
+DUNS 

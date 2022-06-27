@@ -1,0 +1,9 @@
+LegalName HAEFELIS HONEY FARM INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 2139
+StateId 2139
+MCMXFF 
+DUNS 

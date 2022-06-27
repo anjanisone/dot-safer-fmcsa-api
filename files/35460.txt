@@ -1,0 +1,9 @@
+LegalName LAUFER TRUCKING COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 35460
+StateId 35460
+MCMXFF 
+DUNS 

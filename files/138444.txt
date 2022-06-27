@@ -1,0 +1,9 @@
+LegalName QUALITY GRAIN SYSTEMS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 138444
+StateId 138444
+MCMXFF 
+DUNS 

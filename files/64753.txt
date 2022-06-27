@@ -1,0 +1,9 @@
+LegalName MELVIN L JOSEPH CONSTRUCTION CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 64753
+StateId 64753
+MCMXFF 
+DUNS 

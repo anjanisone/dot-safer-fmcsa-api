@@ -1,0 +1,9 @@
+LegalName LEMKE STONE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 100091
+StateId 100091
+MCMXFF 
+DUNS 

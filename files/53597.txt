@@ -1,0 +1,9 @@
+LegalName CARDINAL DISTRIBUTING COMPANY LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 53597
+StateId 53597
+MCMXFF 
+DUNS 

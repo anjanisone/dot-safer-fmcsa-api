@@ -1,0 +1,9 @@
+LegalName SHULMAN CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 19490
+StateId 19490
+MCMXFF 
+DUNS 

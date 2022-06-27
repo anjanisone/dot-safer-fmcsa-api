@@ -1,0 +1,9 @@
+LegalName BROWN PACKING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 134452
+StateId 134452
+MCMXFF 
+DUNS 

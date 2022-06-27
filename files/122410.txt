@@ -1,0 +1,9 @@
+LegalName HUNTINGTON WHOLESALE FURNITURE CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 122410
+StateId 122410
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName PLANT FOOD COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 96045
+StateId 96045
+MCMXFF 
+DUNS 

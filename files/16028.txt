@@ -1,0 +1,9 @@
+LegalName WESTSHORE GLASS CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 16028
+StateId 16028
+MCMXFF 
+DUNS 

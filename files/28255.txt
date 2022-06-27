@@ -1,0 +1,9 @@
+LegalName GILVIN-TERRILL LTD
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 28255
+StateId 28255
+MCMXFF 
+DUNS 

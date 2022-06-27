@@ -1,0 +1,9 @@
+LegalName THE SALVATION ARMY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 19797
+StateId 19797
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName ADVANCED PLASTICS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 92979
+StateId 92979
+MCMXFF 
+DUNS 

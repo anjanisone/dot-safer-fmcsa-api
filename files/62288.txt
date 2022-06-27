@@ -1,0 +1,9 @@
+LegalName UNION SEED COMPANY
+DBAName FORAGE GENETICS INTERNATIONAL
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 62288
+StateId 62288
+MCMXFF 
+DUNS 

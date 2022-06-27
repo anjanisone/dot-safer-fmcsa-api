@@ -1,0 +1,9 @@
+LegalName SMITH EQUIPMENT CONSOLIDATED INC
+DBAName SMITH EQUIPMENT
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 155901
+StateId 155901
+MCMXFF 
+DUNS 

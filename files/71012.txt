@@ -1,0 +1,9 @@
+LegalName LAPHAM-HICKEY STEEL CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 71012
+StateId 71012
+MCMXFF 
+DUNS 

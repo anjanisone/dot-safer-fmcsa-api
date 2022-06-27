@@ -1,0 +1,9 @@
+LegalName JOY GLOBAL SURFACE MINING INC
+DBAName KOMATSU
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 99935
+StateId 99935
+MCMXFF 
+DUNS 

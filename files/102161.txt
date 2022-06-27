@@ -1,0 +1,9 @@
+LegalName AROL CHEMICAL PRODUCTS CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 102161
+StateId 102161
+MCMXFF 
+DUNS 

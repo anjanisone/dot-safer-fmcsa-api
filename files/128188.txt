@@ -1,0 +1,9 @@
+LegalName CARDWELL LUMBER INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 128188
+StateId 128188
+MCMXFF 
+DUNS 

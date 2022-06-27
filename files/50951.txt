@@ -1,0 +1,9 @@
+LegalName MILL COVE LOBSTER POUND COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 50951
+StateId 50951
+MCMXFF 
+DUNS 

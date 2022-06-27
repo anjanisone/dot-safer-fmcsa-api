@@ -1,0 +1,9 @@
+LegalName UNIVERSAL EQUIPMENT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 87708
+StateId 87708
+MCMXFF 
+DUNS 

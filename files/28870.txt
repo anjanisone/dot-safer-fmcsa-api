@@ -1,0 +1,9 @@
+LegalName INDUSTRIAL STEEL & PIPE SUPPLY CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 28870
+StateId 28870
+MCMXFF 
+DUNS 

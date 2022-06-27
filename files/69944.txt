@@ -1,0 +1,9 @@
+LegalName V & S LIVESTOCK INC
+DBAName 
+PhysicalAddress 434 W 7TH ST CARROLL, IA   51401
+Phone (712) 792-4343
+MailingAddress PO BOX 345 CARROLL, IA   51401
+DOTNumber 69944
+StateId 69944
+MCMXFF 
+DUNS 

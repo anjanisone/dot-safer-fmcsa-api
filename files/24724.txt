@@ -1,0 +1,9 @@
+LegalName VERMONT STRUCTURAL SLATE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 24724
+StateId 24724
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName T H SNIPES & SONS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 112698
+StateId 112698
+MCMXFF 
+DUNS 

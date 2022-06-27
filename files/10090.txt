@@ -1,0 +1,9 @@
+LegalName STANLEY MARVEL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 10090
+StateId 10090
+MCMXFF 
+DUNS 

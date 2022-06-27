@@ -1,0 +1,9 @@
+LegalName INDUSTRIAL HARDFACING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 130546
+StateId 130546
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName WHITLEY COUNTY CONCRETE II INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 91485
+StateId 91485
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName KELBAR INC
+DBAName THE VIRGINIA TRAVEL CENTER
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 32699
+StateId 32699
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName VIKING METALURGICAL
+DBAName FIRTH RIXSON VIKING
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 154357
+StateId 154357
+MCMXFF 
+DUNS 

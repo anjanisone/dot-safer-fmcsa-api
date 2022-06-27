@@ -1,0 +1,9 @@
+LegalName FER INC
+DBAName IMPERIAL ELECTRO PLATING CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 13813
+StateId 13813
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName MID STATE BOLT & NUT CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93026
+StateId 93026
+MCMXFF 
+DUNS 

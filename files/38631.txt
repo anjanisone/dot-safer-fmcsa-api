@@ -1,0 +1,9 @@
+LegalName CASCADE NATURAL GAS CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 38631
+StateId 38631
+MCMXFF 
+DUNS 

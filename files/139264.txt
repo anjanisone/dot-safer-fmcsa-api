@@ -1,0 +1,9 @@
+LegalName SEVERY COOPERATIVE ASSN
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 139264
+StateId 139264
+MCMXFF 
+DUNS 

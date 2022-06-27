@@ -1,0 +1,9 @@
+LegalName TIPS IRON & STEEL COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 136908
+StateId 136908
+MCMXFF 
+DUNS 

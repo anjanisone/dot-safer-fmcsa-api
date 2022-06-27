@@ -1,0 +1,9 @@
+LegalName CHARLES RIVER LABORATORIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 17968
+StateId 17968
+MCMXFF 
+DUNS 

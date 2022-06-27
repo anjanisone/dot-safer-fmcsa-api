@@ -1,0 +1,9 @@
+LegalName CHICAGO LUMBER CO OF OMAHA
+DBAName CENTURY LUMBER CENTER'S
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 152966
+StateId 152966
+MCMXFF 
+DUNS 

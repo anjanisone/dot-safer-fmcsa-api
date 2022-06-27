@@ -1,0 +1,9 @@
+LegalName DERSCH ENERGIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 71379
+StateId 71379
+MCMXFF 
+DUNS 

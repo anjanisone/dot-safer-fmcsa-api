@@ -1,0 +1,9 @@
+LegalName SOONER COOPERATIVE INCORPORATED
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 126490
+StateId 126490
+MCMXFF 
+DUNS 

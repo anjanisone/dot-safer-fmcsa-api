@@ -1,0 +1,9 @@
+LegalName DAVIS EQUIPMENT CORPORATION
+DBAName DAVIS EQUIPMENT & TURFWERKS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 117776
+StateId 117776
+MCMXFF 
+DUNS 

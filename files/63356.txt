@@ -1,0 +1,9 @@
+LegalName BYARS MACHINE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 63356
+StateId 63356
+MCMXFF 
+DUNS 

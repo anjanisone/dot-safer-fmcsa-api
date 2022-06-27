@@ -1,0 +1,9 @@
+LegalName FARMERS COOPERATIVE OIL CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 73781
+StateId 73781
+MCMXFF 
+DUNS 

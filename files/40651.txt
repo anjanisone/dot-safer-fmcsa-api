@@ -1,0 +1,9 @@
+LegalName CLARK'S COVE FISH CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 40651
+StateId 40651
+MCMXFF 
+DUNS 

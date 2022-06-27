@@ -1,0 +1,9 @@
+LegalName GENERAL PIPELINE CONSTRUCTION INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 119303
+StateId 119303
+MCMXFF 
+DUNS 

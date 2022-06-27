@@ -1,0 +1,9 @@
+LegalName JOSEPH A FRISINA JR
+DBAName J A FRISINA INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 33858
+StateId 33858
+MCMXFF 
+DUNS 

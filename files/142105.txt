@@ -1,0 +1,9 @@
+LegalName JOHN J BRENNAN CONSTRUCTION CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 142105
+StateId 142105
+MCMXFF 
+DUNS 

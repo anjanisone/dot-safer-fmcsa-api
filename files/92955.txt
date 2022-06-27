@@ -1,0 +1,9 @@
+LegalName CLARK BUFORD BAIT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 92955
+StateId 92955
+MCMXFF 
+DUNS 

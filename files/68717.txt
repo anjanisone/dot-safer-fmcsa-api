@@ -1,0 +1,9 @@
+LegalName VEGETABLE GROWERS SUPPLY CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 68717
+StateId 68717
+MCMXFF 
+DUNS 

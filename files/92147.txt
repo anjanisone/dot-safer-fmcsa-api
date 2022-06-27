@@ -1,0 +1,9 @@
+LegalName YOUNG MANUFACTURING COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 92147
+StateId 92147
+MCMXFF 
+DUNS 

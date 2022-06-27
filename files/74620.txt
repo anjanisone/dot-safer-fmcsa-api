@@ -1,0 +1,9 @@
+LegalName SPRINGFIELD PLASTICS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 74620
+StateId 74620
+MCMXFF 
+DUNS 

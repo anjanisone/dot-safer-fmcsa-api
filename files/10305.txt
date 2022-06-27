@@ -1,0 +1,9 @@
+LegalName SOUTHERN PACKING CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 10305
+StateId 10305
+MCMXFF 
+DUNS 

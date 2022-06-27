@@ -1,0 +1,9 @@
+LegalName COTTON BELT LIQUID GAS CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 123663
+StateId 123663
+MCMXFF 
+DUNS 

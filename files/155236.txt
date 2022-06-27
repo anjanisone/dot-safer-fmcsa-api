@@ -1,0 +1,9 @@
+LegalName HUB FOLDING BOX CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 155236
+StateId 155236
+MCMXFF 
+DUNS 

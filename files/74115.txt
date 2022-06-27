@@ -1,0 +1,9 @@
+LegalName STAR SOAP AND CANDLE CO
+DBAName STAR CANDLE COMPANY LLC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 74115
+StateId 74115
+MCMXFF 
+DUNS 

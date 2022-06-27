@@ -1,0 +1,9 @@
+LegalName BLAIN SUPPLY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 83455
+StateId 83455
+MCMXFF 
+DUNS 

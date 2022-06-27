@@ -1,0 +1,9 @@
+LegalName HITECH GLASS LLC
+DBAName MACALASTER BICKNELL OF NJ
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 18751
+StateId 18751
+MCMXFF 
+DUNS 

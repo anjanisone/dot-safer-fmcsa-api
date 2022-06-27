@@ -1,0 +1,9 @@
+LegalName COEUR D'ALENE SERVICE STATION EQUIPMENT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 130144
+StateId 130144
+MCMXFF 
+DUNS 

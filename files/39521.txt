@@ -1,0 +1,9 @@
+LegalName RUSSANN LUMBER CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 39521
+StateId 39521
+MCMXFF 
+DUNS 

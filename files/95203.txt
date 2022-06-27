@@ -1,0 +1,9 @@
+LegalName THE FISHEL COMPANY
+DBAName TEAM FISHEL
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 95203
+StateId 95203
+MCMXFF 
+DUNS 

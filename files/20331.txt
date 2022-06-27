@@ -1,0 +1,9 @@
+LegalName KING MEAT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 20331
+StateId 20331
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName CITY PACKING COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 17983
+StateId 17983
+MCMXFF 
+DUNS 

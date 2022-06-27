@@ -1,0 +1,9 @@
+LegalName A & P COAT APRON LINEN SUPPLY LLC
+DBAName UNITEX
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 58436
+StateId 58436
+MCMXFF 
+DUNS 

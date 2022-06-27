@@ -1,0 +1,9 @@
+LegalName JOHNSON CITY BEDDING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 123228
+StateId 123228
+MCMXFF 
+DUNS 

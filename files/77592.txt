@@ -1,0 +1,9 @@
+LegalName MIDWEST PETROLEUM CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 77592
+StateId 77592
+MCMXFF 
+DUNS 

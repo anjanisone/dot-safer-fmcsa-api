@@ -1,0 +1,9 @@
+LegalName J & A CARTAGE INC
+DBAName 
+PhysicalAddress 5050 S LAWNDALE LA GRANGE, IL   60525
+Phone (708) 496-8470
+MailingAddress PO BOX 52 LYONS, IL   60534
+DOTNumber 144176
+StateId 144176
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName R W LOFLIN
+DBAName SELECT TRAILER SALES
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 47914
+StateId 47914
+MCMXFF 
+DUNS 

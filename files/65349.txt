@@ -1,0 +1,9 @@
+LegalName MILLER & LONG CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 65349
+StateId 65349
+MCMXFF 
+DUNS 

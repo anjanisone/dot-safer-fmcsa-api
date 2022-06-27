@@ -1,0 +1,9 @@
+LegalName TWIN-STATE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 98152
+StateId 98152
+MCMXFF 
+DUNS 

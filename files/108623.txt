@@ -1,0 +1,9 @@
+LegalName NEWSOM OIL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 108623
+StateId 108623
+MCMXFF 
+DUNS 

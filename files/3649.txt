@@ -1,0 +1,9 @@
+LegalName EVERLAST FITNESS MFG CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 3649
+StateId 3649
+MCMXFF 
+DUNS 

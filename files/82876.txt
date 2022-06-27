@@ -1,0 +1,9 @@
+LegalName ARKANSAS ELECTRIC COOPERATIVES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 82876
+StateId 82876
+MCMXFF 
+DUNS 

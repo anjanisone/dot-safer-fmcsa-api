@@ -1,0 +1,9 @@
+LegalName AUTOMOTIVE SALES & SERVICE CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 128382
+StateId 128382
+MCMXFF 
+DUNS 

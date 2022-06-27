@@ -1,0 +1,9 @@
+LegalName DAVID W COOMBS
+DBAName YORK CORNER GARDENS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 18961
+StateId 18961
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName PERRIGO COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 78401
+StateId 78401
+MCMXFF 
+DUNS 

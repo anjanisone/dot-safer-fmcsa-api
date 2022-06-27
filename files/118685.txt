@@ -1,0 +1,9 @@
+LegalName MENALLEN RESOURCES LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 118685
+StateId 118685
+MCMXFF 
+DUNS 

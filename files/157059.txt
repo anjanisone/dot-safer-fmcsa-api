@@ -1,0 +1,9 @@
+LegalName WISCONSIN PUBLIC SERVICE CORPORATION
+DBAName WPS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 157059
+StateId 157059
+MCMXFF 
+DUNS 

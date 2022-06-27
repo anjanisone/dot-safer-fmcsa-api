@@ -1,0 +1,9 @@
+LegalName LOUIS A ROSER CO INC
+DBAName LA ROSER
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 1105
+StateId 1105
+MCMXFF 
+DUNS 

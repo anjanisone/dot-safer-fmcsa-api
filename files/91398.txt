@@ -1,0 +1,9 @@
+LegalName PATTERSON CHIP CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 91398
+StateId 91398
+MCMXFF 
+DUNS 

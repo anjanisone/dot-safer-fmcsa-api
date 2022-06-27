@@ -1,0 +1,9 @@
+LegalName ALSOP SAND CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 82109
+StateId 82109
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName NEWCO INC
+DBAName CASCADE COLUMBIA DISTRIBUTION COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 38628
+StateId 38628
+MCMXFF 
+DUNS 

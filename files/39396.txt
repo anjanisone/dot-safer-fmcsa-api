@@ -1,0 +1,9 @@
+LegalName PANOPLY CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 39396
+StateId 39396
+MCMXFF 
+DUNS 

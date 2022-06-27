@@ -1,0 +1,9 @@
+LegalName CROWN PRODUCTS CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 125179
+StateId 125179
+MCMXFF 
+DUNS 

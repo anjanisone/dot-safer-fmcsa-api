@@ -1,0 +1,9 @@
+LegalName ERB EQUIPMENT COMPANY OF ILLINOIS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 111834
+StateId 111834
+MCMXFF 
+DUNS 

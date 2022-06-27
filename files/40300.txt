@@ -1,0 +1,9 @@
+LegalName REMPAC FOAM CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 40300
+StateId 40300
+MCMXFF 
+DUNS 

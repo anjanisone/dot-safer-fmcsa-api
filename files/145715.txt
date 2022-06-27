@@ -1,0 +1,9 @@
+LegalName PALLET & SKID SUPPLY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 145715
+StateId 145715
+MCMXFF 
+DUNS 

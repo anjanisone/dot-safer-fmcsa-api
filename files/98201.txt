@@ -1,0 +1,9 @@
+LegalName WHEELER CONSOLIDATED INC
+DBAName WHEELER LUMBER LLC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 98201
+StateId 98201
+MCMXFF 
+DUNS 

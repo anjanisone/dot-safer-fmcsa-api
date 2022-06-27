@@ -1,0 +1,9 @@
+LegalName SIMPLER LUMBER & COAL CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7672
+StateId 7672
+MCMXFF 
+DUNS 

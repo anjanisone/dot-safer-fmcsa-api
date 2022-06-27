@@ -1,0 +1,9 @@
+LegalName L ADKINS OIL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 60993
+StateId 60993
+MCMXFF 
+DUNS 

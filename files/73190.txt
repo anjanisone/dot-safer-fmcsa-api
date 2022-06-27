@@ -1,0 +1,9 @@
+LegalName DONALD STRONG
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 73190
+StateId 73190
+MCMXFF 
+DUNS 

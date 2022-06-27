@@ -1,0 +1,9 @@
+LegalName BRITTON LUMBER COMPANY LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 111496
+StateId 111496
+MCMXFF 
+DUNS 

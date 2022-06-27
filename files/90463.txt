@@ -1,0 +1,9 @@
+LegalName OWENSBORO SUPPLY COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 90463
+StateId 90463
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName FUGATE LUMBER CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 123818
+StateId 123818
+MCMXFF 
+DUNS 

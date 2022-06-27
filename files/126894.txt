@@ -1,0 +1,9 @@
+LegalName THE SCOTTS COMPANY LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 126894
+StateId 126894
+MCMXFF 
+DUNS 

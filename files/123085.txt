@@ -1,0 +1,9 @@
+LegalName MOUNTAIN STATES STEEL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 123085
+StateId 123085
+MCMXFF 
+DUNS 

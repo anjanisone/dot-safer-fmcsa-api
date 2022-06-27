@@ -1,0 +1,9 @@
+LegalName KINNAN ENGINEERING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 12154
+StateId 12154
+MCMXFF 
+DUNS 

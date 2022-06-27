@@ -1,0 +1,9 @@
+LegalName HARRY BRAINUM JR INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 156304
+StateId 156304
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName GUNNOE SAUSAGE COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 32737
+StateId 32737
+MCMXFF 
+DUNS 

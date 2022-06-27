@@ -1,0 +1,9 @@
+LegalName R E HINKLEY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7116
+StateId 7116
+MCMXFF 
+DUNS 

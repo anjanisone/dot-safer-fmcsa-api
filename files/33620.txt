@@ -1,0 +1,9 @@
+LegalName FRANK CLENDANIEL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 33620
+StateId 33620
+MCMXFF 
+DUNS 

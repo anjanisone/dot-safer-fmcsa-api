@@ -1,0 +1,9 @@
+LegalName THE TAYLOR PROVISIONS COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 133558
+StateId 133558
+MCMXFF 
+DUNS 

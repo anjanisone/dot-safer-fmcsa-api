@@ -1,0 +1,9 @@
+LegalName H LIEDTKA CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 43282
+StateId 43282
+MCMXFF 
+DUNS 

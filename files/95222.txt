@@ -1,0 +1,9 @@
+LegalName EARL'S TRUCK SALES & SERVICE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 95222
+StateId 95222
+MCMXFF 
+DUNS 

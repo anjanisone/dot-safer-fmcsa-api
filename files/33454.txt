@@ -1,0 +1,9 @@
+LegalName D & L COAL COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 33454
+StateId 33454
+MCMXFF 
+DUNS 

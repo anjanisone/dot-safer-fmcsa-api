@@ -1,0 +1,9 @@
+LegalName MANUFACTURERS RESERVE SUPPLY INC
+DBAName 11336740
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 117235
+StateId 117235
+MCMXFF 
+DUNS 

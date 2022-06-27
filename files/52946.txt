@@ -1,0 +1,9 @@
+LegalName CROSS MANUFACTURING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 52946
+StateId 52946
+MCMXFF 
+DUNS 

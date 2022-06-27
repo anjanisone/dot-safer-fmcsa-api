@@ -1,0 +1,9 @@
+LegalName SOUTHERN COMPONENTS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 109753
+StateId 109753
+MCMXFF 
+DUNS 

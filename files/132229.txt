@@ -1,0 +1,9 @@
+LegalName NORTHEAST AIR SOLUTIONS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 132229
+StateId 132229
+MCMXFF 
+DUNS 

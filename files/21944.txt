@@ -1,0 +1,9 @@
+LegalName ACEY DECY EQUIPMENT COMPANY INC
+DBAName ACEY DECY LIGHTING
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 21944
+StateId 21944
+MCMXFF 
+DUNS 

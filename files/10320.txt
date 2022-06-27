@@ -1,0 +1,9 @@
+LegalName BETTY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 10320
+StateId 10320
+MCMXFF 
+DUNS 

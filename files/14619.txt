@@ -1,0 +1,9 @@
+LegalName MICHAEL FARMS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 14619
+StateId 14619
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName DUININCK INCORPORATED
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 75599
+StateId 75599
+MCMXFF 
+DUNS 

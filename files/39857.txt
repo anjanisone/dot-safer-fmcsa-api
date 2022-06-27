@@ -1,0 +1,9 @@
+LegalName E A MORSE & CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 39857
+StateId 39857
+MCMXFF 
+DUNS 

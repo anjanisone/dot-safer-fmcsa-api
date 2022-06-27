@@ -1,0 +1,9 @@
+LegalName HOWE LUMBER COMPANY INCORPORATED
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 49477
+StateId 49477
+MCMXFF 
+DUNS 

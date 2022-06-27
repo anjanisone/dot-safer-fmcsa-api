@@ -1,0 +1,9 @@
+LegalName FABRICATION SPECIALTIES CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 127306
+StateId 127306
+MCMXFF 
+DUNS 

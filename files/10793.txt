@@ -1,0 +1,9 @@
+LegalName LONG & BOMBERGER HOME CENTER INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 10793
+StateId 10793
+MCMXFF 
+DUNS 

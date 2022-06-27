@@ -1,0 +1,9 @@
+LegalName LEWIS EQUIPMENT CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 149899
+StateId 149899
+MCMXFF 
+DUNS 

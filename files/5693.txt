@@ -1,0 +1,9 @@
+LegalName CLAIR GLOBAL CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 5693
+StateId 5693
+MCMXFF 
+DUNS 

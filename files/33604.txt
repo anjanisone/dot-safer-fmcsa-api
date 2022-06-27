@@ -1,0 +1,9 @@
+LegalName H C DAVIS CO INC
+DBAName 
+PhysicalAddress 346 PINE ALLEY BRIDGEVILLE, DE   19933
+Phone (302) 337-7001
+MailingAddress P O  BOX 346 BRIDGE, DE   19933
+DOTNumber 33604
+StateId 33604
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName CUMMINS INC
+DBAName CUMMINS SALES AND SERVICE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 98686
+StateId 98686
+MCMXFF 
+DUNS 

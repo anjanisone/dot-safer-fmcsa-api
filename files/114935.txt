@@ -1,0 +1,9 @@
+LegalName MOTOR CITY ELECTRIC CO
+DBAName MOTOR CITY ELECTRIC UTILITIES CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 114935
+StateId 114935
+MCMXFF 
+DUNS 

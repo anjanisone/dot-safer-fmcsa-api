@@ -1,0 +1,9 @@
+LegalName CITY ICE AND FUEL COMPANY OF POINT PLEASANT
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 128538
+StateId 128538
+MCMXFF 
+DUNS 

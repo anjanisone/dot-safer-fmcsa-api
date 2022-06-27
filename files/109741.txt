@@ -1,0 +1,9 @@
+LegalName FRISBY TRUCKING LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 109741
+StateId 109741
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName PIEDMONT METALS OF BURLINGTON INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 108690
+StateId 108690
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName G & B OIL COMPANY INC
+DBAName G & B ENERGY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 94750
+StateId 94750
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName BARI RESTAURANT & PIZZARIA EQUIPMENT CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 54544
+StateId 54544
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName METAL SALES AND SERVICES INC
+DBAName METALWERKS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 64848
+StateId 64848
+MCMXFF 
+DUNS 

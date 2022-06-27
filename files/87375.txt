@@ -1,0 +1,9 @@
+LegalName CORTEVA AGRISCIENCE LLC
+DBAName BREVANT SEEDS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 87375
+StateId 87375
+MCMXFF 
+DUNS 

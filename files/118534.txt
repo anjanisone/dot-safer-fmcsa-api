@@ -1,0 +1,9 @@
+LegalName MONUMENT OIL COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 118534
+StateId 118534
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName SPEAKS OIL COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 112581
+StateId 112581
+MCMXFF 
+DUNS 

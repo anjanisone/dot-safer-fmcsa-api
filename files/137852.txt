@@ -1,0 +1,9 @@
+LegalName BERGER BUILDING SUPPLY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 137852
+StateId 137852
+MCMXFF 
+DUNS 

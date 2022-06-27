@@ -1,0 +1,9 @@
+LegalName SOUTHWARK METAL MANUFACTURING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 10350
+StateId 10350
+MCMXFF 
+DUNS 

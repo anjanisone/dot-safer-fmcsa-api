@@ -1,0 +1,9 @@
+LegalName ZIEGLER LUMBER COMPANY
+DBAName ZIGGY'S
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 13107
+StateId 13107
+MCMXFF 
+DUNS 

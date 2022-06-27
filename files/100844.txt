@@ -1,0 +1,9 @@
+LegalName VANPELT CORPORATION
+DBAName SERVICE STEEL COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 100844
+StateId 100844
+MCMXFF 
+DUNS 

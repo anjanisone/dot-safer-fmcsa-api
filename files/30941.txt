@@ -1,0 +1,9 @@
+LegalName ATLAS DISTRIBUTING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 30941
+StateId 30941
+MCMXFF 
+DUNS 

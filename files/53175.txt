@@ -1,0 +1,9 @@
+LegalName LAYNE CHRISTENSEN COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 53175
+StateId 53175
+MCMXFF 
+DUNS 

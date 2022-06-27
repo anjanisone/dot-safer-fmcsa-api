@@ -1,0 +1,9 @@
+LegalName TEXTRON INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 18470
+StateId 18470
+MCMXFF 
+DUNS 

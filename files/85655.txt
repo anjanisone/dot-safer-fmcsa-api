@@ -1,0 +1,9 @@
+LegalName MRC GLOBAL US INC
+DBAName MRC GLOBAL
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 85655
+StateId 85655
+MCMXFF 
+DUNS 

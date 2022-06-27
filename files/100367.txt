@@ -1,0 +1,9 @@
+LegalName BROWN CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 100367
+StateId 100367
+MCMXFF 
+DUNS 

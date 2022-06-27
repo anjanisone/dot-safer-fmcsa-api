@@ -1,0 +1,9 @@
+LegalName E J ASSOCIATES INCORPORATED
+DBAName AUTH FUELS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 20658
+StateId 20658
+MCMXFF 
+DUNS 

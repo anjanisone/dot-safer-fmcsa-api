@@ -1,0 +1,9 @@
+LegalName W E AUBUCHON CO INC
+DBAName AUBUCHON HARDWARE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 30946
+StateId 30946
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName JOHNSON BOX SHOP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 114477
+StateId 114477
+MCMXFF 
+DUNS 

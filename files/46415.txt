@@ -1,0 +1,9 @@
+LegalName SCHWARZ FISH COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 46415
+StateId 46415
+MCMXFF 
+DUNS 

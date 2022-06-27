@@ -1,0 +1,9 @@
+LegalName DANIEL L JACOB & COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 140554
+StateId 140554
+MCMXFF 
+DUNS 

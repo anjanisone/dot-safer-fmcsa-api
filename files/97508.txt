@@ -1,0 +1,9 @@
+LegalName BAX-STEEL BUILDINGS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 97508
+StateId 97508
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName MILLER ENGINEERING COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 47680
+StateId 47680
+MCMXFF 
+DUNS 

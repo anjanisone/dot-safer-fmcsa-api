@@ -1,0 +1,9 @@
+LegalName L & M TRUCK SALES
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 15563
+StateId 15563
+MCMXFF 
+DUNS 

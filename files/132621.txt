@@ -1,0 +1,9 @@
+LegalName KEN'S CARPETS UNLIMITED INC
+DBAName CARPETS UNLIMITED
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 132621
+StateId 132621
+MCMXFF 
+DUNS 

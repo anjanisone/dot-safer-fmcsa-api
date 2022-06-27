@@ -1,0 +1,9 @@
+LegalName CAPITAL LUMBER COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 122741
+StateId 122741
+MCMXFF 
+DUNS 

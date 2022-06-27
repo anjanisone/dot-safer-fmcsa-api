@@ -1,0 +1,9 @@
+LegalName THE BAUT STUDIOS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 109140
+StateId 109140
+MCMXFF 
+DUNS 

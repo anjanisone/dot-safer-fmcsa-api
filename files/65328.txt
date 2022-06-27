@@ -1,0 +1,9 @@
+LegalName MORGAN OIL CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 65328
+StateId 65328
+MCMXFF 
+DUNS 

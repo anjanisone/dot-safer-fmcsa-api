@@ -1,0 +1,9 @@
+LegalName BERIAH LEWIS FARM INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 43181
+StateId 43181
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName OMAHA BEEF COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 144698
+StateId 144698
+MCMXFF 
+DUNS 

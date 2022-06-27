@@ -1,0 +1,9 @@
+LegalName EXPANSE ELECTRICAL COMPANY LLC
+DBAName EXPANSE ELECTRICAL CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 102788
+StateId 102788
+MCMXFF 
+DUNS 

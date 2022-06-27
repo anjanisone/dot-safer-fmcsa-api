@@ -1,0 +1,9 @@
+LegalName CARTER MACHINERY COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 32541
+StateId 32541
+MCMXFF 
+DUNS 

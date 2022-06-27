@@ -1,0 +1,9 @@
+LegalName SOUTHERN ILLINOIS ASPHALT CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 100643
+StateId 100643
+MCMXFF 
+DUNS 

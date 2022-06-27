@@ -1,0 +1,9 @@
+LegalName WALTER S PRATT & SONS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 101844
+StateId 101844
+MCMXFF 
+DUNS 

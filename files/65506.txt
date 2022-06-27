@@ -1,0 +1,9 @@
+LegalName BING CONSTRUCTION CO OF NEVADA
+DBAName BING MATERIALS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 65506
+StateId 65506
+MCMXFF 
+DUNS 

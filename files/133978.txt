@@ -1,0 +1,9 @@
+LegalName RIVER PRODUCTS COMPANY INC
+DBAName THE RIVER PRODUCTS CO INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 133978
+StateId 133978
+MCMXFF 
+DUNS 

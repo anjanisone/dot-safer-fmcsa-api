@@ -1,0 +1,9 @@
+LegalName CURT WIEBKE
+DBAName WIEBKE LIVESTOCK
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 124686
+StateId 124686
+MCMXFF 
+DUNS 

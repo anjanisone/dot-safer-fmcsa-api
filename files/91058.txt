@@ -1,0 +1,9 @@
+LegalName FARMERS ELEVATOR AND SUPPLY COMPANY OF HAWK POINT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 91058
+StateId 91058
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName BUZZ PRODUCTS INC
+DBAName BUZZ FOOD SERVICE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 61044
+StateId 61044
+MCMXFF 
+DUNS 

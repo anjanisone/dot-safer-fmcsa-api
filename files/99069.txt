@@ -1,0 +1,9 @@
+LegalName WINANDY GREENHOUSE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 99069
+StateId 99069
+MCMXFF 
+DUNS 

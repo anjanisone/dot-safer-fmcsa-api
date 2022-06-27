@@ -1,0 +1,9 @@
+LegalName HUNTINGTON STEEL AND SUPPLY COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 122408
+StateId 122408
+MCMXFF 
+DUNS 

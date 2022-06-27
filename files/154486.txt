@@ -1,0 +1,9 @@
+LegalName SPECTRASERV INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 154486
+StateId 154486
+MCMXFF 
+DUNS 

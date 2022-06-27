@@ -1,0 +1,9 @@
+LegalName BINNS & STEVENS EXPLOSIVES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 4476
+StateId 4476
+MCMXFF 
+DUNS 

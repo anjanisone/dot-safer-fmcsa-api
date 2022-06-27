@@ -1,0 +1,9 @@
+LegalName SMITH BROS TIRE SERVICE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 54392
+StateId 54392
+MCMXFF 
+DUNS 

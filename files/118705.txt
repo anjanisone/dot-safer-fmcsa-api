@@ -1,0 +1,9 @@
+LegalName DONALD E SHARTZER JR
+DBAName SHARTZER AUTO WRECKERS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 118705
+StateId 118705
+MCMXFF 
+DUNS 

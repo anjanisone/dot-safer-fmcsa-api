@@ -1,0 +1,9 @@
+LegalName AUSTIN URETHANE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 1438
+StateId 1438
+MCMXFF 
+DUNS 

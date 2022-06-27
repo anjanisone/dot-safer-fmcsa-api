@@ -1,0 +1,9 @@
+LegalName STANDARD MOTOR FREIGHT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 19886
+StateId 19886
+MCMXFF 
+DUNS 

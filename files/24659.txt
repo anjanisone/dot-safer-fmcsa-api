@@ -1,0 +1,9 @@
+LegalName NEW ENGLAND SILICA INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 24659
+StateId 24659
+MCMXFF 
+DUNS 

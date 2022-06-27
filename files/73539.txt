@@ -1,0 +1,9 @@
+LegalName DANIEL J DIEHL
+DBAName FENTON FEED MILL INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 73539
+StateId 73539
+MCMXFF 
+DUNS 

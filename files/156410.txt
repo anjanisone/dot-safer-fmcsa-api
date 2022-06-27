@@ -1,0 +1,9 @@
+LegalName CAPITOL FIRE PROTECTION CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 156410
+StateId 156410
+MCMXFF 
+DUNS 

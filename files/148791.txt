@@ -1,0 +1,9 @@
+LegalName T FRANK MC CALL'S INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 148791
+StateId 148791
+MCMXFF 
+DUNS 

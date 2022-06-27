@@ -1,0 +1,9 @@
+LegalName H & S DISTRIBUTING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 143078
+StateId 143078
+MCMXFF 
+DUNS 

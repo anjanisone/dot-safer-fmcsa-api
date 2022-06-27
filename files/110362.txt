@@ -1,0 +1,9 @@
+LegalName POTOMAC SUPPLY CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 110362
+StateId 110362
+MCMXFF 
+DUNS 

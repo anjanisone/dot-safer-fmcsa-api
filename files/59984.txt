@@ -1,0 +1,9 @@
+LegalName CARPCO INC
+DBAName CARPCO INC SALES AND SERVICE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 59984
+StateId 59984
+MCMXFF 
+DUNS 

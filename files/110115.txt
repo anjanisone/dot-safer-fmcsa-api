@@ -1,0 +1,9 @@
+LegalName LAND N SEA DISTRIBUTING INC
+DBAName KELLOGG MARINE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 110115
+StateId 110115
+MCMXFF 
+DUNS 

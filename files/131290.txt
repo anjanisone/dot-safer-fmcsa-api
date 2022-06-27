@@ -1,0 +1,9 @@
+LegalName ANNING-JOHNSON COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 131290
+StateId 131290
+MCMXFF 
+DUNS 

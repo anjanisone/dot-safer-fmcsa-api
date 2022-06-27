@@ -1,0 +1,9 @@
+LegalName COLUMBIANA FOUNDRY CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93899
+StateId 93899
+MCMXFF 
+DUNS 

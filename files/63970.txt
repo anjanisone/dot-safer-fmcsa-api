@@ -1,0 +1,9 @@
+LegalName MARRIOTT INTERNATIONAL ADMINISTRATIVE SERVICES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 63970
+StateId 63970
+MCMXFF 
+DUNS 

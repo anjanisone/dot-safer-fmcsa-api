@@ -1,0 +1,9 @@
+LegalName THE ROBERT B BALTER COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 6995
+StateId 6995
+MCMXFF 
+DUNS 

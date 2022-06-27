@@ -1,0 +1,9 @@
+LegalName BG FARM LOGISTICS LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 71752
+StateId 71752
+MCMXFF 
+DUNS 

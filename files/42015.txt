@@ -1,0 +1,9 @@
+LegalName WEISS LAKE EGG CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 42015
+StateId 42015
+MCMXFF 
+DUNS 

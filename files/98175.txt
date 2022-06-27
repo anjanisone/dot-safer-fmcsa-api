@@ -1,0 +1,9 @@
+LegalName THE VERNON COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 98175
+StateId 98175
+MCMXFF 
+DUNS 

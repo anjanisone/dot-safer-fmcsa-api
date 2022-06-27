@@ -1,0 +1,9 @@
+LegalName MID SOUTH MATTRESS COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 95691
+StateId 95691
+MCMXFF 
+DUNS 

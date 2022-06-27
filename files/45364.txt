@@ -1,0 +1,9 @@
+LegalName SIMPLEX CONSTRUCTION CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 45364
+StateId 45364
+MCMXFF 
+DUNS 

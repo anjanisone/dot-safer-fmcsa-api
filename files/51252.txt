@@ -1,0 +1,9 @@
+LegalName CALHOUN GRIMES INC
+DBAName 
+PhysicalAddress 201 MAIN STREET DONEGAL, PA   15628
+Phone 
+MailingAddress P O BOX C DONEGAL, PA   15628-0198
+DOTNumber 51252
+StateId 51252
+MCMXFF 
+DUNS 

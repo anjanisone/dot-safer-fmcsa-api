@@ -1,0 +1,9 @@
+LegalName THE FURNITURE BARN INC
+DBAName FURNITURE BARGAIN BARN
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 82423
+StateId 82423
+MCMXFF 
+DUNS 

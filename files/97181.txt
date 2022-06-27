@@ -1,0 +1,9 @@
+LegalName PROPST CONSTRUCTION COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 97181
+StateId 97181
+MCMXFF 
+DUNS 

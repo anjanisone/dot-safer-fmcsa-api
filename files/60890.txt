@@ -1,0 +1,9 @@
+LegalName ELLISON RANCHING COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 60890
+StateId 60890
+MCMXFF 
+DUNS 

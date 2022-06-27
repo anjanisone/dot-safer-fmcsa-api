@@ -1,0 +1,9 @@
+LegalName HALVERSON COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 10949
+StateId 10949
+MCMXFF 
+DUNS 

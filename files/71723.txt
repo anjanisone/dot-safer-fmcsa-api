@@ -1,0 +1,9 @@
+LegalName BAUGHMAN TILE COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 71723
+StateId 71723
+MCMXFF 
+DUNS 

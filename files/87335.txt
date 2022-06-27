@@ -1,0 +1,9 @@
+LegalName BIEHL CATTLE COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 87335
+StateId 87335
+MCMXFF 
+DUNS 

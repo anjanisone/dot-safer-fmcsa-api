@@ -1,0 +1,9 @@
+LegalName JOHNSON SCALE & BALANCE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 74244
+StateId 74244
+MCMXFF 
+DUNS 

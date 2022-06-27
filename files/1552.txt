@@ -1,0 +1,9 @@
+LegalName DAVIS-LYNCH GLASS CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 1552
+StateId 1552
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName GEO R PIERCE INC
+DBAName PIERCE HOMES
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 81112
+StateId 81112
+MCMXFF 
+DUNS 

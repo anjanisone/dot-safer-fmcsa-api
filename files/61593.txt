@@ -1,0 +1,9 @@
+LegalName IVEY INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 61593
+StateId 61593
+MCMXFF 
+DUNS 

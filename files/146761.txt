@@ -1,0 +1,9 @@
+LegalName FARMERS GRAIN SERVICE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 146761
+StateId 146761
+MCMXFF 
+DUNS 

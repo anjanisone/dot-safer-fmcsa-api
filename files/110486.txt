@@ -1,0 +1,9 @@
+LegalName DURRETT-SHEPPARD STEEL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 110486
+StateId 110486
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName BIERSCH INC
+DBAName UNIVERSAL INDUSTRIES INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 1873
+StateId 1873
+MCMXFF 
+DUNS 

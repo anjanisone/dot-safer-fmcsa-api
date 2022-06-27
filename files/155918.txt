@@ -1,0 +1,9 @@
+LegalName MIKE'S EQUIPMENT CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 155918
+StateId 155918
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName SKANSKA USA CIVIL NORTHEAST INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 26204
+StateId 26204
+MCMXFF 
+DUNS 

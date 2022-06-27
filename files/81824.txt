@@ -1,0 +1,9 @@
+LegalName THE HARRY COOPER SUPPLY COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 81824
+StateId 81824
+MCMXFF 
+DUNS 

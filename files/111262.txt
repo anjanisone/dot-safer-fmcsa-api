@@ -1,0 +1,9 @@
+LegalName TRIANGLE CHEMICAL CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 111262
+StateId 111262
+MCMXFF 
+DUNS 

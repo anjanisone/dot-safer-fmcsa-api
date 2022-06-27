@@ -1,0 +1,9 @@
+LegalName TECK COMINCO AMERICAN INCORPORATED
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 130012
+StateId 130012
+MCMXFF 
+DUNS 

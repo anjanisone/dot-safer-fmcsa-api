@@ -1,0 +1,9 @@
+LegalName CHEMUNG SUPPLY CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 94306
+StateId 94306
+MCMXFF 
+DUNS 

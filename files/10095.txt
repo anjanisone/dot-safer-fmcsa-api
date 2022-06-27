@@ -1,0 +1,9 @@
+LegalName MEENAN OIL CO LP
+DBAName MEENAN OIL
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 10095
+StateId 10095
+MCMXFF 
+DUNS 

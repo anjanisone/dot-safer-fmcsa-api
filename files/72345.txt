@@ -1,0 +1,9 @@
+LegalName STAR SEED INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 72345
+StateId 72345
+MCMXFF 
+DUNS 

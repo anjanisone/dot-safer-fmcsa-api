@@ -1,0 +1,9 @@
+LegalName LESTER RAY COPELAND
+DBAName INDIAN CREEK FARMS TRANSIT
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 79899
+StateId 79899
+MCMXFF 
+DUNS 

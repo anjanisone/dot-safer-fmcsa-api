@@ -1,0 +1,9 @@
+LegalName AUTO TIRE & PARTS CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 70994
+StateId 70994
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName WHOLESALE TIRE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 149317
+StateId 149317
+MCMXFF 
+DUNS 

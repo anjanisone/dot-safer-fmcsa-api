@@ -1,0 +1,9 @@
+LegalName MODERN WELDING COMPANY OF OWENSBORO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 90426
+StateId 90426
+MCMXFF 
+DUNS 

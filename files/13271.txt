@@ -1,0 +1,9 @@
+LegalName VAAGEN BROS LUMBER INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 13271
+StateId 13271
+MCMXFF 
+DUNS 

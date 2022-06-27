@@ -1,0 +1,9 @@
+LegalName CULPEPER FARMERS COOPERATIVE INC
+DBAName CFC FARM AND HOME CENTER
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 84235
+StateId 84235
+MCMXFF 
+DUNS 

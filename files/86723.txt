@@ -1,0 +1,9 @@
+LegalName CLINTON WELDING SUPPLY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 86723
+StateId 86723
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName BOCK INDUSTRIES INC OF ELKHART
+DBAName BULL MOOSE TUBE CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 98841
+StateId 98841
+MCMXFF 
+DUNS 

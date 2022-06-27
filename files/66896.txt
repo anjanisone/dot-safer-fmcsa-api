@@ -1,0 +1,9 @@
+LegalName EASTERN GAS TRANSMISSION AND STORAGE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 66896
+StateId 66896
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName DEUEL COUNTY FARMERS UNION OIL COMPANY
+DBAName DEUEL COUNTY CENEX
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 44406
+StateId 44406
+MCMXFF 
+DUNS 

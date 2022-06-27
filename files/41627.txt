@@ -1,0 +1,9 @@
+LegalName COASTAL STEEL CONSTRUCTION INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 41627
+StateId 41627
+MCMXFF 
+DUNS 

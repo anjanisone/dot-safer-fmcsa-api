@@ -1,0 +1,9 @@
+LegalName DOUGLAS JOHNSON
+DBAName JOHNSON GATE SALES
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 109020
+StateId 109020
+MCMXFF 
+DUNS 

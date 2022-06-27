@@ -1,0 +1,9 @@
+LegalName DURAND-WAYLAND INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 121905
+StateId 121905
+MCMXFF 
+DUNS 

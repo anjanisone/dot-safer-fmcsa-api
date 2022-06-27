@@ -1,0 +1,9 @@
+LegalName AUGUSTINE METALS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 140779
+StateId 140779
+MCMXFF 
+DUNS 

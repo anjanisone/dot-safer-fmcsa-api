@@ -1,0 +1,9 @@
+LegalName STANLEY CHAIR CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 15930
+StateId 15930
+MCMXFF 
+DUNS 

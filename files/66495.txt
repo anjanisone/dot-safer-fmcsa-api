@@ -1,0 +1,9 @@
+LegalName ERIE STRAYER COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 66495
+StateId 66495
+MCMXFF 
+DUNS 

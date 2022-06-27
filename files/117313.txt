@@ -1,0 +1,9 @@
+LegalName MARVAL INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 117313
+StateId 117313
+MCMXFF 
+DUNS 

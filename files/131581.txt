@@ -1,0 +1,9 @@
+LegalName RICHARD E WHITE
+DBAName RICHARD WHITE & SONS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 131581
+StateId 131581
+MCMXFF 
+DUNS 

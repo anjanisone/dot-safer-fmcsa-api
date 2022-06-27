@@ -1,0 +1,9 @@
+LegalName TAFCO EQUIPMENT CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 132842
+StateId 132842
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName MCLANAHAN CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 38837
+StateId 38837
+MCMXFF 
+DUNS 

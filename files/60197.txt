@@ -1,0 +1,9 @@
+LegalName SOUTHWEST GAS EQUIPMENT CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 60197
+StateId 60197
+MCMXFF 
+DUNS 

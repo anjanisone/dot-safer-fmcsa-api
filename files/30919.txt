@@ -1,0 +1,9 @@
+LegalName BENTLEY WARREN TRUCKING INC
+DBAName BENTLEY WARREN INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 30919
+StateId 30919
+MCMXFF 
+DUNS 

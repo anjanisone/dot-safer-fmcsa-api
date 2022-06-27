@@ -1,0 +1,9 @@
+LegalName R L PARSON & SONS EQUIPMENT CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 51971
+StateId 51971
+MCMXFF 
+DUNS 

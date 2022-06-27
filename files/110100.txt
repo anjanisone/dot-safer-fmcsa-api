@@ -1,0 +1,9 @@
+LegalName NATURAL GAS CO OF VIRGINIA INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 110100
+StateId 110100
+MCMXFF 
+DUNS 

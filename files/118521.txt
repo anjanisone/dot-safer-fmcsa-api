@@ -1,0 +1,9 @@
+LegalName CARRUTH'S PIONEER MANUFACTURED HOUSING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 118521
+StateId 118521
+MCMXFF 
+DUNS 

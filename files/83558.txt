@@ -1,0 +1,9 @@
+LegalName BRIELS OF FENNIMORE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 83558
+StateId 83558
+MCMXFF 
+DUNS 

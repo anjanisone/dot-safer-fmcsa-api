@@ -1,0 +1,9 @@
+LegalName MORRISON TEXTILE MACHINERY CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 122038
+StateId 122038
+MCMXFF 
+DUNS 

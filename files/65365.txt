@@ -1,0 +1,9 @@
+LegalName MERCHANTS GROCERY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 65365
+StateId 65365
+MCMXFF 
+DUNS 

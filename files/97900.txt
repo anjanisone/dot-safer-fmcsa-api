@@ -1,0 +1,9 @@
+LegalName VANITY FAIR BRANDS LP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 97900
+StateId 97900
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName CHARLES HAMPTON'S A-1 SIGNS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 127300
+StateId 127300
+MCMXFF 
+DUNS 

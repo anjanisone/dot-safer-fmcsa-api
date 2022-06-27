@@ -1,0 +1,9 @@
+LegalName CASCADE MFG & DIST INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 59356
+StateId 59356
+MCMXFF 
+DUNS 

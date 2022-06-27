@@ -1,0 +1,9 @@
+LegalName JAMES E PUNSKY
+DBAName PUNSKY SCRAP IRON & METAL
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 18876
+StateId 18876
+MCMXFF 
+DUNS 

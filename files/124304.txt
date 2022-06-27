@@ -1,0 +1,9 @@
+LegalName BRANDT CHEM CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 124304
+StateId 124304
+MCMXFF 
+DUNS 

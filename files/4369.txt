@@ -1,0 +1,9 @@
+LegalName FRANK E WILSON LUMBER CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 4369
+StateId 4369
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName UGLY JOHNS CUSTOM BOATS LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 131858
+StateId 131858
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName FARMINGTON COCA-COLA BOTTLING AND DISTRIBUTING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 50989
+StateId 50989
+MCMXFF 
+DUNS 

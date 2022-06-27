@@ -1,0 +1,9 @@
+LegalName GATZKE FARMS INC
+DBAName WILDBERRY FARMS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 147331
+StateId 147331
+MCMXFF 
+DUNS 

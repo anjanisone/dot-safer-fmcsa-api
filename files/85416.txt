@@ -1,0 +1,9 @@
+LegalName W H EMMART & SON INC
+DBAName EMMART OIL COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 85416
+StateId 85416
+MCMXFF 
+DUNS 

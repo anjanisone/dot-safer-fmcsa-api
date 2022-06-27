@@ -1,0 +1,9 @@
+LegalName MALLOW FARMS
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 85271
+StateId 85271
+MCMXFF 
+DUNS 

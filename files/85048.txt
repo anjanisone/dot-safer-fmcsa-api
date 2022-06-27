@@ -1,0 +1,9 @@
+LegalName ELLWOOD CITY FORGE COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 85048
+StateId 85048
+MCMXFF 
+DUNS 

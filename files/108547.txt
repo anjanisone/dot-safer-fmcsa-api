@@ -1,0 +1,9 @@
+LegalName HOOD INDUSTRIES INC
+DBAName HOOD DISTRIBUTION
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 108547
+StateId 108547
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName UNITED TRANSPORT OF EAST LONGMEADOW INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 55353
+StateId 55353
+MCMXFF 
+DUNS 

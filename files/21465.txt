@@ -1,0 +1,9 @@
+LegalName DYNALECTRIC
+DBAName WASATCH ELECTRIC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 21465
+StateId 21465
+MCMXFF 
+DUNS 

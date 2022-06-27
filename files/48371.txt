@@ -1,0 +1,9 @@
+LegalName UNION GROVE LUMBER AND TRUE VALUE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 48371
+StateId 48371
+MCMXFF 
+DUNS 

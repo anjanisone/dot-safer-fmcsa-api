@@ -1,0 +1,9 @@
+LegalName HARRIS FARM INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 117699
+StateId 117699
+MCMXFF 
+DUNS 

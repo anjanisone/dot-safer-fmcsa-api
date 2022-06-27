@@ -1,0 +1,9 @@
+LegalName EGGERS INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 99932
+StateId 99932
+MCMXFF 
+DUNS 

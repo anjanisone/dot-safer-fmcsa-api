@@ -1,0 +1,9 @@
+LegalName THE COLEMAN COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 91013
+StateId 91013
+MCMXFF 
+DUNS 

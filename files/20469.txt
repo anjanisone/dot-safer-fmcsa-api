@@ -1,0 +1,9 @@
+LegalName SIERRA PACIFIC POWER COMPANY
+DBAName NV ENERGY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 20469
+StateId 20469
+MCMXFF 
+DUNS 

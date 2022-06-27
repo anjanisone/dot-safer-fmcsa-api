@@ -1,0 +1,9 @@
+LegalName WASHINGTON GAS LIGHT COMPANY
+DBAName WASHINGTON GAS INCORPORATED
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 36844
+StateId 36844
+MCMXFF 
+DUNS 

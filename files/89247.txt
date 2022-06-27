@@ -1,0 +1,9 @@
+LegalName FIKE CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 89247
+StateId 89247
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName MANTER CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 49468
+StateId 49468
+MCMXFF 
+DUNS 

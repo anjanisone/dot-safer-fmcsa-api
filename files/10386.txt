@@ -1,0 +1,9 @@
+LegalName SCHLOSSER STEEL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 10386
+StateId 10386
+MCMXFF 
+DUNS 

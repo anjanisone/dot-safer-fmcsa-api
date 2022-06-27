@@ -1,0 +1,9 @@
+LegalName DESIGN HOMES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 99586
+StateId 99586
+MCMXFF 
+DUNS 

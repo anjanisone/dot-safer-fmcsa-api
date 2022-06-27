@@ -1,0 +1,9 @@
+LegalName INTERSTATE PLASTIC INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 15462
+StateId 15462
+MCMXFF 
+DUNS 

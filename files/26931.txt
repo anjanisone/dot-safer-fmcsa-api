@@ -1,0 +1,9 @@
+LegalName PACIFICORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 26931
+StateId 26931
+MCMXFF 
+DUNS 

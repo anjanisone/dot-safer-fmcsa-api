@@ -1,0 +1,9 @@
+LegalName BARNES MANUFACTURING COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 121134
+StateId 121134
+MCMXFF 
+DUNS 

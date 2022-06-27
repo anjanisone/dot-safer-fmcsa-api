@@ -1,0 +1,9 @@
+LegalName FLINN CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 73796
+StateId 73796
+MCMXFF 
+DUNS 

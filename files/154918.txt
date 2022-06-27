@@ -1,0 +1,9 @@
+LegalName SOUTHERN SEEDS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 154918
+StateId 154918
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName DUGAN SUPPLY COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 18249
+StateId 18249
+MCMXFF 
+DUNS 

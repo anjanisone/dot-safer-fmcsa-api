@@ -1,0 +1,9 @@
+LegalName NORTHEAST INDUSTRIAL BATTERIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 10046
+StateId 10046
+MCMXFF 
+DUNS 

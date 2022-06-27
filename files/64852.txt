@@ -1,0 +1,9 @@
+LegalName MIDDLETOWN FARM SERVICE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 64852
+StateId 64852
+MCMXFF 
+DUNS 

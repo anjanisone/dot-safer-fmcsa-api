@@ -1,0 +1,9 @@
+LegalName JM SEED
+DBAName MILLER SEED COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 72242
+StateId 72242
+MCMXFF 
+DUNS 

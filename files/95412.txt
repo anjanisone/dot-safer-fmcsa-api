@@ -1,0 +1,9 @@
+LegalName BAR ALE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 95412
+StateId 95412
+MCMXFF 
+DUNS 

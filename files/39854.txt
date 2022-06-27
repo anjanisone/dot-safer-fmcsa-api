@@ -1,0 +1,9 @@
+LegalName MORRIS INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 39854
+StateId 39854
+MCMXFF 
+DUNS 

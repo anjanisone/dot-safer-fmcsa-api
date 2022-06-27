@@ -1,0 +1,9 @@
+LegalName GROTH FARMS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 134520
+StateId 134520
+MCMXFF 
+DUNS 

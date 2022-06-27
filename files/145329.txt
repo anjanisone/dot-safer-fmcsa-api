@@ -1,0 +1,9 @@
+LegalName DOUBLE S RECYCLERS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 145329
+StateId 145329
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName CITY FISH MARKET INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 56952
+StateId 56952
+MCMXFF 
+DUNS 

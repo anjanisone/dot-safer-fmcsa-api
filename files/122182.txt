@@ -1,0 +1,9 @@
+LegalName O'DELL CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 122182
+StateId 122182
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName FARIBAULT FOODS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 75329
+StateId 75329
+MCMXFF 
+DUNS 

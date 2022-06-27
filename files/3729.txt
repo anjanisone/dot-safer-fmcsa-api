@@ -1,0 +1,9 @@
+LegalName OZARK FISHERIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 3729
+StateId 3729
+MCMXFF 
+DUNS 

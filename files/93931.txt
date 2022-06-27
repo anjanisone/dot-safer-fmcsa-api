@@ -1,0 +1,9 @@
+LegalName PENN METAL FABRICATORS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93931
+StateId 93931
+MCMXFF 
+DUNS 

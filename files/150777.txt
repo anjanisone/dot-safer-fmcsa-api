@@ -1,0 +1,9 @@
+LegalName NORMAN W FRIES INC
+DBAName CLAXTON POULTRY FARMS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 150777
+StateId 150777
+MCMXFF 
+DUNS 

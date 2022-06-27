@@ -1,0 +1,9 @@
+LegalName CAROLINA PRODUCE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 63171
+StateId 63171
+MCMXFF 
+DUNS 

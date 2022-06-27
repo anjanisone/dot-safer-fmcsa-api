@@ -1,0 +1,9 @@
+LegalName GEA FARM TECHNOLOGIES INC
+DBAName GEA WS WEST
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 131375
+StateId 131375
+MCMXFF 
+DUNS 

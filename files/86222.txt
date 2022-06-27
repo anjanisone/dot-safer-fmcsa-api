@@ -1,0 +1,9 @@
+LegalName ASSOCIATED GROCERS OF NEW ENGLAND INC
+DBAName A G NEW ENGLAND
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 86222
+StateId 86222
+MCMXFF 
+DUNS 

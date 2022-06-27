@@ -1,0 +1,9 @@
+LegalName A F SEIDEMAN CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 46421
+StateId 46421
+MCMXFF 
+DUNS 

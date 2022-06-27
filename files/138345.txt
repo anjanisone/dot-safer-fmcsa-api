@@ -1,0 +1,9 @@
+LegalName GROSS-YOWELL LTD
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 138345
+StateId 138345
+MCMXFF 
+DUNS 

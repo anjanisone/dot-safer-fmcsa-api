@@ -1,0 +1,9 @@
+LegalName MARINE LUMBER CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 107561
+StateId 107561
+MCMXFF 
+DUNS 

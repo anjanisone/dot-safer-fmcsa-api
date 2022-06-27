@@ -1,0 +1,9 @@
+LegalName TORKE COFFEE COMPANY INC
+DBAName TORKE COFFEE ROASTING CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 130350
+StateId 130350
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName NORTHWEST PIPE FITTINGS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 883
+StateId 883
+MCMXFF 
+DUNS 

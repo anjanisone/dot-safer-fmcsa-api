@@ -1,0 +1,9 @@
+LegalName DALE'S HOMES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 133488
+StateId 133488
+MCMXFF 
+DUNS 

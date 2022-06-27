@@ -1,0 +1,9 @@
+LegalName LOYD ELECTRIC COMPANY INC
+DBAName LOYD ARMATURE WORKS INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 136224
+StateId 136224
+MCMXFF 
+DUNS 

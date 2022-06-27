@@ -1,0 +1,9 @@
+LegalName PITTS LUMBER CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 110353
+StateId 110353
+MCMXFF 
+DUNS 

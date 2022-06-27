@@ -1,0 +1,9 @@
+LegalName CENTRAL ELEVATOR INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 96346
+StateId 96346
+MCMXFF 
+DUNS 

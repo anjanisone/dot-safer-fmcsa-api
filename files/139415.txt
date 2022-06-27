@@ -1,0 +1,9 @@
+LegalName THOMPSONS O K TIRE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 139415
+StateId 139415
+MCMXFF 
+DUNS 

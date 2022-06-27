@@ -1,0 +1,9 @@
+LegalName NATIONAL FUEL GAS SUPPLY CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 40161
+StateId 40161
+MCMXFF 
+DUNS 

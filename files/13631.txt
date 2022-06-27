@@ -1,0 +1,9 @@
+LegalName MASTRO ELECTRIC SUPPLY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 13631
+StateId 13631
+MCMXFF 
+DUNS 

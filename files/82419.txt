@@ -1,0 +1,9 @@
+LegalName FRISBIE CONSTRUCTION CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 82419
+StateId 82419
+MCMXFF 
+DUNS 

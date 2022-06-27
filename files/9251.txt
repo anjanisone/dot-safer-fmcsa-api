@@ -1,0 +1,9 @@
+LegalName MAGGIE'S FARM LTD
+DBAName SKYLINE NURSERY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 9251
+StateId 9251
+MCMXFF 
+DUNS 

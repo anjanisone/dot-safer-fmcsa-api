@@ -1,0 +1,9 @@
+LegalName CAPITOL IRON AND STEEL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 5679
+StateId 5679
+MCMXFF 
+DUNS 

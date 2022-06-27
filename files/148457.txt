@@ -1,0 +1,9 @@
+LegalName HERRIN OIL INC
+DBAName C & M OIL CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 148457
+StateId 148457
+MCMXFF 
+DUNS 

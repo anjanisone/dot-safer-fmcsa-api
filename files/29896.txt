@@ -1,0 +1,9 @@
+LegalName HOLSUM BAKERY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 29896
+StateId 29896
+MCMXFF 
+DUNS 

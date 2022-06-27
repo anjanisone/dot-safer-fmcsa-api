@@ -1,0 +1,9 @@
+LegalName CORRPRO COMPANIES INC
+DBAName CORRPRO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 32464
+StateId 32464
+MCMXFF 
+DUNS 

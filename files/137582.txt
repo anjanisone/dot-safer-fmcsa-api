@@ -1,0 +1,9 @@
+LegalName ALL BRITE SALES CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 137582
+StateId 137582
+MCMXFF 
+DUNS 

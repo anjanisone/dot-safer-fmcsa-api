@@ -1,0 +1,9 @@
+LegalName ROBERT CHICK FRITZ INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 71473
+StateId 71473
+MCMXFF 
+DUNS 

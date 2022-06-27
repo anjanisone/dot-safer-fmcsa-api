@@ -1,0 +1,9 @@
+LegalName FARM IMPLEMENT & SUPPLY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 131433
+StateId 131433
+MCMXFF 
+DUNS 

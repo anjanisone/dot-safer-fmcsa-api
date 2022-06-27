@@ -1,0 +1,9 @@
+LegalName UNITED REFINING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 45837
+StateId 45837
+MCMXFF 
+DUNS 

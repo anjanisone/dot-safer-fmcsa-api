@@ -1,0 +1,9 @@
+LegalName PLATING TECHNOLOGY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93134
+StateId 93134
+MCMXFF 
+DUNS 

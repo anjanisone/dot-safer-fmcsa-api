@@ -1,0 +1,9 @@
+LegalName VULCAN SCRAP METAL LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 49077
+StateId 49077
+MCMXFF 
+DUNS 

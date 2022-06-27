@@ -1,0 +1,9 @@
+LegalName G L SAYRE INC
+DBAName RIDGE RENTALS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 12495
+StateId 12495
+MCMXFF 
+DUNS 

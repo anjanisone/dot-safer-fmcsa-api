@@ -1,0 +1,9 @@
+LegalName THE NEW YORK TIMES
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 31079
+StateId 31079
+MCMXFF 
+DUNS 

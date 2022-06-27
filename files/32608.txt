@@ -1,0 +1,9 @@
+LegalName SAMUEL C LINTON III
+DBAName LINTON LUMBER & BUILDING SUPPLY CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 32608
+StateId 32608
+MCMXFF 
+DUNS 

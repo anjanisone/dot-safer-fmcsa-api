@@ -1,0 +1,9 @@
+LegalName KANSAS LUMBER HOMESTORE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 145819
+StateId 145819
+MCMXFF 
+DUNS 

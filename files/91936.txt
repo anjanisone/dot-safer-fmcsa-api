@@ -1,0 +1,9 @@
+LegalName ARTHUR POWERS MOVING & STORAGE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 91936
+StateId 91936
+MCMXFF 
+DUNS 

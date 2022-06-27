@@ -1,0 +1,9 @@
+LegalName EASTERN ALLOYS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 102526
+StateId 102526
+MCMXFF 
+DUNS 

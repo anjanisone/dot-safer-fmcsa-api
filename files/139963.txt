@@ -1,0 +1,9 @@
+LegalName FLEXIBLE PRODUCTS COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 139963
+StateId 139963
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName BELLINGHAM LUMBER CO LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 31348
+StateId 31348
+MCMXFF 
+DUNS 

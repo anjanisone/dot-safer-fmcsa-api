@@ -1,0 +1,9 @@
+LegalName BRANDYWINE RECYCLERS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 146480
+StateId 146480
+MCMXFF 
+DUNS 

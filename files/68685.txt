@@ -1,0 +1,9 @@
+LegalName HEMPSTEAD COUNTY FARMERS ASSN
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 68685
+StateId 68685
+MCMXFF 
+DUNS 

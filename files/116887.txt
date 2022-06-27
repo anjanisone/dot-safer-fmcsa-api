@@ -1,0 +1,9 @@
+LegalName MCCORMICK PAINT WORKS CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 116887
+StateId 116887
+MCMXFF 
+DUNS 

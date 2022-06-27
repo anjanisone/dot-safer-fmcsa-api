@@ -1,0 +1,9 @@
+LegalName BARROWS COAL COMPANY INC
+DBAName BARROWS AND FISHER OIL COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 111530
+StateId 111530
+MCMXFF 
+DUNS 

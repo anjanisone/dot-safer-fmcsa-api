@@ -1,0 +1,9 @@
+LegalName NEW RIVER ELECTRICAL CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 41508
+StateId 41508
+MCMXFF 
+DUNS 

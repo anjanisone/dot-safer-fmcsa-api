@@ -1,0 +1,9 @@
+LegalName LIPHART STEEL COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 119042
+StateId 119042
+MCMXFF 
+DUNS 

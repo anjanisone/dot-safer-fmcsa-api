@@ -1,0 +1,9 @@
+LegalName PARSLEYS GENERAL TIRE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 128725
+StateId 128725
+MCMXFF 
+DUNS 

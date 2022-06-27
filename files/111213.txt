@@ -1,0 +1,9 @@
+LegalName C M TANNER GROCERY COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 111213
+StateId 111213
+MCMXFF 
+DUNS 

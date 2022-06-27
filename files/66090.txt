@@ -1,0 +1,9 @@
+LegalName MONSANTO COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 66090
+StateId 66090
+MCMXFF 
+DUNS 

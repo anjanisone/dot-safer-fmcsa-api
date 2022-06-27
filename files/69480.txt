@@ -1,0 +1,9 @@
+LegalName HOHENSCHILD WELDERS SUPPLY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 69480
+StateId 69480
+MCMXFF 
+DUNS 

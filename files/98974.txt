@@ -1,0 +1,9 @@
+LegalName J SOLOTKEN AND CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 98974
+StateId 98974
+MCMXFF 
+DUNS 

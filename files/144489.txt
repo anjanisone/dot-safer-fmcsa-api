@@ -1,0 +1,9 @@
+LegalName CONTRACT CLEANERS SUPPLY & SERVICE CENTERS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 144489
+StateId 144489
+MCMXFF 
+DUNS 

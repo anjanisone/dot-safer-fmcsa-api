@@ -1,0 +1,9 @@
+LegalName SHUBACK FARMS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 27547
+StateId 27547
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName AUTOMATIC HEATING AND SERVICE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 96688
+StateId 96688
+MCMXFF 
+DUNS 

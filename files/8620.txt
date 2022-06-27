@@ -1,0 +1,9 @@
+LegalName INTERSTATE MEAT DISTRIBUTORS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 8620
+StateId 8620
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName DAKOTA BEVERAGE CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 44360
+StateId 44360
+MCMXFF 
+DUNS 

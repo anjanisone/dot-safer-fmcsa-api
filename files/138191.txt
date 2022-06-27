@@ -1,0 +1,9 @@
+LegalName SVENHARDS SWEDISH BAKERY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 138191
+StateId 138191
+MCMXFF 
+DUNS 

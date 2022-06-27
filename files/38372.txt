@@ -1,0 +1,9 @@
+LegalName COOPERATIVE SUPPLY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 38372
+StateId 38372
+MCMXFF 
+DUNS 

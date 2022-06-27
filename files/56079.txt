@@ -1,0 +1,9 @@
+LegalName COLLINS PIPE & SUPPLY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 56079
+StateId 56079
+MCMXFF 
+DUNS 

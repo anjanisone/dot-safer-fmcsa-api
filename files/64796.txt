@@ -1,0 +1,9 @@
+LegalName EASTON ICE BAIT & SEAFOOD INC
+DBAName EASTON ICE CO INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 64796
+StateId 64796
+MCMXFF 
+DUNS 

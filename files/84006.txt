@@ -1,0 +1,9 @@
+LegalName CHOWAN STORAGE CO
+DBAName HAYES FARM
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 84006
+StateId 84006
+MCMXFF 
+DUNS 

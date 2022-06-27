@@ -1,0 +1,9 @@
+LegalName THE BAILEY COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 92870
+StateId 92870
+MCMXFF 
+DUNS 

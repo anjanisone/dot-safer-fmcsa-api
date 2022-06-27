@@ -1,0 +1,9 @@
+LegalName TENNSCO LLC
+DBAName TENNSCO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 26960
+StateId 26960
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName HARNEY ELECTRIC COOPERATIVE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 113832
+StateId 113832
+MCMXFF 
+DUNS 

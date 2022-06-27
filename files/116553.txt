@@ -1,0 +1,9 @@
+LegalName HINIKER COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 116553
+StateId 116553
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName R & R INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 42625
+StateId 42625
+MCMXFF 
+DUNS 

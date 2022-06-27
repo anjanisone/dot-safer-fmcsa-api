@@ -1,0 +1,9 @@
+LegalName ELECTRICAL EQUIPMENT CO INC
+DBAName ELECTRICAL CONTRACTOR
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 67472
+StateId 67472
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName FLANDERS ELECTRIC MOTOR SERVICE OF IL LLC
+DBAName FLANDERS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 71232
+StateId 71232
+MCMXFF 
+DUNS 

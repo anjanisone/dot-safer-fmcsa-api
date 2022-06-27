@@ -1,0 +1,9 @@
+LegalName GROTE INDUSTRIES LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93395
+StateId 93395
+MCMXFF 
+DUNS 

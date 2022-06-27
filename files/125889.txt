@@ -1,0 +1,9 @@
+LegalName PONCA IRON AND METAL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 125889
+StateId 125889
+MCMXFF 
+DUNS 

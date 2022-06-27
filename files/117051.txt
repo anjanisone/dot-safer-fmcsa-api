@@ -1,0 +1,9 @@
+LegalName CITY PRODUCE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 117051
+StateId 117051
+MCMXFF 
+DUNS 

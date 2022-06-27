@@ -1,0 +1,9 @@
+LegalName THE VICTORY WHITE METAL CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 1145
+StateId 1145
+MCMXFF 
+DUNS 

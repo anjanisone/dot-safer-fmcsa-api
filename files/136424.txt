@@ -1,0 +1,9 @@
+LegalName ALAMO IRON WORKS
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 136424
+StateId 136424
+MCMXFF 
+DUNS 

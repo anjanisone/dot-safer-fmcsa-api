@@ -1,0 +1,9 @@
+LegalName BERKSHIRE BRIDGE & IRON CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 35795
+StateId 35795
+MCMXFF 
+DUNS 

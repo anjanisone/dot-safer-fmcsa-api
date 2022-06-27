@@ -1,0 +1,9 @@
+LegalName ROY S SHEPHERD
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 52193
+StateId 52193
+MCMXFF 
+DUNS 

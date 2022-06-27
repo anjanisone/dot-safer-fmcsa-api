@@ -1,0 +1,9 @@
+LegalName MARSH FURNITURE CO INC
+DBAName MARSH LUMBER CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 108592
+StateId 108592
+MCMXFF 
+DUNS 

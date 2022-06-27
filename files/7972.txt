@@ -1,0 +1,9 @@
+LegalName WILLIAM L BONNELL COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 7972
+StateId 7972
+MCMXFF 
+DUNS 

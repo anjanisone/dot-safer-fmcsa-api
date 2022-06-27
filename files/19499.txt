@@ -1,0 +1,9 @@
+LegalName W M SPIEGEL SONS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 19499
+StateId 19499
+MCMXFF 
+DUNS 

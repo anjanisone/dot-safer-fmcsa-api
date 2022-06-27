@@ -1,0 +1,9 @@
+LegalName ALASKA FENCE CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 120760
+StateId 120760
+MCMXFF 
+DUNS 

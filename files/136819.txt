@@ -1,0 +1,9 @@
+LegalName WILL S MOURSUND & MARY M MOURSUND
+DBAName RANCHLANDER CORPORATION
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 136819
+StateId 136819
+MCMXFF 
+DUNS 

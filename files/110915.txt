@@ -1,0 +1,9 @@
+LegalName RISH EQUIPMENT COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 110915
+StateId 110915
+MCMXFF 
+DUNS 

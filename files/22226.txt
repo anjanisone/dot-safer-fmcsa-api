@@ -1,0 +1,9 @@
+LegalName HAMBURG PLOW WORKS INC
+DBAName HAMBURG MANUFACTURING INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 22226
+StateId 22226
+MCMXFF 
+DUNS 

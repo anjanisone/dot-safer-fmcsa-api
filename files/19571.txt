@@ -1,0 +1,9 @@
+LegalName CONRAD SCHWEIZER
+DBAName CONRAD SCHWEIZER NURSERIES
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 19571
+StateId 19571
+MCMXFF 
+DUNS 

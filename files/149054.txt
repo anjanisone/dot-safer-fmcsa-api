@@ -1,0 +1,9 @@
+LegalName RICOH USA INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 149054
+StateId 149054
+MCMXFF 
+DUNS 

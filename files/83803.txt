@@ -1,0 +1,9 @@
+LegalName MAXSAM SALES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 83803
+StateId 83803
+MCMXFF 
+DUNS 

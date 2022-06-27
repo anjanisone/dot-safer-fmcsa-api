@@ -1,0 +1,9 @@
+LegalName SPAULDING BRICK CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 8897
+StateId 8897
+MCMXFF 
+DUNS 

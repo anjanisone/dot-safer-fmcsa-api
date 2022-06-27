@@ -1,0 +1,9 @@
+LegalName VAUGHN LUMBER CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 152848
+StateId 152848
+MCMXFF 
+DUNS 

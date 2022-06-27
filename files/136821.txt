@@ -1,0 +1,9 @@
+LegalName MORTELLAROS NURSERY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 136821
+StateId 136821
+MCMXFF 
+DUNS 

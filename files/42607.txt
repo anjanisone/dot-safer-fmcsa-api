@@ -1,0 +1,9 @@
+LegalName PETRICCA INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 42607
+StateId 42607
+MCMXFF 
+DUNS 

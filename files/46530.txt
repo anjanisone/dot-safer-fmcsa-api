@@ -1,0 +1,9 @@
+LegalName STEARNS PACKAGING CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 46530
+StateId 46530
+MCMXFF 
+DUNS 

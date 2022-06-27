@@ -1,0 +1,9 @@
+LegalName GROVES EQUIPMENT RENTAL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 115216
+StateId 115216
+MCMXFF 
+DUNS 

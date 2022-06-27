@@ -1,0 +1,9 @@
+LegalName PALM BEACH BEDDING CO
+DBAName SERTA MATTRESS COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 16181
+StateId 16181
+MCMXFF 
+DUNS 

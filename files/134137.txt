@@ -1,0 +1,9 @@
+LegalName JUSTISS OIL COMPANY INC
+DBAName BAKER TANK COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 134137
+StateId 134137
+MCMXFF 
+DUNS 

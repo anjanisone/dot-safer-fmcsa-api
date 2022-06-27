@@ -1,0 +1,9 @@
+LegalName NATALE L SMITH
+DBAName NATE SMITH SAWDUST
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 9254
+StateId 9254
+MCMXFF 
+DUNS 

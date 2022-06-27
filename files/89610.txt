@@ -1,0 +1,9 @@
+LegalName HUNTINGTON INGALLS INCORPORATED
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 89610
+StateId 89610
+MCMXFF 
+DUNS 

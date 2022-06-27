@@ -1,0 +1,9 @@
+LegalName REIMAN CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 101222
+StateId 101222
+MCMXFF 
+DUNS 

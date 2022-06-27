@@ -1,0 +1,9 @@
+LegalName AVISTON LUMBER CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 124239
+StateId 124239
+MCMXFF 
+DUNS 

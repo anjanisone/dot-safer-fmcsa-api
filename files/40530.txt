@@ -1,0 +1,9 @@
+LegalName CHRIS KNUTZEN & CO
+DBAName CHRIS KNUTZEN GRAIN INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 40530
+StateId 40530
+MCMXFF 
+DUNS 

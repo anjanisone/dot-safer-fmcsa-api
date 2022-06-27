@@ -1,0 +1,9 @@
+LegalName THE PARTS HOUSE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 91789
+StateId 91789
+MCMXFF 
+DUNS 

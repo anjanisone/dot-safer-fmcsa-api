@@ -1,0 +1,9 @@
+LegalName VERMEER WISCONSIN INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 149993
+StateId 149993
+MCMXFF 
+DUNS 

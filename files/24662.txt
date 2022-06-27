@@ -1,0 +1,9 @@
+LegalName THE ROGERS MANUFACTURING COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 24662
+StateId 24662
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName A W HERNDON LAND & TIMBER DEVELOPMENT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 92488
+StateId 92488
+MCMXFF 
+DUNS 

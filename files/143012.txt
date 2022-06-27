@@ -1,0 +1,9 @@
+LegalName AS LEGACY INC
+DBAName A&A MIDWEST REBUILDERS SUPPLIERS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 143012
+StateId 143012
+MCMXFF 
+DUNS 

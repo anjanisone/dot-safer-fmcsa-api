@@ -1,0 +1,9 @@
+LegalName DIAMOND STATE RECYCLING CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 33721
+StateId 33721
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName S & S DISTRIBUTING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 46964
+StateId 46964
+MCMXFF 
+DUNS 

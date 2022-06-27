@@ -1,0 +1,9 @@
+LegalName GROSS EQUIPMENT CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 5318
+StateId 5318
+MCMXFF 
+DUNS 

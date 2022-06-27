@@ -1,0 +1,9 @@
+LegalName SOUTHERN CALIFORNIA EDISON COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 59076
+StateId 59076
+MCMXFF 
+DUNS 

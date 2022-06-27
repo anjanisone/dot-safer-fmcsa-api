@@ -1,0 +1,9 @@
+LegalName FITZGERALD CONSTRUCTION INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 75377
+StateId 75377
+MCMXFF 
+DUNS 

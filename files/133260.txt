@@ -1,0 +1,9 @@
+LegalName BOARDMAN STEEL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 133260
+StateId 133260
+MCMXFF 
+DUNS 

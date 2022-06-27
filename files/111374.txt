@@ -1,0 +1,9 @@
+LegalName COMMERCIAL PIPE & SUPPLY CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 111374
+StateId 111374
+MCMXFF 
+DUNS 

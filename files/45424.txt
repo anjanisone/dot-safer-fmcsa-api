@@ -1,0 +1,9 @@
+LegalName TOWANDA IRON AND METAL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 45424
+StateId 45424
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName INDUSTRIAL MAINTENANCE WELDING & MACHINING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93280
+StateId 93280
+MCMXFF 
+DUNS 

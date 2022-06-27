@@ -1,0 +1,9 @@
+LegalName GENERAL SUPPLY COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 36990
+StateId 36990
+MCMXFF 
+DUNS 

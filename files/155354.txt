@@ -1,0 +1,9 @@
+LegalName CITY BEVERAGE OF ALTOONA INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 155354
+StateId 155354
+MCMXFF 
+DUNS 

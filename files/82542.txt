@@ -1,0 +1,9 @@
+LegalName CENTRAL STATE SUPPLY CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 82542
+StateId 82542
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName BROWNING EQUIPMENT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 37951
+StateId 37951
+MCMXFF 
+DUNS 

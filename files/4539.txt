@@ -1,0 +1,9 @@
+LegalName MIDWEST FLOOR COVERINGS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 4539
+StateId 4539
+MCMXFF 
+DUNS 

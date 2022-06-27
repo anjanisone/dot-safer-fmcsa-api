@@ -1,0 +1,9 @@
+LegalName SOUTHLAND CONTAINER INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 155688
+StateId 155688
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName MIDWEST DISTRIBUTORS CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 87535
+StateId 87535
+MCMXFF 
+DUNS 

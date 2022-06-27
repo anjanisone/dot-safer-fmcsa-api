@@ -1,0 +1,9 @@
+LegalName WACKERBARTH BOX MFG CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 20693
+StateId 20693
+MCMXFF 
+DUNS 

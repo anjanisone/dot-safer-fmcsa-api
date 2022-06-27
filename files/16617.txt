@@ -1,0 +1,9 @@
+LegalName STRATE WELDING SUPPLY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 16617
+StateId 16617
+MCMXFF 
+DUNS 

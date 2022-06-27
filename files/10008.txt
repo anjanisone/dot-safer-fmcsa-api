@@ -1,0 +1,9 @@
+LegalName PPL ELECTRIC UTILITIES
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 10008
+StateId 10008
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName BAIRS L-P GAS SERVICE
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 52859
+StateId 52859
+MCMXFF 
+DUNS 

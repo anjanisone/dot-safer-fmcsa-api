@@ -1,0 +1,9 @@
+LegalName LUCKY SERVICES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 95826
+StateId 95826
+MCMXFF 
+DUNS 

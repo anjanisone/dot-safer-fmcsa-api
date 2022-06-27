@@ -1,0 +1,9 @@
+LegalName L J HUGHES & SONS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 122391
+StateId 122391
+MCMXFF 
+DUNS 

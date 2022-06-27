@@ -1,0 +1,9 @@
+LegalName BURNS & SPANGLER INCORPORATED
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 97226
+StateId 97226
+MCMXFF 
+DUNS 

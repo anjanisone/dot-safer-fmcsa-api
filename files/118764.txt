@@ -1,0 +1,9 @@
+LegalName MODERN FIBERS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 118764
+StateId 118764
+MCMXFF 
+DUNS 

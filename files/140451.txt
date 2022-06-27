@@ -1,0 +1,9 @@
+LegalName BALCHEM CORP
+DBAName ARC SPECIALTY PRODUCTS
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 140451
+StateId 140451
+MCMXFF 
+DUNS 

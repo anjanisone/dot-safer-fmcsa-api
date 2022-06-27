@@ -1,0 +1,9 @@
+LegalName CAPITAL INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 38625
+StateId 38625
+MCMXFF 
+DUNS 

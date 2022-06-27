@@ -1,0 +1,9 @@
+LegalName FLEMINGS LANDSCAPING & MORE LLC
+DBAName MEYERS NURSERY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 98278
+StateId 98278
+MCMXFF 
+DUNS 

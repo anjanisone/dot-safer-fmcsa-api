@@ -1,0 +1,9 @@
+LegalName WESTFIELD COATINGS CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 20636
+StateId 20636
+MCMXFF 
+DUNS 

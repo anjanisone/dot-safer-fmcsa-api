@@ -1,0 +1,9 @@
+LegalName THE MIAMI PRODUCTS & CHEMICAL COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 76827
+StateId 76827
+MCMXFF 
+DUNS 

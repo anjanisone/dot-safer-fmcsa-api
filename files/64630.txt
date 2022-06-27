@@ -1,0 +1,9 @@
+LegalName O'NEAL STEEL INC
+DBAName O'NEAL THE METALS COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 64630
+StateId 64630
+MCMXFF 
+DUNS 

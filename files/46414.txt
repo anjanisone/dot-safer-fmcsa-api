@@ -1,0 +1,9 @@
+LegalName A L SCHUTZMAN CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 46414
+StateId 46414
+MCMXFF 
+DUNS 

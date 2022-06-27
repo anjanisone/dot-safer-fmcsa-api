@@ -1,0 +1,9 @@
+LegalName HURTT FABRICATING CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 82026
+StateId 82026
+MCMXFF 
+DUNS 

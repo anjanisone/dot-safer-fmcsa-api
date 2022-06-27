@@ -1,0 +1,9 @@
+LegalName F NASIFF JR & CO INC
+DBAName NASIFF FRUIT COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 129258
+StateId 129258
+MCMXFF 
+DUNS 

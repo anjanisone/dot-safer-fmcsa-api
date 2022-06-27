@@ -1,0 +1,9 @@
+LegalName GERALD W CLARK WELL DRILLING INC
+DBAName CLARK'S WELL DRILLING
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 51277
+StateId 51277
+MCMXFF 
+DUNS 

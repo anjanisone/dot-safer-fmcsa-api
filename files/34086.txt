@@ -1,0 +1,9 @@
+LegalName MATT BREWING CO INC
+DBAName THE FX MATT BREWING COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 34086
+StateId 34086
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName SHILOH INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 44580
+StateId 44580
+MCMXFF 
+DUNS 

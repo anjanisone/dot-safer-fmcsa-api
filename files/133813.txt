@@ -1,0 +1,9 @@
+LegalName MCINTOSH COOPERATIVE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 133813
+StateId 133813
+MCMXFF 
+DUNS 

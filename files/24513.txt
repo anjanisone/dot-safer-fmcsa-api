@@ -1,0 +1,9 @@
+LegalName WORCESTER MANUFACTURING INC
+DBAName INDEPENDENT PLATING
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 24513
+StateId 24513
+MCMXFF 
+DUNS 

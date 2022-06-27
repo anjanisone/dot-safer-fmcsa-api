@@ -1,0 +1,9 @@
+LegalName MILLER HARDWARE CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 63504
+StateId 63504
+MCMXFF 
+DUNS 

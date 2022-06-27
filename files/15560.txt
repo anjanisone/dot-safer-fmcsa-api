@@ -1,0 +1,9 @@
+LegalName MAX J KUNEY COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 15560
+StateId 15560
+MCMXFF 
+DUNS 

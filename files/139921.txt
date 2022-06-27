@@ -1,0 +1,9 @@
+LegalName MCNEILLY ICE CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 139921
+StateId 139921
+MCMXFF 
+DUNS 

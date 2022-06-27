@@ -1,0 +1,9 @@
+LegalName RITE-WAY LEASING COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 48115
+StateId 48115
+MCMXFF 
+DUNS 

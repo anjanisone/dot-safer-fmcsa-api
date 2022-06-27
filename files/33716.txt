@@ -1,0 +1,9 @@
+LegalName DELMARVA POWER AND LIGHT COMPANY
+DBAName DELMARVA POWER
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 33716
+StateId 33716
+MCMXFF 
+DUNS 

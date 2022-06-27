@@ -1,0 +1,9 @@
+LegalName EAST JORDAN PLASTICS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 75745
+StateId 75745
+MCMXFF 
+DUNS 

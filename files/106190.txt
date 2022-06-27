@@ -1,0 +1,9 @@
+LegalName HODGDON BROTHERS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 106190
+StateId 106190
+MCMXFF 
+DUNS 

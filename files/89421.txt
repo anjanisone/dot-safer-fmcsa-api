@@ -1,0 +1,9 @@
+LegalName EAVES TRUCKING CO
+DBAName 
+PhysicalAddress 973 HWY 21 S PRESTON, MS   39354
+Phone (662) 361-0046
+MailingAddress 973 HWY 21 S PRESTON, MS   39354
+DOTNumber 89421
+StateId 89421
+MCMXFF 
+DUNS 

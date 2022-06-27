@@ -1,0 +1,9 @@
+LegalName WITCH EQUIPMENT CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 21748
+StateId 21748
+MCMXFF 
+DUNS 

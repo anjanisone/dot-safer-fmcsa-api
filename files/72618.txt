@@ -1,0 +1,9 @@
+LegalName CARDONE INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 72618
+StateId 72618
+MCMXFF 
+DUNS 

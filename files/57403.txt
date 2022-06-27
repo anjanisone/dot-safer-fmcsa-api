@@ -1,0 +1,9 @@
+LegalName VANDENBERG MFG CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 57403
+StateId 57403
+MCMXFF 
+DUNS 

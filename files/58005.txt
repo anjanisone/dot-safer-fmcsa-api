@@ -1,0 +1,9 @@
+LegalName PERRY B DURYEA & SON INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 58005
+StateId 58005
+MCMXFF 
+DUNS 

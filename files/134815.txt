@@ -1,0 +1,9 @@
+LegalName ELOTT H RAFFETY
+DBAName BIRDS MILL FARM
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 134815
+StateId 134815
+MCMXFF 
+DUNS 

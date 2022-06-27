@@ -1,0 +1,9 @@
+LegalName VERA JOHNSON
+DBAName JOHNSON OIL & SUPPLY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 30830
+StateId 30830
+MCMXFF 
+DUNS 

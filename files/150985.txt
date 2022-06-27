@@ -1,0 +1,9 @@
+LegalName MASTERCRAFT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 150985
+StateId 150985
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName SPERRY RAIL INC
+DBAName SPERRY RAIL SERVICE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 57950
+StateId 57950
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName SMITH DODSON LUMBER CO
+DBAName THE SMITH DODSON COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 51854
+StateId 51854
+MCMXFF 
+DUNS 

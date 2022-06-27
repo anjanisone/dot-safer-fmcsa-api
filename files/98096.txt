@@ -1,0 +1,9 @@
+LegalName S J SMITH CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 98096
+StateId 98096
+MCMXFF 
+DUNS 

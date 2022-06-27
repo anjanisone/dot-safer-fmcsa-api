@@ -1,0 +1,9 @@
+LegalName F E SCHUMACHER CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 30228
+StateId 30228
+MCMXFF 
+DUNS 

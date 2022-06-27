@@ -1,0 +1,9 @@
+LegalName MID-AMERICA TRUCK EQUIPMENT INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 141027
+StateId 141027
+MCMXFF 
+DUNS 

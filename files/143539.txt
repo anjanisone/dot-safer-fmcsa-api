@@ -1,0 +1,9 @@
+LegalName LINDER EQUIPMENT COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 143539
+StateId 143539
+MCMXFF 
+DUNS 

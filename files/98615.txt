@@ -1,0 +1,9 @@
+LegalName ELKHART SUPPLY CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 98615
+StateId 98615
+MCMXFF 
+DUNS 

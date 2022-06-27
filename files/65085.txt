@@ -1,0 +1,9 @@
+LegalName J W TREUTH & SONS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 65085
+StateId 65085
+MCMXFF 
+DUNS 

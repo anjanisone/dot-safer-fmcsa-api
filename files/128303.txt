@@ -1,0 +1,9 @@
+LegalName LAMPTON WELDING SUPPLY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 128303
+StateId 128303
+MCMXFF 
+DUNS 

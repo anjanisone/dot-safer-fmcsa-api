@@ -1,0 +1,9 @@
+LegalName DORSETT INDUSTRIES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 121892
+StateId 121892
+MCMXFF 
+DUNS 

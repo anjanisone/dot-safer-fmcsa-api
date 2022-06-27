@@ -1,0 +1,9 @@
+LegalName SCHANTZ ORGAN COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 30223
+StateId 30223
+MCMXFF 
+DUNS 

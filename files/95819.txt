@@ -1,0 +1,9 @@
+LegalName GARDNER ZEMKE COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 95819
+StateId 95819
+MCMXFF 
+DUNS 

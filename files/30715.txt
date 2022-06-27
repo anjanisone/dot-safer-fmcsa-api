@@ -1,0 +1,9 @@
+LegalName TAYLOR EGG PRODUCTS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 30715
+StateId 30715
+MCMXFF 
+DUNS 

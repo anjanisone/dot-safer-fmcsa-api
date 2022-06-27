@@ -1,0 +1,9 @@
+LegalName L E MYERS COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 127892
+StateId 127892
+MCMXFF 
+DUNS 

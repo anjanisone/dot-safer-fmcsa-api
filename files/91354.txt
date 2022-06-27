@@ -1,0 +1,9 @@
+LegalName R & S GODWIN TRUCK BODY CO LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 91354
+StateId 91354
+MCMXFF 
+DUNS 

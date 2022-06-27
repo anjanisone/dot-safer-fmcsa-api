@@ -1,0 +1,9 @@
+LegalName LEWIS CRAB FACTORY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 88034
+StateId 88034
+MCMXFF 
+DUNS 

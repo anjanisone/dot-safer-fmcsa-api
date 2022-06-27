@@ -1,0 +1,9 @@
+LegalName HOMER WENNERSTROM & SONS
+DBAName 
+PhysicalAddress BOX 215 HOPE, ND   58046
+Phone (701) 945-2312
+MailingAddress BOX 215 HOPE, ND   58046
+DOTNumber 35271
+StateId 35271
+MCMXFF 
+DUNS 

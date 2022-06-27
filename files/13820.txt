@@ -1,0 +1,9 @@
+LegalName INDEPENDENT CHEMICAL OF NEW JERSEY
+DBAName INDEPENDENT CHEMICAL
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 13820
+StateId 13820
+MCMXFF 
+DUNS 

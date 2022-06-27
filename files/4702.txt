@@ -1,0 +1,9 @@
+LegalName TRUMBO ELECTRIC INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 4702
+StateId 4702
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName V F P INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 4737
+StateId 4737
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName PROVIDENCE LACQUER & SUPPLY CENTRE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 16995
+StateId 16995
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName SMITH FLOORING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 3822
+StateId 3822
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName LOMAR DISTRIBUTING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 87362
+StateId 87362
+MCMXFF 
+DUNS 

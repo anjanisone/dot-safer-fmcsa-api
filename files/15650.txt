@@ -1,0 +1,9 @@
+LegalName NANCY MOLSTAD
+DBAName NELSON FLAG & DISPLAY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 15650
+StateId 15650
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName MONROE IRON AND METAL
+DBAName GENERAL SCRAP MATERIAL
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 130944
+StateId 130944
+MCMXFF 
+DUNS 

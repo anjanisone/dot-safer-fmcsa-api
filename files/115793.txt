@@ -1,0 +1,9 @@
+LegalName LUDINGTON BEVERAGE COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 115793
+StateId 115793
+MCMXFF 
+DUNS 

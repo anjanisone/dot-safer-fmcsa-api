@@ -1,0 +1,9 @@
+LegalName DICK COULTER INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 71902
+StateId 71902
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName BARBERO BAKERY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 57806
+StateId 57806
+MCMXFF 
+DUNS 

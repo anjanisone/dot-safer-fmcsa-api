@@ -1,0 +1,9 @@
+LegalName ROSCOE MOSS MFG CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 9565
+StateId 9565
+MCMXFF 
+DUNS 

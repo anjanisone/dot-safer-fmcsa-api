@@ -1,0 +1,9 @@
+LegalName EASTERN BURLAP TRADING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 120177
+StateId 120177
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName KENNEY MANUFACTURING COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 25408
+StateId 25408
+MCMXFF 
+DUNS 

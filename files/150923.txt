@@ -1,0 +1,9 @@
+LegalName OAHU METAL & SUPPLY LTD
+DBAName CM RECYCLING LLC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 150923
+StateId 150923
+MCMXFF 
+DUNS 

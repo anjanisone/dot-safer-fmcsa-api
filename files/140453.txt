@@ -1,0 +1,9 @@
+LegalName COLBY CANVAS COMPANY INC
+DBAName COLBY CANVAS COMPANY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 140453
+StateId 140453
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName WHELCHEL HARDWARE CO INC
+DBAName L AND J PLUMBING SUPPLY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 3934
+StateId 3934
+MCMXFF 
+DUNS 

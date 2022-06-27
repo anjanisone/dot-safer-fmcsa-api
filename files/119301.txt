@@ -1,0 +1,9 @@
+LegalName GENERAL ENGINEERING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 119301
+StateId 119301
+MCMXFF 
+DUNS 

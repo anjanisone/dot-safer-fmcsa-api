@@ -1,0 +1,9 @@
+LegalName F A WILHELM CONSTRUCTION CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 99079
+StateId 99079
+MCMXFF 
+DUNS 

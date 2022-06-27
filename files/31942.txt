@@ -1,0 +1,9 @@
+LegalName BRIDGESTATE FOUNDRY CORP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 31942
+StateId 31942
+MCMXFF 
+DUNS 

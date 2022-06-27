@@ -1,0 +1,9 @@
+LegalName RICHARD GUMZ FARMS LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 93394
+StateId 93394
+MCMXFF 
+DUNS 

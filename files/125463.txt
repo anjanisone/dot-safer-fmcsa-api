@@ -1,0 +1,9 @@
+LegalName FRICK SERVICES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 125463
+StateId 125463
+MCMXFF 
+DUNS 

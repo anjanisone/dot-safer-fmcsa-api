@@ -1,0 +1,9 @@
+LegalName KENDALLVILLE IRON & METAL INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 143618
+StateId 143618
+MCMXFF 
+DUNS 

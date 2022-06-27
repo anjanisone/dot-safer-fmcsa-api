@@ -1,0 +1,9 @@
+LegalName BASIN WATER CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 12231
+StateId 12231
+MCMXFF 
+DUNS 

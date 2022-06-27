@@ -1,0 +1,9 @@
+LegalName TRI CITY EQUIPMENT CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 98145
+StateId 98145
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName COLUMBIA GAS OF PENNSYLVANIA 121
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 85212
+StateId 85212
+MCMXFF 
+DUNS 

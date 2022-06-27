@@ -1,0 +1,9 @@
+LegalName HALQUIST STONE COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 26852
+StateId 26852
+MCMXFF 
+DUNS 

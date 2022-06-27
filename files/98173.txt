@@ -1,0 +1,9 @@
+LegalName VERMEER MANUFACTURING COMPANY
+DBAName VERMEER CORPORATION
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 98173
+StateId 98173
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName ARKANSAS DISTRIBUTING CO LLC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 82875
+StateId 82875
+MCMXFF 
+DUNS 

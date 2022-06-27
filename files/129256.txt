@@ -1,0 +1,9 @@
+LegalName GOOD DEAL TRANSPORTATION INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 129256
+StateId 129256
+MCMXFF 
+DUNS 

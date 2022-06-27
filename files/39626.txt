@@ -1,0 +1,9 @@
+LegalName MCKINNEY WELDING SUPPLY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 39626
+StateId 39626
+MCMXFF 
+DUNS 

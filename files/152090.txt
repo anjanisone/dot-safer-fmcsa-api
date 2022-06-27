@@ -1,0 +1,9 @@
+LegalName COMPONENT MANUFACTURING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 152090
+StateId 152090
+MCMXFF 
+DUNS 

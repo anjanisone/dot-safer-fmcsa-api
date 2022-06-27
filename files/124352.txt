@@ -1,0 +1,9 @@
+LegalName CAPITOL GROUP INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 124352
+StateId 124352
+MCMXFF 
+DUNS 

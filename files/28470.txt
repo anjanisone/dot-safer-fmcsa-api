@@ -1,0 +1,9 @@
+LegalName WOLFFS BELLEFONTAINE FARMS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 28470
+StateId 28470
+MCMXFF 
+DUNS 

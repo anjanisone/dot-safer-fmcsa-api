@@ -1,0 +1,9 @@
+LegalName ECHANIS DISTRIBUTING CO INC
+DBAName ECHANIS DISTRIBUTING
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 110187
+StateId 110187
+MCMXFF 
+DUNS 

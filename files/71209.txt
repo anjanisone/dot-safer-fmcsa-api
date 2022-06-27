@@ -1,0 +1,9 @@
+LegalName FREDMAN BROS FURNITURE CO INC
+DBAName GLIDEAWAY BED CARRIAGE MFG CO
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 71209
+StateId 71209
+MCMXFF 
+DUNS 

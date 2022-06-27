@@ -1,0 +1,9 @@
+LegalName THOMAS W SCHNECK COAL COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 45325
+StateId 45325
+MCMXFF 
+DUNS 

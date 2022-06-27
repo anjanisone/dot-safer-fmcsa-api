@@ -1,0 +1,9 @@
+LegalName CUPTANE L P GAS CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 60630
+StateId 60630
+MCMXFF 
+DUNS 

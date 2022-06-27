@@ -1,0 +1,9 @@
+LegalName AMATEX CORPORATION
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 101294
+StateId 101294
+MCMXFF 
+DUNS 

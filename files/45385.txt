@@ -1,0 +1,9 @@
+LegalName CINRAM MANUFACTURING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 45385
+StateId 45385
+MCMXFF 
+DUNS 

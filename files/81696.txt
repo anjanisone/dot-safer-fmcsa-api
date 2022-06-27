@@ -1,0 +1,9 @@
+LegalName B AND M MANUFACTURING COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 81696
+StateId 81696
+MCMXFF 
+DUNS 

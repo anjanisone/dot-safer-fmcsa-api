@@ -1,0 +1,9 @@
+LegalName COATESVILLE SCRAP IRON & METAL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 33366
+StateId 33366
+MCMXFF 
+DUNS 

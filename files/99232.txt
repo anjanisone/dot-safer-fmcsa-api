@@ -1,0 +1,9 @@
+LegalName PRODUCERS COOPERATIVE ASSOCIATION OF GIRARD
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 99232
+StateId 99232
+MCMXFF 
+DUNS 

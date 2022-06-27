@@ -1,0 +1,9 @@
+LegalName CONSOLIDATED PIPE & SUPPLY CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 100443
+StateId 100443
+MCMXFF 
+DUNS 

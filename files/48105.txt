@@ -1,0 +1,9 @@
+LegalName SOUTHERN METALS COMPANY
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 48105
+StateId 48105
+MCMXFF 
+DUNS 

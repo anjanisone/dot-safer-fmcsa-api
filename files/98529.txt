@@ -1,0 +1,9 @@
+LegalName WEBSTER MANUFACTURING
+DBAName WEBSTER INDUSTRIES INC
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 98529
+StateId 98529
+MCMXFF 
+DUNS 

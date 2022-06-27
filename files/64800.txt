@@ -1,0 +1,9 @@
+LegalName GEORGE W HALL & SON
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 64800
+StateId 64800
+MCMXFF 
+DUNS 

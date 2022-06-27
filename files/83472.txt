@@ -1,0 +1,9 @@
+LegalName GIERTZ TRANSPORTATION LLC
+DBAName BILLS DISTRIBUTING LTD
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 83472
+StateId 83472
+MCMXFF 
+DUNS 

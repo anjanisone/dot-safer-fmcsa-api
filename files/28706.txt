@@ -1,0 +1,9 @@
+LegalName GRIGG ENTERPRISES INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 28706
+StateId 28706
+MCMXFF 
+DUNS 

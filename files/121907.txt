@@ -1,0 +1,9 @@
+LegalName DUVALL FORD CO
+DBAName DUVALL AUTOMOTIVE
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 121907
+StateId 121907
+MCMXFF 
+DUNS 

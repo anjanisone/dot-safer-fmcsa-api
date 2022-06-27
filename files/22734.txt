@@ -1,0 +1,9 @@
+LegalName ARDEX ALL AMERICAN MINERAL CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 22734
+StateId 22734
+MCMXFF 
+DUNS 

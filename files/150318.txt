@@ -1,0 +1,9 @@
+LegalName MAINE DISTRIBUTORS
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 150318
+StateId 150318
+MCMXFF 
+DUNS 

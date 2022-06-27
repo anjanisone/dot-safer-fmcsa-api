@@ -1,0 +1,9 @@
+LegalName RAY TAYLOR FARMS
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 140412
+StateId 140412
+MCMXFF 
+DUNS 

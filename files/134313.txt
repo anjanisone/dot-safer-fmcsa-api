@@ -1,0 +1,9 @@
+LegalName WESTERN SMELTING & METALS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 134313
+StateId 134313
+MCMXFF 
+DUNS 

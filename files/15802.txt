@@ -1,0 +1,9 @@
+LegalName GERDAU AMERISTEEL US INC
+DBAName GERDAU
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 15802
+StateId 15802
+MCMXFF 
+DUNS 

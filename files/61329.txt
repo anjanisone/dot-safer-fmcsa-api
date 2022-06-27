@@ -1,0 +1,9 @@
+LegalName GUIDA-SEIBERT DAIRY CO
+DBAName GUIDA DAIRY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 61329
+StateId 61329
+MCMXFF 
+DUNS 

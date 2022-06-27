@@ -1,0 +1,9 @@
+LegalName ELK RAPIDS PACKING CO
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 75749
+StateId 75749
+MCMXFF 
+DUNS 

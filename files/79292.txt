@@ -1,0 +1,9 @@
+LegalName WADE INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 79292
+StateId 79292
+MCMXFF 
+DUNS 

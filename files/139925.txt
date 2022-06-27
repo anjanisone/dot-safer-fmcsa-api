@@ -1,0 +1,9 @@
+LegalName KENTUCKY OIL & REFINING CO INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 139925
+StateId 139925
+MCMXFF 
+DUNS 

@@ -1,0 +1,9 @@
+LegalName DEGELMAN INDUSTRIES LP
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 36224
+StateId 36224
+MCMXFF 
+DUNS 

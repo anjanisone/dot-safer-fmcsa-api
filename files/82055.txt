@@ -1,0 +1,9 @@
+LegalName JUSTICE FURNITURE MANUFACTURING COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 82055
+StateId 82055
+MCMXFF 
+DUNS 

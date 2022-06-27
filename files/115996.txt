@@ -1,0 +1,9 @@
+LegalName MCNEILUS TRUCK AND MANUFACTURING INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 115996
+StateId 115996
+MCMXFF 
+DUNS 

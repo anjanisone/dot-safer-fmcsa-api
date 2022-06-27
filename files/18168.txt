@@ -1,0 +1,9 @@
+LegalName PORTLAND STONE WARE COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 18168
+StateId 18168
+MCMXFF 
+DUNS 

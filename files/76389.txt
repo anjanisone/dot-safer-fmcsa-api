@@ -1,0 +1,9 @@
+LegalName GARY RAILWAY COMPANY
+DBAName GARY RAILWAY
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 76389
+StateId 76389
+MCMXFF 
+DUNS 

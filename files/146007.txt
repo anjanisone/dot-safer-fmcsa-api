@@ -1,0 +1,9 @@
+LegalName BRIM TRACTOR COMPANY INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 146007
+StateId 146007
+MCMXFF 
+DUNS 

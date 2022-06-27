@@ -1,0 +1,9 @@
+LegalName TAYLOR MACHINE WORKS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 79238
+StateId 79238
+MCMXFF 
+DUNS 

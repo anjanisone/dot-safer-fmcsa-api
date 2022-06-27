@@ -1,0 +1,9 @@
+LegalName FASTENER COATINGS INC
+DBAName 
+PhysicalAddress 
+Phone 
+MailingAddress 
+DOTNumber 145071
+StateId 145071
+MCMXFF 
+DUNS 
